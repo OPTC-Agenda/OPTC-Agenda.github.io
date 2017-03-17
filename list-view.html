@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+<html>
+    <head>
+        <title>OPTC Agenda</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <!-- Latest compiled and minified CSS -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+              integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+        <!-- Optional theme -->
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" 
+              integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+        <!-- Latest compiled and minified JavaScript -->
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+        <!-- Including bootstrap
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap-grid.css">  -->      
+            
+        <!-- Include main.css -->
+        <link rel="stylesheet" href="assets/stylesheets/list-view.css">
+        
+        <!-- Include vue.js -->
+        <script src="https://unpkg.com/vue"></script>      
+    </head>
+<body>    
+    <header>            
+        <div class="container">
+            <div class="row">
+                <h1 class="text-uppercase text-center">OPTC Agenda</h1>            
+
+            </div>
+        </div>
+    </header>
+    
+    <!-- In this nav the user can choose:  
+         - to switch between the global and the jap version
+         - to move to the next or the previous month
+         - to switch between the listed or the calendar view    
+    -->
+    <nav>
+        <div class="container-fluid">
+            <div class="row offset-lg-2">
+                <div class="col-lg-2 col-lg-offset-2">
+                    <p>Prev Week</p>
+                </div>
+                <div class="col-lg-2">
+                    <a href="index.html"><p>Calendar version</p></a>
+                </div>
+                <div class="col-lg-2">
+                    <p>Settings</p>                    
+                </div>                
+                <div class="col-lg-2">
+                    <p>Jap version</p>                    
+                </div>                
+                <div class="col-lg-2">
+                    <p>Next Week</p>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <section>
+        
+        <div class="container">
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">1</div>
+                <div class="col-lg-8">
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0575.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0929.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0262.png)" class="image-div inline"></div>
+                </div>                 
+            </div>
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">2</div>
+                <div class="col-lg-8">    
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0780.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0982.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0861.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0984.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0834.png)" class="image-div inline"></div>                       
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0929.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0262.png)" class="image-div inline"></div>                 
+                </div>                 
+            </div>
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">3</div>
+                <div class="col-lg-8">
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0780.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0982.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0861.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0984.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0834.png)" class="image-div inline"></div>                        
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0929.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0262.png)" class="image-div inline"></div>                
+                </div>                 
+            </div>
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">4</div>
+                <div class="col-lg-8">
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0978.png)" class="image-div inline"></div>    
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0929.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0262.png)" class="image-div inline"></div>                                  
+                </div>                 
+            </div>            
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">5</div>
+                <div class="col-lg-8">                    
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0929.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f0262.png)" class="image-div inline"></div>                                    
+                </div>                 
+            </div>     
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">6</div>
+                <div class="col-lg-8">                    
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0852.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0268.png)" class="image-div inline"></div>                                    
+                </div>                 
+            </div>    
+            <div class="row day-row">
+                <div class="col-lg-2 col-md-2 offset-lg-2 offset-md-2 day">7</div>
+                <div class="col-lg-8">
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0881.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f1015.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0778.png)" class="image-div inline"></div>                      
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/en/wp-content/uploads/sites/2/f1137.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0852.png)" class="image-div inline"></div>
+                    <div style="background-image: url(http://onepiece-treasurecruise.com/wp-content/uploads/f0268.png)" class="image-div inline"></div>                                    
+                </div>                 
+            </div>             
+        </div>
+    </section>
+
+    <footer class="text-center">
+        <p>Copyright 2017 Ibbus</p>
+    </footer>
+</html>

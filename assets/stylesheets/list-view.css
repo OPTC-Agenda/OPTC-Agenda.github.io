@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 17-mar-2017, 21.35.57
+    Author     : ibbus
+*/
+
+body {
+    margin: 0;
+    background-color: lightblue;
+    height: 100%;
+    width: 100%;
+}
+
+header {
+    width: 100%!important;
+    min-height: 4%!important;
+    font-size: 30px;
+    margin: 1% 0;
+}
+
+nav {
+    margin-bottom: 1%;
+    font-size: 15px;
+    min-height: 4%!important;
+}
+
+h1, p{
+    margin: 0;
+}
+
+section {
+    width: 100%!important;
+    min-height: 89%!important;
+}
+
+footer {
+    width: 100%!important;
+    min-height: 3%!important;
+    margin-top: 2%;
+}
+
+.day-row {
+    /*height: 10vh;*/
+    background-color: lightyellow;
+}
+
+.day {
+    background-color: lightcoral;
+    height: 80px;
+    width: 80px;
+    padding: 20px 30px;
+    font-size: 30px;
+}
+
+.image-div {    
+    background-repeat: no-repeat;    
+    background-size: contain;
+    /*display: block; */
+    max-width: 80px;
+    max-height: 80px;
+    width: 80px;
+    height: 80px;    
+}
+
+div.inline { 
+    float: left; 
+}

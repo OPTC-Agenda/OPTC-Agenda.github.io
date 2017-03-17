@@ -11,13 +11,21 @@ and open the template in the editor.
 body {
     margin: 0;
     background-color: lightblue;
-    height: 100vh;
-    width: 100vw;
+    height: 100%;
+    width: 100%;
 }
 
 header {
     width: 100%!important;
-    min-height: 5%!important;
+    min-height: 4%!important;
+    font-size: 30px;
+    margin: 2% 0;
+}
+
+nav {
+    margin-bottom: 1%;
+    font-size: 15px;
+    min-height: 4%!important;
 }
 
 h1, p{
@@ -26,10 +34,26 @@ h1, p{
 
 section {
     width: 100%!important;
-    min-height: 90%!important;
+    min-height: 89%!important;
 }
 
 footer {
     width: 100%!important;
-    min-height: 5%!important;
+    min-height: 3%!important;
+    margin-top: 2%;
+}
+
+.first-row div {
+    font-size: 20px;
+    background-color: red;
+    margin-right: 10px;
+    margin-top: 10px;
+    height: 80px;
+}
+
+.days-row div {
+    padding: 20px;
+    background-color: lightyellow;
+    margin-right: 10px;
+    margin-top: 10px;
 }

@@ -10,31 +10,120 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <!-- Latest compiled and minified CSS -->
-        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
+<!--        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" 
               integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-        <!-- Optional theme -->
+         Optional theme 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" 
               integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-        <!-- Latest compiled and minified JavaScript -->
+         Latest compiled and minified JavaScript 
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" 
-            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+            integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>-->
+
+        <!-- Including bootstrap -->
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.css">
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="vendor/bootstrap/css/bootstrap-grid.css">        
             
         <!-- Include main.css -->
         <link rel="stylesheet" href="assets/stylesheets/main.css">
         
+        <!-- Include vue.js -->
+        <script src="https://unpkg.com/vue"></script>      
     </head>
 <body>    
     <header>            
-        <h1 class="text-uppercase">OPTC Agenda</h1>            
+        <div class="container">
+            <div class="row">
+                <h1 class="text-uppercase text-center">OPTC Agenda</h1>            
+
+            </div>
+        </div>
     </header>
+    
+    <!-- In this nav the user can choose:  
+         - to switch between the global and the jap version
+         - to move to the next or the previous month
+         - to switch between the listed or the calendar view    
+    -->
+    <nav>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-2">
+                    <p>February</p>
+                </div>
+                <div class="col-lg-8 text-center">
+                    <p>List version</p>
+                </div>
+                <div class="col-lg-2">
+                    <p>April</p>
+                </div>
+            </div>
+        </div>
+    </nav>
 
     <section>
-        <h1>Bullshit</h1>
+        
+        <div class="container">
+            <div class="row days-row">
+                <div class="col-lg-1 offset-lg-2">SUN</div>
+                <div class="col-lg-1">MON</div>
+                <div class="col-lg-1">TUE</div>
+                <div class="col-lg-1">WEN</div>
+                <div class="col-lg-1">THU</div>
+                <div class="col-lg-1">FRI</div>
+                <div class="col-lg-1">SAT</div>                
+            </div>
+            <div class="row first-row">
+                <div class="col-lg-1 offset-lg-2">1</div>
+                <div class="col-lg-1">2</div>
+                <div class="col-lg-1">3</div>
+                <div class="col-lg-1">4</div>
+                <div class="col-lg-1">5</div>
+                <div class="col-lg-1">6</div>
+                <div class="col-lg-1">7</div>
+            </div>
+            <div class="row first-row">
+                <div class="col-lg-1 offset-lg-2">8</div>
+                <div class="col-lg-1">9</div>
+                <div class="col-lg-1">10</div>
+                <div class="col-lg-1">11</div>
+                <div class="col-lg-1">12</div>
+                <div class="col-lg-1">13</div>
+                <div class="col-lg-1">14</div>
+            </div>
+            <div class="row first-row">
+                <div class="col-lg-1 offset-lg-2">15</div>
+                <div class="col-lg-1">16</div>
+                <div class="col-lg-1">17</div>
+                <div class="col-lg-1">18</div>
+                <div class="col-lg-1">19</div>
+                <div class="col-lg-1">20</div>
+                <div class="col-lg-1">21</div>
+            </div>
+            <div class="row first-row">
+                <div class="col-lg-1 offset-lg-2">22</div>
+                <div class="col-lg-1">23</div>
+                <div class="col-lg-1">24</div>
+                <div class="col-lg-1">25</div>
+                <div class="col-lg-1">26</div>
+                <div class="col-lg-1">27</div>
+                <div class="col-lg-1">28</div>
+            </div>
+            <div class="row first-row">
+                <div class="col-lg-1 offset-lg-2">29</div>
+                <div class="col-lg-1">30</div>
+                <div class="col-lg-1">31</div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-1"></div>
+            </div>
+        </div>
     </section>
 
-    <footer>
+    <footer class="text-center">
         <p>Copyright 2017 Ibbus</p>
     </footer>
 </html>

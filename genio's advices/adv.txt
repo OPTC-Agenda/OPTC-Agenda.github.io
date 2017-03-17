@@ -1,0 +1,7 @@
+CONSIGLI DI GENIO SULLE TECNOLOGIE DA USARE
+
+1. JS
+    Se voglio scimmiarmi molto, Angular 2
+    VueJS
+    Heroku
+    JWT

@@ -3,7 +3,7 @@ To change this license header, choose License Headers in Project Properties.
 To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
-/* 
+/*
     Created on : 17-mar-2017, 21.35.57
     Author     : ibbus
 */
@@ -56,16 +56,80 @@ footer {
     font-size: 30px;
 }
 
-.image-div {    
-    background-repeat: no-repeat;    
+.image-div {
+    background-repeat: no-repeat;
     background-size: contain;
     /*display: block; */
     max-width: 80px;
     max-height: 80px;
     width: 80px;
-    height: 80px;    
+    height: 80px;
 }
 
-div.inline { 
-    float: left; 
+div.inline {
+    float: left;
+}
+
+.raid-modal .modal-content {
+    border-radius: 0;
+    background-clip: border-box;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    border: none;
+    min-height: 100%;
+    padding: 100px 0;
+    text-align: center;
+}
+.raid-modal .modal-content h2 {
+    margin: 0;
+    font-size: 3em;
+}
+.raid-modal .modal-content img {
+    margin-bottom: 30px;
+}
+.raid-modal .modal-content .item-details {
+    margin: 30px 0;
+}
+.raid-modal .close-modal {
+    position: absolute;
+    width: 75px;
+    height: 75px;
+    background-color: transparent;
+    top: 25px;
+    right: 25px;
+    cursor: pointer;
+}
+.raid-modal .close-modal:hover {
+    opacity: 0.3;
+}
+.raid-modal .close-modal .lr {
+    height: 75px;
+    width: 1px;
+    margin-left: 35px;
+    background-color: #2C3E50;
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    /* IE 9 */
+    -webkit-transform: rotate(45deg);
+    /* Safari and Chrome */
+    z-index: 1051;
+}
+.raid-modal .close-modal .lr .rl {
+    height: 75px;
+    width: 1px;
+    background-color: #2C3E50;
+    transform: rotate(90deg);
+    -ms-transform: rotate(90deg);
+    /* IE 9 */
+    -webkit-transform: rotate(90deg);
+    /* Safari and Chrome */
+    z-index: 1052;
+}
+.raid-modal .modal-backdrop {
+    opacity: 0;
+    display: none;
+}
+
+.img-centered {
+    margin: 0 auto;
 }

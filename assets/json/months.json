@@ -1,0 +1,13 @@
+{
+    "month" : "march",
+    "daystart" : "wen",
+    "days" : [
+        {"1" : ["Aokiji", "Urouge", "CP9"]},
+        {"2" : ["Aokiji", "Alvida", "CP9"]},
+        {"3" : ["Aokiji", "Vista", "CP9"]},
+        {"4" : ["Aokiji", "Urouge", "CP9"]},
+        {"5" : ["Aokiji", "Alvida", "CP9"]},
+        {"6" : ["Aokiji", "Vista", "CP9"]},
+        {"7" : ["Aokiji", "Urouge", "CP9"]}      
+    ]
+}

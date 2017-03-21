@@ -1,0 +1,42 @@
+{
+    "Urouge" : [{
+            "large": "img/assets/images/colo/big/urouge.png",
+            "tiny": "img/assets/images/colo/tiny/urouge.png",
+            "last-times": [
+                "03/01/2017 - 03/19/2017"
+            ]
+        }], 
+    "Ace" : [{
+            "large": "img/assets/images/colo/big/ace.png",
+            "tiny": "img/assets/images/colo/tiny/ace.png",
+            "last-times": []
+        }], 
+    "Alvida": [{
+            "large": "img/assets/images/colo/big/alvida.png",
+            "tiny": "img/assets/images/colo/tiny/alvida.png",
+            "last-times": [
+                "03/01/2017 - 03/19/2017"
+            ]
+        }],
+    "Vista": [{
+            "large": "img/assets/images/colo/big/vista.png",
+            "tiny": "img/assets/images/colo/tiny/vista.png",
+            "last-times": [
+                "03/01/2017 - 03/19/2017"
+            ]
+        }], 
+    "Paulie": [{
+            "large": "img/assets/images/colo/big/paulie.png",
+            "tiny": "img/assets/images/colo/tiny/paulie.png",
+            "last-times": [
+                "03/01/2017 - 03/19/2017"
+            ]
+        }], 
+    "Mr. 7": [{
+            "large": "img/assets/images/colo/big/mr_7.png",
+            "tiny": "img/assets/images/colo/tiny/mr_7.png",
+            "last-times": [
+                "03/01/2017 - 03/19/2017"
+            ]
+        }]
+}

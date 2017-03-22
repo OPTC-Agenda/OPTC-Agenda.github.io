@@ -2,12 +2,12 @@
     "month" : "march",
     "daystart" : "wen",
     "days" : [
-        {"1" : ["Aokiji", "Urouge", "CP9"]},
-        {"2" : ["Aokiji", "Alvida", "CP9"]},
-        {"3" : ["Aokiji", "Vista", "CP9"]},
-        {"4" : ["Aokiji", "Urouge", "CP9"]},
-        {"5" : ["Aokiji", "Alvida", "CP9"]},
-        {"6" : ["Aokiji", "Vista", "CP9"]},
-        {"7" : ["Aokiji", "Urouge", "CP9"]}      
+        ["Aokiji1", "Urouge", "CP9"],
+        ["Aokiji2", "Alvida", "CP9"],
+        ["Aokiji3", "Vista", "CP9"],
+        ["Aokiji4", "Urouge", "CP9"],
+        ["Aokiji5", "Alvida", "CP9"],
+        ["Aokiji6", "Vista", "CP9"],
+        ["Aokiji7", "Urouge", "CP9"]      
     ]
 }

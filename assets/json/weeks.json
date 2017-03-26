@@ -2,6 +2,7 @@
     "weeks" : [
         {
             "starting": 26,
+            "month" : "march",
             "program" : [
                 ["Doflamingo", "Urouge", "CP9"],
                 ["Doflamingo", "Alvida", "CP9"],
@@ -13,6 +14,7 @@
             ]
         },{
             "starting": 2,
+            "month" : "april",
             "program": [
                 ["Aokiji12", "Urouge", "CP9"],
                 ["Aokiji22", "Alvida", "CP9"],

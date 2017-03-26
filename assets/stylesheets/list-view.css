@@ -11,21 +11,28 @@ and open the template in the editor.
 body {
     margin: 0;
     background-color: lightblue;
-    height: 100%;
+    height: 80vh;
     width: 100%;
 }
 
 header {
     width: 100%!important;
-    min-height: 4%!important;
-    font-size: 30px;
-    margin: 1% 0;
+    min-height: 11%!important;   
+    padding: 1% 0;
+    font-family: headerFont;
+    background-color: lightgoldenrodyellow;
 }
 
-nav {
-    margin-bottom: 1%;
+header h1 {
+    font-size: 50px;
+    color: #08b4c3;
+    font-weight: 600;
+    font-style: italic;    
+}
+
+nav {    
     font-size: 15px;
-    min-height: 4%!important;
+    min-height: 7%!important;
 }
 
 h1, p{
@@ -39,13 +46,12 @@ section {
 
 footer {
     width: 100%!important;
-    min-height: 3%!important;
-    margin-top: 2%;
+    min-height: 3%!important;    
 }
 
 .day-row {
     /*height: 10vh;*/
-    background-color: lightyellow;
+    background-color: lightgoldenrodyellow;
 }
 
 .day {
@@ -54,6 +60,10 @@ footer {
     width: 80px;*/
     padding: 20px 22px;
     font-size: 30px;
+}
+
+.img-list {
+    padding-top: 5px;
 }
 
 .image-div {
@@ -132,4 +142,30 @@ div.inline {
 
 .img-centered {
     margin: 0 auto;
+}
+
+.navbar-div {
+
+}
+
+.section-div {
+    padding: 4%;
+}
+
+@font-face {
+    font-family: headerFont;
+    src: url(assets/fonts/Sansus-Webissimo-Regular);
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    color: #555;
+    background-color: #e7e7e7;
+}
+
+@media (min-width: 768px) {
+  .navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+  }
 }

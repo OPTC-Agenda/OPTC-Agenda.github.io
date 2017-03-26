@@ -1,0 +1,40 @@
+{
+    "Doflamingo" : [{
+            "large": "img/assets/images/raid/big/doflamingo.png",
+            "tiny": "img/assets/images/raid/tiny/doflamingo.png",
+            "lastTimes": [
+                "03/27/2017"
+            ],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/417"
+        }], 
+    "Mihawk" : [{
+            "large": "img/assets/images/raid/big/mihawk.png",
+            "tiny": "img/assets/images/raid/tiny/mihawk.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/226"
+        }], 
+    "Ivankov": [{
+            "large": "img/assets/images/raid/big/ivankov.png",
+            "tiny": "img/assets/images/raid/tiny/ivankov.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/389"
+        }],
+    "Boa": [{
+            "large": "img/assets/images/raid/big/boa.png",
+            "tiny": "img/assets/images/raid/tiny/boa.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/864"
+        }], 
+    "Usopp": [{
+            "large": "img/assets/images/raid/big/usopp.png",
+            "tiny": "img/assets/images/raid/tiny/usopp.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/517"
+        }], 
+    "Chopper": [{
+            "large": "img/assets/images/raid/big/chopper.png",
+            "tiny": "img/assets/images/raid/tiny/chopper.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/248"
+        }]
+}

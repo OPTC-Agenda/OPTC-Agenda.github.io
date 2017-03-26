@@ -1,11 +1,93 @@
 {
-    "name" : "CP9",
-    "large-img": "img/assets/images/raid/big/aokiji.png",
-    "tiny-img": "img/assets/images/raid/tiny/aokiji.png",
-    "last-times": [
-        "03/14/2017 - 03/28/2017"
-    ],
-    "books-avaibles": [
-        
-    ]
+    "CP9" : [{
+            "title" : "Spy Assassins CP9",
+            "large": "img/assets/images/fn/big/cp9.png",
+            "tiny": "img/assets/images/fn/tiny/cp9.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Wapol" : [{
+            "title" : "Wapol's Revenge!",
+            "large": "img/assets/images/fn/big/wapol.png",
+            "tiny": "img/assets/images/fn/tiny/wapol.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Smoker": [{
+            "title" : "Smoker's Great Pursuit",
+            "large": "img/assets/images/fn/big/smoker.png",
+            "tiny": "img/assets/images/fn/tiny/smoker.png",
+            "lastTimes": [],
+            "books" : []
+        }],
+    "Rumbar" : [{
+            "title" : "Rumbar Pirates!",
+            "large": "img/assets/images/fn/big/rumbar.png",
+            "tiny": "img/assets/images/fn/tiny/rumbar.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "TBone" : [{
+            "title" : "T-Bone's Absolute Justice",
+            "large": "img/assets/images/fn/big/tbone.png",
+            "tiny": "img/assets/images/fn/tiny/tbone.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Tsuru": [{
+            "title" : "Tsuru's Morning Stroll",
+            "large": "img/assets/images/fn/big/tsuru.png",
+            "tiny": "img/assets/images/fn/tiny/tsuru.png",
+            "lastTimes": [],
+            "books" : []
+        }],
+    "ShanksBuggy" : [{
+            "title" : "Apprentices! Shanks and Buggy!",
+            "large": "img/assets/images/fn/big/shanksbuggy.png",
+            "tiny": "img/assets/images/fn/tiny/shanksbuggy.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Breed" : [{
+            "title" : "Breed's Sea Animal Circus!",
+            "large": "img/assets/images/fn/big/breed.png",
+            "tiny": "img/assets/images/fn/tiny/breed.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Kraken": [{
+            "title" : "Face the Deep-Sea Kraken!",
+            "large": "img/assets/images/fn/big/kraken.png",
+            "tiny": "img/assets/images/fn/tiny/kraken.png",
+            "lastTimes": [],
+            "books" : []
+        }],    
+    "Domino" : [{
+            "title" : "Domino's Maximum Security",
+            "large": "img/assets/images/fn/big/domino.png",
+            "tiny": "img/assets/images/fn/tiny/domino.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Okama" : [{
+            "title" : "Candy the Maiden-Hearted!",
+            "large": "img/assets/images/fn/big/okama.png",
+            "tiny": "img/assets/images/fn/tiny/okama.png",
+            "lastTimes": [],
+            "books" : []
+        }], 
+    "Kalifa": [{
+            "title" : "Kalifa's Secret Assignment",
+            "large": "img/assets/images/fn/big/kalifa.png",
+            "tiny": "img/assets/images/fn/tiny/kalifa.png",
+            "lastTimes": [],
+            "books" : []
+        }],    
+    "Duck": [{
+            "title" : "Supersonic Duck Squadron!",
+            "large": "img/assets/images/fn/big/duck.png",
+            "tiny": "img/assets/images/fn/tiny/duck.png",
+            "lastTimes": [],
+            "books" : []
+        }]        
 }

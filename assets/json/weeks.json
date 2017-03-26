@@ -1,28 +1,40 @@
 {
     "weeks" : [
         {
-            "starting": 26,
-            "month" : "march",
-            "program" : [
-                ["Doflamingo", "Urouge", "CP9"],
-                ["Doflamingo", "Alvida", "CP9"],
-                ["Aokiji3", "Vista", "CP9"],
-                ["Aokiji4", "Urouge", "CP9"],
-                ["Aokiji5", "Alvida", "CP9"],
-                ["Mihawk", "Vista", "CP9"],
-                ["Aokiji7", "Urouge", "CP9"]      
+            "starting": 27,
+            "month" : "March",
+            "program" : [                
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]}
             ]
         },{
-            "starting": 2,
-            "month" : "april",
-            "program": [
-                ["Aokiji12", "Urouge", "CP9"],
-                ["Aokiji22", "Alvida", "CP9"],
-                ["Aokiji32", "Vista", "CP9"],
-                ["Aokiji42", "Urouge", "CP9"],
-                ["Aokiji52", "Alvida", "CP9"],
-                ["Aokiji62", "Vista", "CP9"],
-                ["Aokiji72", "Urouge", "CP9"]      
+            "starting": 3,
+            "month" : "April",
+            "program": [                
+                {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["Boa"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]}
+            ]     
+        },{
+            "starting": 10,
+            "month" : "April",
+            "program": [                
+                {"raid": ["Usopp"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["Chopper"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]}
             ]     
         }
     ]

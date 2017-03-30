@@ -19,7 +19,7 @@ header {
     width: 100%!important;
     min-height: 11%!important;   
     padding: 1% 0;
-    font-family: headerFont;
+    font-family: Times New Roman, Verdana;
     background-color: rgb(24, 109, 173);
 }
 
@@ -152,11 +152,6 @@ div.inline {
 
 .section-div {
     padding: 2%;
-}
-
-@font-face {
-    font-family: headerFont;
-    src: url(assets/fonts/Sansus-Webissimo-Regular);
 }
 
 .navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {

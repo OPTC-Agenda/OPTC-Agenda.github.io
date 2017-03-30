@@ -47,7 +47,9 @@ $(document).ready(function() {
     $.getJSON("assets/json/weeks.json", function(json) {
         var start = json.weeks[0].starting;
         var month = json.weeks[0].month;
-        var prev;
+        var prev = start;
+        
+        $("#month").append(month);
                
         $("#day1").append(json.weeks[0].starting);
         
@@ -73,31 +75,104 @@ $(document).ready(function() {
                     
                     $("#list" + (i+1)).append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
                 }
-            }  
-            
-            
+            }                          
             
             if(fn[0] != "none"){
-                console.log("fn[0][" + i + "]: " + fn[0]);
                 for(j=0;j<fn.length;j++){
                     var character = fn[j];
                     var tiny = fnList[character].tiny;
-                    
-                    console.log(tiny);
-                    console.log("#list" + (i+1));
                     $("#list" + (i+1)).append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
                 }
             }             
             
             // Gestione giorni
             if(i!=0){
-                
+                prev = monthDays(month, prev);
+                $("#day" + (i+1)).append(prev);                
             }
             
         }
-        
-        
-         
-         
+                                  
     });
 });
+
+function monthDays(month, day){
+    var newDay;
+    
+    switch (month){
+        case 'January':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }
+        case 'February':
+            if(day+1 > 28){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'March':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }
+        case 'April':
+            if(day+1 > 30){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'May':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'June':
+            if(day+1 > 30){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'July':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'August':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'September':
+            if(day+1 > 30){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'October':
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'November':
+            if(day+1 > 30){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+        case 'December': 
+            if(day+1 > 31){
+                newDay = 1;
+            }else {
+                newDay = day+1;
+            }        
+    }
+    
+    return newDay;
+}

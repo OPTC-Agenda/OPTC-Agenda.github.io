@@ -10,7 +10,7 @@ and open the template in the editor.
 
 body {
     margin: 0;
-    background-color: lightblue;
+    background-color: rgb(224, 235, 249);
     height: 80vh;
     width: 100%;
 }
@@ -20,14 +20,15 @@ header {
     min-height: 11%!important;   
     padding: 1% 0;
     font-family: headerFont;
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(24, 109, 173);
 }
 
 header h1 {
     font-size: 50px;
-    color: #08b4c3;
+    color: white;
     font-weight: 600;
-    font-style: italic;    
+    font-style: italic;
+    
 }
 
 nav {    
@@ -51,14 +52,14 @@ footer {
 
 .day-row {
     /*height: 10vh;*/
-    background-color: lightgoldenrodyellow;
+    background-color: rgb(183, 218, 245);
 }
 
 .day {
-    background-color: lightcoral;
+    background-color: rgb(27, 128, 205);
     /*height: 80px;
     width: 80px;*/
-    padding: 20px 22px;
+    padding: 17px 0;
     font-size: 30px;
     color: white;
 }
@@ -71,7 +72,7 @@ footer {
     background-repeat: no-repeat;
     background-size: contain;
     display: block; 
-    max-width: 66px;
+    max-width: 65px;
     max-height: 70px;
     width: 80px;
     height: 80px;
@@ -163,10 +164,21 @@ div.inline {
     background-color: #e7e7e7;
 }
 
-@media (min-width: 768px) {
-  .navbar-nav.navbar-center {
+@media (min-width: 1110px) {
+  .navbar-nav.navbar-left {
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
   }
+}
+@media (min-width: 200px) {
+  .navbar-nav.navbar-center {
+    position: absolute;    
+  }   
+}
+
+@media (max-width: 767px){
+    .day-row {
+        margin: 0 10%;
+    }
 }

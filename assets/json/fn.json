@@ -1,93 +1,93 @@
 {
-    "CP9" : [{
+    "CP9" : {
             "title" : "Spy Assassins CP9",
-            "large": "img/assets/images/fn/big/cp9.png",
-            "tiny": "img/assets/images/fn/tiny/cp9.png",
+            "large": "assets/images/fn/big/cp9.png",
+            "tiny": "assets/images/fn/tiny/cp9.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Wapol" : [{
+        }, 
+    "Wapol" : {
             "title" : "Wapol's Revenge!",
-            "large": "img/assets/images/fn/big/wapol.png",
-            "tiny": "img/assets/images/fn/tiny/wapol.png",
+            "large": "assets/images/fn/big/wapol.png",
+            "tiny": "assets/images/fn/tiny/wapol.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Smoker": [{
+        }, 
+    "Smoker": {
             "title" : "Smoker's Great Pursuit",
-            "large": "img/assets/images/fn/big/smoker.png",
-            "tiny": "img/assets/images/fn/tiny/smoker.png",
+            "large": "assets/images/fn/big/smoker.png",
+            "tiny": "assets/images/fn/tiny/smoker.png",
             "lastTimes": [],
             "books" : []
-        }],
-    "Rumbar" : [{
+        },
+    "Rumbar" : {
             "title" : "Rumbar Pirates!",
-            "large": "img/assets/images/fn/big/rumbar.png",
-            "tiny": "img/assets/images/fn/tiny/rumbar.png",
+            "large": "assets/images/fn/big/rumbar.png",
+            "tiny": "assets/images/fn/tiny/rumbar.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "TBone" : [{
+        }, 
+    "TBone" : {
             "title" : "T-Bone's Absolute Justice",
-            "large": "img/assets/images/fn/big/tbone.png",
-            "tiny": "img/assets/images/fn/tiny/tbone.png",
+            "large": "assets/images/fn/big/tbone.png",
+            "tiny": "assets/images/fn/tiny/tbone.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Tsuru": [{
+        }, 
+    "Tsuru": {
             "title" : "Tsuru's Morning Stroll",
-            "large": "img/assets/images/fn/big/tsuru.png",
-            "tiny": "img/assets/images/fn/tiny/tsuru.png",
+            "large": "assets/images/fn/big/tsuru.png",
+            "tiny": "assets/images/fn/tiny/tsuru.png",
             "lastTimes": [],
             "books" : []
-        }],
-    "ShanksBuggy" : [{
+        },
+    "ShanksBuggy" : {
             "title" : "Apprentices! Shanks and Buggy!",
-            "large": "img/assets/images/fn/big/shanksbuggy.png",
-            "tiny": "img/assets/images/fn/tiny/shanksbuggy.png",
+            "large": "assets/images/fn/big/shanksbuggy.png",
+            "tiny": "assets/images/fn/tiny/shanksbuggy.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Breed" : [{
+        }, 
+    "Breed" : {
             "title" : "Breed's Sea Animal Circus!",
-            "large": "img/assets/images/fn/big/breed.png",
-            "tiny": "img/assets/images/fn/tiny/breed.png",
+            "large": "assets/images/fn/big/breed.png",
+            "tiny": "assets/images/fn/tiny/breed.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Kraken": [{
+        }, 
+    "Kraken": {
             "title" : "Face the Deep-Sea Kraken!",
-            "large": "img/assets/images/fn/big/kraken.png",
-            "tiny": "img/assets/images/fn/tiny/kraken.png",
+            "large": "assets/images/fn/big/kraken.png",
+            "tiny": "assets/images/fn/tiny/kraken.png",
             "lastTimes": [],
             "books" : []
-        }],    
-    "Domino" : [{
+        },    
+    "Domino" : {
             "title" : "Domino's Maximum Security",
-            "large": "img/assets/images/fn/big/domino.png",
-            "tiny": "img/assets/images/fn/tiny/domino.png",
+            "large": "assets/images/fn/big/domino.png",
+            "tiny": "assets/images/fn/tiny/domino.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Okama" : [{
+        }, 
+    "Okama" : {
             "title" : "Candy the Maiden-Hearted!",
-            "large": "img/assets/images/fn/big/okama.png",
-            "tiny": "img/assets/images/fn/tiny/okama.png",
+            "large": "assets/images/fn/big/okama.png",
+            "tiny": "assets/images/fn/tiny/okama.png",
             "lastTimes": [],
             "books" : []
-        }], 
-    "Kalifa": [{
+        }, 
+    "Kalifa": {
             "title" : "Kalifa's Secret Assignment",
-            "large": "img/assets/images/fn/big/kalifa.png",
-            "tiny": "img/assets/images/fn/tiny/kalifa.png",
+            "large": "assets/images/fn/big/kalifa.png",
+            "tiny": "assets/images/fn/tiny/kalifa.png",
             "lastTimes": [],
             "books" : []
-        }],    
-    "Duck": [{
+        },    
+    "Duck": {
             "title" : "Supersonic Duck Squadron!",
-            "large": "img/assets/images/fn/big/duck.png",
-            "tiny": "img/assets/images/fn/tiny/duck.png",
+            "large": "assets/images/fn/big/duck.png",
+            "tiny": "assets/images/fn/tiny/duck.png",
             "lastTimes": [],
             "books" : []
-        }]        
+        }        
 }

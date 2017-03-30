@@ -7,10 +7,10 @@
                 {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "TBone", "Tsuru"]}
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"]}
             ]
         },{
             "starting": 3,
@@ -19,10 +19,10 @@
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
                 {"raid": ["Boa"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]}
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]}
             ]     
         },{
             "starting": 10,
@@ -31,10 +31,10 @@
                 {"raid": ["Usopp"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
                 {"raid": ["Chopper"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca", "Lulu"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]}
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]}
             ]     
         }
     ]

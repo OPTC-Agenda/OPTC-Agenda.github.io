@@ -4,90 +4,103 @@
             "large": "assets/images/fn/big/cp9.png",
             "tiny": "assets/images/fn/tiny/cp9.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
         }, 
     "Wapol" : {
             "title" : "Wapol's Revenge!",
             "large": "assets/images/fn/big/wapol.png",
             "tiny": "assets/images/fn/tiny/wapol.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Smoker": {
             "title" : "Smoker's Great Pursuit",
             "large": "assets/images/fn/big/smoker.png",
             "tiny": "assets/images/fn/tiny/smoker.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         },
     "Rumbar" : {
             "title" : "Rumbar Pirates!",
             "large": "assets/images/fn/big/rumbar.png",
             "tiny": "assets/images/fn/tiny/rumbar.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "TBone" : {
             "title" : "T-Bone's Absolute Justice",
             "large": "assets/images/fn/big/tbone.png",
             "tiny": "assets/images/fn/tiny/tbone.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Tsuru": {
             "title" : "Tsuru's Morning Stroll",
             "large": "assets/images/fn/big/tsuru.png",
             "tiny": "assets/images/fn/tiny/tsuru.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         },
     "ShanksBuggy" : {
             "title" : "Apprentices! Shanks and Buggy!",
             "large": "assets/images/fn/big/shanksbuggy.png",
             "tiny": "assets/images/fn/tiny/shanksbuggy.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Breed" : {
             "title" : "Breed's Sea Animal Circus!",
             "large": "assets/images/fn/big/breed.png",
             "tiny": "assets/images/fn/tiny/breed.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Kraken": {
             "title" : "Face the Deep-Sea Kraken!",
             "large": "assets/images/fn/big/kraken.png",
             "tiny": "assets/images/fn/tiny/kraken.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         },    
     "Domino" : {
             "title" : "Domino's Maximum Security",
             "large": "assets/images/fn/big/domino.png",
             "tiny": "assets/images/fn/tiny/domino.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Okama" : {
             "title" : "Candy the Maiden-Hearted!",
             "large": "assets/images/fn/big/okama.png",
             "tiny": "assets/images/fn/tiny/okama.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }, 
     "Kalifa": {
             "title" : "Kalifa's Secret Assignment",
             "large": "assets/images/fn/big/kalifa.png",
             "tiny": "assets/images/fn/tiny/kalifa.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         },    
     "Duck": {
             "title" : "Supersonic Duck Squadron!",
             "large": "assets/images/fn/big/duck.png",
             "tiny": "assets/images/fn/tiny/duck.png",
             "lastTimes": [],
-            "books" : []
+            "books" : [],
+            "drops" : []
         }        
 }

@@ -10,7 +10,9 @@
     "Mihawk" : {
             "large": "assets/images/raid/big/mihawk.png",
             "tiny": "assets/images/raid/tiny/mihawk.png",
-            "lastTimes": [],
+            "lastTimes": [
+                "03/31/2017"
+            ],
             "linkDB" : "http://optc-db.github.io/characters/#/view/226"
         }, 
     "Ivankov": {

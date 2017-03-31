@@ -24,7 +24,6 @@ and open the template in the editor.
         <div class="container">
             <div class="row">
                 <h1 class="text-uppercase text-center">OPTC Agenda</h1>            
-
             </div>
         </div>
     </header>
@@ -34,32 +33,6 @@ and open the template in the editor.
          - to move to the next or the previous month
          - to switch between the listed or the calendar view    
     -->
-<!--    <nav>
-        <div class="container-fluid text-center text-uppercase">
-            <div class="row"> 
-                <div class="col-lg-2 col-lg-offset-1">
-                    <p>Prev Week</p>
-                </div>
-                
-                <div class="col-lg-2">
-                    <a href="index.html"><p>Calendar version</p></a>
-                </div>
-                
-                <div class="col-lg-2">
-                    <p>Settings</p>                    
-                </div>                
-                
-                <div class="col-lg-2">
-                    <p>Jap version</p>                    
-                </div>       
-                
-                <div class="col-lg-2">
-                    <p>Next Week</p>
-                </div>
-            </div>
-        </div>
-    </nav>-->
-
     <nav class="navbar navbar-default">
         <div class="container-fluid text-center">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -82,10 +55,6 @@ and open the template in the editor.
                             <li><a href="http://optc-db.github.io" target="_blank">OPTC-DB</a></li>
                             <li><a href="https://www.reddit.com/r/OnePieceTC/" target="_blank">Reddit OPTC</a></li>
                             <li><a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC IT Forum</a></li>
-<!--                            <li role="separator" class="divider"></li>
-                            <li><a href="#">Separated link</a></li>
-                            <li role="separator" class="divider"></li>
-                            <li><a href="#">One more separated link</a></li>-->
                         </ul>
                     </li>
                     <li class="dropdown">
@@ -160,11 +129,19 @@ and open the template in the editor.
     </section>
 
     <footer class="text-center">
+        <form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+                   ">
+            <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
+            <img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+        </form>
+        
         <p>Made by Ibbus © 2017 - <a href="mailto:ibbus93@gmail.com">Contact the webmaster</a></p>
         <p>A special thanks to <a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC Italia</a> to provide the images to the website</p>
     </footer>
     
-<div class="raid-modal modal fade" id="viewModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="raid-modal modal fade" id="viewRaidModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -175,13 +152,12 @@ and open the template in the editor.
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Aokiji</h2>
+                        <div class="modal-body" id="raidBody">
+                            <h2></h2>
                             <hr>
-                            <a href="http://optc-db.github.io/characters/#/view/574" target="_blank"><img src="assets/images/raid/big/aokiji.png" class="img-responsive img-centered" alt=""></a>
-                            <p>Levels avaible: Master, Ultimate</p>                        
-                            <p>Past events:</p>
-                            <ul class="list-inline">
+                            <div id="raidImage"></div>                            
+                            <h3>Past events:</h3>
+                            <ul id="raidLast" class="list-inline">
                                 <li>01/02/2017</li>
                                 <li>17/03/2017</li>
                             </ul>
@@ -192,8 +168,8 @@ and open the template in the editor.
             </div>
         </div>
     </div>  
-
-<div class="raid-modal modal fade" id="viewModal2" tabindex="-1" role="dialog" aria-hidden="true">
+    
+    <div class="raid-modal modal fade" id="viewColoModal" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -204,13 +180,12 @@ and open the template in the editor.
             <div class="container">
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
-                        <div class="modal-body">
-                            <h2>Spy Assassin's CP9</h2>
+                        <div class="modal-body" id="coloBody">
+                            <h2></h2>
                             <hr>
-                            <a href="http://optc-db.github.io/characters/#/view/574" target="_blank"><img src="assets/images/fn/big/cp9.png" class="img-responsive img-centered" alt=""></a>
-                            <p>Books avaible:</p>                        
-                            <p>Past events:</p>
-                            <ul class="list-inline">
+                            <div id="coloImage"></div>                                                                               
+                            <h3>Past events:</h3>
+                            <ul id="coloLast" class="list-inline">
                                 <li>01/02/2017</li>
                                 <li>17/03/2017</li>
                             </ul>
@@ -221,6 +196,44 @@ and open the template in the editor.
             </div>
         </div>
     </div>      
+
+    <div class="raid-modal modal fade" id="viewFnModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="fnBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="fnImage"></div>
+                            
+                            <div class="container-fluid">
+<!--                                <div class="row text-center">
+-->                                 <h3>Drops avaible:</h3>
+                                    <div id="fnDrops"></div><!--
+                                </div>-->
+                            </div>
+                            <h3>Books avaible:</h3> 
+                            <div id="fnBooks"></div>
+                            
+                            <h3>Past events:</h3>
+                            <ul id="fnLast" class="list-inline">
+                                <li>01/02/2017</li>
+                                <li>17/03/2017</li>
+                            </ul>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>                 
     
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>

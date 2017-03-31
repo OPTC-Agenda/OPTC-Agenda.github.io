@@ -42,7 +42,7 @@ h1, p{
 
 section {
     width: 100%!important;
-    min-height: 89%!important;
+    min-height: 85%!important;
 }
 
 footer {
@@ -176,4 +176,13 @@ div.inline {
     .day-row {
         margin: 0 10%;
     }
+}
+
+#coloImage img {
+    max-height: 450px;
+    max-width: 450px;
+}
+
+#fnDrops {
+    margin-left: 30%;
 }

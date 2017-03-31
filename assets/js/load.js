@@ -63,8 +63,9 @@ $(document).ready(function() {
                 for(j=0;j<raid.length;j++){
                     var character = raid[j];
                     var tiny = raidList[character].tiny;
+                    var foo = 'raidModal(\'' + character + '\')';
  
-                    $("#list" + (i+1)).append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
+                    $("#list" + (i+1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
                 }
             }
             
@@ -72,8 +73,9 @@ $(document).ready(function() {
                 for(j=0;j<colo.length;j++){
                     var character = colo[j];
                     var tiny = coloList[character].tiny;
+                    var foo = 'coloModal(\'' + character + '\')';
                     
-                    $("#list" + (i+1)).append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
+                    $("#list" + (i+1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
                 }
             }                          
             
@@ -81,7 +83,10 @@ $(document).ready(function() {
                 for(j=0;j<fn.length;j++){
                     var character = fn[j];
                     var tiny = fnList[character].tiny;
-                    $("#list" + (i+1)).append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
+                    var foo = 'fnModal(\'' + character + '\')';
+                    
+                    $("#list" + (i+1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                    
                 }
             }             
             
@@ -98,81 +103,147 @@ $(document).ready(function() {
 
 function monthDays(month, day){
     var newDay;
+    var max;
     
     switch (month){
         case 'January':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }
+            max = 31;
         case 'February':
-            if(day+1 > 28){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 28;        
         case 'March':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }
+            max = 31;
         case 'April':
-            if(day+1 > 30){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 30;      
         case 'May':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 31;   
         case 'June':
-            if(day+1 > 30){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 30;        
         case 'July':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 31;      
         case 'August':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 31;       
         case 'September':
-            if(day+1 > 30){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 30;       
         case 'October':
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 31;    
         case 'November':
-            if(day+1 > 30){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
-        case 'December': 
-            if(day+1 > 31){
-                newDay = 1;
-            }else {
-                newDay = day+1;
-            }        
+            max = 30;
+        case 'December':
+            max = 31; 
+    }
+    
+    if (day + 1 > max) {
+        newDay = 1;
+    } else {
+        newDay = day + 1;
     }
     
     return newDay;
+}
+
+function raidModal(character){
+    
+    var raidList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/raid.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var charJs = raidList[character];
+    var large = "<a href='" + charJs.linkDB + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>"
+    var last = raidList[character].lastTimes;
+        
+    $("#raidBody h2").empty().append(character);
+    $("#raidImage").empty().append(large);
+    $("#raidLast").empty();
+    
+    for(i=0;i<last.length;i++){
+        $("#raidLast").append("<li>" + last[i] + "</li>");
+    }    
+}
+
+function coloModal(character){
+    
+    var coloList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/colo.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var charJs = coloList[character];
+    var large = "<a href='" + charJs.linkDB + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>"
+    var last = coloList[character].lastTimes;
+        
+    $("#coloBody h2").empty().append(character);
+    $("#coloImage").empty().append(large);
+    $("#coloLast").empty();
+    
+    for(i=0;i<last.length;i++){
+        $("#coloLast").append("<li>" + last[i] + "</li>");
+    }    
+}
+
+function fnModal(character){
+    
+    var fnList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/fn.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var dropList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/drops.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var charJs = fnList[character];
+    var large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>"
+    var last = fnList[character].lastTimes;
+    var drops = fnList[character].drops;
+        
+    $("#fnBody h2").empty().append(character);
+    $("#fnImage").empty().append(large);
+    $("#fnLast").empty();
+    $("#fnDrops").empty();
+    
+    for(i=0;i<last.length;i++){
+        $("#raidLast").append("<li>" + last[i] + "</li>");
+    }
+    
+    for(i=0;i<drops.length;i++){
+        var tiny = dropList[drops[i]].image;
+        var url = dropList[drops[i]].url;
+        $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+    }    
+    
+    
 }

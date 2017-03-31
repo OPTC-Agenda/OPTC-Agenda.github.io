@@ -179,8 +179,8 @@ div.inline {
 }
 
 #coloImage img {
-    max-height: 450px;
-    max-width: 450px;
+    max-height: 50%;
+    max-width: 50%;
 }
 
 #fnDrops {

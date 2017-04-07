@@ -1,18 +1,134 @@
 {
     "FukuroSecret": {
-        "image" : "http://onepiece-treasurecruise.com/wp-content/uploads/f1136.png", 
-        "url" : "http://optc-db.github.io/characters/#/view/1136"
+        "image" : "f1136.png", 
+        "url" : "1136"
     },
     "JabraSecret": {
-        "image" : "http://onepiece-treasurecruise.com/wp-content/uploads/f1137.png", 
-        "url" : "http://optc-db.github.io/characters/#/view/1137"
+        "image" : "f1137.png", 
+        "url" : "1137"
     },
     "BluenoSecret": {
-        "image" : "http://onepiece-treasurecruise.com/wp-content/uploads/f1138.png", 
-        "url" : "http://optc-db.github.io/characters/#/view/1138"
+        "image" : "f1138.png", 
+        "url" : "1138"
     },    
     "KumadoriSecret": {
-        "image" : "http://onepiece-treasurecruise.com/wp-content/uploads/f1139.png", 
-        "url" : "http://optc-db.github.io/characters/#/view/1139"
-    }
+        "image" : "f1139.png", 
+        "url" : "1139"
+    }, 
+    "WapolFN" : {
+        "image" : "f0851.png", 
+        "url" : "851"        
+    }, 
+    "Robson" : {
+        "image" : "f0853.png", 
+        "url" : "853"                
+    }, 
+    "SnowChopper" : {
+        "image" : "f0854.png", 
+        "url" : "854"                
+    }, 
+    "Kureha" : {
+        "image" : "f0333.png", 
+        "url" : "333"                
+    }, 
+    "Dalton" : {
+        "image" : "f0328.png", 
+        "url" : "328"                
+    }, 
+    "Chess" : {
+        "image" : "f0330.png", 
+        "url" : "330"                
+    }, 
+    "Kuromarimo":{
+        "image" : "f0331.png", 
+        "url" : "331"                
+    },
+    "Tashigi":{
+        "image" : "f0067.png", 
+        "url" : "67"  
+    },
+    "SmokerFN":{
+        "image" : "f0069.png", 
+        "url" : "69"  
+    },
+    "Yorki":{
+        "image" : "f1202.png", 
+        "url" : "1202"  
+    },
+    "RumbarBrook":{
+        "image" : "f1205.png", 
+        "url" : "1205"  
+    },
+    "RumbarLaboon":{
+        "image" : "f1206.png", 
+        "url" : "1206"  
+    },
+    "Jerry":{
+        "image" : "f0721.png", 
+        "url" : "721"  
+    },
+    "TBone":{
+        "image" : "f0723.png", 
+        "url" : "723"  
+    },
+    "Tsuru":{
+        "image" : "f0296.png", 
+        "url" : "296"  
+    },
+    "MomongaFN":{
+        "image" : "f0298.png", 
+        "url" : "298"  
+    },
+    "Onigumo":{
+        "image" : "f0299.png", 
+        "url" : "299"  
+    },
+    "BuggyApprentice" : {
+        "image" : "f0598.png",
+        "url" : "598"
+    },
+    "ShanksApprentice" : {
+        "image" : "f0600.png",
+        "url" : "600"
+    },
+    "Breed" : {
+        "image" : "f0796.png",
+        "url" : "796"
+    }, 
+    "KungFuDugong" : {
+        "image" : "f0798.png",
+        "url" : "798"
+    }, 
+    "SeaLapahn" : {
+        "image" : "f0799.png",
+        "url" : "799"
+    }, 
+    "OctopusBoxer"  : {
+        "image" : "f0800.png",
+        "url" : "800"
+    },
+    "MasterSea" : {
+        "image" : "f0028.png",
+        "url" : "28"
+    },
+    "Gaimon" : {
+        "image" : "f0040.png",
+        "url" : "40"
+    },
+    "Momoo" : {
+        "image" : "f0060.png",
+        "url" : "60"
+    }, 
+    "Laboon" : {
+        "image" : "f0213.png",
+        "url" : "213"
+    }, 
+    "NeptunianSquid" : {
+        "image" : "f0215.png",
+        "url" : "215"
+    }, 
+    "Kraken"  : {
+        "image" : "f0340.png",
+        "url" : "340"
+    }    
 }

@@ -18,7 +18,9 @@
     "Ivankov": {
             "large": "assets/images/raid/big/ivankov.png",
             "tiny": "assets/images/raid/tiny/ivankov.png",
-            "lastTimes": [],
+            "lastTimes": [
+                "04/03/2017"
+            ],
             "linkDB" : "http://optc-db.github.io/characters/#/view/389"
         },
     "Boa": {

@@ -3,8 +3,8 @@
             "title" : "Spy Assassins CP9",
             "large": "assets/images/fn/big/cp9.png",
             "tiny": "assets/images/fn/tiny/cp9.png",
-            "lastTimes": [],
-            "books" : [],
+            "lastTimes": ["03/15/2017 - 03/28/2017"],
+            "books" : ["Jinbe6", "Franky3D2Y", "Violet", "MoriaShadow", "Squard", "Hack", "DemolisherAxeman", "Baskerville", "RighteousJuror"],
             "drops" : ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
         }, 
     "Wapol" : {
@@ -12,64 +12,64 @@
             "large": "assets/images/fn/big/wapol.png",
             "tiny": "assets/images/fn/tiny/wapol.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
+            "drops" : ["WapolFN", "Robson", "SnowChopper", "Kureha", "Dalton", "Chess", "Kuromarimo"]
         }, 
     "Smoker": {
             "title" : "Smoker's Great Pursuit",
             "large": "assets/images/fn/big/smoker.png",
             "tiny": "assets/images/fn/tiny/smoker.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Patty", "Zeff", "ViviPrincess", "Mr3", "MissGoldenweek", "Mr9", "ZoroLionSong"],
+            "drops" : ["Tashigi", "SmokerFN"]
         },
     "Rumbar" : {
             "title" : "Rumbar Pirates!",
             "large": "assets/images/fn/big/rumbar.png",
             "tiny": "assets/images/fn/tiny/rumbar.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["DemolisherGunner", "KakuSixPowers", "BrookDex", "Gyaro", "Dellinger", "Rosinante", "BlueGilly", "RumbarLaboon"],
+            "drops" : ["Yorki", "RumbarBrook", "RumbarLaboon"]
         }, 
     "TBone" : {
             "title" : "T-Bone's Absolute Justice",
             "large": "assets/images/fn/big/tbone.png",
             "tiny": "assets/images/fn/tiny/tbone.png",
-            "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "lastTimes": ["03/29/2017 - 04/04/2017"],
+            "books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
+            "drops" : ["Jerry", "TBone"]
         }, 
     "Tsuru": {
             "title" : "Tsuru's Morning Stroll",
             "large": "assets/images/fn/big/tsuru.png",
             "tiny": "assets/images/fn/tiny/tsuru.png",
-            "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "lastTimes": ["03/29/2017 - 04/04/2017"],
+            "books" : ["Mr5Nez", "Mr5Breeze", "MissValentine", "G3", "UsoppImpact", "Mr8", "MissMonday"],
+            "drops" : ["Tsuru", "MomongaFN", "Onigumo"]
         },
     "ShanksBuggy" : {
             "title" : "Apprentices! Shanks and Buggy!",
             "large": "assets/images/fn/big/shanksbuggy.png",
             "tiny": "assets/images/fn/tiny/shanksbuggy.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Shanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
+            "drops" : ["BuggyApprentice", "ShanksApprentice"]
         }, 
     "Breed" : {
             "title" : "Breed's Sea Animal Circus!",
             "large": "assets/images/fn/big/breed.png",
             "tiny": "assets/images/fn/tiny/breed.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
+            "drops" : ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
         }, 
     "Kraken": {
             "title" : "Face the Deep-Sea Kraken!",
             "large": "assets/images/fn/big/kraken.png",
             "tiny": "assets/images/fn/tiny/kraken.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["DancinDjango", "MissWednesday", "LaboonLuffyDrawing", "Izo", "Whitebeard", "Unluckies", "Dorry", "Broggy", "Whitebeard4Emperors"],
+            "drops" : ["MasterSea", "Gaimon", "Momoo", "Laboon", "NeptunianSquid", "Kraken"]
         },    
     "Domino" : {
             "title" : "Domino's Maximum Security",

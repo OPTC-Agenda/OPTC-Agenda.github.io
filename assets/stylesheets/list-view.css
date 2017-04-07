@@ -89,7 +89,7 @@ div.inline {
     box-shadow: none;
     border: none;
     min-height: 100%;
-    padding: 100px 0;
+    padding: 20px 0;
     text-align: center;
 }
 .raid-modal .modal-content h2 {
@@ -115,7 +115,7 @@ div.inline {
     opacity: 0.3;
 }
 .raid-modal .close-modal .lr {
-    height: 75px;
+    height: 50px;
     width: 1px;
     margin-left: 35px;
     background-color: #2C3E50;
@@ -127,7 +127,7 @@ div.inline {
     z-index: 1051;
 }
 .raid-modal .close-modal .lr .rl {
-    height: 75px;
+    height: 50px;
     width: 1px;
     background-color: #2C3E50;
     transform: rotate(90deg);
@@ -183,6 +183,7 @@ div.inline {
     max-width: 50vw;
 }
 
-#fnDrops {
-    margin-left: 30%;
+#fnDrops, #fnBooks{
+    display: table;
+    margin: 0 auto;
 }

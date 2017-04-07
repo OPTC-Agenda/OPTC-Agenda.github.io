@@ -1,3 +1,270 @@
 {
-    "name": "Fede"
+    "Jinbe6": {
+        "image" : "https://s32.postimg.org/m7rwltonp/character_6061_t1.png",
+        "url" : "935"
+    },
+    "Franky3D2Y": {
+        "image" : "https://s32.postimg.org/9hno8qgph/character_6069_t1.png",
+        "url" : "943"
+    },
+    "Violet": {
+        "image" : "https://s32.postimg.org/fwmp5enf9/character_6121_t1.png",
+        "url" : "995"
+    },
+    "MoriaShadow": {
+        "image" : "https://s32.postimg.org/b6wrgswet/character_5893_t1.png",
+        "url" : "894"
+    },
+    "Squard": {
+        "image" : "https://s32.postimg.org/wo80o5no5/character_5700_t1.png",
+        "url" : "643"
+    },
+    "Hack": {
+        "image" : "https://s32.postimg.org/h40mxmdjp/character_5731_t1.png",
+        "url" : "673"
+    },
+    "DemolisherAxeman": {
+        "image" : "https://s32.postimg.org/gopd4lrmd/character_5661_t1.png",
+        "url" : "615"
+    },
+    "Baskerville": {
+        "image" : "https://s32.postimg.org/a22pbf9xx/character_5752_t1.png",
+        "url" : "705"
+    },
+    "RighteousJuror": {
+        "image" : "https://s32.postimg.org/six428pw5/character_5754_t1.png",
+        "url" : "704"
+    }, 
+    "Marco6": {
+        "image" : "https://s12.postimg.org/f201vep6l/character_5694_t1.png",
+        "url" : "649"
+    }, 
+    "SnowChopper": {
+        "image" : "https://s22.postimg.org/nfp2tmvtt/chopper.jpg",
+        "url" : "854"        
+    }, 
+    "JabraStrong": {
+        "image" : "https://s12.postimg.org/nzkrsrhml/character_5872_t1.png",
+        "url" : "754"        
+    }, 
+    "Curiel": {
+        "image" : "https://s12.postimg.org/4x1e5u6m5/character_5490_t1.png",
+        "url" : "457"        
+    },
+    "WapolStory": {
+        "image" : "https://s12.postimg.org/dqsamxtkt/character_5341_t1.png",
+        "url" : "327"        
+    }, 
+    "Zambai": {
+        "image" : "https://s12.postimg.org/4gg6jeiv1/character_5660_t1.png",
+        "url" : "614"        
+    },
+    "ChopperHeavyPoint" : {
+        "image" : "https://s12.postimg.org/5nu4bm8zh/character_5029_t1.png",
+        "url" : "22"        
+    },
+    "Patty": {
+        "image" : "f0050.png",
+        "url" : "50"     
+    },
+    "Zeff": {
+        "image" : "f0052.png",
+        "url" : "52"
+    },
+    "ViviPrincess": {
+        "image" : "f0073.png",
+        "url" : "73"
+    },
+    "Mr3": {
+        "image" : "f0204.png",
+        "url" : "204"
+    },
+    "MissGoldenweek": {
+        "image" : "f0206.png",
+        "url" : "206"
+    },
+    "Mr9": {
+        "image" : "f0212.png",
+        "url" : "212"
+    },
+    "ZoroLionSong": {
+        "image" : "f0219.png",
+        "url" : "219"
+    },
+    "DemolisherGunner": {
+        "image" : "f0631.png",
+        "url" : "631"
+    },
+    "KakuSixPowers": {
+        "image" : "f0219.png",
+        "url" : "219"
+    },
+    "BrookDex": {
+        "image" : "f0896.png",
+        "url" : "896"
+    },
+    "Gyaro": {
+        "image" : "f0954.png",
+        "url" : "954"
+    },
+    "Dellinger": {
+        "image" : "f0997.png",
+        "url" : "997"
+    },
+    "Rosinante": {
+        "image" : "f1001.png",
+        "url" : "1001"
+    },
+    "BlueGilly": {
+        "image" : "f1027.png",
+        "url" : "1027"
+    },
+    "RumbarLaboon": {
+        "image" : "f1206.png",
+        "url" : "1206"
+    },
+    "Drake": {
+        "image" : "f0631.png",
+        "url" : "631"
+    },
+    "StrikerCroco": {
+        "image" : "f0384.png",
+        "url" : "384"
+    },
+    "SWShanks": {
+        "image" : "f0530.png",
+        "url" : "530"
+    },
+    "Porche": {
+        "image" : "f0563.png",
+        "url" : "563"
+    },
+    "Capote": {
+        "image" : "f0564.png",
+        "url" : "564"
+    },    
+    "Koza": {
+        "image" : "f0590.png",
+        "url" : "590"
+    },       
+    "DeCalvan": {
+        "image" : "f0641.png",
+        "url" : "641"
+    },
+    "Mr5Nez": {
+        "image" : "f0199.png",
+        "url" : "199"
+    },
+    "Mr5Breeze": {
+        "image" : "f0200.png",
+        "url" : "200"
+    },
+    "MissValentine": {
+        "image" : "f0202.png",
+        "url" : "202"
+    },
+    "G3": {
+        "image" : "f0217.png",
+        "url" : "217"
+    },
+    "UsoppImpact": {
+        "image" : "f0223.png",
+        "url" : "223"
+    },
+    "Mr8": {
+        "image" : "f0224.png",
+        "url" : "224"
+    },
+    "MissMonday": {
+        "image" : "f0236.png",
+        "url" : "236"
+    },
+    "Shanks": {
+        "image" : "f0077.png",
+        "url" : "77"
+    },
+    "Hawkins": {
+        "image" : "f0310.png",
+        "url" : "310"
+    },
+    "Chessmarimo": {
+        "image" : "f0332.png",
+        "url" : "332"
+    },
+    "GiantStrikerBlack": {
+        "image" : "f0372.png",
+        "url" : "372"
+    },
+    "Moria": {
+        "image" : "f0414.png",
+        "url" : "414"
+    },
+    "Satori": {
+        "image" : "f0463.png",
+        "url" : "463"
+    },
+    "Yama": {
+        "image" : "f0467.png",
+        "url" : "467"
+    },
+    "HotoriKotori": {
+        "image" : "f0504.png",
+        "url" : "504"
+    },
+    "Ace": {
+        "image" : "f0075.png",
+        "url" : "75"
+    },
+    "KungFuDugongFaithfulApprentice": {
+        "image" : "f0380.png",
+        "url" : "380"
+    },
+    "Sarquiss": {
+        "image" : "f0432.png",
+        "url" : "432"
+    },
+    "Ace6": {
+        "image" : "f0562.png",
+        "url" : "562"
+    },  
+    "Tilestone": {
+        "image" : "f0628.png",
+        "url" : "628"
+    },  
+    "Inazuma": {
+        "image" : "f0677.png",
+        "url" : "677"
+    },    
+    "OctopusBoxer"  : {
+        "image" : "f0800.png",
+        "url" : "800"
+    },
+    "DancinDjango": {
+        "image" : "f0044.png",
+        "url" : "44"
+    }, "MissWednesday": {
+        "image" : "f0071.png",
+        "url" : "71"
+    }, "LaboonLuffyDrawing": {
+        "image" : "f0214.png",
+        "url" : "214"
+    }, "Izo": {
+        "image" : "f0257.png",
+        "url" : "257"
+    }, "Whitebeard": {
+        "image" : "f0261.png",
+        "url" : "261"
+    }, "Unluckies": {
+        "image" : "f0290.png",
+        "url" : "290"
+    }, "Dorry": {
+        "image" : "f0291.png",
+        "url" : "291"
+    }, "Broggy": {
+        "image" : "f0292.png",
+        "url" : "292"
+    }, "Whitebeard4Emperors": {
+        "image" : "f1413.png",
+        "url" : "1413"
+    }
 }

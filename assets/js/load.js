@@ -410,7 +410,9 @@ function nextWeek(day, newMonth){
                     nextWeek = weeks[i+1].starting;
                     nextMonth = weeks[i+1].month;
                 } catch(e){
-                    
+                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");                    
                 }
                 previousWeek = weeks[i-1].starting;
                 previousMonth = weeks[i-1].starting;
@@ -420,13 +422,13 @@ function nextWeek(day, newMonth){
                         
         console.log(start);                       
         
-        if(nextWeek != "undefined"){
+        /*if(nextWeek != "undefined"){
             $("#next").empty().append("<a href='#' onclick='nextWeek(\"" + nextWeek + "\", \""+ nextMonth + "\")'>Next week</a>");
         } else {
             $("#next").empty().append("<a href='#errorModal'>Next week </a>");
             $("#titleError").empty().append("There are not still other weeks!");
             $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");
-        }
+        }*/
 
         for(i=0;i<7;i++){  
             $("#list" + (i+1)).empty();

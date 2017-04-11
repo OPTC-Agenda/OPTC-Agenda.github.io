@@ -80,7 +80,7 @@
     "OctopusBoxer"  : {
         "id" : "800"
     },
-    "MasterSea" : {
+    "MasterSea" : {,
         "id" : "28"
     },
     "Gaimon" : {
@@ -103,23 +103,5 @@
     }, 
     "Minorhinoceros" : {
         "id" : "539"
-    }, 
-    "Basilisk"  : {
-        "id" : "540"
-    },
-    "Elizabeth" : {
-        "id" : "434"
-    }, 
-    "Caroline" : {
-        "id" : "434"
-    }, 
-    "SanjiKamabakka" : {
-        "id" : "435"
-    },
-    "Kalifa" : {
-        "id" : "317"
-    }, 
-    "Paulie"  : {
-        "id" : "319"
-    }     
+    }
 }

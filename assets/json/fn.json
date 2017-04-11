@@ -52,7 +52,7 @@
             "large": "assets/images/fn/big/shanksbuggy.png",
             "tiny": "assets/images/fn/tiny/shanksbuggy.png",
             "lastTimes": [],
-            "books" : ["Shanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
+            "books" : ["SWShanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
             "drops" : ["BuggyApprentice", "ShanksApprentice"]
         }, 
     "Breed" : {
@@ -76,24 +76,24 @@
             "large": "assets/images/fn/big/domino.png",
             "tiny": "assets/images/fn/tiny/domino.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Nezumi", "Izo", "Capone", "Boa6", "MontblancCricket", "Minorhinoceros", "Boa6+"],
+            "drops" : ["Domino", "Minorhinoceros", "Basilisk"]
         }, 
     "Okama" : {
             "title" : "Candy the Maiden-Hearted!",
             "large": "assets/images/fn/big/okama.png",
             "tiny": "assets/images/fn/tiny/okama.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["ChefSanji", "NicoRobin", "G3", "Apoo", "GiantFighterYellow", "GiantStrikerBlack", "StrikerCroco"],
+            "drops" : ["Elizabeth", "Caroline", "SanjiKamabakka"]
         }, 
     "Kalifa": {
             "title" : "Kalifa's Secret Assignment",
             "large": "assets/images/fn/big/kalifa.png",
             "tiny": "assets/images/fn/tiny/kalifa.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["FirePearl", "Kuroobi", "NeptunianSquid", "GumGumBaloon", "Jozu", "Blamenco"],
+            "drops" : ["Kalifa", "Paulie"]
         },    
     "Duck": {
             "title" : "Supersonic Duck Squadron!",

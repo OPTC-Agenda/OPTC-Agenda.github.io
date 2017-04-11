@@ -65,24 +65,30 @@ $(document).ready(function() {
             
             if(weeks[i].month == month && weeks[i].starting == start){
                 cont = i;
-                nextWeek = weeks[i+1].starting;
-                nextMonth = weeks[i+1].month;
-                previousWeek = weeks[i-1].starting;
-                previousMonth = weeks[i-1].starting;
+                try {
+                    nextWeek = weeks[i+1].starting;
+                    nextMonth = weeks[i+1].month;
+                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth +"\" )'>Next week</a>");
+                }catch(e){
+                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");
+                }
+                try {
+                    previousWeek = weeks[i-1].starting;
+                    previousMonth = weeks[i-1].month;
+                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth +"\" )'>Previous week</a>");
+                } catch(e){
+                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");  
+                }
                 break;
             }
         }
                         
         $("#month").append(month);               
         $("#day1").append(start);
-        
-        if(nextWeek != "undefined"){
-            $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth +"\" )'>Next week</a>");
-        } else {
-            $("#next").empty().append("<a href='#errorModal'>Next week </a>");
-            $("#titleError").empty().append("There are not still other weeks!");
-            $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");
-        }
         
         for(i=0;i<7;i++){                        
             var raid = json.weeks[cont].program[i].raid;
@@ -164,7 +170,6 @@ function monthDays(month, day){
     }
     
     if (day + 1 > max) {
-        console.log("day in month: " + day);
         newDay = 1;
     } else {
         newDay = day + 1;
@@ -272,15 +277,10 @@ function fnModal(character){
     
     var charJs = fnList[character];
     var title = charJs.title;
-    var large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>"
+    var large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
     var last = fnList[character].lastTimes;
     var drops = fnList[character].drops; 
     var books = fnList[character].books;
-    
-    console.log(fnList);
-    console.log(dropList);
-    console.log(bookList);
-    
         
     $("#fnBody h2").empty().append(title);
     $("#fnImage").empty().append(large);
@@ -293,17 +293,20 @@ function fnModal(character){
     }
     
     for(i=0;i<drops.length;i++){
-        var drop = drops[i];
+        var drop = drops[i];        
         var toDrop = dropList[drops[i]];
-        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + toDrop.image;        
-        var url = "http://optc-db.github.io/characters/#/view/" + toDrop.url;
+        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
+        var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
         $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
     }            
     
     for(i=0;i<books.length;i++){
-        console.log(books[i]);
-        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + bookList[books[i]].image;
-        var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].url;
+        console.log("books: ");
+        console.log("Books[i]: " + books[i]);
+        console.log(bookList);
+        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
+        var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
+        console.log(bookList[books[i]]);
         $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
     }    
     
@@ -344,7 +347,6 @@ function numberToMonth(number){
 }
 
 function nextWeek(day, newMonth){
-    console.log(day + " " + newMonth);
     
     var raidList = (function () {    
         $.ajax({
@@ -409,27 +411,26 @@ function nextWeek(day, newMonth){
                 try {
                     nextWeek = weeks[i+1].starting;
                     nextMonth = weeks[i+1].month;
+                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth +"\" )'>Next week</a>");
                 } catch(e){
                     $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
                     $("#titleError").empty().append("There are not still other weeks!");
                     $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");                    
                 }
-                previousWeek = weeks[i-1].starting;
-                previousMonth = weeks[i-1].starting;
+                
+                try {
+                    previousWeek = weeks[i-1].starting;
+                    previousMonth = weeks[i-1].month;
+                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth +"\" )'>Previous week</a>");
+                }catch(e){
+                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");   
+                }
                 break;
             }
-        }
-                        
-        console.log(start);                       
+        }                
         
-        /*if(nextWeek != "undefined"){
-            $("#next").empty().append("<a href='#' onclick='nextWeek(\"" + nextWeek + "\", \""+ nextMonth + "\")'>Next week</a>");
-        } else {
-            $("#next").empty().append("<a href='#errorModal'>Next week </a>");
-            $("#titleError").empty().append("There are not still other weeks!");
-            $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");
-        }*/
-
         for(i=0;i<7;i++){  
             $("#list" + (i+1)).empty();
             $("#day" + (i+1)).empty(); 
@@ -475,15 +476,169 @@ function nextWeek(day, newMonth){
             }                                     
         }
         
-        for(i=0;i<7;i++){
-            console.log("prev vale " + prev + ", month: " + month);            
+        for(i=0;i<7;i++){         
+            // Gestione giorni
+            if(i!=0){
+                prev = monthDays(month, prev); 
+                $("#day" + (i+1)).append(prev);                
+            }
+        }                                  
+    });    
+}
+
+function prevWeek(day, newMonth){
+    
+    var raidList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/raid.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var coloList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/colo.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    var fnList = (function () {    
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/fn.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();;
+    
+    // Day from the agenda has to start
+    var now = new Date();
+    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    //var start = (new Date(today.setDate(today.getDate()-today.getDay()))).getDate()+1;
+    var start = day;
+    var lastMonth = (new Date(today.setDate(today.getDate()-today.getDay()))).getMonth() + 1;
+    var month = newMonth;
+    
+    $.getJSON("assets/json/weeks.json", function(json) {
+        var weeks = json.weeks;
+//        var start = json.weeks[0].starting;        
+        var prev = day; 
+        var previousWeek;
+        var previousMonth;
+        var nextWeek;
+        var nextMonth;
+        var cont;
+        
+        for(i=0;i<weeks.length;i++){            
+            if(weeks[i].month == month && weeks[i].starting == start){
+                cont = i;
+                try {
+                    nextWeek = weeks[i+1].starting;
+                    nextMonth = weeks[i+1].month;
+                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth +"\" )'>Next week</a>");
+                } catch(e){
+                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("Be patient! We will add the other weeks briefly!");                    
+                }
+                
+                try {
+                    previousWeek = weeks[i-1].starting;
+                    previousMonth = weeks[i-1].month;
+                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth +"\" )'>Previous week</a>");
+                }catch(e){
+                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $("#titleError").empty().append("There are not still other weeks!");
+                    $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");  
+                }
+                break;
+            }
+        }                                              
+        
+        for(i=0;i<7;i++){  
+            $("#list" + (i+1)).empty();
+            $("#day" + (i+1)).empty(); 
+        }
+        
+        $("#month").empty().append(month);               
+        $("#day1").empty().append(day);
+        
+        for(i=0;i<7;i++){                        
+            var raid = json.weeks[cont].program[i].raid;
+            var colo = json.weeks[cont].program[i].colo;
+            var fn = json.weeks[cont].program[i].fn;           
+            
+            if(raid[0] != "none"){
+                for(j=0;j<raid.length;j++){
+                    var character = raid[j];
+                    var tiny = raidList[character].tiny;
+                    var foo = 'raidModal(\'' + character + '\')';
+ 
+                    $("#list" + (i+1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                }
+            }
+            
+            if(colo[0] != "none"){
+                for(j=0;j<colo.length;j++){
+                    var character = colo[j];
+                    var tiny = coloList[character].tiny;
+                    var foo = 'coloModal(\'' + character + '\')';
+                    
+                    $("#list" + (i+1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                }
+            }                          
+            
+            if(fn[0] != "none"){
+                for(j=0;j<fn.length;j++){
+                    var character = fn[j];
+                    var tiny = fnList[character].tiny;
+                    var foo = 'fnModal(\'' + character + '\')';
+                    
+                    $("#list" + (i+1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                    
+                }
+            }                                     
+        }
+        
+        for(i=0;i<7;i++){                  
             // Gestione giorni
             if(i!=0){
                 prev = monthDays(month, prev);
-                console.log("prev vale " + prev + ", month: " + month); 
                 $("#day" + (i+1)).append(prev);                
             }
-        }
-                                  
+        }                                  
     });    
+}
+
+function imageUrl(id){
+    var conc;
+    
+    switch(id.length){
+        case 1: conc = "f000" + id + ".png"; 
+            break;
+        case 2: conc = "f00" + id + ".png"; 
+            break;
+        case 3: conc = "f0" + id + ".png"; 
+            break;
+        case 4: conc = "f" + id + ".png"; 
+            break;    
+    }
+    
+    return conc;
 }

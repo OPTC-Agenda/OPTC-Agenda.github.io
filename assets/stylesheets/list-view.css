@@ -159,6 +159,11 @@ div.inline {
     .navbar-nav.navbar-left {
 
     }
+    
+    .justified {
+        position:absolute;
+        left: 50%;
+    }    
 }
 @media (min-width: 200px)  {
     .navbar-nav.navbar-center {
@@ -181,6 +186,12 @@ div.inline {
     .navbar-left li {
         font-weight: bold;
     }
+    
+    .justified {
+        position: relative;
+        left: 0%;
+        margin-left: 0;
+    }
 }
 
 #coloImage img {
@@ -195,9 +206,4 @@ div.inline {
 
 form {
     padding: 0 10px;
-}
-
-.justified {
-    position:absolute;
-    left: 50%;
 }

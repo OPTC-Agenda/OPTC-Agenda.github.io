@@ -24,6 +24,8 @@ $(document).ready(function () {
     $('#showFortnights').click(function () {
         showFN(true);
     });
+    
+    
 });
 
 function showRaid(flag) {
@@ -420,48 +422,6 @@ function numberToMonth(number) {
 
 function nextWeek(day, newMonth) {
 
-    var raidList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/raid.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var coloList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/colo.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var fnList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/fn.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
     // Day from the agenda has to start
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -514,42 +474,9 @@ function nextWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        for (i = 0; i < 7; i++) {
-            var raid = json.weeks[cont].program[i].raid;
-            var colo = json.weeks[cont].program[i].colo;
-            var fn = json.weeks[cont].program[i].fn;
-
-            if (raid[0] != "none") {
-                for (j = 0; j < raid.length; j++) {
-                    var character = raid[j];
-                    var tiny = raidList[character].tiny;
-                    var foo = 'raidModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (colo[0] != "none") {
-                for (j = 0; j < colo.length; j++) {
-                    var character = colo[j];
-                    var tiny = coloList[character].tiny;
-                    var foo = 'coloModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (fn[0] != "none") {
-                for (j = 0; j < fn.length; j++) {
-                    var character = fn[j];
-                    var tiny = fnList[character].tiny;
-                    var foo = 'fnModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-
-                }
-            }
-        }
+        showRaid(false);
+        showColo(false);
+        showFN(false);
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni
@@ -563,48 +490,6 @@ function nextWeek(day, newMonth) {
 
 function prevWeek(day, newMonth) {
 
-    var raidList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/raid.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var coloList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/colo.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var fnList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/fn.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
     // Day from the agenda has to start
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -657,42 +542,9 @@ function prevWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        for (i = 0; i < 7; i++) {
-            var raid = json.weeks[cont].program[i].raid;
-            var colo = json.weeks[cont].program[i].colo;
-            var fn = json.weeks[cont].program[i].fn;
-
-            if (raid[0] != "none") {
-                for (j = 0; j < raid.length; j++) {
-                    var character = raid[j];
-                    var tiny = raidList[character].tiny;
-                    var foo = 'raidModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (colo[0] != "none") {
-                for (j = 0; j < colo.length; j++) {
-                    var character = colo[j];
-                    var tiny = coloList[character].tiny;
-                    var foo = 'coloModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (fn[0] != "none") {
-                for (j = 0; j < fn.length; j++) {
-                    var character = fn[j];
-                    var tiny = fnList[character].tiny;
-                    var foo = 'fnModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-
-                }
-            }
-        }
+        showRaid(false);
+        showColo(false);
+        showFN(false);
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni
@@ -731,48 +583,6 @@ function setMargin() {
 }
 
 function firstLoad() {
-    var raidList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/raid.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var coloList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/colo.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
-    var fnList = (function () {
-        $.ajax({
-            'async': false,
-            'global': false,
-            'url': "assets/json/fn.json",
-            'dataType': "json",
-            'success': function (data) {
-                json = data;
-            }
-        });
-        return json;
-    })();
-    ;
-
     // Day from the agenda has to start
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
@@ -818,42 +628,12 @@ function firstLoad() {
         $("#month").append(month);
         $("#day1").append(start);
 
+
+        showRaid(false);
+        showColo(false);
+        showFN(false);
+
         for (i = 0; i < 7; i++) {
-            var raid = json.weeks[cont].program[i].raid;
-            var colo = json.weeks[cont].program[i].colo;
-            var fn = json.weeks[cont].program[i].fn;
-
-            if (raid[0] != "none") {
-                for (j = 0; j < raid.length; j++) {
-                    var character = raid[j];
-                    var tiny = raidList[character].tiny;
-                    var foo = 'raidModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (colo[0] != "none") {
-                for (j = 0; j < colo.length; j++) {
-                    var character = colo[j];
-                    var tiny = coloList[character].tiny;
-                    var foo = 'coloModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-                }
-            }
-
-            if (fn[0] != "none") {
-                for (j = 0; j < fn.length; j++) {
-                    var character = fn[j];
-                    var tiny = fnList[character].tiny;
-                    var foo = 'fnModal(\'' + character + '\')';
-
-                    $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
-
-                }
-            }
-
             // Gestione giorni
             if (i != 0) {
                 prev = monthDays(month, prev);

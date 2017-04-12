@@ -23,9 +23,7 @@ $(document).ready(function () {
 
     $('#showFortnights').click(function () {
         showFN(true);
-    });
-    
-    
+    });        
 });
 
 function showRaid(flag) {

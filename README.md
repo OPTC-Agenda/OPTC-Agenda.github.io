@@ -7,11 +7,7 @@ This website provides an agenda view, where you can move forward and backward th
 Functions implemented:
 - A modal description for every event
 - Calendar loaded dinamically from the json file
+- Settings: they have a checkbox to choice the events to see (coliseum, fortnight, raid)
 
 Functions to implement:
-- Set a checkbox to choice the events to see (coliseum, fortnight, raid)
-
-Other things to do:
-- Add books and drops to fortnight json
-- Create books json
-- Create drop json
+- Show special lvl up

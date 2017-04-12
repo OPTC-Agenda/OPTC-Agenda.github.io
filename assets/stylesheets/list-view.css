@@ -19,7 +19,8 @@ header {
     width: 100%!important;
     min-height: 11%!important;   
     padding: 1% 0;
-    font-family: Times New Roman, Verdana;
+    font-family: Rockfell, Verdana, Sans Serif;
+    text-shadow: black 5px 5px;
     background-color: rgb(24, 109, 173);
 }
 
@@ -28,7 +29,6 @@ header h1 {
     color: white;
     font-weight: 600;
     font-style: italic;
-    
 }
 
 nav {    
@@ -146,10 +146,6 @@ div.inline {
     margin: 0 auto;
 }
 
-.navbar-div {
-
-}
-
 .section-div {
     padding: 2%;
 }
@@ -160,21 +156,30 @@ div.inline {
 }
 
 @media (min-width: 1110px) {
-  .navbar-nav.navbar-left {
-    position: absolute;
-    left: 50%;
-    transform: translatex(-50%);
-  }
+    .navbar-nav.navbar-left {
+
+    }
 }
-@media (min-width: 200px) {
-  .navbar-nav.navbar-center {
-    position: absolute;    
-  }   
+@media (min-width: 200px)  {
+    .navbar-nav.navbar-center {
+        position: absolute;    
+    }   
+    nav ul {
+        display: inline-block;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1109px) {
+    
 }
 
 @media (max-width: 767px){
     .day-row {
         margin: 0 10%;
+    }
+
+    .navbar-left li {
+        font-weight: bold;
     }
 }
 
@@ -186,4 +191,13 @@ div.inline {
 #fnDrops, #fnBooks{
     display: table;
     margin: 0 auto;
+}
+
+form {
+    padding: 0 10px;
+}
+
+.justified {
+    position:absolute;
+    left: 50%;
 }

@@ -42,7 +42,7 @@ h1, p{
 
 section {
     width: 100%!important;
-    min-height: 85%!important;
+    min-height: 82%!important;
 }
 
 footer {
@@ -206,4 +206,9 @@ div.inline {
 
 form {
     padding: 0 10px;
+}
+
+.counter {
+    display: table;
+    margin: 0 auto;
 }

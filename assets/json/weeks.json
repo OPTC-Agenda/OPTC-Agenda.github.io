@@ -30,12 +30,48 @@
             "program": [                
                 {"raid": ["Usopp"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["Chopper"], "colo" : ["none"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Domino", "Okama", "Kalifa", "Duck"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["Chopper"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]}
             ]     
-        }
+        },{
+            "starting": 17,
+            "month" : "April",
+            "program": [                
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Crocodile", "Alvida"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World",  "Crocodile", "Alvida"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World",  "Crocodile", "Alvida"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World",  "Crocodile", "Alvida"]}
+            ]     
+        },{
+            "starting": 24,
+            "month" : "April",
+            "program": [                
+                {"raid": ["none"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"]}
+            ]     
+        },{
+            "starting": 1,
+            "month" : "May",
+            "program": [                
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"]}
+            ]     
+        }             
     ]
 }

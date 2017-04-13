@@ -68,5 +68,29 @@
         "tiny": "assets/images/colo/tiny/lulu.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1019"
+    },
+    "Smoker": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0805.png",
+        "tiny": "assets/images/colo/tiny/smoker.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/805"
+    },
+    "BrownBeard": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1017.png",
+        "tiny": "https://onepiece-treasurecruise.com/wp-content/uploads/f1017.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1017"
+    },
+    "Jozu": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1041.png",
+        "tiny": "https://onepiece-treasurecruise.com/wp-content/uploads/f1040.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1041"
+    },
+    "SadieChan": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0926.png",
+        "tiny": "assets/images/colo/tiny/sadie.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/926"
     }
 }

@@ -253,6 +253,111 @@
         "id" : "253"        
     }, 
     "Blamenco" : {        
-        "id" : "251"        
-    }        
+        "id" : "259"        
+    },
+    "GoldenPound": {
+        "id" : "15"
+    }, 
+    "Marco" : {
+        "id" : "251"
+    }, 
+    "BigEaterBonny" : {
+        "id" : "363"
+    },     
+    "GiantSlasherRed":{
+        "id" : "368"
+    }, 
+    "SeaCat" : {
+        "id" : "378"        
+    },
+    "LucciSTR" : {
+        "id": "633"
+    },
+    "Koala" : {
+        "id" : "671"
+    }, 
+    "Tansui" : {
+        "id" : "956"
+    },
+    "SaintRoswald" : {
+        "id" : "964"
+    },
+    "DonChinJao" : {
+        "id": "1025"
+    },
+    "FunkBrothers" : {
+        "id" : "1029"
+    }, 
+    "AbdullahJeet" : {
+        "id" : "1033"
+    },    
+    "BoaSTR" : {
+        "id" : "1218"
+    },
+    "AllSunday" : {
+        "id" : "209"
+    },
+    "Kid" : {
+        "id" : "357"
+    },
+    "GiantImperialShooter" : {
+        "id" : "374"
+    },
+    "DoubleFinger" : {
+        "id" : "400"
+    },
+    "Mr1Sword" : {
+        "id" : "402"
+    },
+    "Ashura" : {
+        "id" : "8"
+    },
+    "TonyTonyChopper" : {
+        "id" : "21"
+    },
+    "SmoothAlvida" : {
+        "id" : "30"
+    },
+    "ZoroYakkoudori" : {
+        "id" : "1388"
+    },
+    "KamiEneru" : {
+        "id" : "546"
+    },
+    "MihawkINT" : {
+        "id" : "718"
+    },
+    "KumadoriSixPowers" : {
+        "id" : "735"
+    },
+    "Spandam" : {
+        "id" : "738"
+    },
+    "Iceburg" : {
+        "id" : "793"
+    },
+    "NewSWNami" : {
+        "id" : "1119"
+    },
+    "NewSWBrook" : {
+        "id" : "1173"
+    },
+    "NewSWChopper" : {
+        "id" : "1177"
+    },
+    "Tashigi" : {
+        "id" : "68"
+    },
+    "UsoppHammer" : {
+        "id" : "222"
+    },
+    "Vista" : {
+        "id" : "255"
+    },    
+    "Kiwi"  : {
+        "id" : "338"
+    },
+    "Mozu"  : {
+        "id" : "339"
+    }     
 }

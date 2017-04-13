@@ -9,5 +9,6 @@ Functions implemented:
 - Calendar loaded dinamically from the json file
 - Settings: they have a checkbox to choice the events to see (coliseum, fortnight, raid)
 
-Functions to implement:
+Functions and things to implement:
 - Show special lvl up
+- F2P guides in modal raid and coliseum views

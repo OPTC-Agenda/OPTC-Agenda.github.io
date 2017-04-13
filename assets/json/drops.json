@@ -121,5 +121,62 @@
     }, 
     "Paulie"  : {
         "id" : "319"
-    }     
+    },
+    "CowboyBourbon" : {
+        "id": "441"
+    },
+    "StompIvan" : {
+        "id" : "442"
+    }, 
+    "CentaurHikoichi" : {
+        "id" : "443"
+    },
+    "Karoo" : {
+        "id" : "444"
+    },
+    "Gairam" : {
+        "id": "1215"
+    },
+    "Sebastian" : {
+        "id" : "1216"
+    }, 
+    "Nightin" : {
+        "id" : "1217"
+    },        
+    "BoaSTR" : {
+        "id" : "1218"
+    },
+    "CrocodilePrisoner" : {
+        "id" : "509"
+    }, 
+    "DazBonesPrisoner"  : {
+        "id" : "511"
+    },
+    "IronAlvida"  : {
+        "id" : "29"
+    },  
+    "Coby"  : {
+        "id" : "31"
+    },
+    "RakuyoCommander"  : {
+        "id" : "946"
+    }, 
+    "FossaCommander"  : {
+        "id" : "947"
+    },
+    "CurielCommander"  : {
+        "id" : "948"
+    },
+    "ThatchCommander"  : {
+        "id" : "949"
+    },
+    "Franky"  : {
+        "id" : "336"
+    },
+    "Kiwi"  : {
+        "id" : "338"
+    },
+    "Mozu"  : {
+        "id" : "339"
+    }    
 }

@@ -100,7 +100,47 @@
             "large": "assets/images/fn/big/duck.png",
             "tiny": "assets/images/fn/tiny/duck.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
-        }        
+            "books" : ["GoldenPound", "ViviPrincess", "Marco", "BigEaterBonny", "GiantSlasherRed", "SeaCat"],
+            "drops" : ["CowboyBourbon", "StompIvan", "CentaurHikoichi", "Karoo"]
+        },
+    "World": {
+            "title" : "World Pirates!",
+            "large": "assets/images/fn/big/world.png",
+            "tiny": "assets/images/fn/tiny/world.png",
+            "lastTimes": [],
+            "books" : ["HotoriKotori", "LucciSTR", "Koala", "Tansui", "SaintRoswald", "DonChinJao", "FunkBrothers", "AbdullahJeet", "BoaSTR"],
+            "drops" : ["Gairam", "Sebastian", "Nightin", "BoaSTR"]
+        },
+    "Crocodile": {
+            "title" : "Crocodile - Life on the Inside",
+            "large": "assets/images/fn/big/crocodile.png",
+            "tiny": "assets/images/fn/tiny/crocodile.png",
+            "lastTimes": [],
+            "books" : ["AllSunday", "Mr9", "Blamenco", "Kid", "GiantImperialShooter", "DoubleFinger", "Mr1Sword"],
+            "drops" : ["CrocodilePrisoner", "DazBonesPrisoner"]
+        },
+    "Alvida": {
+            "title" : "Alvida's Romance",
+            "large": "assets/images/fn/big/alvida.png",
+            "tiny": "assets/images/fn/tiny/alvida.png",
+            "lastTimes": [],
+            "books" : ["Ashura", "TonyTonyChopper", "SmoothAlvida", "ZoroYakkoudori"],
+            "drops" : ["IronAlvida", "Coby", "Gaimon", "MasterSea"]
+        },
+    "WhitebeardCommanders": {
+            "title" : "Encounter! Whitebeard pirates",
+            "large": "assets/images/fn/big/whitebeard_s_commanders.png",
+            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
+            "lastTimes": [],
+            "books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWNami", "NewSWBrook", "NewSWChopper"],
+            "drops" : ["RakuyoCommander" , "FossaCommander", "CurielCommander", "ThatchCommander"]
+        },
+    "Franky": {
+            "title" : "Cyborg Franky Pervert's Aesthetic",
+            "large": "assets/images/fn/big/franky.png",
+            "tiny": "assets/images/fn/tiny/franky.png",
+            "lastTimes": [],
+            "books" : ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
+            "drops" : ["Franky", "Kiwi", "Mozu"]
+        }                        
 }

@@ -56,7 +56,7 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
+                {"raid": ["Duval"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]}
             ]     

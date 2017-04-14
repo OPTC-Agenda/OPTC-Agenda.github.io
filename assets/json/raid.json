@@ -66,5 +66,11 @@
             "tiny": "assets/images/raid/tiny/whitebeard.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/1257"
-        }        
+        },
+    "Duval": {
+            "large": "assets/images/raid/big/duval.png",
+            "tiny": "assets/images/raid/tiny/duval.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/652"
+        }               
 }

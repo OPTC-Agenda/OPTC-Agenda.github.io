@@ -68,7 +68,7 @@ function showRaid(flag) {
                         var character = raid[j];
                         var tiny = raidList[character].tiny;
                         var foo = 'raidModal(\'' + character + '\')';
-                        $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                     }
                 }
             }
@@ -124,7 +124,7 @@ function showColo(flag) {
                         var tiny = coloList[character].tiny;
                         var foo = 'coloModal(\'' + character + '\')';
 
-                        $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                     }
                 }
             }
@@ -180,7 +180,7 @@ function showFN(flag) {
                         var tiny = fnList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
 
                     }
                 }
@@ -240,7 +240,7 @@ function showSpecial(flag){
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
 
                     }
                 }
@@ -428,13 +428,13 @@ function fnModal(character) {
         var toDrop = dropList[drops[i]];
         var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
         var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
-        $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+        $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }
 
     for (i = 0; i < books.length; i++) {
         var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
         var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
-        $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + "' class='image-div inline'></div></a>");
+        $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }
 }
 
@@ -489,7 +489,7 @@ function specialModal(character) {
         var toDrop = dropList[drops[i]];
         var tiny = toDrop.image//"https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
         //var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
-        $("#specialDrops").append("<div style='background-image: url(" + tiny + "' class='image-div inline'></div>");
+        $("#specialDrops").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
     }
 }
 

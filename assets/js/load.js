@@ -592,9 +592,10 @@ function nextWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        showRaid(false);
-        showColo(false);
         showFN(false);
+        showSpecial(false);        
+        showColo(false);
+        showRaid(false);               
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni
@@ -660,9 +661,10 @@ function prevWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        showRaid(false);
-        showColo(false);
         showFN(false);
+        showSpecial(false);        
+        showColo(false);
+        showRaid(false);               
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni
@@ -746,11 +748,10 @@ function firstLoad() {
         $("#month").append(month);
         $("#day1").append(start);
 
-
-        showRaid(false);
-        showColo(false);
         showFN(false);
-        showSpecial(false);
+        showSpecial(false);        
+        showColo(false);
+        showRaid(false);               
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni

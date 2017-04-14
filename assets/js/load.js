@@ -198,8 +198,6 @@ function showFN(flag) {
 }
 
 function showSpecial(flag){
-    console.log("Qua entro");
-
     if ($("#showSpecials:checked").length > 0) {
 
         var specialList = (function () {
@@ -232,8 +230,6 @@ function showSpecial(flag){
 
             for (i = 0; i < 7; i++) {
                 var special = json.weeks[cont].program[i].special;
-                console.log(json.weeks[cont].program[i]);
-                console.log(special);
                 if (special[0] != "none") {
                     for (j = 0; j < special.length; j++) {
                         var character = special[j];
@@ -559,24 +555,28 @@ function nextWeek(day, newMonth) {
         var cont;
 
         for (i = 0; i < weeks.length; i++) {
+
             if (weeks[i].month == month && weeks[i].starting == start) {
                 cont = i;
                 try {
                     nextWeek = weeks[i + 1].starting;
                     nextMonth = weeks[i + 1].month;
-                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'>Next week</a>");
+                    //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
+                    $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
                 } catch (e) {
-                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $(".next").attr("href", "#errorModal");
+                    $(".next").attr("data-toggle", "modal");                    
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
-
                 try {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
-                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                 } catch (e) {
-                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $(".prev").attr("href", "#errorModal");
+                    $(".prev").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");
                 }
@@ -628,24 +628,28 @@ function prevWeek(day, newMonth) {
         var cont;
 
         for (i = 0; i < weeks.length; i++) {
+
             if (weeks[i].month == month && weeks[i].starting == start) {
                 cont = i;
                 try {
                     nextWeek = weeks[i + 1].starting;
                     nextMonth = weeks[i + 1].month;
-                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'>Next week</a>");
+                    //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
+                    $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
                 } catch (e) {
-                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $(".next").attr("href", "#errorModal");
+                    $(".next").attr("data-toggle", "modal");                    
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
-
                 try {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
-                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                 } catch (e) {
-                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $(".prev").attr("href", "#errorModal");
+                    $(".prev").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");
                 }
@@ -726,18 +730,22 @@ function firstLoad() {
                 try {
                     nextWeek = weeks[i + 1].starting;
                     nextMonth = weeks[i + 1].month;
-                    $("#next").empty().append("<a href='#' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'>Next week</a>");
+                    //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
+                    $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
                 } catch (e) {
-                    $("#next").empty().append("<a href='#errorModal' data-toggle='modal'>Next week </a>");
+                    $(".next").attr("href", "#errorModal");
+                    $(".next").attr("data-toggle", "modal");                    
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
                 try {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
-                    $("#prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
+                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                 } catch (e) {
-                    $("#prev").empty().append("<a href='#errorModal' data-toggle='modal'>Previous week </a>");
+                    $(".prev").attr("href", "#errorModal");
+                    $(".prev").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("You reached the end! Go to another side, but not dark please!");
                 }

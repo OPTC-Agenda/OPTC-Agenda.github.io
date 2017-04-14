@@ -24,12 +24,11 @@ and open the template in the editor.
                    
     </head>
 <body>    
-    <header>            
+    <header>                    
         <div class="container">
             <div class="row">
                 <h1 class="text-uppercase text-center">OPTC Agenda</h1>            
             </div>
-        </div>
     </header>
     
     <!-- In this nav the user can choose:  
@@ -52,7 +51,7 @@ and open the template in the editor.
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav justified">
-                    <li id="prev"><a href="#">Previous week <span class="sr-only">(current)</span></a></li>                                    
+                    <li class="littleSee prev"><a href="#">Previous week <span class="sr-only">(current)</span></a></li>                                    
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Communities<span class="caret"></span></a>
                         <ul class="dropdown-menu">                            
@@ -107,7 +106,7 @@ and open the template in the editor.
                             <li><a href="https://www.twitch.tv/lanadsl">Lanadsl</a></li>
                         </ul>
                     </li>                    
-                    <li id="next"><a href="#" onclick="nextWeek()">Next week</a></li>    
+                    <li class="littleSee"><a class="next" href="#" onclick="nextWeek()">Next week</a></li>    
                 </ul>
             </div>
         </div>
@@ -115,9 +114,17 @@ and open the template in the editor.
 
     <aside>
         <div class="container">
-            <div class="row text-center text-uppercase">
-                <h1 id="month"></h1>
-                <h3 class="fuso">GMT Time</h3>
+            <div class="row text-center">
+                <a class="prev bigSee" href="#">
+                    <div class="arrow-left"></div>
+                </a>                
+                <div class="center-arrow text-center"> <!-- col-lg-8 col-md-8 col-sm-8 -->
+                    <h1 id="month" class="text-uppercase"></h1>
+                    <h3 class="fuso">GMT Time</h3>
+                </div>                
+                <a class="next bigSee" href="#" onclick="empty()">
+                    <div class="arrow-right"></div>
+                </a>
             </div>
         </div>
     </aside>
@@ -317,8 +324,7 @@ and open the template in the editor.
 
     <!-- Plugin JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
-    
-    <script src="assets/js/modal.js"></script>
+        
     <script src="assets/js/load.js"></script>
     
     

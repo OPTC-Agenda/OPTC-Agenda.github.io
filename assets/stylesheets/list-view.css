@@ -156,10 +156,6 @@ div.inline {
 }
 
 @media (min-width: 1110px) {
-    .navbar-nav.navbar-left {
-
-    }
-    
     .justified {
         position:absolute;
         left: 50%;
@@ -182,11 +178,23 @@ div.inline {
     }
 }
 
+.littleSee {
+     visibility: hidden;
+}
+
 @media (max-width: 767px){
     .day-row {
         margin: 0 10%;
     }
+    
+    .bigSee {
+        display: none;
+    }
 
+    .littleSee {
+        visibility: visible;
+    }
+    
     .navbar-left li {
         font-weight: bold;
     }
@@ -220,3 +228,26 @@ form {
 .fuso {
     margin: 5px 0 0 0;
 }
+
+.arrow-left, .arrow-right {    
+    height: 80px;
+    width: 106px;
+}
+
+.arrow-left {
+    float: left;
+    margin-left: 6px;
+    background-image: url("../images/others/left.png");
+}
+
+.arrow-right {
+    float: right;
+    margin-right: 6px;
+    background-image: url("../images/others/right.png");
+}
+
+.arrow-left, .center-arrow, .arrow-right{
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+

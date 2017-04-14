@@ -7,6 +7,14 @@
             ],
             "linkDB" : "http://optc-db.github.io/characters/#/view/417"
         }, 
+    "Blackbeard" : {
+            "large": "assets/images/raid/big/blackbeard.png",
+            "tiny": "assets/images/raid/tiny/blackbeard.png",
+            "lastTimes": [
+                ""
+            ],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/446"
+        },         
     "Mihawk" : {
             "large": "assets/images/raid/big/mihawk.png",
             "tiny": "assets/images/raid/tiny/mihawk.png",
@@ -52,5 +60,11 @@
             "tiny": "assets/images/raid/tiny/akainu.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/1298"
+        }, 
+    "Whitebeard": {
+            "large": "assets/images/raid/big/whitebeard.png",
+            "tiny": "assets/images/raid/tiny/whitebeard.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1257"
         }        
 }

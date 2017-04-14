@@ -72,7 +72,7 @@ footer {
     background-repeat: no-repeat;
     background-size: contain;
     display: block; 
-    max-width: 65px;
+    max-width: 64px;
     max-height: 70px;
     width: 80px;
     height: 80px;
@@ -199,7 +199,7 @@ div.inline {
     max-width: 50vw;
 }
 
-#fnDrops, #fnBooks{
+#fnDrops, #fnBooks, #specialDrops{
     display: table;
     margin: 0 auto;
 }
@@ -211,4 +211,8 @@ form {
 .counter {
     display: table;
     margin: 0 auto;
+}
+
+.fuso {
+    margin: 5px 0 0 0;
 }

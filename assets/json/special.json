@@ -1,0 +1,16 @@
+{
+    "Cotton": {
+        "title": "Resteurant Le Crap!",
+        "large": "assets/images/fn/big/cotton.png",
+        "tiny": "assets/images/fn/tiny/cotton.png",
+        "lastTimes": [],
+        "drops": ["RCV", "ATK", "HP", "AllCotton", "Cola"]
+    },
+    "CottonEgg": {
+        "title": "Resteurant Le Crap! Easter Brunch!",
+        "large": "assets/images/fn/big/cotton.png",
+        "tiny": "assets/images/fn/tiny/cotton.png",
+        "lastTimes": [],
+        "drops": ["EggRCV", "EggATK", "EggHP", "Cola"]
+    }
+}

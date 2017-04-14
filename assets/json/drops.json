@@ -178,5 +178,29 @@
     },
     "Mozu"  : {
         "id" : "339"
-    }    
+    },
+    "EggRCV": {
+        "image" : "assets/images/special/EggRCV.png"
+    }, 
+    "EggATK": {
+        "image" : "assets/images/special/EggATK.png"
+    }, 
+    "EggHP": {
+        "image" : "assets/images/special/EggHP.png"
+    },
+    "RCV": {
+        "image" : "assets/images/special/rcv.png"
+    },
+    "ATK": {
+        "image" : "assets/images/special/atk.png"
+    },
+    "HP": {
+        "image" : "assets/images/special/hp.png"
+    },
+    "AllCotton" : {
+        "image" : "assets/images/special/all.png"
+    },
+    "Cola" : {
+        "image" : "assets/images/special/cola.png"
+    }
 }

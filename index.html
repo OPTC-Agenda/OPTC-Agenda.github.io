@@ -68,6 +68,7 @@ and open the template in the editor.
                                 <li><input type="checkbox" id="showRaid" name="showRaid" value="showRaid" checked> Show Raids<br></li>
                                 <li><input type="checkbox" id="showColiseum" name="showColiseum" value="showColiseum" checked> Show Coliseums<br></li>      
                                 <li><input type="checkbox" id="showFortnights" name="showFortnights" value="showFortnights" checked> Show Fortnights<br></li>                                      
+                                <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials<br></li>  
                             </form>
                         </ul>                        
                     </li>                    
@@ -77,7 +78,7 @@ and open the template in the editor.
                             <li><a href="https://www.youtube.com/user/Zeen09" target="_blank">Zeenigami</a></li>
                             <li><a href="https://www.youtube.com/user/MrJinrongbin1990" target="_blank">Fabio OPTC</a></li>
                             <li><a href="https://www.youtube.com/channel/UC0bYIJcwAclP9gqFyxoh1Og" target="_blank">Toadskii</a></li>
-<!--                            <li><a href="https://www.youtube.com/user/mathemetals" target="_blank">The Shattered Fortress</a></li>-->
+                            <li><a href="https://www.youtube.com/user/LindirsCube" target="_blank">7 Days OPTC</a></li>
                             <li><a href="https://www.youtube.com/channel/UCjzTdyI3njpGVHfqqfiS3sw" target="_blank">The Cula</a></li>                            
                         </ul>
                     </li>
@@ -91,6 +92,7 @@ and open the template in the editor.
         <div class="container">
             <div class="row text-center text-uppercase">
                 <h1 id="month"></h1>
+                <h3 class="fuso">GMT Time</h3>
             </div>
         </div>
     </aside>
@@ -99,31 +101,31 @@ and open the template in the editor.
         <div class="container section-div">
             <div class="row day-row">
                 <div id="day1" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list1" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list1" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>
             <div class="row day-row">
                 <div id="day2" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list2" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list2" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>
             <div class="row day-row">
                 <div id="day3" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list3" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list3" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>
             <div class="row day-row">
                 <div id="day4" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list4" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list4" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>            
             <div class="row day-row">
                 <div id="day5" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list5" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list5" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>     
             <div class="row day-row">
                 <div id="day6" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list6" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list6" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>    
             <div class="row day-row">
                 <div id="day7" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
-                <div id="list7" class="col-xl-9 col-lg-9 col-md-9 col-sm-9 col-xs-12 img-list"></div>                 
+                <div id="list7" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
             </div>             
         </div>
     </section>
@@ -215,10 +217,10 @@ and open the template in the editor.
                             <hr>
                             <div id="fnImage"></div>
 
-                            <h3>Drops avaible:</h3>
+                            <h3>Drops available :</h3>
                             <div id="fnDrops"></div>                        
 
-                            <h3>Books avaible:</h3>                                   
+                            <h3>Books available :</h3>                                   
                             <div id="fnBooks"></div>
 
 <!--                            <h3>Past events:</h3>
@@ -233,6 +235,37 @@ and open the template in the editor.
             </div>
         </div>
     </div>
+    
+    <div class="raid-modal modal fade" id="viewSpecialModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="specialBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="specialImage"></div>
+
+                            <h3>Drops available :</h3>
+                            <div id="specialDrops"></div>                        
+<!--                            <h3>Past events:</h3>
+                            <ul id="fnLast" class="list-inline">
+                                <li>01/02/2017</li>
+                                <li>17/03/2017</li>
+                            </ul>-->
+                            <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>          
+            </div>
+        </div>
+    </div>    
     
     <div class="modal fade" id="errorModal" role="dialog">
         <div class="modal-dialog" role="document">

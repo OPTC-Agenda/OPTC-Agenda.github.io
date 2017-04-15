@@ -235,5 +235,47 @@
     },        
     "BrookHalloween" : {
         "id" : "769"
-    }       
+    },
+    "KoalaKarate" : {
+        "id" : "1241"
+    },        
+    "HackKarate" : {
+        "id" : "1243"
+    },        
+    "Camie" : {
+        "id" : "634"
+    },
+    "Hatchan" : {
+        "id" : "637"
+    },        
+    "Pappagu" : {
+        "id" : "636"
+    },
+    "ToySoldier" : {
+        "id" : "1383"
+    }, 
+    "RebeccaKid" : {
+        "id" : "1385"
+    }, 
+    "LucciFN" : {
+        "id" : "321"
+    },
+    "KakuFn" : {
+        "id" : "323"
+    },
+    "LuluFN" : {
+        "id" : "325"
+    }, 
+    "SengokuFN" : {
+        "id" : "1415"
+    },
+    "Ronse" : {
+        "id" : "1417"
+    },
+    "Stainless" : {
+        "id" : "1418"
+    },
+    "Unknown" : {
+        "id" : "noimage"
+    }
 }

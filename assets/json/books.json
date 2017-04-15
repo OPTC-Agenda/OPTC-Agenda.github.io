@@ -69,7 +69,6 @@
         "id" : "219"
     },
     "DemolisherGunner": {
-
         "id" : "631"
     },
     "KakuSixPowers": { 
@@ -431,5 +430,134 @@
     },
     "ZoroCode" : {
         "id" : "1175"
+    },
+    "Kaya" : {
+        "id" : "502"
+    },
+    "BluenoStory" : {
+        "id" : "707"
+    },
+    "Macro" : {
+        "id" : "955"
+    },
+    "SaintShalria" : {
+        "id" : "965"
+    },
+    "KidStory" : {
+        "id" : "966"
+    },
+    "Hajrudin" : {
+        "id" : "1031"
+    },
+    "Kyros" : {
+        "id" : "1081"
+    },
+    "Hatchi" : {
+        "id" : "64"
+    },
+    "GiantWarriorGreen" : {
+        "id" : "370"
+    },
+    "MissMerryChristmas" : {
+        "id" : "396"
+    },
+    "Namule" : {
+        "id" : "451"
+    },
+    "Shura" : {
+        "id" : "464"
+    },        
+    "Pappagu" : {
+        "id" : "636"
+    },
+    "FrankyStraw" : {
+        "id" : "739"
+    },
+    "Lucci6" : {
+        "id" : "748"
+    },
+    "Monet" : {
+        "id" : "842"
+    },
+    "Buffalo" : {
+        "id" : "846"
+    },
+    "Ricky" : {
+        "id" : "1075"
+    },
+    "Saldeath" : {
+        "id" : "1154"
+    },
+    "ArmyWolf" : {
+        "id" : "1155"
+    },
+    "Sentomaru" : {
+        "id" : "1230"
+    },
+    "TashigiG5" : {
+        "id" : "1234"
+    },
+    "Gin" : {
+        "id" : "54"
+    },
+    "Ace4" : {
+        "id" : "74"
+    },
+    "StreamingWolfZoro" : {
+        "id" : "218"
+    },
+    "Taralan" : {
+        "id" : "813"
+    },
+    "Doffy6" : {
+        "id" : "870"
+    },
+    "SenorPink" : {
+        "id" : "874"
+    },
+    "Bastille" : {
+        "id" : "1223"
+    },
+    "Maynard" : {
+        "id" : "1236"
+    },
+    "Burgess" : {
+        "id" : "1274"
+    },
+    "Shiryu" : {
+        "id" : "1276"
+    },    
+    "Stainless" : {
+        "id" : "1418"
+    },
+    "Law" : {
+        "id" : "308"
+    },    
+    "RobinCry" : {
+        "id" : "709"
+    },    
+    "Absalom" : {
+        "id" : "892"
+    },    
+    "Usopp3D2Y" : {
+        "id" : "941"
+    },    
+    "Machvise" : {
+        "id" : "991"
+    },    
+    "AkainuStory" : {
+        "id" : "1283"
+    },    
+    "Zoro6" : {
+        "id" : "1362"
+    },    
+    "RobinTS" : {
+        "id" : "1408"
+    },    
+    "SanjiMakingFood" : {
+        "id" : "1414"
+    },    
+    "Robin5+" : {
+        "id" : "1549"
     }
 }

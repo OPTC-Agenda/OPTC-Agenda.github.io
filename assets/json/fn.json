@@ -172,23 +172,50 @@
             "large": "assets/images/fn/big/revolutionary_army.png",
             "tiny": "assets/images/fn/tiny/revolutionary_army.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Kaya", "BluenoStory", "JabraStrong", "Macro", "SaintShalria", "KidStory", "Hajrudin", "Bartolomeo6", "Kyros"],
+            "drops" : ["KoalaKarate", "HackKarate"]
         },
     "Camie": {
-            "title" : "Camie & Hatchan’s Musical Festival",
+            "title" : "Camie & Hatchan's Musical Festival",
             "large": "assets/images/fn/big/camie.png",
             "tiny": "assets/images/fn/tiny/camie.png",
             "lastTimes": [],
-            "books" : [],
-            "drops" : []
+            "books" : ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
+            "drops" : ["Camie", "Hatchan", "Pappagu"]
         },
     "Soldatino": {
-            "title" : "Soldatino & Rebecca!",
+            "title" : "Soldier-san's Training!",
             "large": "assets/images/fn/big/rebecca_and_kyros.png",
             "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
             "lastTimes": [],
-            "books" : [],
+            "books" : ["FrankyStraw", "Lucci6", "Monet", "Buffalo", "Ricky", "Saldeath", "ArmyWolf", "Sentomaru", "TashigiG5"],
+            "drops" : ["ToySoldier", "RebeccaKid"]
+        },
+    "Lucci": {
+            "title" : "Lucci's Artisan Spirit",
+            "large": "assets/images/fn/big/lucci.png",
+            "tiny": "assets/images/fn/tiny/lucci.png",
+            "lastTimes": [],
+            "books" : ["TonyTonyChopper", "Gin", "Ace4", "Ace", "StreamingWolfZoro", "Marco"],
+            "drops" : ["LucciFN", "KakuFn", "LuluFN"]
+        },
+    "Sengoku": {
+            "title" : "Marines! Sengoku the Fleet Admiral!",
+            "large": "assets/images/fn/big/sengoku.png",
+            "tiny": "assets/images/fn/tiny/sengoku.png",
+            "lastTimes": [],
+            "books" : ["Jozu", "Taralan", "Doffy6", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
+            "drops" : ["SengokuFN", "Ronse", "Stainless"]
+        },
+    "Elizabello": {
+            "title" : "Prodence kingdom",
+            "large": "assets/images/fn/big/elizabello.png",
+            "tiny": "assets/images/fn/tiny/elizabello.png",
+            "lastTimes": [],
+            "books" : ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "SanjiMakingFood", "Robin5+"],
             "drops" : []
-        }             
+        }
+        
+        
+        
 }

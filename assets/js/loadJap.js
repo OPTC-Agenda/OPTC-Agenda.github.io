@@ -292,9 +292,15 @@ function monthDays(month, day) {
     }
 
     if (day + 1 > max) {
-        newDay = 1;
+        newDay = 1;        
     } else {
         newDay = day + 1;
+    }
+    
+    if(month == "April"){
+        if(day == 30){
+            newDay = 1;
+        }
     }
 
     return newDay;
@@ -419,7 +425,7 @@ function fnModal(character) {
         $("#fnLast").append("<li>" + last[i] + "</li>");
     }
 
-    for (i = 0; i < drops.length; i++) {
+    for (i = 0; i < drops.length; i++) {        
         var drop = drops[i];
         var toDrop = dropList[drops[i]];
         var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
@@ -600,9 +606,10 @@ function nextWeek(day, newMonth) {
         showSpecial(false);    
 
         for (i = 0; i < 7; i++) {
-            // Gestione giorni
             if (i != 0) {
+                console.log("prev: " + prev + ", mese: " + month);
                 prev = monthDays(month, prev);
+                console.log("new day: " + prev);
                 $("#day" + (i + 1)).append(prev);
             }
         }

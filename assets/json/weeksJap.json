@@ -32,34 +32,34 @@
             "program": [                
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["Duval"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 23,
             "month" : "April",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 30,
             "month" : "April",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

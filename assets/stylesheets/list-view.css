@@ -256,6 +256,13 @@ div.inline {
     max-width: 50vw;
 }
 
+#fnImage img {
+    max-height: 35vh;
+    max-width: 35vh;
+    display: table;
+    margin: 0 auto;
+}
+
 #fnDrops, #fnBooks, #specialDrops{
     display: table;
     margin: 0 auto;

@@ -256,9 +256,8 @@ div.inline {
     max-width: 50vw;
 }
 
-#fnImage img {
-    max-height: 35vh;
-    max-width: 35vh;
+#fnImage img {    
+    max-width: 50vh;
     display: table;
     margin: 0 auto;
 }

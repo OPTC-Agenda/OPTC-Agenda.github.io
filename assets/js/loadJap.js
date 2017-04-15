@@ -50,7 +50,7 @@ function showRaid(flag) {
         var start = $("#day1").text();
         var month = $("#month").text();
 
-        $.getJSON("assets/json/weeks.json", function (json) {
+        $.getJSON("assets/json/weeksJap.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
@@ -105,7 +105,7 @@ function showColo(flag) {
         var start = $("#day1").text();
         var month = $("#month").text();
 
-        $.getJSON("assets/json/weeks.json", function (json) {
+        $.getJSON("assets/json/weeksJap.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
@@ -161,7 +161,7 @@ function showFN(flag) {
         var start = $("#day1").text();
         var month = $("#month").text();
 
-        $.getJSON("assets/json/weeks.json", function (json) {
+        $.getJSON("assets/json/weeksJap.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
@@ -217,7 +217,7 @@ function showSpecial(flag){
         var start = $("#day1").text();
         var month = $("#month").text();
 
-        $.getJSON("assets/json/weeks.json", function (json) {
+        $.getJSON("assets/json/weeksJap.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
@@ -544,7 +544,7 @@ function nextWeek(day, newMonth) {
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
     var month = newMonth;
 
-    $.getJSON("assets/json/weeks.json", function (json) {
+    $.getJSON("assets/json/weeksJap.json", function (json) {
         var weeks = json.weeks;
 //        var start = json.weeks[0].starting;        
         var prev = day;
@@ -563,7 +563,6 @@ function nextWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");                    
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -575,7 +574,6 @@ function nextWeek(day, newMonth) {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
-                    $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");
@@ -619,7 +617,7 @@ function prevWeek(day, newMonth) {
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
     var month = newMonth;
 
-    $.getJSON("assets/json/weeks.json", function (json) {
+    $.getJSON("assets/json/weeksJap.json", function (json) {
         var weeks = json.weeks;
 //        var start = json.weeks[0].starting;        
         var prev = day;
@@ -638,7 +636,6 @@ function prevWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");          
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -650,7 +647,6 @@ function prevWeek(day, newMonth) {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
-                    $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");
@@ -718,7 +714,7 @@ function firstLoad() {
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
     var month = numberToMonth(lastMonth);
 
-    $.getJSON("assets/json/weeks.json", function (json) {
+    $.getJSON("assets/json/weeksJap.json", function (json) {
         var weeks = json.weeks;
         var prev = start;
         var previousWeek;
@@ -736,7 +732,6 @@ function firstLoad() {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");          
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -748,7 +743,6 @@ function firstLoad() {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
-                    $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");

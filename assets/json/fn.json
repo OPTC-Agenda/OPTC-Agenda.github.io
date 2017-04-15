@@ -164,7 +164,31 @@
             "large": "assets/images/fn/big/halloween_strawhats_2.png",
             "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
             "lastTimes": [],
-            "books" : [],
+            "books" : ["UsoppImpact", "Rayleigh", "Jinbe", "Bellamy", "SWZoro", "Foxy", "Purinpurin", "Franky", "ZoroCode"],
             "drops" : ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
-        }                
+        },
+    "RevolutionaryArmy": {
+            "title" : "Revolutionary Armed Forces!",
+            "large": "assets/images/fn/big/revolutionary_army.png",
+            "tiny": "assets/images/fn/tiny/revolutionary_army.png",
+            "lastTimes": [],
+            "books" : [],
+            "drops" : []
+        },
+    "Camie": {
+            "title" : "Camie & Hatchan’s Musical Festival",
+            "large": "assets/images/fn/big/camie.png",
+            "tiny": "assets/images/fn/tiny/camie.png",
+            "lastTimes": [],
+            "books" : [],
+            "drops" : []
+        },
+    "Soldatino": {
+            "title" : "Soldatino & Rebecca!",
+            "large": "assets/images/fn/big/rebecca_and_kyros.png",
+            "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
+            "lastTimes": [],
+            "books" : [],
+            "drops" : []
+        }             
 }

@@ -90,5 +90,11 @@
             "tiny": "assets/images/raid/tiny/magellan.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/1373"
-        }            
+        },
+    "NightmareLuffy": {
+            "large": "assets/images/raid/big/nightmare_luffy.png",
+            "tiny": "assets/images/raid/tiny/nightmare_luffy.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/794"
+        }             
 }

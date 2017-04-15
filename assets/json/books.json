@@ -407,5 +407,29 @@
     },       
     "HikingBear" : {
         "id" : "610"
+    },
+    "Rayleigh" : {
+        "id" : "367"
+    },
+    "Jinbe" : {
+        "id" : "410"
+    },
+    "Bellamy" : {
+        "id" : "431"
+    },
+    "SWZoro" : {
+        "id" : "554"
+    },
+    "Foxy" : {
+        "id" : "569"
+    },
+    "Purinpurin" : {
+        "id" : "611"
+    },
+    "Franky" : {
+        "id" : "629"
+    },
+    "ZoroCode" : {
+        "id" : "1175"
     }
 }

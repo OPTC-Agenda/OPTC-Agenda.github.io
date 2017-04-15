@@ -96,5 +96,11 @@
             "tiny": "assets/images/raid/tiny/nightmare_luffy.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/794"
-        }             
+        },
+    "Shiki": {
+            "large": "assets/images/raid/big/shiki.png",
+            "tiny": "assets/images/raid/tiny/shiki.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1107"
+        }                
 }

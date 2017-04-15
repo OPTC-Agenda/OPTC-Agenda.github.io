@@ -359,5 +359,53 @@
     },
     "Mozu"  : {
         "id" : "339"
-    }     
+    },
+    "Bartolomeo6"  : {
+        "id" : "1035"
+    }, 
+    "UsoppTS" : {
+        "id" : "1406"
+    }, 
+    "Nami3D2Y" : {
+        "id" : "939"
+    },
+    "DiableJambe" : {
+        "id" : "20"
+    },
+    "Sanji5+": {
+        "id" : "1447"
+    }, 
+    "SengokuINT" : {
+        "id" : "1282"
+    },
+    "JohnGiant" : {
+        "id" : "1279"
+    },
+    "Killer" : {
+        "id" : "312"
+    },
+    "BrookTS": {
+        "id" : "1410"
+    },
+    "CrocoSlasher": {
+        "id" : "408"
+    },
+    "Masira": {
+        "id" : "426"
+    },
+    "UsoppSW": {
+        "id" : "556"
+    },
+    "UsoppCode": {
+        "id" : "1210"
+    },   
+    "Hamburg": {
+        "id" : "565"
+    },   
+    "Crocus": {
+        "id" : "588"
+    },       
+    "HikingBear" : {
+        "id" : "610"
+    }
 }

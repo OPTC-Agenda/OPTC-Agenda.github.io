@@ -172,8 +172,8 @@ function showFN(flag) {
                 }
             }
 
-            for (i = 0; i < 7; i++) {
-                var fn = json.weeks[cont].program[i].fn;
+            for (i = 0; i < 7; i++) {                
+                var fn = weeks[cont].program[i].fn;
                 if (fn[0] != "none") {
                     for (j = 0; j < fn.length; j++) {
                         var character = fn[j];
@@ -563,6 +563,7 @@ function nextWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -574,6 +575,7 @@ function nextWeek(day, newMonth) {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("href", "#");                    
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");
@@ -636,6 +638,7 @@ function prevWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -647,6 +650,7 @@ function prevWeek(day, newMonth) {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("href", "#");                    
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");
@@ -710,7 +714,7 @@ function firstLoad() {
     // Day from the agenda has to start
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate() + 1;
+    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
     var month = numberToMonth(lastMonth);
 
@@ -732,6 +736,7 @@ function firstLoad() {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
                     $(".next").attr("data-toggle", "modal");                    
@@ -743,6 +748,7 @@ function firstLoad() {
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
                     $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
                     $(".prev").attr("data-toggle", "modal");

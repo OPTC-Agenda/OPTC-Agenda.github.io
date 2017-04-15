@@ -72,5 +72,23 @@
             "tiny": "assets/images/raid/tiny/duval.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/652"
-        }               
+        },
+    "Heracles": {
+            "large": "assets/images/raid/big/heracles.png",
+            "tiny": "assets/images/raid/tiny/heacles.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/515"
+        },
+    "Eneru": {
+            "large": "assets/images/raid/big/eneru.png",
+            "tiny": "assets/images/raid/tiny/eneru.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/602"
+        },
+    "Magellan": {
+            "large": "assets/images/raid/big/magellan.png",
+            "tiny": "assets/images/raid/tiny/magellan.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1373"
+        }            
 }

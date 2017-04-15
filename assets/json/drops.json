@@ -202,5 +202,38 @@
     },
     "Cola" : {
         "image" : "assets/images/special/cola.png"
-    }
+    },
+    "BrookSoulKing" : {
+        "id" : "1546"
+    },
+    "BrookManager" : {
+        "id" : "1548"
+    },
+    "LuffyHalloween" : {
+        "id" : "761"
+    },
+    "UsoppHalloween" : {
+        "id" : "762"
+    },        
+    "FrankyHalloween" : {
+        "id" : "763"
+    },
+    "NamiHalloween" : {
+        "id" : "764"
+    },        
+    "ChopperHalloween" : {
+        "id" : "765"
+    },
+    "ZoroHalloween" : {
+        "id" : "766"
+    },       
+    "RobinHalloween" : {
+        "id" : "767"
+    },
+    "SanjiHalloween" : {
+        "id" : "768"
+    },        
+    "BrookHalloween" : {
+        "id" : "769"
+    }       
 }

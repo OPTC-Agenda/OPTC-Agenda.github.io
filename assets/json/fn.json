@@ -142,5 +142,29 @@
             "lastTimes": [],
             "books" : ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
             "drops" : ["Franky", "Kiwi", "Mozu"]
-        }    
+        },
+    "SoulKing": {
+            "title" : "Soul King!",
+            "large": "assets/images/fn/big/soul_king.png",
+            "tiny": "assets/images/fn/tiny/soul_king.png",
+            "lastTimes": [],
+            "books" : ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
+            "drops" : ["BrookSoulKing", "BrookManager"]
+        },
+    "LuffyHalloweenJAP": {
+            "title" : "Twilight Party DEAD or TREAT!! ",
+            "large": "assets/images/fn/big/halloween_strawhats.png",
+            "tiny": "assets/images/fn/tiny/halloween_strawhats.png",
+            "lastTimes": [],
+            "books" : ["G3", "Whitebeard", "CrocoSlasher", "Masira", "UsoppSW", "Hamburg", "Crocus", "HikingBear", "UsoppCode", "Whitebeard4Emperors"],            
+            "drops" : ["LuffyHalloween", "UsoppHalloween", "FrankyHalloween", "NamiHalloween", "ChopperHalloween"]
+        },
+    "ZoroHalloweenJAP": {
+            "title" : "Midnight Party DEAD or TREAT!!",
+            "large": "assets/images/fn/big/halloween_strawhats_2.png",
+            "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
+            "lastTimes": [],
+            "books" : [],
+            "drops" : ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
+        }                
 }

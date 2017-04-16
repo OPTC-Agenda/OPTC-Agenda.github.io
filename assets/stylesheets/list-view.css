@@ -223,22 +223,22 @@ div.inline {
     }
 }
 
-.littleSee {
+/*.littleSee {
      visibility: hidden;
-}
+}*/
 
 @media (max-width: 768px){
     .day-row {
         margin: 0 10%;
     }
     
-    .bigSee {
+/*    .bigSee {
         display: none;
-    }
-
+    }*/
+/*
     .littleSee {
         visibility: visible;
-    }
+    }*/
     
     .navbar-left li {
         font-weight: bold;
@@ -315,6 +315,25 @@ form {
     margin-left: 2%;
 }   
 
-@media screen and (min-width: 1200px){
+.change-img {
+    float: right;
+    display: inline-block;
+    max-height: 50px;
+    max-width: 50px;       
+}
 
+.title-div {
+    width: 100%;
+}
+
+.title-div .row {
+    text-align: center;
+}
+
+.title-div .row h1 {
+    display: inline-block;
+}
+
+.a-img {
+    padding: 0 15px;
 }

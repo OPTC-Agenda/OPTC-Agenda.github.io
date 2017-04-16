@@ -8,8 +8,24 @@ $(window).bind("load", function () {
     setMargin();
 });
 
+function showIcon(){
+    console.log("entro");
+//    $(window).resize(function(){
+        if ($(this).width() <= 768) {
+            console.log("Piccolo");
+            $('.littleSee').show();
+            $('.bigSee').hide();
+        } else {
+            console.log("Grande");
+            $('.littleSee').hide();
+            $('.bigSee').show();
+        }
+    //});
+}
+
 $(document).ready(function () {
 
+    showIcon();
     setMargin();
     firstLoad();
 

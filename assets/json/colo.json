@@ -92,5 +92,47 @@
         "tiny": "assets/images/colo/tiny/sadie.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/926"
+    },
+    "LuckyRoo": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0777.png",
+        "tiny": "assets/images/colo/tiny/lucky_roux.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/777"
+    },
+    "Diamante": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1422.png",
+        "tiny": "assets/images/colo/tiny/diamante.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1422"
+    },
+    "Doma": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1252.png",
+        "tiny": "assets/images/colo/tiny/doma.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1252"
+    },
+    "Binz": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1106.png",
+        "tiny": "assets/images/colo/tiny/binz.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1106"
+    },
+    "Ryuma": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1555.png",
+        "tiny": "assets/images/colo/tiny/ryuma.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1555"
+    },
+    "Hajrudin": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1553.png",
+        "tiny": "assets/images/colo/tiny/hajrudin.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1553"
+    },
+    "Marco": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1251.png",
+        "tiny": "assets/images/colo/tiny/marco.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1251"
     }
 }

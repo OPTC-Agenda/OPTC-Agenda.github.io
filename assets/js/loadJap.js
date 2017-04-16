@@ -8,8 +8,24 @@ $(window).bind("load", function () {
     setMargin();
 });
 
+function showIcon(){
+    console.log("entro");
+    //$(window).resize(function(){
+        if ($(this).width() <= 768) {
+            console.log("Piccolo");
+            $('.littleSee').show();
+            $('.bigSee').hide();
+        } else {
+            console.log("Grande");
+            $('.littleSee').hide();
+            $('.bigSee').show();
+        }
+    //});
+}
+
 $(document).ready(function () {
 
+    showIcon();
     setMargin();
     firstLoad();
 
@@ -119,9 +135,9 @@ function showColo(flag) {
             for (i = 0; i < 7; i++) {
                 var colo = json.weeks[cont].program[i].colo;
                 if (colo[0] != "none") {
-                    for (j = 0; j < colo.length; j++) {
-                        var character = colo[j];
-                        var tiny = coloList[character].tiny;
+                    for (j = 0; j < colo.length; j++) {                        
+                        var character = colo[j];                       
+                        var tiny = coloList[character].tiny;                        
                         var foo = 'coloModal(\'' + character + '\')';
 
                         $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");

@@ -134,5 +134,11 @@
         "tiny": "assets/images/colo/tiny/marco.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1251"
+    },
+    "Cavendish": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1529.png",
+        "tiny": "assets/images/colo/tiny/cavendish.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1529"
     }
 }

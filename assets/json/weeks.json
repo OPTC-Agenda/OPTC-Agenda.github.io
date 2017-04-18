@@ -7,10 +7,10 @@
                 {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]}
             ]
         },{
             "starting": 3,
@@ -19,10 +19,10 @@
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["CottonEgg"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["CottonEgg"]},
                 {"raid": ["Boa"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["none"], "special" : ["CottonEgg"]}
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["CottonEgg"]}
             ]     
         },{
             "starting": 10,
@@ -31,10 +31,10 @@
                 {"raid": ["Usopp"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["CottonEgg"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
                 {"raid": ["Chopper"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["CottonEgg"]}
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["CottonEgg"]}
             ]     
         },{
             "starting": 17,
@@ -43,10 +43,10 @@
                 {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["World", "Crocodile", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Crocodile", "Alvida"], "special" : ["none"]},
                 {"raid": ["Akainu", "Whitebeard"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"], "special" : ["none"]},
-                {"raid": ["Boa", "Whitebeard"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Blackbeard", "Whitebeard"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Boa", "Whitebeard"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Crocodile", "Alvida"], "special" : ["none"]},
+                {"raid": ["Blackbeard", "Whitebeard"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Crocodile", "Alvida"], "special" : ["none"]}
             ]     
         },{
             "starting": 24,
@@ -55,10 +55,10 @@
                 {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["Duval"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["WhitebeardCommanders", "Franky"], "special" : ["none"]}
             ]     
         },{
             "starting": 1,

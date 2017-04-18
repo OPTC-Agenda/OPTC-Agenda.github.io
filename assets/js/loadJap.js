@@ -444,7 +444,11 @@ function fnModal(character) {
     for (i = 0; i < drops.length; i++) {        
         var drop = drops[i];
         var toDrop = dropList[drops[i]];
-        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
+        if(toDrop.hasOwnProperty('missing')){
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/themes/onepiece-treasurecruise/images/noimage.png";
+        } else {
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
+        }
         var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
         $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }

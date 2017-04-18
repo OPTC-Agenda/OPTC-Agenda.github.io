@@ -275,7 +275,12 @@
     "Stainless" : {
         "id" : "1418"
     },
-    "Unknown" : {
-        "id" : "noimage"
+    "Elizabello" : {
+        "id" : "1563",
+        "missing" : "yes"
+    }, 
+    "Dagama" : {
+        "id" : "1565",
+        "missing" : "yes"
     }
 }

@@ -163,16 +163,11 @@ div.inline {
     
     .container {
         width: 85%;
-    }
-    
-    .arrow-top {
-        top: 34vh;
-    }
-    
-    .arrow-bottom {
-        bottom: -6vh;
-    }   
+    }     
 }
+
+
+
 @media (min-width: 200px)  {
     .navbar-nav.navbar-center {
         position: absolute;    
@@ -192,37 +187,7 @@ div.inline {
     .container {
         width: 75%;
     }
-    
-    .arrow-bottom {
-        bottom: -6vh;
-    }
-    
-    .arrow-top {
-        top: 33vh;
-    }
 }
-
-@media (min-width: 874px) and (max-width: 1003px){
-    .arrow-bottom {
-        bottom: -6vh;
-    }
-    
-    .arrow-top {
-        top: 33vh;
-    }
-    
-}
-
-@media (min-width: 768px) and (max-width: 874px){
-    .arrow-bottom {
-        bottom: -14vh;
-    }
-    
-    .arrow-top {
-        top: 39vh;
-    }
-}
-
 /*.littleSee {
      visibility: hidden;
 }*/
@@ -281,25 +246,24 @@ form {
 }
 
 .arrow-bottom, .arrow-top {    
-    height: 106px;
-    width: 80px;
+    height: 105px;
+    width: 80px;    
+    background-repeat: no-repeat;
+    left: 1%;
 }
 
 .arrow-bottom {    
-    margin-left: 6px;
     background-image: url("../images/others/bottom.png");
     position: absolute;
 }
 
 .arrow-top {
     position: absolute;
-    margin-right: 6px;
     background-image: url("../images/others/top.png");
 }
 
 .arrow-bottom, .center-arrow, .arrow-top{
-    display: inline-block;
-    background-repeat: no-repeat;
+    margin: 0;
 }
 
 .special {
@@ -310,10 +274,6 @@ form {
     border: 6px;
     background-color: wheat;
 }
-
-.arrow-bottom, .arrow-top {
-    margin-left: 2%;
-}   
 
 .change-img {
     float: right;
@@ -337,3 +297,4 @@ form {
 .a-img {
     padding: 0 15px;
 }
+

@@ -72,7 +72,7 @@ and open the template in the editor.
                         </li>
 
                         <li class="littleSee">
-                            <a href="jap.html">Switch to JAP!</a>
+                            <b><a href="jap.html">Switch to JAP!</a></b>
                         </li>
                         
                         <li>
@@ -132,12 +132,16 @@ and open the template in the editor.
             </div>
         </aside>
 
-        <a class="prev bigSee" href="#" onclick="empty()">
+<!--        <a class="prev bigSee" href="#" onclick="empty()">
             <div class="arrow-top"></div>
-        </a>    
+        </a>    -->
 
         <section>               
             <div class="container section-div">
+                <a class="prev bigSee" href="#" onclick="empty()">
+                    <div class="row arrow-top">                                        
+                    </div>
+                </a>
                 <div class="row day-row">
                     <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
                         <div id="day1"></div>
@@ -161,20 +165,22 @@ and open the template in the editor.
                     <div id="day5" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
                     <div id="list5" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
                 </div>     
+                <a class="next bigSee" href="#" onclick="empty()">
+                    <div class="row arrow-bottom">                                        
+                    </div>
+                </a>                
                 <div class="row day-row">
                     <div id="day6" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
                     <div id="list6" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
                 </div>    
+                
                 <div class="row day-row">
                     <div id="day7" class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day"></div>
                     <div id="list7" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list"></div>                 
-                </div>            
+                </div>  
+
             </div>            
         </section>
-
-        <a class="next bigSee" href="#">
-            <div class="arrow-bottom"></div>
-        </a>  
 
         <footer class="text-center">
             <form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post" target="_top">

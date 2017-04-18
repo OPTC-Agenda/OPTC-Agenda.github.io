@@ -212,10 +212,7 @@
             "large": "assets/images/fn/big/elizabello.png",
             "tiny": "assets/images/fn/tiny/elizabello.png",
             "lastTimes": [],
-            "books" : ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "SanjiMakingFood", "Robin5+"],
-            "drops" : []
-        }
-        
-        
-        
+            "books" : ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "ChopperTS", "Robin5+"],
+            "drops" : ["Elizabello", "Dagama"]
+        }                        
 }

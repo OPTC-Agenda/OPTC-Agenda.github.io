@@ -102,5 +102,11 @@
             "tiny": "assets/images/raid/tiny/shiki.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/1107"
-        }                
+        },
+    "Shanks": {
+            "large": "assets/images/raid/big/shanks.png",
+            "tiny": "assets/images/raid/tiny/shanks.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1379"
+        }                  
 }

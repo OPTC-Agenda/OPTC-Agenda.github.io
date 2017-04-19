@@ -298,3 +298,9 @@ form {
     padding: 0 15px;
 }
 
+.special-img {
+    height: 28px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../images/others/special_lvl_up_tiny.png');
+}

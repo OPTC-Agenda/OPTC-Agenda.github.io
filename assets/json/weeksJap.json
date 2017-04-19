@@ -35,7 +35,7 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]}
             ]     
         },
@@ -44,7 +44,7 @@
             "month" : "April",
             "program": [                
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["Pica"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
+                {"raid": ["Pica", "Shanks"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},

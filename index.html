@@ -19,8 +19,11 @@ and open the template in the editor.
         <!-- Bootstrap Core CSS -->
         <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">    
 
+        <!-- Font awesome -->
+        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+        
         <!-- Include main.css -->
-        <link rel="stylesheet" href="assets/stylesheets/list-view.css">
+        <link rel="stylesheet" href="assets/stylesheets/list-view.css">                
 
     </head>
     <body> 
@@ -193,6 +196,7 @@ and open the template in the editor.
         </section>
 
         <footer class="text-center">
+            <a href="https://twitter.com/OptcAgenda"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
             <form action="https://www.paypal.com/cgi-bin/webscr" target="_blank" method="post" target="_top" onsubmit="ga('send', 'event', 'Donation', 'button', 'Send Donation');">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
@@ -200,11 +204,11 @@ and open the template in the editor.
                 <input type="image" src="https://www.paypalobjects.com/it_IT/IT/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal è il metodo rapido e sicuro per pagare e farsi pagare online.">
                 <img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
             </form>
-
+                        
             <p>Made by Ibbus © 2017 - <a href="mailto:ibbus93@gmail.com">Contact the webmaster</a></p>
             <p>A special thanks to <a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC Italia</a> to provide the images to the website and to <a href="https://www.twitch.tv/maniakk1">Maniakk1</a> and _CannotDoThat_ to help with the jap contents </p>
-            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>
-            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>
+<!--            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>-->
+<!--            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>-->
         </footer>
 
         <div class="raid-modal modal fade" id="viewRaidModal" tabindex="-1" role="dialog" aria-hidden="true">

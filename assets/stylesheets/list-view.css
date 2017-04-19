@@ -197,13 +197,11 @@ div.inline {
         margin: 0 10%;
     }
     
-/*    .bigSee {
-        display: none;
-    }*/
-/*
-    .littleSee {
-        visibility: visible;
-    }*/
+    .arrow-bottom, .arrow-top {
+        position: static;
+        margin: 0 auto;
+        display: inline-block;
+    }
     
     .navbar-left li {
         font-weight: bold;
@@ -213,6 +211,12 @@ div.inline {
         position: relative;
         left: 0%;
         margin-left: 0;
+    }
+}
+
+@media (min-width: 769px){
+    .arrow-bottom, .arrow-top {
+        position: absolute;
     }
 }
 
@@ -249,16 +253,14 @@ form {
     height: 105px;
     width: 80px;    
     background-repeat: no-repeat;
-    left: 1%;
+    left: 1%;    
 }
 
 .arrow-bottom {    
-    background-image: url("../images/others/bottom.png");
-    position: absolute;
+    background-image: url("../images/others/bottom.png");    
 }
 
-.arrow-top {
-    position: absolute;
+.arrow-top {    
     background-image: url("../images/others/top.png");
 }
 
@@ -303,4 +305,9 @@ form {
     width: 100px;
     background-repeat: no-repeat;
     background-image: url('../images/others/special_lvl_up_tiny.png');
+}
+
+.little-view {
+    display: table;
+    margin: 0 auto;
 }

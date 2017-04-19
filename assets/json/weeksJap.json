@@ -49,20 +49,20 @@
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 30,
             "month" : "April",
             "program": [                
-                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]     
         }               
     ]

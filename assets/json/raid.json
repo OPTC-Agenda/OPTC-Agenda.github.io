@@ -114,5 +114,29 @@
             "tiny": "assets/images/raid/tiny/pica.png",
             "lastTimes": [],
             "linkDB" : "http://optc-db.github.io/characters/#/view/932"
-        }                    
+        },
+    "Tesoro": {
+            "large": "assets/images/raid/big/tesoro.png",
+            "tiny": "assets/images/raid/tiny/tesoro.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1162"
+        },
+    "Zephyr": {
+            "large": "assets/images/raid/big/zephyr.png",
+            "tiny": "assets/images/raid/tiny/zephyr.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/352"
+        },
+    "Franky": {
+            "large": "assets/images/raid/big/franky.png",
+            "tiny": "assets/images/raid/tiny/franky.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1431"
+        },
+    "Bellamy": {
+            "large": "assets/images/raid/big/bellamy.png",
+            "tiny": "assets/images/raid/tiny/bellamy.png",
+            "lastTimes": [],
+            "linkDB" : "http://optc-db.github.io/characters/#/view/1517"
+        }                              
 }

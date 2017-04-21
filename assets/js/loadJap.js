@@ -8,15 +8,12 @@ $(window).bind("load", function () {
     setMargin();
 });
 
-function showIcon(){
-    console.log("entro");
+function showIcon(){    
     //$(window).resize(function(){
-        if ($(this).width() <= 768) {
-            console.log("Piccolo");
+        if ($(this).width() <= 768) {            
             $('.littleSee').show();
             $('.bigSee').hide();
-        } else {
-            console.log("Grande");
+        } else {            
             $('.littleSee').hide();
             $('.bigSee').show();
         }
@@ -251,9 +248,14 @@ function showSpecial(flag){
                         var character = special[j];
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
+                        console.log(character);
+                        console.log(tiny);
 
-                        $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
-
+                        if(character != "Snail"){
+                            $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        } else {
+                            $("#list" + (i + 1)).append("<a href='#viewSpecialModal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        }
                     }
                 }
             }
@@ -626,10 +628,8 @@ function nextWeek(day, newMonth) {
         showSpecial(false);    
 
         for (i = 0; i < 7; i++) {
-            if (i != 0) {
-                console.log("prev: " + prev + ", mese: " + month);
-                prev = monthDays(month, prev);
-                console.log("new day: " + prev);
+            if (i != 0) {                
+                prev = monthDays(month, prev);                
                 $("#day" + (i + 1)).append(prev);
             }
         }

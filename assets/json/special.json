@@ -12,5 +12,8 @@
         "tiny": "assets/images/fn/tiny/cotton.png",
         "lastTimes": [],
         "drops": ["EggRCV", "EggATK", "EggHP", "Cola"]
+    },
+    "Snail": {
+        "tiny": "assets/images/special/snail.png"
     }
 }

@@ -280,5 +280,14 @@
     }, 
     "Dagama" : {
         "id" : "1565"
+    },
+    "AfroLuffy" : {
+        "id" : "570"
+    },
+    "AfroUsopp" : {
+        "id" : "572"
+    }, 
+    "AfroChopper" : {
+        "id" : "573"
     }
 }

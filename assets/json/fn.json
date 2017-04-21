@@ -214,5 +214,13 @@
             "lastTimes": [],
             "books" : ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "ChopperTS", "Robin5+"],
             "drops" : ["Elizabello", "Dagama"]
-        }                        
+        },
+    "AfroLuffy": {
+            "title" : "Brother Soul! Afro Luffy!",
+            "large": "assets/images/fn/big/afro_luffy.png",
+            "tiny": "assets/images/fn/tiny/afro_luffy.png",
+            "lastTimes": [],
+            "books" : ["Ace", "Bepo", "WapolStory", "Chessmarimo", "Kureha", "Jinbe", "SouthBird", "Bellamy"],
+            "drops" : ["AfroLuffy", "AfroUsopp", "AfroChopper"]
+        }                           
 }

@@ -132,7 +132,7 @@
             "large": "assets/images/fn/big/whitebeard_s_commanders.png",
             "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
             "lastTimes": [],
-            "books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWNami", "NewSWBrook", "NewSWChopper"],
+            "books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
             "drops" : ["RakuyoCommander" , "FossaCommander", "CurielCommander", "ThatchCommander"]
         },
     "Franky": {
@@ -222,5 +222,29 @@
             "lastTimes": [],
             "books" : ["Ace", "Bepo", "WapolStory", "Chessmarimo", "Kureha", "Jinbe", "SouthBird", "Bellamy"],
             "drops" : ["AfroLuffy", "AfroUsopp", "AfroChopper"]
-        }                           
+        },
+    "Violet": {
+            "title" : "Fugitive of Love and Passion!!",
+            "large": "assets/images/fn/big/violet.png",
+            "tiny": "assets/images/fn/tiny/violet.png",
+            "lastTimes": [],
+            "books" : ["Blamenco", "BearSkin", "Trebol", "LaoG", "Jinbe6", "SmokerPSYStory", "DocQ", "GarpSTR", "OnigumoINT"],
+            "drops" : ["VioletDancing", "SanjiLove"]
+        },
+    "Shambles": {
+            "title" : "Shambles! Tashigi and Smoker?!?",
+            "large": "assets/images/fn/big/shambles.png",
+            "tiny": "assets/images/fn/tiny/shambles.png",
+            "lastTimes": [],
+            "books" : ["NamiThunderbolt", "Izo", "LucciLeopard", "Caesar", "Baby5", "MagellanStory", "Kuzan", "SmokerG5", "BastilleG5", "Nami5+"],
+            "drops" : ["TashigiShambles", "SmokerShambles"]
+        },
+    "CalgaraNoland": {
+            "title" : "Led by the Light of Shandora! Calgara & Noland!",
+            "large": "assets/images/fn/big/noland.png",
+            "tiny": "assets/images/fn/tiny/noland.png",
+            "lastTimes": [],
+            "books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "ChopperLoyal"],
+            "drops" : ["Calgara", "Noland"]
+        }                             
 }

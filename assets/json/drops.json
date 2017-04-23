@@ -289,5 +289,23 @@
     }, 
     "AfroChopper" : {
         "id" : "573"
+    },
+    "VioletDancing" : {
+        "id" : "1449"
+    },
+    "SanjiLove" : {
+        "id" : "1451"
+    },
+    "TashigiShambles" : {
+        "id" : "1396"
+    }, 
+    "SmokerShambles" : {
+        "id" : "1398"
+    },
+    "Calgara" : {
+        "id" : "687"
+    }, 
+    "Noland" : {
+        "id" : "689"
     }
 }

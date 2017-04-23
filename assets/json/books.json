@@ -335,7 +335,7 @@
     "Iceburg" : {
         "id" : "793"
     },
-    "NewSWNami" : {
+    "NamiLoyal" : {
         "id" : "1119"
     },
     "NewSWBrook" : {
@@ -571,5 +571,68 @@
     },
     "SouthBird" : {
         "id" : "429"
+    },
+    "BearSkin" : {
+        "id" : "814"
+    },
+    "Trebol" : {
+        "id" : "876"
+    },
+    "LaoG" : {
+        "id" : "880"
+    },
+    "SmokerPSYStory" : {
+        "id" : "1226"
+    },
+    "DocQ" : {
+        "id" : "1278"
+    },
+    "GarpSTR" : {
+        "id" : "1318"
+    },
+    "OnigumoINT" : {
+        "id" : "1324"
+    },
+    "NamiThunderbolt" : {
+        "id" :  "12"
+    },
+    "LucciLeopard" : {
+        "id" : "737"
+    },
+    "Caesar" : {
+        "id" : "838"
+    },
+    "Baby5" : {
+        "id" : "844"
+    },
+    "MagellanStory" : {
+        "id" : "1159"
+    },
+    "Kuzan" : {
+        "id" : "1192"
+    },
+    "SmokerG5" : {
+        "id" : "1232"
+    },
+    "BastilleG5" : {
+        "id" : "1238"
+    },
+    "Nami5+" : {
+        "id" :  "1389"
+    },
+    "NamiSW" : {
+        "id" : "524"
+    },
+    "ChopperSW" : {
+        "id" : "528"
+    },
+    "Nola" : {
+        "id" : "542"
+    },
+    "ChopperLoyal" : {
+        "id" :  "1177"
     }
+    
+    
+    
 }

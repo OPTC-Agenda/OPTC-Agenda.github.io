@@ -254,7 +254,7 @@ function showSpecial(flag){
                         if(character != "Snail"){
                             $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {
-                            $("#list" + (i + 1)).append("<a href='#viewSpecialModal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                            $("#list" + (i + 1)).append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                         }
                     }
                 }

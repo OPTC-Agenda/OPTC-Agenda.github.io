@@ -12,7 +12,8 @@
             "large": "assets/images/fn/big/wapol.png",
             "tiny": "assets/images/fn/tiny/wapol.png",
             "lastTimes": [],
-            "books" : ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
+            "global_books" : ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
+            "japan_books" : ["Marco6", "SnowChopper", "Squard", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
             "drops" : ["WapolFN", "Robson", "SnowChopper", "Kureha", "Dalton", "Chess", "Kuromarimo"]
         }, 
     "Smoker": {
@@ -36,7 +37,8 @@
             "large": "assets/images/fn/big/tbone.png",
             "tiny": "assets/images/fn/tiny/tbone.png",
             "lastTimes": ["03/29/2017 - 04/04/2017"],
-            "books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
+            "global_books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
+            "japan_books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza", "SWBrook", "BrookCode"],
             "drops" : ["Jerry", "TBone"]
         }, 
     "Tsuru": {
@@ -60,7 +62,8 @@
             "large": "assets/images/fn/big/breed.png",
             "tiny": "assets/images/fn/tiny/breed.png",
             "lastTimes": [],
-            "books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
+            "global_books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
+            "japan_books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
             "drops" : ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
         }, 
     "Kraken": {
@@ -132,7 +135,8 @@
             "large": "assets/images/fn/big/whitebeard_s_commanders.png",
             "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
             "lastTimes": [],
-            "books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
+            "global_books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
+            "japan_books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWBrook", "KakuStrong", "KumadoriStrong"],
             "drops" : ["RakuyoCommander" , "FossaCommander", "CurielCommander", "ThatchCommander"]
         },
     "Franky": {
@@ -244,7 +248,8 @@
             "large": "assets/images/fn/big/noland.png",
             "tiny": "assets/images/fn/tiny/noland.png",
             "lastTimes": [],
-            "books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
+            "global_books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
+            "japan_books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
             "drops" : ["Calgara", "Noland"]
         },
     "Mr3Jail": {
@@ -262,7 +267,24 @@
             "lastTimes": [],
             "books" : ["Thatch", "Shura", "ChopperSW", "Sabo6" , "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
             "drops" : ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
-        }              
+        },
+    "WhitebeardCommanders2": {
+            "title" : "Clash! Whitebeard Pirates",
+            "large": "assets/images/fn/big/whitebeard_s_commanders_2.png",
+            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_2.png",
+            "lastTimes": [],
+            "global_books" : ["Sengoku6", "FrankyNewSW", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],
+            "japan_books" : ["Sengoku6", "NamiLoyal", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],            
+            "drops" : ["ThatchCommander", "IzoCommander", "BlamencoCommander", "NamuleCommander"]
+        },
+    "WhitebeardCommanders3": {
+            "title" : "Gather! Whitebeard Alliance!",
+            "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
+            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
+            "lastTimes": [],
+            "books" : ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
+            "drops" : ["SquardoFN", "DecalvanFN", "WhiteyFN"]
+        }                
         
         
 }

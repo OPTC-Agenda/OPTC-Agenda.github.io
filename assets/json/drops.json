@@ -179,6 +179,15 @@
     "ThatchCommander"  : {
         "id" : "949"
     },
+    "IzoCommander"  : {
+        "id" : "979"
+    }, 
+    "BlamencoCommander"  : {
+        "id" : "980"
+    },
+    "NamuleCommander"  : {
+        "id" : "981"
+    },
     "Franky"  : {
         "id" : "336"
     },
@@ -331,5 +340,14 @@
     }, 
     "Mr2Kimono" : {
         "id" : "899"
+    },
+    "SquardoFN" : {
+        "id" : "1254"
+    },
+    "DecalvanFN" : {
+        "id" : "1255"
+    },
+    "WhiteyFN" : {
+        "id" : "1256"
     }
 }

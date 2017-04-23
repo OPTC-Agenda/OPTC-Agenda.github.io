@@ -670,5 +670,59 @@
     },
     "Sabo6+" : {
         "id" : "1492"
+    },
+    "SWBrook" : {
+        "id" : "526"
+    },
+    "BrookCode" : {
+        "id" : "1173"
+    },
+    "Doma" : {
+        "id" : "639"
+    },
+    "WhiteyBay" : {
+        "id" : "645"
+    },
+    "OzuJr" : {
+        "id" : "647"
+    },
+    "Sengoku6" : {
+        "id" : "459"
+    },
+    "FrankyNewSW" : {
+        "id" : "1212"
+    },
+    "JabraINT" : {
+        "id" : "731"
+    },
+    "KakuSTR" : {
+        "id" : "736"
+    },
+    "Kuina" : {
+        "id" : "789"
+    },
+    "Bellmere" : {
+        "id" : "500"
+    },    
+    "KakuStrong" : {
+        "id" : "750"
+    },
+    "LawStory" : {
+        "id" : "967"
+    },
+    "PX5" : {
+        "id" : "972"
+    },
+    "SentomaruStory" : {
+        "id" : "974"
+    },
+    "Leo" : {
+        "id" : "1077"
+    },
+    "Mansherry" : {
+        "id" : "1079"
+    },
+    "KumadoriStrong" : {
+        "id" : "760"
     }
 }

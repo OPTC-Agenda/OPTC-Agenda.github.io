@@ -431,7 +431,13 @@ function fnModal(character) {
     var large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
     var last = fnList[character].lastTimes;
     var drops = fnList[character].drops;
-    var books = fnList[character].books;
+    var books;
+   
+    if(fnList[character].hasOwnProperty('books')){
+        books = fnList[character].books;
+    } else {
+        books = fnList[character].japan_books;
+    }
 
     $("#fnBody h2").empty().append(title);
     $("#fnImage").empty().append(large);

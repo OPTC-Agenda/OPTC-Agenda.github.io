@@ -104,6 +104,15 @@
     "Minorhinoceros" : {
         "id" : "539"
     }, 
+    "Minokoala" : {
+        "id" : "551"
+    },
+    "Minotaur" : {
+        "id" : "1151"
+    },
+    "Minozebra" : {
+        "id" : "1152"
+    },
     "Basilisk"  : {
         "id" : "540"
     },
@@ -307,5 +316,20 @@
     }, 
     "Noland" : {
         "id" : "689"
+    },
+    "BuggyEscape" : {
+        "id" : "1301"
+    }, 
+    "Mr3Escape" : {
+        "id" : "1303"
+    },
+    "CrocodileKimono" : {
+        "id" : "897"
+    }, 
+    "Mr3Kimono" : {
+        "id" : "898"
+    }, 
+    "Mr2Kimono" : {
+        "id" : "899"
     }
 }

@@ -73,19 +73,19 @@
                 {"raid": ["Blackbeard", "Chopper"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Magellan"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

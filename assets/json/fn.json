@@ -244,7 +244,25 @@
             "large": "assets/images/fn/big/noland.png",
             "tiny": "assets/images/fn/tiny/noland.png",
             "lastTimes": [],
-            "books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "ChopperLoyal"],
+            "books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
             "drops" : ["Calgara", "Noland"]
-        }                             
+        },
+    "Mr3Jail": {
+            "title" : "Jailbreak Battle! Mr. 3 and Buggy",
+            "large": "assets/images/fn/big/mr3_buggy_escape.png",
+            "tiny": "assets/images/fn/tiny/mr3_buggy_escape.png",
+            "lastTimes": [],
+            "books" : ["GoldenPound", "Mr3", "MihawkINT", "FukuroStory", "KalifaStrongest", "BoaSandersonia", "MargueriteStory", "Suleiman", "Ideo"],
+            "drops" : ["Minorhinoceros", "Minokoala", "Minotaur", "Minozebra", "BuggyEscape", "Mr3Escape"]
+        },
+    "CrocodileKimono": {
+            "title" : "Mountaintop Banquet! Enter the Generals!",
+            "large": "assets/images/fn/big/impel_down_kimono_2.png",
+            "tiny": "assets/images/fn/tiny/impel_down_kimono_2.png",
+            "lastTimes": [],
+            "books" : ["Thatch", "Shura", "ChopperSW", "Sabo6" , "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
+            "drops" : ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
+        }              
+        
+        
 }

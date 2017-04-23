@@ -629,10 +629,46 @@
     "Nola" : {
         "id" : "542"
     },
-    "ChopperLoyal" : {
-        "id" :  "1177"
+    "Mr3" : {
+        "id" : "203"
+    },
+    "FukuroStory" : {
+        "id" : "733"
+    },
+    "KalifaStrongest" : {
+        "id" : "752"
+    },
+    "BoaSandersonia" : {
+        "id" : "1056"
+    },
+    "MargueriteStory" : {
+        "id" : "1060"
+    },
+    "Suleiman" : {
+        "id" : "1125"
+    },
+    "Ideo" : {
+        "id" : "1133"
+    },
+    "Thatch" : {
+        "id" : "449"
+    },
+    "Braham" : {
+        "id" : "466"
+    },
+    "Sabo6" : {
+        "id" : "669"
+    },
+    "Oimo" : {
+        "id" : "701"
+    },
+    "Kashii" : {
+        "id" : "702"
+    }, 
+    "Mr2Kimono" : {
+        "id" : "899"
+    },
+    "Sabo6+" : {
+        "id" : "1492"
     }
-    
-    
-    
 }

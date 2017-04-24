@@ -441,6 +441,14 @@ function fnModal(character) {
     $("#fnLast").empty();
     $("#fnDrops").empty();
     $("#fnBooks").empty();
+    $("#fnCondition").empty();
+    
+    if(fnList[character].hasOwnProperty('condition')){
+        $("#conditions").css('display','block');
+        $("#fnCondition").append(fnList[character].condition);
+    } else {
+        $("#conditions").css('display','none');
+    }
 
     for (i = 0; i < last.length; i++) {
         $("#fnLast").append("<li>" + last[i] + "</li>");

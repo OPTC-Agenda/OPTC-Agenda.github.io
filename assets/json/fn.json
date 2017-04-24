@@ -3,6 +3,7 @@
         "title": "Spy Assassins CP9",
         "large": "assets/images/fn/big/cp9.png",
         "tiny": "assets/images/fn/tiny/cp9.png",
+        "condition" : "Only [STR], [QCK], [DEX], [INT], and [PSY] orbs appear",
         "lastTimes": ["03/15/2017 - 03/28/2017"],
         "books": ["Jinbe6", "Franky3D2Y", "Violet", "MoriaShadow", "Squard", "Hack", "DemolisherAxeman", "Baskerville", "RighteousJuror"],
         "drops": ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
@@ -11,6 +12,7 @@
         "title": "Wapol's Revenge!",
         "large": "assets/images/fn/big/wapol.png",
         "tiny": "assets/images/fn/tiny/wapol.png",
+        "condition" : "You can only bring Shooter and Driven units. (No Evo/Boosters)",
         "lastTimes": [],
         "global_books": ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
         "japan_books": ["Marco6", "SnowChopper", "Squard", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
@@ -19,7 +21,7 @@
     "Smoker": {
         "title": "Smoker's Great Pursuit",
         "large": "assets/images/fn/big/smoker.png",
-        "tiny": "assets/images/fn/tiny/smoker.png",
+        "tiny": "assets/images/fn/tiny/smoker.png",        
         "lastTimes": [],
         "books": ["Patty", "Zeff", "ViviPrincess", "Mr3", "MissGoldenweek", "Mr9", "ZoroLionSong"],
         "drops": ["Tashigi", "SmokerFN"]
@@ -28,6 +30,7 @@
         "title": "Rumbar Pirates!",
         "large": "assets/images/fn/big/rumbar.png",
         "tiny": "assets/images/fn/tiny/rumbar.png",
+        "condition" : "'Musical' units get their stats boosted by 1.5x (Dancers, Singers, Playing an instrument, etc)",
         "lastTimes": [],
         "books": ["DemolisherGunner", "KakuSixPowers", "BrookDex", "Gyaro", "Dellinger", "Rosinante", "BlueGilly", "RumbarLaboon"],
         "drops": ["Yorki", "RumbarBrook", "RumbarLaboon"]
@@ -36,6 +39,7 @@
         "title": "T-Bone's Absolute Justice",
         "large": "assets/images/fn/big/tbone.png",
         "tiny": "assets/images/fn/tiny/tbone.png",
+        "condition" : "You can only bring INT, PSY and QCK units",
         "lastTimes": ["03/29/2017 - 04/04/2017"],
         "global_books": ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
         "japan_books": ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza", "SWBrook", "BrookCode"],
@@ -53,6 +57,7 @@
         "title": "Apprentices! Shanks and Buggy!",
         "large": "assets/images/fn/big/shanksbuggy.png",
         "tiny": "assets/images/fn/tiny/shanksbuggy.png",
+        "condition" : "You cannot use any two units that are the same",
         "lastTimes": [],
         "books": ["SWShanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
         "drops": ["BuggyApprentice", "ShanksApprentice"]
@@ -61,6 +66,7 @@
         "title": "Breed's Sea Animal Circus!",
         "large": "assets/images/fn/big/breed.png",
         "tiny": "assets/images/fn/tiny/breed.png",
+        "condition" : "You can only bring Fighter and Powerhouse units",
         "lastTimes": [],
         "global_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
         "japan_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
@@ -70,6 +76,7 @@
         "title": "Face the Deep-Sea Kraken!",
         "large": "assets/images/fn/big/kraken.png",
         "tiny": "assets/images/fn/tiny/kraken.png",
+        "condition" : "You may only bring QCK units for 15 and 30 Stamina",
         "lastTimes": [],
         "books": ["DancinDjango", "MissWednesday", "LaboonLuffyDrawing", "Izo", "Whitebeard", "Unluckies", "Dorry", "Broggy", "Whitebeard4Emperors"],
         "drops": ["MasterSea", "Gaimon", "Momoo", "Laboon", "NeptunianSquid", "Kraken"]
@@ -78,6 +85,7 @@
         "title": "Domino's Maximum Security",
         "large": "assets/images/fn/big/domino.png",
         "tiny": "assets/images/fn/tiny/domino.png",
+        "condition" : "30: Non-Shooter, Evolver, or Booster class characters are weakend; 15: Fighter and Slasher class characters are weakened",
         "lastTimes": [],
         "books": ["Nezumi", "Izo", "Capone", "Boa6", "MontblancCricket", "Minorhinoceros", "Boa6+"],
         "drops": ["Domino", "Minorhinoceros", "Basilisk"]
@@ -86,6 +94,7 @@
         "title": "Candy the Maiden-Hearted!",
         "large": "assets/images/fn/big/okama.png",
         "tiny": "assets/images/fn/tiny/okama.png",
+        "condition" : "Each non-Okama in your Team will take 60 Damage each turn",
         "lastTimes": [],
         "books": ["ChefSanji", "NicoRobin", "G3", "Apoo", "GiantFighterYellow", "GiantStrikerBlack", "StrikerCroco"],
         "drops": ["Elizabeth", "Caroline", "SanjiKamabakka"]
@@ -94,6 +103,7 @@
         "title": "Kalifa's Secret Assignment",
         "large": "assets/images/fn/big/kalifa.png",
         "tiny": "assets/images/fn/tiny/kalifa.png",
+        "condition" : "You may only bring STR units into this island",
         "lastTimes": [],
         "books": ["FirePearl", "Kuroobi", "NeptunianSquid", "GumGumBaloon", "Jozu", "Blamenco"],
         "drops": ["Kalifa", "Paulie"]
@@ -102,6 +112,7 @@
         "title": "Supersonic Duck Squadron!",
         "large": "assets/images/fn/big/duck.png",
         "tiny": "assets/images/fn/tiny/duck.png",
+        "condition" : "Higher Chance of Food orbs",
         "lastTimes": [],
         "books": ["GoldenPound", "ViviPrincess", "Marco", "BigEaterBonny", "GiantSlasherRed", "SeaCat"],
         "drops": ["CowboyBourbon", "StompIvan", "CentaurHikoichi", "Karoo"]
@@ -110,6 +121,7 @@
         "title": "World Pirates!",
         "large": "assets/images/fn/big/world.png",
         "tiny": "assets/images/fn/tiny/world.png",
+        "condition" : "Total Crew Cost must be lower than 180 (Including friend captain)",
         "lastTimes": [],
         "books": ["HotoriKotori", "LucciSTR", "Koala", "Tansui", "SaintRoswald", "DonChinJao", "FunkBrothers", "AbdullahJeet", "BoaSTR"],
         "drops": ["Gairam", "Sebastian", "Nightin", "BoaSTR"]
@@ -118,6 +130,7 @@
         "title": "Crocodile - Life on the Inside",
         "large": "assets/images/fn/big/crocodile.png",
         "tiny": "assets/images/fn/tiny/crocodile.png",
+        "condition" : "<b>30</b>: Non-Striker, Evolver, or Booster class characters are weakend;<br><b>15</b>: Fighter and Shooter class characters are weakened <br>(Note: Multi-class characters such as Striker / Slasher are not affected)",
         "lastTimes": [],
         "books": ["AllSunday", "Mr9", "Blamenco", "Kid", "GiantImperialShooter", "DoubleFinger", "Mr1Sword"],
         "drops": ["CrocodilePrisoner", "DazBonesPrisoner"]
@@ -134,6 +147,7 @@
         "title": "Encounter! Whitebeard pirates",
         "large": "assets/images/fn/big/whitebeard_s_commanders.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
+        "condition" : "You can only bring PSY units",
         "lastTimes": [],
         "global_books": ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
         "japan_books": ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWBrook", "KakuStrong", "KumadoriStrong"],
@@ -143,6 +157,7 @@
         "title": "Cyborg Franky Pervert's Aesthetic",
         "large": "assets/images/fn/big/franky.png",
         "tiny": "assets/images/fn/tiny/franky.png",
+        "condition" : "You may only bring INT units for 15 and 30 Stamina",
         "lastTimes": [],
         "books": ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
         "drops": ["Franky", "Kiwi", "Mozu"]
@@ -151,6 +166,7 @@
         "title": "Soul King!",
         "large": "assets/images/fn/big/soul_king.png",
         "tiny": "assets/images/fn/tiny/soul_king.png",
+        "condition" : "Strawhat Pirates get ATK, HP, and RCV boosted by 1.5x and reduces cooldown of specials by 9 turns at the start of the fight",
         "lastTimes": [],
         "books": ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
         "drops": ["BrookSoulKing", "BrookManager"]
@@ -175,6 +191,7 @@
         "title": "Revolutionary Armed Forces!",
         "large": "assets/images/fn/big/revolutionary_army.png",
         "tiny": "assets/images/fn/tiny/revolutionary_army.png",
+        "condition" : "Free Spirit Characters have their cooldowns reduced by 10 turns at the start of the fight",
         "lastTimes": [],
         "books": ["Kaya", "BluenoStory", "JabraStrong", "Macro", "SaintShalria", "KidStory", "Hajrudin", "Bartolomeo6", "Kyros"],
         "drops": ["KoalaKarate", "HackKarate"]
@@ -183,6 +200,7 @@
         "title": "Camie & Hatchan's Musical Festival",
         "large": "assets/images/fn/big/camie.png",
         "tiny": "assets/images/fn/tiny/camie.png",
+        "condition" : "No Units above the cost of 49 is allowed",
         "lastTimes": [],
         "books": ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
         "drops": ["Camie", "Hatchan", "Pappagu"]
@@ -199,6 +217,7 @@
         "title": "Lucci's Artisan Spirit",
         "large": "assets/images/fn/big/lucci.png",
         "tiny": "assets/images/fn/tiny/lucci.png",
+        "condition" : "You may only bring DEX units for 15 and 30 Stamina",
         "lastTimes": [],
         "books": ["TonyTonyChopper", "Gin", "Ace4", "Ace", "StreamingWolfZoro", "Marco"],
         "drops": ["LucciFN", "KakuFn", "LuluFN"]
@@ -207,6 +226,7 @@
         "title": "Marines! Sengoku the Fleet Admiral!",
         "large": "assets/images/fn/big/sengoku.png",
         "tiny": "assets/images/fn/tiny/sengoku.png",
+        "condition" : "You can only bring INT units",
         "lastTimes": [],
         "books": ["Jozu", "Taralan", "Doffy6", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
         "drops": ["SengokuFN", "Ronse", "Stainless"]
@@ -231,6 +251,7 @@
         "title": "Fugitive of Love and Passion!!",
         "large": "assets/images/fn/big/violet.png",
         "tiny": "assets/images/fn/tiny/violet.png",
+        "condition" : "You can only bring STR units",
         "lastTimes": [],
         "books": ["Blamenco", "BearSkin", "Trebol", "LaoG", "Jinbe6", "SmokerPSYStory", "DocQ", "GarpSTR", "OnigumoINT"],
         "drops": ["VioletDancing", "SanjiLove"]
@@ -239,6 +260,7 @@
         "title": "Shambles! Tashigi and Smoker?!?",
         "large": "assets/images/fn/big/shambles.png",
         "tiny": "assets/images/fn/tiny/shambles.png",
+        "condition" : "Your captain will be switched with your middle right character when you encounter Law",
         "lastTimes": [],
         "books": ["NamiThunderbolt", "Izo", "LucciLeopard", "Caesar", "Baby5", "MagellanStory", "Kuzan", "SmokerG5", "BastilleG5", "Nami5+"],
         "drops": ["TashigiShambles", "SmokerShambles"]
@@ -247,6 +269,7 @@
         "title": "Led by the Light of Shandora! Calgara & Noland!",
         "large": "assets/images/fn/big/noland.png",
         "tiny": "assets/images/fn/tiny/noland.png",
+        "condition" : "Bomb orbs appear",
         "lastTimes": [],
         "global_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
         "japan_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
@@ -256,6 +279,7 @@
         "title": "Jailbreak Battle! Mr. 3 and Buggy",
         "large": "assets/images/fn/big/mr3_buggy_escape.png",
         "tiny": "assets/images/fn/tiny/mr3_buggy_escape.png",
+        "condition" : "Shooter and Fighter characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (75% on 30 stamina)",
         "lastTimes": [],
         "books": ["GoldenPound", "Mr3", "MihawkINT", "FukuroStory", "KalifaStrongest", "BoaSandersonia", "MargueriteStory", "Suleiman", "Ideo"],
         "drops": ["Minorhinoceros", "Minokoala", "Minotaur", "Minozebra", "BuggyEscape", "Mr3Escape"]
@@ -264,6 +288,7 @@
         "title": "Mountaintop Banquet! Enter the Generals!",
         "large": "assets/images/fn/big/impel_down_kimono_2.png",
         "tiny": "assets/images/fn/tiny/impel_down_kimono_2.png",
+        "condition" : "Only STR/DEX/QCK/PSY/INT orbs will appear",
         "lastTimes": [],
         "books": ["Thatch", "Shura", "ChopperSW", "Sabo6", "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
         "drops": ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
@@ -281,6 +306,7 @@
         "title": "Gather! Whitebeard Alliance!",
         "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
+        "condition" : "You can only bring INT units",
         "lastTimes": [],
         "books": ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
         "drops": ["SquardoFN", "DecalvanFN", "WhiteyFN"]
@@ -289,6 +315,7 @@
         "title": "Fight! Sand-Sand Band!!",
         "large": "assets/images/fn/big/suna.png",
         "tiny": "assets/images/fn/tiny/suna.png",
+        "condition" : "Heatwave causes damage every 2 turns",
         "lastTimes": [],
         "global_books": ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "Doma", "KingCobra"],
         "japan_books": ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "KingCobra", "NewSWSanji"],
@@ -298,6 +325,7 @@
         "title": "Robin and Nami's Secret Undercover Investigation ",
         "large": "assets/images/fn/big/young_nami_robin.png",
         "tiny": "assets/images/fn/tiny/young_nami_robin.png",
+        "condition" : "Boosts ATK of Cerebral and Free Spirit characters by 2x, other classes get .5x ATK. <br>Boosts HP of Striker and Shooter characters by 2x, other classes get .5x HP. (This STACKS for characters with multiple classes)",
         "lastTimes": [],
         "books": ["ChopperBrain", "Tilestone", "Doma", "DeCalvan", "Absalom", "Luffy3D2Y", "Nami3D2Y", "Usopp3D2Y"],
         "drops": ["YoungNami", "YoungRobin", "MilkChopper"]
@@ -306,6 +334,7 @@
         "title": "Riverside Banquet! Enter the Crazy Ones!",
         "large": "assets/images/fn/big/impel_down_kimono.png",
         "tiny": "assets/images/fn/tiny/impel_down_kimono.png",
+        "condition" : "Highly increased chance of TND, Bomb, and G orbs",
         "lastTimes": [],
         "books": ["Boa6", "Rakuyo", "HotoriKotori", "IvankovINT", "Inazuma", "WatchDog", "RighteousJuror", "BuggyKimono", "Boa6+"],
         "drops": ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]

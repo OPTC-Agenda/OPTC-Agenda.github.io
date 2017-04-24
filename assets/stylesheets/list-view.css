@@ -305,6 +305,7 @@ form {
     width: 100px;
     background-repeat: no-repeat;
     background-image: url('../images/others/special_lvl_up_tiny.png');
+    margin: 0 auto;
 }
 
 .little-view {

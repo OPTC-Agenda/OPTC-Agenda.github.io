@@ -284,6 +284,31 @@
             "lastTimes": [],
             "books" : ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
             "drops" : ["SquardoFN", "DecalvanFN", "WhiteyFN"]
+        },
+    "SunaSand": {
+            "title" : "Fight! Sand-Sand Band!!",
+            "large": "assets/images/fn/big/suna.png",
+            "tiny": "assets/images/fn/tiny/suna.png",
+            "lastTimes": [],
+            "global_books" : ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "Doma", "KingCobra"],
+            "japan_books" : ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "KingCobra", "NewSWSanji"],   
+            "drops" : ["ViviYoung", "KozaYoung", "KingCobra"]
+        },
+    "YoungNamiRobin": {
+            "title" : "Robin and Nami's Secret Undercover Investigation ",
+            "large": "assets/images/fn/big/young_nami_robin.png",
+            "tiny": "assets/images/fn/tiny/young_nami_robin.png",
+            "lastTimes": [],
+            "books" : ["ChopperBrain", "Tilestone", "Doma", "DeCalvan", "Absalom", "Luffy3D2Y", "Nami3D2Y", "Usopp3D2Y"],           
+            "drops" : ["YoungNami", "YoungRobin", "MilkChopper"]
+        },
+    "JinbeKimono": {
+            "title" : "Riverside Banquet! Enter the Crazy Ones!",
+            "large": "assets/images/fn/big/impel_down_kimono.png",
+            "tiny": "assets/images/fn/tiny/impel_down_kimono.png",
+            "lastTimes": [],
+            "books" : ["Boa6", "Rakuyo", "HotoriKotori", "IvankovINT", "Inazuma", "WatchDog", "RighteousJuror", "BuggyKimono", "Boa6+"],
+            "drops" : ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]
         }                
         
         

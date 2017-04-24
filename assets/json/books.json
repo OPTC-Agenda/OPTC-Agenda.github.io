@@ -23,6 +23,9 @@
     "Baskerville": { 
         "id" : "705"
     },
+    "WatchDog" : {
+        "id" : "703"
+    },
     "RighteousJuror": { 
         "id" : "704"
     }, 
@@ -724,5 +727,35 @@
     },
     "KumadoriStrong" : {
         "id" : "760"
+    },
+    "TowelNami" : {
+        "id" : "221"
+    },
+    "Pell" : {
+        "id" : "506"
+    },
+    "Chaka" : {
+        "id" : "508"
+    },
+    "KingCobra" : {
+        "id" : "667"
+    },
+    "NewSWSanji" : {
+        "id" : "1117"
+    },
+    "ChopperBrain" : {
+        "id" : "23"
+    },
+    "Luffy3D2Y" : {
+        "id" : "937"
+    },
+    "Rakuyo" : {
+        "id" : "453"
+    },
+    "IvankovINT" : {
+        "id" : "675"
+    },
+    "BuggyKimono" : {
+        "id" : "887"
     }
 }

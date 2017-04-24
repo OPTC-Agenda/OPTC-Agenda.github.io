@@ -11,12 +11,10 @@ $(window).bind("load", function () {
 function showIcon(){
     console.log("entro");
 //    $(window).resize(function(){
-        if ($(this).width() <= 768) {
-            console.log("Piccolo");
+        if ($(this).width() <= 768) {            
             $('.littleSee').show();
             $('.bigSee').hide();
-        } else {
-            console.log("Grande");
+        } else {            
             $('.littleSee').hide();
             $('.bigSee').show();
         }

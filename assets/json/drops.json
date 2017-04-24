@@ -349,5 +349,32 @@
     },
     "WhiteyFN" : {
         "id" : "1256"
+    },
+    "ViviYoung" : {
+        "id" : "663"
+    },
+    "KozaYoung" : {
+        "id" : "665"
+    },
+    "KingCobra" : {
+        "id" : "667"
+    },
+    "YoungNami" : {
+        "id" : "1109"
+    },
+    "YoungRobin" : {
+        "id" : "1111"
+    },
+    "MilkChopper" : {
+        "id" : "1113"
+    },
+    "JinbeKimono" : {
+        "id" : "885"
+    },
+    "Mr1Kimono" : {
+        "id" : "886"
+    },
+    "BuggyKimono" : {
+        "id" : "887"
     }
 }

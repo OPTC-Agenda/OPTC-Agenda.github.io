@@ -1,315 +1,313 @@
 {
-    "CP9" : {
-            "title" : "Spy Assassins CP9",
-            "large": "assets/images/fn/big/cp9.png",
-            "tiny": "assets/images/fn/tiny/cp9.png",
-            "lastTimes": ["03/15/2017 - 03/28/2017"],
-            "books" : ["Jinbe6", "Franky3D2Y", "Violet", "MoriaShadow", "Squard", "Hack", "DemolisherAxeman", "Baskerville", "RighteousJuror"],
-            "drops" : ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
-        }, 
-    "Wapol" : {
-            "title" : "Wapol's Revenge!",
-            "large": "assets/images/fn/big/wapol.png",
-            "tiny": "assets/images/fn/tiny/wapol.png",
-            "lastTimes": [],
-            "global_books" : ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
-            "japan_books" : ["Marco6", "SnowChopper", "Squard", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
-            "drops" : ["WapolFN", "Robson", "SnowChopper", "Kureha", "Dalton", "Chess", "Kuromarimo"]
-        }, 
+    "CP9": {
+        "title": "Spy Assassins CP9",
+        "large": "assets/images/fn/big/cp9.png",
+        "tiny": "assets/images/fn/tiny/cp9.png",
+        "lastTimes": ["03/15/2017 - 03/28/2017"],
+        "books": ["Jinbe6", "Franky3D2Y", "Violet", "MoriaShadow", "Squard", "Hack", "DemolisherAxeman", "Baskerville", "RighteousJuror"],
+        "drops": ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
+    },
+    "Wapol": {
+        "title": "Wapol's Revenge!",
+        "large": "assets/images/fn/big/wapol.png",
+        "tiny": "assets/images/fn/tiny/wapol.png",
+        "lastTimes": [],
+        "global_books": ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
+        "japan_books": ["Marco6", "SnowChopper", "Squard", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
+        "drops": ["WapolFN", "Robson", "SnowChopper", "Kureha", "Dalton", "Chess", "Kuromarimo"]
+    },
     "Smoker": {
-            "title" : "Smoker's Great Pursuit",
-            "large": "assets/images/fn/big/smoker.png",
-            "tiny": "assets/images/fn/tiny/smoker.png",
-            "lastTimes": [],
-            "books" : ["Patty", "Zeff", "ViviPrincess", "Mr3", "MissGoldenweek", "Mr9", "ZoroLionSong"],
-            "drops" : ["Tashigi", "SmokerFN"]
-        },
-    "Rumbar" : {
-            "title" : "Rumbar Pirates!",
-            "large": "assets/images/fn/big/rumbar.png",
-            "tiny": "assets/images/fn/tiny/rumbar.png",
-            "lastTimes": [],
-            "books" : ["DemolisherGunner", "KakuSixPowers", "BrookDex", "Gyaro", "Dellinger", "Rosinante", "BlueGilly", "RumbarLaboon"],
-            "drops" : ["Yorki", "RumbarBrook", "RumbarLaboon"]
-        }, 
-    "TBone" : {
-            "title" : "T-Bone's Absolute Justice",
-            "large": "assets/images/fn/big/tbone.png",
-            "tiny": "assets/images/fn/tiny/tbone.png",
-            "lastTimes": ["03/29/2017 - 04/04/2017"],
-            "global_books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
-            "japan_books" : ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza", "SWBrook", "BrookCode"],
-            "drops" : ["Jerry", "TBone"]
-        }, 
+        "title": "Smoker's Great Pursuit",
+        "large": "assets/images/fn/big/smoker.png",
+        "tiny": "assets/images/fn/tiny/smoker.png",
+        "lastTimes": [],
+        "books": ["Patty", "Zeff", "ViviPrincess", "Mr3", "MissGoldenweek", "Mr9", "ZoroLionSong"],
+        "drops": ["Tashigi", "SmokerFN"]
+    },
+    "Rumbar": {
+        "title": "Rumbar Pirates!",
+        "large": "assets/images/fn/big/rumbar.png",
+        "tiny": "assets/images/fn/tiny/rumbar.png",
+        "lastTimes": [],
+        "books": ["DemolisherGunner", "KakuSixPowers", "BrookDex", "Gyaro", "Dellinger", "Rosinante", "BlueGilly", "RumbarLaboon"],
+        "drops": ["Yorki", "RumbarBrook", "RumbarLaboon"]
+    },
+    "TBone": {
+        "title": "T-Bone's Absolute Justice",
+        "large": "assets/images/fn/big/tbone.png",
+        "tiny": "assets/images/fn/tiny/tbone.png",
+        "lastTimes": ["03/29/2017 - 04/04/2017"],
+        "global_books": ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza"],
+        "japan_books": ["ZoroLionSong", "Drake", "StrikerCroco", "SWShanks", "Porche", "Capote", "Koza", "SWBrook", "BrookCode"],
+        "drops": ["Jerry", "TBone"]
+    },
     "Tsuru": {
-            "title" : "Tsuru's Morning Stroll",
-            "large": "assets/images/fn/big/tsuru.png",
-            "tiny": "assets/images/fn/tiny/tsuru.png",
-            "lastTimes": ["03/29/2017 - 04/04/2017"],
-            "books" : ["Mr5Nez", "Mr5Breeze", "MissValentine", "G3", "UsoppImpact", "Mr8", "MissMonday"],
-            "drops" : ["Tsuru", "MomongaFN", "Onigumo"]
-        },
-    "ShanksBuggy" : {
-            "title" : "Apprentices! Shanks and Buggy!",
-            "large": "assets/images/fn/big/shanksbuggy.png",
-            "tiny": "assets/images/fn/tiny/shanksbuggy.png",
-            "lastTimes": [],
-            "books" : ["SWShanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
-            "drops" : ["BuggyApprentice", "ShanksApprentice"]
-        }, 
-    "Breed" : {
-            "title" : "Breed's Sea Animal Circus!",
-            "large": "assets/images/fn/big/breed.png",
-            "tiny": "assets/images/fn/tiny/breed.png",
-            "lastTimes": [],
-            "global_books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
-            "japan_books" : ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
-            "drops" : ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
-        }, 
+        "title": "Tsuru's Morning Stroll",
+        "large": "assets/images/fn/big/tsuru.png",
+        "tiny": "assets/images/fn/tiny/tsuru.png",
+        "lastTimes": ["03/29/2017 - 04/04/2017"],
+        "books": ["Mr5Nez", "Mr5Breeze", "MissValentine", "G3", "UsoppImpact", "Mr8", "MissMonday"],
+        "drops": ["Tsuru", "MomongaFN", "Onigumo"]
+    },
+    "ShanksBuggy": {
+        "title": "Apprentices! Shanks and Buggy!",
+        "large": "assets/images/fn/big/shanksbuggy.png",
+        "tiny": "assets/images/fn/tiny/shanksbuggy.png",
+        "lastTimes": [],
+        "books": ["SWShanks", "Hawkins", "Chessmarimo", "GiantStrikerBlack", "Moria", "Satori", "Yama", "HotoriKotori"],
+        "drops": ["BuggyApprentice", "ShanksApprentice"]
+    },
+    "Breed": {
+        "title": "Breed's Sea Animal Circus!",
+        "large": "assets/images/fn/big/breed.png",
+        "tiny": "assets/images/fn/tiny/breed.png",
+        "lastTimes": [],
+        "global_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
+        "japan_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
+        "drops": ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
+    },
     "Kraken": {
-            "title" : "Face the Deep-Sea Kraken!",
-            "large": "assets/images/fn/big/kraken.png",
-            "tiny": "assets/images/fn/tiny/kraken.png",
-            "lastTimes": [],
-            "books" : ["DancinDjango", "MissWednesday", "LaboonLuffyDrawing", "Izo", "Whitebeard", "Unluckies", "Dorry", "Broggy", "Whitebeard4Emperors"],
-            "drops" : ["MasterSea", "Gaimon", "Momoo", "Laboon", "NeptunianSquid", "Kraken"]
-        },    
-    "Domino" : {
-            "title" : "Domino's Maximum Security",
-            "large": "assets/images/fn/big/domino.png",
-            "tiny": "assets/images/fn/tiny/domino.png",
-            "lastTimes": [],
-            "books" : ["Nezumi", "Izo", "Capone", "Boa6", "MontblancCricket", "Minorhinoceros", "Boa6+"],
-            "drops" : ["Domino", "Minorhinoceros", "Basilisk"]
-        }, 
-    "Okama" : {
-            "title" : "Candy the Maiden-Hearted!",
-            "large": "assets/images/fn/big/okama.png",
-            "tiny": "assets/images/fn/tiny/okama.png",
-            "lastTimes": [],
-            "books" : ["ChefSanji", "NicoRobin", "G3", "Apoo", "GiantFighterYellow", "GiantStrikerBlack", "StrikerCroco"],
-            "drops" : ["Elizabeth", "Caroline", "SanjiKamabakka"]
-        }, 
+        "title": "Face the Deep-Sea Kraken!",
+        "large": "assets/images/fn/big/kraken.png",
+        "tiny": "assets/images/fn/tiny/kraken.png",
+        "lastTimes": [],
+        "books": ["DancinDjango", "MissWednesday", "LaboonLuffyDrawing", "Izo", "Whitebeard", "Unluckies", "Dorry", "Broggy", "Whitebeard4Emperors"],
+        "drops": ["MasterSea", "Gaimon", "Momoo", "Laboon", "NeptunianSquid", "Kraken"]
+    },
+    "Domino": {
+        "title": "Domino's Maximum Security",
+        "large": "assets/images/fn/big/domino.png",
+        "tiny": "assets/images/fn/tiny/domino.png",
+        "lastTimes": [],
+        "books": ["Nezumi", "Izo", "Capone", "Boa6", "MontblancCricket", "Minorhinoceros", "Boa6+"],
+        "drops": ["Domino", "Minorhinoceros", "Basilisk"]
+    },
+    "Okama": {
+        "title": "Candy the Maiden-Hearted!",
+        "large": "assets/images/fn/big/okama.png",
+        "tiny": "assets/images/fn/tiny/okama.png",
+        "lastTimes": [],
+        "books": ["ChefSanji", "NicoRobin", "G3", "Apoo", "GiantFighterYellow", "GiantStrikerBlack", "StrikerCroco"],
+        "drops": ["Elizabeth", "Caroline", "SanjiKamabakka"]
+    },
     "Kalifa": {
-            "title" : "Kalifa's Secret Assignment",
-            "large": "assets/images/fn/big/kalifa.png",
-            "tiny": "assets/images/fn/tiny/kalifa.png",
-            "lastTimes": [],
-            "books" : ["FirePearl", "Kuroobi", "NeptunianSquid", "GumGumBaloon", "Jozu", "Blamenco"],
-            "drops" : ["Kalifa", "Paulie"]
-        },    
+        "title": "Kalifa's Secret Assignment",
+        "large": "assets/images/fn/big/kalifa.png",
+        "tiny": "assets/images/fn/tiny/kalifa.png",
+        "lastTimes": [],
+        "books": ["FirePearl", "Kuroobi", "NeptunianSquid", "GumGumBaloon", "Jozu", "Blamenco"],
+        "drops": ["Kalifa", "Paulie"]
+    },
     "Duck": {
-            "title" : "Supersonic Duck Squadron!",
-            "large": "assets/images/fn/big/duck.png",
-            "tiny": "assets/images/fn/tiny/duck.png",
-            "lastTimes": [],
-            "books" : ["GoldenPound", "ViviPrincess", "Marco", "BigEaterBonny", "GiantSlasherRed", "SeaCat"],
-            "drops" : ["CowboyBourbon", "StompIvan", "CentaurHikoichi", "Karoo"]
-        },
+        "title": "Supersonic Duck Squadron!",
+        "large": "assets/images/fn/big/duck.png",
+        "tiny": "assets/images/fn/tiny/duck.png",
+        "lastTimes": [],
+        "books": ["GoldenPound", "ViviPrincess", "Marco", "BigEaterBonny", "GiantSlasherRed", "SeaCat"],
+        "drops": ["CowboyBourbon", "StompIvan", "CentaurHikoichi", "Karoo"]
+    },
     "World": {
-            "title" : "World Pirates!",
-            "large": "assets/images/fn/big/world.png",
-            "tiny": "assets/images/fn/tiny/world.png",
-            "lastTimes": [],
-            "books" : ["HotoriKotori", "LucciSTR", "Koala", "Tansui", "SaintRoswald", "DonChinJao", "FunkBrothers", "AbdullahJeet", "BoaSTR"],
-            "drops" : ["Gairam", "Sebastian", "Nightin", "BoaSTR"]
-        },
+        "title": "World Pirates!",
+        "large": "assets/images/fn/big/world.png",
+        "tiny": "assets/images/fn/tiny/world.png",
+        "lastTimes": [],
+        "books": ["HotoriKotori", "LucciSTR", "Koala", "Tansui", "SaintRoswald", "DonChinJao", "FunkBrothers", "AbdullahJeet", "BoaSTR"],
+        "drops": ["Gairam", "Sebastian", "Nightin", "BoaSTR"]
+    },
     "Crocodile": {
-            "title" : "Crocodile - Life on the Inside",
-            "large": "assets/images/fn/big/crocodile.png",
-            "tiny": "assets/images/fn/tiny/crocodile.png",
-            "lastTimes": [],
-            "books" : ["AllSunday", "Mr9", "Blamenco", "Kid", "GiantImperialShooter", "DoubleFinger", "Mr1Sword"],
-            "drops" : ["CrocodilePrisoner", "DazBonesPrisoner"]
-        },
+        "title": "Crocodile - Life on the Inside",
+        "large": "assets/images/fn/big/crocodile.png",
+        "tiny": "assets/images/fn/tiny/crocodile.png",
+        "lastTimes": [],
+        "books": ["AllSunday", "Mr9", "Blamenco", "Kid", "GiantImperialShooter", "DoubleFinger", "Mr1Sword"],
+        "drops": ["CrocodilePrisoner", "DazBonesPrisoner"]
+    },
     "Alvida": {
-            "title" : "Alvida's Romance",
-            "large": "assets/images/fn/big/alvida.png",
-            "tiny": "assets/images/fn/tiny/alvida.png",
-            "lastTimes": [],
-            "books" : ["Ashura", "TonyTonyChopper", "SmoothAlvida", "ZoroYakkoudori"],
-            "drops" : ["IronAlvida", "Coby", "Gaimon", "MasterSea"]
-        },
+        "title": "Alvida's Romance",
+        "large": "assets/images/fn/big/alvida.png",
+        "tiny": "assets/images/fn/tiny/alvida.png",
+        "lastTimes": [],
+        "books": ["Ashura", "TonyTonyChopper", "SmoothAlvida", "ZoroYakkoudori"],
+        "drops": ["IronAlvida", "Coby", "Gaimon", "MasterSea"]
+    },
     "WhitebeardCommanders": {
-            "title" : "Encounter! Whitebeard pirates",
-            "large": "assets/images/fn/big/whitebeard_s_commanders.png",
-            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
-            "lastTimes": [],
-            "global_books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
-            "japan_books" : ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWBrook", "KakuStrong", "KumadoriStrong"],
-            "drops" : ["RakuyoCommander" , "FossaCommander", "CurielCommander", "ThatchCommander"]
-        },
+        "title": "Encounter! Whitebeard pirates",
+        "large": "assets/images/fn/big/whitebeard_s_commanders.png",
+        "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
+        "lastTimes": [],
+        "global_books": ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NamiLoyal", "NewSWBrook", "NewSWChopper"],
+        "japan_books": ["KamiEneru", "MihawkINT", "KumadoriSixPowers", "Spandam", "Iceburg", "NewSWBrook", "KakuStrong", "KumadoriStrong"],
+        "drops": ["RakuyoCommander", "FossaCommander", "CurielCommander", "ThatchCommander"]
+    },
     "Franky": {
-            "title" : "Cyborg Franky Pervert's Aesthetic",
-            "large": "assets/images/fn/big/franky.png",
-            "tiny": "assets/images/fn/tiny/franky.png",
-            "lastTimes": [],
-            "books" : ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
-            "drops" : ["Franky", "Kiwi", "Mozu"]
-        },
+        "title": "Cyborg Franky Pervert's Aesthetic",
+        "large": "assets/images/fn/big/franky.png",
+        "tiny": "assets/images/fn/tiny/franky.png",
+        "lastTimes": [],
+        "books": ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
+        "drops": ["Franky", "Kiwi", "Mozu"]
+    },
     "SoulKing": {
-            "title" : "Soul King!",
-            "large": "assets/images/fn/big/soul_king.png",
-            "tiny": "assets/images/fn/tiny/soul_king.png",
-            "lastTimes": [],
-            "books" : ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
-            "drops" : ["BrookSoulKing", "BrookManager"]
-        },
+        "title": "Soul King!",
+        "large": "assets/images/fn/big/soul_king.png",
+        "tiny": "assets/images/fn/tiny/soul_king.png",
+        "lastTimes": [],
+        "books": ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
+        "drops": ["BrookSoulKing", "BrookManager"]
+    },
     "LuffyHalloweenJAP": {
-            "title" : "Twilight Party DEAD or TREAT!! ",
-            "large": "assets/images/fn/big/halloween_strawhats.png",
-            "tiny": "assets/images/fn/tiny/halloween_strawhats.png",
-            "lastTimes": [],
-            "books" : ["G3", "Whitebeard", "CrocoSlasher", "Masira", "UsoppSW", "Hamburg", "Crocus", "HikingBear", "UsoppCode", "Whitebeard4Emperors"],            
-            "drops" : ["LuffyHalloween", "UsoppHalloween", "FrankyHalloween", "NamiHalloween", "ChopperHalloween"]
-        },
+        "title": "Twilight Party DEAD or TREAT!! ",
+        "large": "assets/images/fn/big/halloween_strawhats.png",
+        "tiny": "assets/images/fn/tiny/halloween_strawhats.png",
+        "lastTimes": [],
+        "books": ["G3", "Whitebeard", "CrocoSlasher", "Masira", "UsoppSW", "Hamburg", "Crocus", "HikingBear", "UsoppCode", "Whitebeard4Emperors"],
+        "drops": ["LuffyHalloween", "UsoppHalloween", "FrankyHalloween", "NamiHalloween", "ChopperHalloween"]
+    },
     "ZoroHalloweenJAP": {
-            "title" : "Midnight Party DEAD or TREAT!!",
-            "large": "assets/images/fn/big/halloween_strawhats_2.png",
-            "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
-            "lastTimes": [],
-            "books" : ["UsoppImpact", "Rayleigh", "Jinbe", "Bellamy", "SWZoro", "Foxy", "Purinpurin", "Franky", "ZoroCode"],
-            "drops" : ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
-        },
+        "title": "Midnight Party DEAD or TREAT!!",
+        "large": "assets/images/fn/big/halloween_strawhats_2.png",
+        "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
+        "lastTimes": [],
+        "books": ["UsoppImpact", "Rayleigh", "Jinbe", "Bellamy", "SWZoro", "Foxy", "Purinpurin", "Franky", "ZoroCode"],
+        "drops": ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
+    },
     "RevolutionaryArmy": {
-            "title" : "Revolutionary Armed Forces!",
-            "large": "assets/images/fn/big/revolutionary_army.png",
-            "tiny": "assets/images/fn/tiny/revolutionary_army.png",
-            "lastTimes": [],
-            "books" : ["Kaya", "BluenoStory", "JabraStrong", "Macro", "SaintShalria", "KidStory", "Hajrudin", "Bartolomeo6", "Kyros"],
-            "drops" : ["KoalaKarate", "HackKarate"]
-        },
+        "title": "Revolutionary Armed Forces!",
+        "large": "assets/images/fn/big/revolutionary_army.png",
+        "tiny": "assets/images/fn/tiny/revolutionary_army.png",
+        "lastTimes": [],
+        "books": ["Kaya", "BluenoStory", "JabraStrong", "Macro", "SaintShalria", "KidStory", "Hajrudin", "Bartolomeo6", "Kyros"],
+        "drops": ["KoalaKarate", "HackKarate"]
+    },
     "Camie": {
-            "title" : "Camie & Hatchan's Musical Festival",
-            "large": "assets/images/fn/big/camie.png",
-            "tiny": "assets/images/fn/tiny/camie.png",
-            "lastTimes": [],
-            "books" : ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
-            "drops" : ["Camie", "Hatchan", "Pappagu"]
-        },
+        "title": "Camie & Hatchan's Musical Festival",
+        "large": "assets/images/fn/big/camie.png",
+        "tiny": "assets/images/fn/tiny/camie.png",
+        "lastTimes": [],
+        "books": ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
+        "drops": ["Camie", "Hatchan", "Pappagu"]
+    },
     "Soldatino": {
-            "title" : "Soldier-san's Training!",
-            "large": "assets/images/fn/big/rebecca_and_kyros.png",
-            "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
-            "lastTimes": [],
-            "books" : ["FrankyStraw", "Lucci6", "Monet", "Buffalo", "Ricky", "Saldeath", "ArmyWolf", "Sentomaru", "TashigiG5"],
-            "drops" : ["ToySoldier", "RebeccaKid"]
-        },
+        "title": "Soldier-san's Training!",
+        "large": "assets/images/fn/big/rebecca_and_kyros.png",
+        "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
+        "lastTimes": [],
+        "books": ["FrankyStraw", "Lucci6", "Monet", "Buffalo", "Ricky", "Saldeath", "ArmyWolf", "Sentomaru", "TashigiG5"],
+        "drops": ["ToySoldier", "RebeccaKid"]
+    },
     "Lucci": {
-            "title" : "Lucci's Artisan Spirit",
-            "large": "assets/images/fn/big/lucci.png",
-            "tiny": "assets/images/fn/tiny/lucci.png",
-            "lastTimes": [],
-            "books" : ["TonyTonyChopper", "Gin", "Ace4", "Ace", "StreamingWolfZoro", "Marco"],
-            "drops" : ["LucciFN", "KakuFn", "LuluFN"]
-        },
+        "title": "Lucci's Artisan Spirit",
+        "large": "assets/images/fn/big/lucci.png",
+        "tiny": "assets/images/fn/tiny/lucci.png",
+        "lastTimes": [],
+        "books": ["TonyTonyChopper", "Gin", "Ace4", "Ace", "StreamingWolfZoro", "Marco"],
+        "drops": ["LucciFN", "KakuFn", "LuluFN"]
+    },
     "Sengoku": {
-            "title" : "Marines! Sengoku the Fleet Admiral!",
-            "large": "assets/images/fn/big/sengoku.png",
-            "tiny": "assets/images/fn/tiny/sengoku.png",
-            "lastTimes": [],
-            "books" : ["Jozu", "Taralan", "Doffy6", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
-            "drops" : ["SengokuFN", "Ronse", "Stainless"]
-        },
+        "title": "Marines! Sengoku the Fleet Admiral!",
+        "large": "assets/images/fn/big/sengoku.png",
+        "tiny": "assets/images/fn/tiny/sengoku.png",
+        "lastTimes": [],
+        "books": ["Jozu", "Taralan", "Doffy6", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
+        "drops": ["SengokuFN", "Ronse", "Stainless"]
+    },
     "Elizabello": {
-            "title" : "Prodence kingdom",
-            "large": "assets/images/fn/big/elizabello.png",
-            "tiny": "assets/images/fn/tiny/elizabello.png",
-            "lastTimes": [],
-            "books" : ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "ChopperTS", "Robin5+"],
-            "drops" : ["Elizabello", "Dagama"]
-        },
+        "title": "Prodence kingdom",
+        "large": "assets/images/fn/big/elizabello.png",
+        "tiny": "assets/images/fn/tiny/elizabello.png",
+        "lastTimes": [],
+        "books": ["Law", "RobinCry", "Absalom", "Usopp3D2Y", "Machvise", "AkainuStory", "Zoro6", "RobinTS", "ChopperTS", "Robin5+"],
+        "drops": ["Elizabello", "Dagama"]
+    },
     "AfroLuffy": {
-            "title" : "Brother Soul! Afro Luffy!",
-            "large": "assets/images/fn/big/afro_luffy.png",
-            "tiny": "assets/images/fn/tiny/afro_luffy.png",
-            "lastTimes": [],
-            "books" : ["Ace", "Bepo", "WapolStory", "Chessmarimo", "Kureha", "Jinbe", "SouthBird", "Bellamy"],
-            "drops" : ["AfroLuffy", "AfroUsopp", "AfroChopper"]
-        },
+        "title": "Brother Soul! Afro Luffy!",
+        "large": "assets/images/fn/big/afro_luffy.png",
+        "tiny": "assets/images/fn/tiny/afro_luffy.png",
+        "lastTimes": [],
+        "books": ["Ace", "Bepo", "WapolStory", "Chessmarimo", "Kureha", "Jinbe", "SouthBird", "Bellamy"],
+        "drops": ["AfroLuffy", "AfroUsopp", "AfroChopper"]
+    },
     "Violet": {
-            "title" : "Fugitive of Love and Passion!!",
-            "large": "assets/images/fn/big/violet.png",
-            "tiny": "assets/images/fn/tiny/violet.png",
-            "lastTimes": [],
-            "books" : ["Blamenco", "BearSkin", "Trebol", "LaoG", "Jinbe6", "SmokerPSYStory", "DocQ", "GarpSTR", "OnigumoINT"],
-            "drops" : ["VioletDancing", "SanjiLove"]
-        },
+        "title": "Fugitive of Love and Passion!!",
+        "large": "assets/images/fn/big/violet.png",
+        "tiny": "assets/images/fn/tiny/violet.png",
+        "lastTimes": [],
+        "books": ["Blamenco", "BearSkin", "Trebol", "LaoG", "Jinbe6", "SmokerPSYStory", "DocQ", "GarpSTR", "OnigumoINT"],
+        "drops": ["VioletDancing", "SanjiLove"]
+    },
     "Shambles": {
-            "title" : "Shambles! Tashigi and Smoker?!?",
-            "large": "assets/images/fn/big/shambles.png",
-            "tiny": "assets/images/fn/tiny/shambles.png",
-            "lastTimes": [],
-            "books" : ["NamiThunderbolt", "Izo", "LucciLeopard", "Caesar", "Baby5", "MagellanStory", "Kuzan", "SmokerG5", "BastilleG5", "Nami5+"],
-            "drops" : ["TashigiShambles", "SmokerShambles"]
-        },
+        "title": "Shambles! Tashigi and Smoker?!?",
+        "large": "assets/images/fn/big/shambles.png",
+        "tiny": "assets/images/fn/tiny/shambles.png",
+        "lastTimes": [],
+        "books": ["NamiThunderbolt", "Izo", "LucciLeopard", "Caesar", "Baby5", "MagellanStory", "Kuzan", "SmokerG5", "BastilleG5", "Nami5+"],
+        "drops": ["TashigiShambles", "SmokerShambles"]
+    },
     "CalgaraNoland": {
-            "title" : "Led by the Light of Shandora! Calgara & Noland!",
-            "large": "assets/images/fn/big/noland.png",
-            "tiny": "assets/images/fn/tiny/noland.png",
-            "lastTimes": [],
-            "global_books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
-            "japan_books" : ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
-            "drops" : ["Calgara", "Noland"]
-        },
+        "title": "Led by the Light of Shandora! Calgara & Noland!",
+        "large": "assets/images/fn/big/noland.png",
+        "tiny": "assets/images/fn/tiny/noland.png",
+        "lastTimes": [],
+        "global_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
+        "japan_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
+        "drops": ["Calgara", "Noland"]
+    },
     "Mr3Jail": {
-            "title" : "Jailbreak Battle! Mr. 3 and Buggy",
-            "large": "assets/images/fn/big/mr3_buggy_escape.png",
-            "tiny": "assets/images/fn/tiny/mr3_buggy_escape.png",
-            "lastTimes": [],
-            "books" : ["GoldenPound", "Mr3", "MihawkINT", "FukuroStory", "KalifaStrongest", "BoaSandersonia", "MargueriteStory", "Suleiman", "Ideo"],
-            "drops" : ["Minorhinoceros", "Minokoala", "Minotaur", "Minozebra", "BuggyEscape", "Mr3Escape"]
-        },
+        "title": "Jailbreak Battle! Mr. 3 and Buggy",
+        "large": "assets/images/fn/big/mr3_buggy_escape.png",
+        "tiny": "assets/images/fn/tiny/mr3_buggy_escape.png",
+        "lastTimes": [],
+        "books": ["GoldenPound", "Mr3", "MihawkINT", "FukuroStory", "KalifaStrongest", "BoaSandersonia", "MargueriteStory", "Suleiman", "Ideo"],
+        "drops": ["Minorhinoceros", "Minokoala", "Minotaur", "Minozebra", "BuggyEscape", "Mr3Escape"]
+    },
     "CrocodileKimono": {
-            "title" : "Mountaintop Banquet! Enter the Generals!",
-            "large": "assets/images/fn/big/impel_down_kimono_2.png",
-            "tiny": "assets/images/fn/tiny/impel_down_kimono_2.png",
-            "lastTimes": [],
-            "books" : ["Thatch", "Shura", "ChopperSW", "Sabo6" , "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
-            "drops" : ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
-        },
+        "title": "Mountaintop Banquet! Enter the Generals!",
+        "large": "assets/images/fn/big/impel_down_kimono_2.png",
+        "tiny": "assets/images/fn/tiny/impel_down_kimono_2.png",
+        "lastTimes": [],
+        "books": ["Thatch", "Shura", "ChopperSW", "Sabo6", "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
+        "drops": ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
+    },
     "WhitebeardCommanders2": {
-            "title" : "Clash! Whitebeard Pirates",
-            "large": "assets/images/fn/big/whitebeard_s_commanders_2.png",
-            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_2.png",
-            "lastTimes": [],
-            "global_books" : ["Sengoku6", "FrankyNewSW", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],
-            "japan_books" : ["Sengoku6", "NamiLoyal", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],            
-            "drops" : ["ThatchCommander", "IzoCommander", "BlamencoCommander", "NamuleCommander"]
-        },
+        "title": "Clash! Whitebeard Pirates",
+        "large": "assets/images/fn/big/whitebeard_s_commanders_2.png",
+        "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_2.png",
+        "lastTimes": [],
+        "global_books": ["Sengoku6", "FrankyNewSW", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],
+        "japan_books": ["Sengoku6", "NamiLoyal", "Porche", "JabraINT", "KakuSTR", "Kuina", "Caesar", "Monet"],
+        "drops": ["ThatchCommander", "IzoCommander", "BlamencoCommander", "NamuleCommander"]
+    },
     "WhitebeardCommanders3": {
-            "title" : "Gather! Whitebeard Alliance!",
-            "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
-            "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
-            "lastTimes": [],
-            "books" : ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
-            "drops" : ["SquardoFN", "DecalvanFN", "WhiteyFN"]
-        },
+        "title": "Gather! Whitebeard Alliance!",
+        "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
+        "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
+        "lastTimes": [],
+        "books": ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
+        "drops": ["SquardoFN", "DecalvanFN", "WhiteyFN"]
+    },
     "SunaSand": {
-            "title" : "Fight! Sand-Sand Band!!",
-            "large": "assets/images/fn/big/suna.png",
-            "tiny": "assets/images/fn/tiny/suna.png",
-            "lastTimes": [],
-            "global_books" : ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "Doma", "KingCobra"],
-            "japan_books" : ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "KingCobra", "NewSWSanji"],   
-            "drops" : ["ViviYoung", "KozaYoung", "KingCobra"]
-        },
+        "title": "Fight! Sand-Sand Band!!",
+        "large": "assets/images/fn/big/suna.png",
+        "tiny": "assets/images/fn/tiny/suna.png",
+        "lastTimes": [],
+        "global_books": ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "Doma", "KingCobra"],
+        "japan_books": ["ViviPrincess", "TowelNami", "SeaCat", "Sengoku6", "Pell", "Chaka", "KingCobra", "NewSWSanji"],
+        "drops": ["ViviYoung", "KozaYoung", "KingCobra"]
+    },
     "YoungNamiRobin": {
-            "title" : "Robin and Nami's Secret Undercover Investigation ",
-            "large": "assets/images/fn/big/young_nami_robin.png",
-            "tiny": "assets/images/fn/tiny/young_nami_robin.png",
-            "lastTimes": [],
-            "books" : ["ChopperBrain", "Tilestone", "Doma", "DeCalvan", "Absalom", "Luffy3D2Y", "Nami3D2Y", "Usopp3D2Y"],           
-            "drops" : ["YoungNami", "YoungRobin", "MilkChopper"]
-        },
+        "title": "Robin and Nami's Secret Undercover Investigation ",
+        "large": "assets/images/fn/big/young_nami_robin.png",
+        "tiny": "assets/images/fn/tiny/young_nami_robin.png",
+        "lastTimes": [],
+        "books": ["ChopperBrain", "Tilestone", "Doma", "DeCalvan", "Absalom", "Luffy3D2Y", "Nami3D2Y", "Usopp3D2Y"],
+        "drops": ["YoungNami", "YoungRobin", "MilkChopper"]
+    },
     "JinbeKimono": {
-            "title" : "Riverside Banquet! Enter the Crazy Ones!",
-            "large": "assets/images/fn/big/impel_down_kimono.png",
-            "tiny": "assets/images/fn/tiny/impel_down_kimono.png",
-            "lastTimes": [],
-            "books" : ["Boa6", "Rakuyo", "HotoriKotori", "IvankovINT", "Inazuma", "WatchDog", "RighteousJuror", "BuggyKimono", "Boa6+"],
-            "drops" : ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]
-        }                
-        
-        
+        "title": "Riverside Banquet! Enter the Crazy Ones!",
+        "large": "assets/images/fn/big/impel_down_kimono.png",
+        "tiny": "assets/images/fn/tiny/impel_down_kimono.png",
+        "lastTimes": [],
+        "books": ["Boa6", "Rakuyo", "HotoriKotori", "IvankovINT", "Inazuma", "WatchDog", "RighteousJuror", "BuggyKimono", "Boa6+"],
+        "drops": ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]
+    }
 }

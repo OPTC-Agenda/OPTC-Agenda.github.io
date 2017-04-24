@@ -312,3 +312,7 @@ form {
     display: table;
     margin: 0 auto;
 }
+
+.fa {
+    padding: 1%;
+}

@@ -15,5 +15,8 @@
     },
     "Snail": {
         "tiny": "assets/images/special/snail.png"
+    },
+    "LvlUp" : {
+        "tiny" : "assets/images/others/special_lvl_up.png"
     }
 }

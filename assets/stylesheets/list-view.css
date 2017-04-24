@@ -300,12 +300,21 @@ form {
     padding: 0 15px;
 }
 
-.special-img {
+.special-img-tiny {
     height: 28px;
     width: 100px;
     background-repeat: no-repeat;
     background-image: url('../images/others/special_lvl_up_tiny.png');
     margin: 0 auto;
+}
+
+.special-img {
+    height: 28px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-image: url('../images/others/special_lvl_up.png');
+    margin: 0 auto;
+    background-size: contain;
 }
 
 .little-view {
@@ -316,3 +325,4 @@ form {
 .fa {
     padding: 1%;
 }
+

@@ -251,10 +251,18 @@ function showSpecial(flag){
                         console.log(character);
                         console.log(tiny);
 
-                        if(character != "Snail"){
+                        if (character != "Snail") {
                             $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {
-                            $("#list" + (i + 1)).append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
+                            if (character == "LvlUp") {
+                                if ($(window).width() > 768) {
+                                    $("#list" + (i + 1)).append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
+                                } else {
+                                    $("#special" + (i + 1)).addClass('special-img');
+                                }
+                            } else {
+                                $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                            }
                         }
                     }
                 }

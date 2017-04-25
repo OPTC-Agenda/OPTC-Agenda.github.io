@@ -282,6 +282,7 @@ function showSpecial(flag){
 function emptyAll() {
     for (i = 0; i < 7; i++) {
         $("#list" + (i + 1)).empty();
+        $("#special" + (i+1)).removeClass('special-img');
     }
 }
 
@@ -641,6 +642,7 @@ function nextWeek(day, newMonth) {
         for (i = 0; i < 7; i++) {
             $("#list" + (i + 1)).empty();
             $("#day" + (i + 1)).empty();
+            $("#special" + (i+1)).removeClass('special-img');
         }
 
         $("#month").empty().append(month);
@@ -715,6 +717,7 @@ function prevWeek(day, newMonth) {
         for (i = 0; i < 7; i++) {
             $("#list" + (i + 1)).empty();
             $("#day" + (i + 1)).empty();
+            $("#special" + (i+1)).removeClass('special-img');
         }
 
         $("#month").empty().append(month);

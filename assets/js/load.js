@@ -252,7 +252,7 @@ function showSpecial(flag){
                         
                         if(character == "LvlUp"){                            
                             if($(window).width() > 768){                                
-                                $("#list" + (i + 1)).append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
+                                $("#list" + (i + 1)).append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");                            
                             } else {
                                 $("#special" + (i+1)).addClass('special-img');
                             }
@@ -277,6 +277,7 @@ function showSpecial(flag){
 function emptyAll() {
     for (i = 0; i < 7; i++) {
         $("#list" + (i + 1)).empty();
+        $("#special" + (i+1)).removeClass('special-img');
     }
 }
 
@@ -624,6 +625,7 @@ function nextWeek(day, newMonth) {
         for (i = 0; i < 7; i++) {
             $("#list" + (i + 1)).empty();
             $("#day" + (i + 1)).empty();
+            $("#special" + (i+1)).removeClass('special-img');
         }
 
         $("#month").empty().append(month);
@@ -699,6 +701,7 @@ function prevWeek(day, newMonth) {
         for (i = 0; i < 7; i++) {
             $("#list" + (i + 1)).empty();
             $("#day" + (i + 1)).empty();
+            $("#special" + (i+1)).removeClass('special-img');
         }
 
         $("#month").empty().append(month);

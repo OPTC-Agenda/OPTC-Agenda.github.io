@@ -752,7 +752,7 @@ function firstLoad() {
     // Day from the agenda has to start
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate() + 1;
+    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
     var month = numberToMonth(lastMonth);
 

@@ -1,7 +1,7 @@
 {
     "weeks" : [
         {
-            "starting": 27,
+            "starting": 26,
             "month" : "March",
             "program" : [                
                 {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["CP9", "Wapol", "Smoker"], "special" : ["none"]},
@@ -13,7 +13,7 @@
                 {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]}
             ]
         },{
-            "starting": 3,
+            "starting": 2,
             "month" : "April",
             "program": [                
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Rumbar", "TBone", "Tsuru"], "special" : ["none"]},
@@ -25,7 +25,7 @@
                 {"raid": ["none"], "colo" : ["Capone", "Apoo", "Rebecca"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["CottonEgg"]}
             ]     
         },{
-            "starting": 10,
+            "starting": 9,
             "month" : "April",
             "program": [                
                 {"raid": ["Usopp"], "colo" : ["none"], "fn": ["Rumbar", "ShanksBuggy", "Breed", "Kraken"], "special" : ["none"]},
@@ -37,7 +37,7 @@
                 {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["CottonEgg"]}
             ]     
         },{
-            "starting": 17,
+            "starting": 16,
             "month" : "April",
             "program": [                
                 {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["World", "Domino", "Okama", "Kalifa", "Duck"], "special" : ["none"]},
@@ -49,7 +49,7 @@
                 {"raid": ["Blackbeard", "Whitebeard"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["World", "Crocodile", "Alvida"], "special" : ["none"]}
             ]     
         },{
-            "starting": 24,
+            "starting": 23,
             "month" : "April",
             "program": [                
                 {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["none"], "fn": ["World",  "Crocodile", "Alvida"], "special" : ["none"]},
@@ -61,8 +61,8 @@
                 {"raid": ["none"], "colo" : ["Smoker", "BrownBeard", "Jozu", "SadieChan"], "fn": ["RevolutionaryArmy", "WhitebeardCommanders", "Franky"], "special" : ["none"]}
             ]     
         },{
-            "starting": 1,
-            "month" : "May",
+            "starting": 30,
+            "month" : "April",
             "program": [                
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["RevolutionaryArmy", "WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy", "WhitebeardCommanders", "Franky"], "special" : ["LvlUp"]},
@@ -73,16 +73,16 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]}
             ]     
         },{
-            "starting": 8,
+            "starting": 7,
             "month" : "May",
             "program": [                
                 {"raid": ["Eneru"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]}
             ]     
         }                 
     ]

@@ -47,7 +47,7 @@
                 {"raid": ["Pica", "Shanks"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
             ]     
@@ -57,10 +57,10 @@
             "month" : "April",
             "program": [                
                 {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
-                {"raid": ["Ivankov", "Whitebeard"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
+                {"raid": ["Ivankov", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
                 {"raid": ["Pica", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
-                {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
+                {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Zephyr", "NightmareLuffy", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]}
             ]     
@@ -69,8 +69,8 @@
             "starting": 7,
             "month" : "May",
             "program": [                
-                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
+                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
+                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},

@@ -44,7 +44,6 @@ $(document).ready(function () {
 });
 
 function showRaid(flag) {
-    console.log("Entro");
     
     if ($("#showRaid:checked").length > 0) {
         console.log("Pure qua");
@@ -645,7 +644,6 @@ function nextWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        console.log("Chiamo gli show");
         showFN(false);            
         showColo(false);
         showRaid(false);

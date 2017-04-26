@@ -140,5 +140,23 @@
         "tiny": "assets/images/colo/tiny/cavendish.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1529"
+    },
+    "Wyper": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0832.png",
+        "tiny": "assets/images/colo/tiny/wyper.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/832"
+    },
+    "Ain": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1103.png",
+        "tiny": "assets/images/colo/tiny/ain.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1103"
+    },
+    "Byrnndi": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1219.png",
+        "tiny": "assets/images/colo/tiny/byrnndi.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1219"
     }
 }

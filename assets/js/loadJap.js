@@ -81,20 +81,15 @@ function showRaid(flag) {
                         var character = raid[j];
                         var tiny = raidList[character].tiny;
                         var foo = 'raidModal(\'' + character + '\')';
-                        $("#list" + (i + 1)).append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1) + " .raid").append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                     }
                 }
             }
         });
 
+    }else {
+        emptyRaid();
     } 
-    
-    if(flag) {
-        emptyAll();
-        showColo(false);
-        showFN(false);
-        showSpecial(false);
-    }
 }
 
 function showColo(flag) {
@@ -137,19 +132,14 @@ function showColo(flag) {
                         var tiny = coloList[character].tiny;                        
                         var foo = 'coloModal(\'' + character + '\')';
 
-                        $("#list" + (i + 1)).append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1) + " .colo").append("<a href='#viewColoModal' onclick='coloModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                     }
                 }
             }
         });
 
-    } 
-    
-    if(flag) {
-        emptyAll();
-        showRaid(false);
-        showFN(false);
-        showSpecial(false);
+    }else {
+        emptyColo();
     }
 }
 
@@ -193,20 +183,15 @@ function showFN(flag) {
                         var tiny = fnList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        $("#list" + (i + 1)).append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        $("#list" + (i + 1) + " .fn").append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
 
                     }
                 }
             }
         });
 
-    } 
-    
-    if(flag) {
-        emptyAll();
-        showRaid(false);
-        showColo(false);
-        showSpecial(false);        
+    }else {
+        emptyFn();
     }
 }
 
@@ -256,12 +241,12 @@ function showSpecial(flag){
                         } else {
                             if (character == "LvlUp") {
                                 if ($(window).width() > 768) {
-                                    $("#list" + (i + 1)).append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
+                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
                                 } else {
                                     $("#special" + (i + 1)).addClass('special-img');
                                 }
                             } else {
-                                $("#list" + (i + 1)).append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                                $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             }
                         }
                     }
@@ -269,20 +254,46 @@ function showSpecial(flag){
             }
         });
 
-    } 
-    
-    if(flag) {
-        emptyAll();
-        showRaid(false);
-        showColo(false);
-        showFN(false);
-    }    
+    }else {
+        emptySpecial();
+    }   
 }
 
 function emptyAll() {
+    emptyRaid();
+    emptyFn();
+    emptyColo();
+    emptySpecial();
+    emptyDays();
+}
+
+function emptyRaid() {    
     for (i = 0; i < 7; i++) {
-        $("#list" + (i + 1)).empty();
-        $("#special" + (i+1)).removeClass('special-img');
+        $("#list" + (i + 1) + " .raid").empty();        
+    }
+}
+
+function emptyFn() {
+    for (i = 0; i < 7; i++) {
+        $("#list" + (i + 1) + " .fn").empty();
+    }
+}
+
+function emptyColo() {
+    for (i = 0; i < 7; i++) {
+        $("#list" + (i + 1) + " .colo").empty();
+    }
+}
+
+function emptySpecial() {
+    for (i = 0; i < 7; i++) {
+        $("#list" + (i + 1) + " .special").empty();
+    }
+}
+
+function emptyDays() {
+    for (i = 0; i < 7; i++) {
+        $("#day" + (i + 1)).empty();
     }
 }
 
@@ -639,12 +650,8 @@ function nextWeek(day, newMonth) {
             }
         }
 
-        for (i = 0; i < 7; i++) {
-            $("#list" + (i + 1)).empty();
-            $("#day" + (i + 1)).empty();
-            $("#special" + (i+1)).removeClass('special-img');
-        }
-
+        emptyAll();
+        
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
@@ -714,11 +721,7 @@ function prevWeek(day, newMonth) {
             }
         }
 
-        for (i = 0; i < 7; i++) {
-            $("#list" + (i + 1)).empty();
-            $("#day" + (i + 1)).empty();
-            $("#special" + (i+1)).removeClass('special-img');
-        }
+        emptyAll();
 
         $("#month").empty().append(month);
         $("#day1").empty().append(day);

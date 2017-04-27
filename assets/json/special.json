@@ -18,5 +18,8 @@
     },
     "LvlUp" : {
         "tiny" : "assets/images/others/special_lvl_up.png"
+    },
+    "Sugofest" : {
+        "tiny" : "assets/images/special/sugofest.png"
     }
 }

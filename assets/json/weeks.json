@@ -66,29 +66,29 @@
             "program": [                
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["RevolutionaryArmy", "WhitebeardCommanders", "Franky"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy", "WhitebeardCommanders", "Franky"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail"]}
             ]     
         },{
             "starting": 7,
             "month" : "May",
             "program": [                
-                {"raid": ["Eneru"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]}
+                {"raid": ["Eneru"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Snail","LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "Snail"]}
             ]     
         },{
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cotton", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

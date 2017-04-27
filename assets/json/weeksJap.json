@@ -48,15 +48,15 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
+                {"raid": ["Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 30,
             "month" : "April",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest"]},
+                {"raid": ["Mihawk", "WhiteBeard"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest"]},
                 {"raid": ["Ivankov", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest", "Snail"]},
                 {"raid": ["Pica", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},

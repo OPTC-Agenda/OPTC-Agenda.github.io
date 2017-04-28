@@ -76,11 +76,9 @@ function showRaid(flag) {
 
             for (i = 0; i < 7; i++) {
                 var raid = json.weeks[cont].program[i].raid;
-                console.log(raid);
                 if (raid[0] != "none") {
                     for (j = 0; j < raid.length; j++) {
                         var character = raid[j];                        
-                        console.log(character);
                         var tiny = raidList[character].tiny;
                         var foo = 'raidModal(\'' + character + '\')';
                         $("#list" + (i + 1) + " .raid").append("<a href='#viewRaidModal' onclick='raidModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");

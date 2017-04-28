@@ -83,7 +83,10 @@
     "BrookDex": { 
         "id" : "896"
     },
-    "Gyaro": {
+    "Brook5+" : {
+        "id" : "1551"
+    },
+    "Gyaro" : {
         "id" : "954"
     },
     "Dellinger": {
@@ -811,5 +814,23 @@
     },
     "Arlong" : {
         "id" : "66"
+    },
+    "Buggy6" : {
+        "id" : "1391"
+    },    
+    "ChopperMask" : {
+        "id" : "910"
+    },
+    "Hyouzou" : {
+        "id" : "1436"
+    },
+    "Dosun" : {
+        "id" : "1443"
+    },
+    "PeronaGiant" : {
+        "id" : "890"
+    },
+    "Dadan" : {
+        "id" : "1342"
     }
 }

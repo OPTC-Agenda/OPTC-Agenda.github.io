@@ -394,5 +394,13 @@
         "expert" : ["Arlong", "NamiThunderbolt", "Nami5+"],
         "elite" : ["NamiMirageTempo"],
         "drops": ["Choo", "Kuroobi", "Hatchan", "Arlong"]
+    },
+    "LawMonet": {
+        "title": "Law and Monet Fortnight!",
+        "large": "assets/images/fn/big/law_monet.png",
+        "tiny": "assets/images/fn/tiny/law_monet.png",
+        "lastTimes": [],
+        "books" : ["Buggy6", "Kid", "ChopperMask", "Violet", "BrookDex", "Hyouzou", "Dosun", "PeronaGiant", "Dadan", "Brook5+"],
+        "drops": ["LawFN", "MonetFN"]
     }
 }

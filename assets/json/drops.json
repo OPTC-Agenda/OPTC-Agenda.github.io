@@ -439,5 +439,13 @@
     },
     "Arlong" : {
         "id" : "65"
+    },
+    "LawFN" : {
+        "missing" : "yes",
+        "id" : "1580"
+    },
+    "MonetFN" : {
+        "missing" : "yes",
+        "id" : "1582"
     }
 }

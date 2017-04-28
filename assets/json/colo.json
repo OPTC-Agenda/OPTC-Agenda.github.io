@@ -158,5 +158,23 @@
         "tiny": "assets/images/colo/tiny/byrnndi.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1219"
+    },
+    "Coby": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0859.png",
+        "tiny": "assets/images/colo/tiny/coby.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/859"
+    },
+    "Drake": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1091.png",
+        "tiny": "assets/images/colo/tiny/drake.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1091"
+    },
+    "Killer": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1043.png",
+        "tiny": "assets/images/colo/tiny/killer.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1043"
     }
 }

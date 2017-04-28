@@ -231,7 +231,7 @@ div.inline {
     margin: 0 auto;
 }
 
-#fnDrops, #fnBooks, #specialDrops{
+#fnDrops, #fnBooks, #specialDrops, #expert, #elite{
     display: table;
     margin: 0 auto;
 }

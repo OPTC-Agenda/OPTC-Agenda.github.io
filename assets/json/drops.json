@@ -376,5 +376,68 @@
     },
     "BuggyKimono" : {
         "id" : "887"
+    },
+    "ProposalNami" : {
+        "id" : "807"
+    },
+    "Lola" : {
+        "id" : "809"
+    },
+    "RiskyBrothers" : {
+        "id" : "811"
+    },
+    "Tom" : {
+        "id" : "847"
+    },
+    "FrankyTom" : {
+        "id" : "849"
+    },
+    "IceburgTom" : {
+        "id" : "850"
+    },
+    "Genbou" : {
+        "id" : "581"
+    },
+    "Kamakiri" : {
+        "id" : "582"
+    },
+    "Raki" : {
+        "id" : "583"
+    },
+    "Aisa" : {
+        "id" : "584"
+    },
+    "MohjiRichie" : {
+        "id" : "36"
+    },
+    "Cabaji" : {
+        "id" : "37"
+    },
+    "Buggy" : {
+        "id" : "38"
+    },
+    "Siam" : {
+        "id" : "41"
+    },
+    "Butchie" : {
+        "id" : "42"
+    },
+    "Django" : {
+        "id" : "43"
+    },
+    "Kuro" : {
+        "id" : "45"
+    },
+    "Choo" : {
+        "id" : "61"
+    },
+    "Kuroobi" : {
+        "id" : "62"
+    },
+    "Hatchan" : {
+        "id" : "63"
+    },
+    "Arlong" : {
+        "id" : "65"
     }
 }

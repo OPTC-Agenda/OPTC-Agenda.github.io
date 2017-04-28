@@ -20,6 +20,12 @@
     "DemolisherAxeman": { 
         "id" : "615"
     },
+    "DemolisherSpearman": { 
+        "id" : "616"
+    },
+    "DemolisherGunner": { 
+        "id" : "617"
+    },
     "Baskerville": { 
         "id" : "705"
     },
@@ -71,11 +77,8 @@
     "ZoroLionSong": {
         "id" : "219"
     },
-    "DemolisherGunner": {
-        "id" : "631"
-    },
     "KakuSixPowers": { 
-        "id" : "219"
+        "id" : "631"
     },
     "BrookDex": { 
         "id" : "896"
@@ -96,7 +99,7 @@
         "id" : "1206"
     },
     "Drake": {
-        "id" : "631"
+        "id" : "361"
     },
     "StrikerCroco": { 
         "id" : "384"
@@ -260,6 +263,12 @@
     "GoldenPound": {
         "id" : "15"
     }, 
+    "Sogeking": {
+        "id" : "16"
+    }, 
+    "Usopp5+": {
+        "id" : "1446"
+    },     
     "Marco" : {
         "id" : "251"
     }, 
@@ -731,6 +740,12 @@
     "TowelNami" : {
         "id" : "221"
     },
+    "Nami" : {
+        "id" : "9"
+    },
+    "NamiMirageTempo" : {
+        "id" : "11"
+    },
     "Pell" : {
         "id" : "506"
     },
@@ -757,5 +772,44 @@
     },
     "BuggyKimono" : {
         "id" : "887"
+    },
+    "RiskyBrothers" : {
+        "id" : "811"
+    },
+    "Fossa" : {
+        "id" : "455"
+    },
+    "LogLuffy" : {
+        "id" : "1121"
+    },
+    "FrankyTom" : {
+        "id" : "849"
+    },
+    "Urouge" : {
+        "id" : "314"
+    },
+    "LapinAdult" : {
+        "id" : "335"
+    },
+    "KumaShooter" : {
+        "id" : "412"
+    },
+    "Wyper" : {
+        "id" : "544"
+    },
+    "Aisa" : {
+        "id" : "584"
+    },
+    "G2" : {
+        "id" : "4"
+    },
+    "Luffy5+" : {
+        "id" : "1387"
+    },
+    "LuffyBazooka" : {
+        "id" : "3"
+    },
+    "Arlong" : {
+        "id" : "66"
     }
 }

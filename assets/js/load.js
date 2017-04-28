@@ -45,8 +45,7 @@ $(document).ready(function () {
 
 function showRaid(flag) {
     
-    if ($("#showRaid:checked").length > 0) {
-        console.log("Pure qua");
+    if ($("#showRaid:checked").length > 0) {        
         var raidList = (function () {
             $.ajax({
                 'async': false,
@@ -265,6 +264,7 @@ function emptyAll() {
     emptyColo();
     emptySpecial();
     emptyDays();
+    emptySpecialLvlUp();
 }
 
 function emptyRaid() {    
@@ -295,6 +295,12 @@ function emptyDays() {
     for (i = 0; i < 7; i++) {
         $("#day" + (i + 1)).empty();
     }
+}
+
+function emptySpecialLvlUp() {
+    for (i = 0; i < 7; i++) {
+        $("#special" + (i + 1)).removeClass('special-img');
+    }    
 }
 
 function monthDays(month, day) {
@@ -452,11 +458,18 @@ function fnModal(character) {
     var last = fnList[character].lastTimes;
     var drops = fnList[character].drops;
     var books;
+    var expert;
+    var elite;
     
     if(fnList[character].hasOwnProperty('books')){
         books = fnList[character].books;
     } else {
-        books = fnList[character].global_books;
+        if(fnList[character].hasOwnProperty('expert')) {
+            expert = fnList[character].expert;
+            elite = fnList[character].elite;            
+        } else {
+            books = fnList[character].global_books;
+        }
     }    
 
     $("#fnBody h2").empty().append(title);
@@ -465,12 +478,32 @@ function fnModal(character) {
     $("#fnDrops").empty();
     $("#fnBooks").empty();
     $("#fnCondition").empty();
+    $("#eliteBooks").empty();
+    $("#expertBooks").empty();
     
     if(fnList[character].hasOwnProperty('condition')){
         $("#conditions").css('display','block');
         $("#fnCondition").append(fnList[character].condition);
     } else {
         $("#conditions").css('display','none');
+    }
+    
+    if(fnList[character].hasOwnProperty('expert')){
+        for(i=0;i<expert.length;i++){
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[expert[i]].id);//bookList[books[i]].image;
+            var url = "http://optc-db.github.io/characters/#/view/" + bookList[expert[i]].id;
+            $("#expertBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");            
+        }
+        for(i=0;i<elite.length;i++){
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[elite[i]].id);//bookList[books[i]].image;
+            var url = "http://optc-db.github.io/characters/#/view/" + bookList[elite[i]].id;
+            $("#eliteBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");                        
+        }
+        $("#expert").css('display','table');            
+        $("#elite").css('display','table');
+    } else {
+        $("#elite").css('display','none');
+        $("#expert").css('display','none');
     }
 
     for (i = 0; i < last.length; i++) {
@@ -484,12 +517,14 @@ function fnModal(character) {
         var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
         $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }
-
-    for (i = 0; i < books.length; i++) {
-        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
-        var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
-        $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
-    }
+    
+    if (books != null){
+        for (i = 0; i < books.length; i++) {
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
+            var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
+            $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+        }
+    }   
 }
 
 function specialModal(character) {

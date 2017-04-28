@@ -271,7 +271,7 @@
         "tiny": "assets/images/fn/tiny/noland.png",
         "condition" : "Bomb orbs appear",
         "lastTimes": [],
-        "global_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
+        "global_books": ["WhiteyBay", "StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "Nola", "OzuJr"],
         "japan_books": ["StreamingWolfZoro", "Capone", "Mr1Sword", "MontblancCricket", "SouthBird", "NamiSW", "ChopperSW", "Nola", "NamiLoyal", "NewSWChopper"],
         "drops": ["Calgara", "Noland"]
     },
@@ -338,5 +338,61 @@
         "lastTimes": [],
         "books": ["Boa6", "Rakuyo", "HotoriKotori", "IvankovINT", "Inazuma", "WatchDog", "RighteousJuror", "BuggyKimono", "Boa6+"],
         "drops": ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]
+    },
+    "ProposalNami": {
+        "title": "Nami and Lola's Great Proposal Plan",
+        "large": "assets/images/fn/big/thriller_bark_wedding.png",
+        "tiny": "assets/images/fn/tiny/thriller_bark_wedding.png",
+        "condition" : "You can only bring Slasher and Cerebral units. (No Evolution/Booster)",
+        "lastTimes": [],
+        "global_books": ["Nami", "NamiMirageTempo", "NamiThunderbolt", "Kaya", "KakuSixPowers", "IvankovINT", "KumadoriStrong", "RiskyBrothers", "Nami5+"],
+        "japan_books": ["Nami", "NamiMirageTempo", "NamiThunderbolt", "Kaya", "KakuSixPowers", "DeCalvan", "WhiteyBay", "RiskyBrothers", "Nami5+"],
+        "drops": ["ProposalNami", "Lola", "RiskyBrothers"]
+    },
+    "TomWorkers": {
+        "title": "Legendary Shipbuilding Company Tom's Workers",
+        "large": "assets/images/fn/big/tom_s_workers.png",
+        "tiny": "assets/images/fn/tiny/tom_s_workers.png",
+        "condition" : "You can only bring Impact and Free Spirit units. (No Evo/Boosters)",
+        "lastTimes": [],
+        "global_books": ["Fossa", "Chaka", "LogLuffy", "DemolisherAxeman", "DemolisherSpearman", "DemolisherGunner", "KakuStrong", "FrankyTom"],
+        "japan_books": ["Fossa", "Chaka", "LogLuffy", "DemolisherAxeman", "DemolisherSpearman", "DemolisherGunner", "OzuJr", "FrankyTom"],
+        "drops": ["Tom", "FrankyTom", "IceburgTom"]
+    },
+    "Shandia": {
+        "title": "Warriors of Shandia! Dreams of a Homeland!",
+        "large": "assets/images/fn/big/skypea_warriors.png",
+        "tiny": "assets/images/fn/tiny/skypea_warriors.png",
+        "condition" : "All Units considered from the 'Sea' will lose 20% to all stats",
+        "lastTimes": [],
+        "books" : ["Dorry", "Urouge", "LapinAdult", "GiantFighterYellow", "KumaShooter", "Braham", "Wyper", "Aisa"],
+        "drops": ["Genbou", "Kamakiri", "Raki", "Aisa"]
+    },
+    "Buggy": {
+        "title": "Buggy's Counterattack!!",
+        "large": "assets/images/fn/big/buggy.png",
+        "tiny": "assets/images/fn/tiny/buggy.png",
+        "lastTimes": [],
+        "expert" : ["G2", "Luffy5+"],
+        "elite" : ["LuffyBazooka"],        
+        "drops": ["MohjiRichie", "Cabaji", "Buggy"]
+    },
+    "Kuro": {
+        "title": "Kuro's Master Plan",
+        "large": "assets/images/fn/big/kuro.png",
+        "tiny": "assets/images/fn/tiny/kuro.png",
+        "lastTimes": [],
+        "expert" : ["Sogeking"],
+        "elite" : ["GoldenPound"],
+        "drops": ["Siam", "Butchie", "Django", "Kuro"]
+    },
+    "Arlong": {
+        "title": "Arlong: Empire Rising",
+        "large": "assets/images/fn/big/arlong.png",
+        "tiny": "assets/images/fn/tiny/arlong.png",
+        "lastTimes": [],
+        "expert" : ["Arlong", "NamiThunderbolt", "Nami5+"],
+        "elite" : ["NamiMirageTempo"],
+        "drops": ["Choo", "Kuroobi", "Hatchan", "Arlong"]
     }
 }

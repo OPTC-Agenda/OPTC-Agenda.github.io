@@ -56,7 +56,7 @@
             "starting": 30,
             "month" : "April",
             "program": [                
-                {"raid": ["Mihawk", "WhiteBeard"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest"]},
                 {"raid": ["Ivankov", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["Elizabello", "Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest", "Snail"]},
                 {"raid": ["Pica", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Sugofest", "Snail"]},
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},

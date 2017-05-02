@@ -176,5 +176,23 @@
         "tiny": "assets/images/colo/tiny/killer.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1043"
+    },
+    "Kinemon": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1309.png",
+        "tiny": "assets/images/colo/tiny/kinemon.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1309"
+    },
+    "Helmeppo": {
+        "large": "assets/images/colo/big/1723.png",
+        "tiny": "assets/images/colo/tiny/helmeppo.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1091"
+    },
+    "Orlumbus": {
+        "large": "assets/images/colo/big/1667.png",
+        "tiny": "assets/images/colo/tiny/orlumbus.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1043"
     }
 }

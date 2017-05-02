@@ -397,7 +397,7 @@
     },
     "LawMonet": {
         "title": "Law and Monet Fortnight!",
-        "large": "assets/images/fn/big/law_monet.png",
+        "large": "assets/images/fn/big/law_monet.PNG",
         "tiny": "assets/images/fn/tiny/law_monet.png",
         "lastTimes": [],
         "books" : ["Buggy6", "Kid", "ChopperMask", "Violet", "BrookDex", "Hyouzou", "Dosun", "PeronaGiant", "Dadan", "Brook5+"],

@@ -306,7 +306,7 @@
         "title": "Gather! Whitebeard Alliance!",
         "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
-        "condition" : "You can only bring INT units",
+        "condition" : "Driven Characters have their cooldowns reduced by 10 turns at the start of the fight",
         "lastTimes": [],
         "books": ["Bellmere", "Sabo6", "Oimo", "KakuStrong", "LawStory", "PX5", "SentomaruStory", "Leo", "Mansherry", "Sabo6+"],
         "drops": ["SquardoFN", "DecalvanFN", "WhiteyFN"]

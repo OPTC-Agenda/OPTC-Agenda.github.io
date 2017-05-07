@@ -21,5 +21,8 @@
     },
     "Sugofest" : {
         "tiny" : "assets/images/special/sugofest.png"
+    },
+    "FreePull" : {
+        "tiny" : "assets/images/special/free-pull.png"
     }
 }

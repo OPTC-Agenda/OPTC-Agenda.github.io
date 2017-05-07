@@ -244,7 +244,7 @@ function showSpecial(flag){
                                     $("#special" + (i + 1)).addClass('special-img');
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest") {
+                            if (character == "Snail" || character == "Sugofest" || character == "FreePull") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }
@@ -360,12 +360,34 @@ function raidModal(character) {
     ;
 
     var charJs = raidList[character];
-    var large = "<a href='" + charJs.linkDB + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>"
+    var large;
     var last = raidList[character].lastTimes;
-
-    $("#raidBody h2").empty().append(character);
-    $("#raidImage").empty().append(large);
+    
+    $("#raidDropsImg").empty();  
     $("#raidLast").empty();
+        
+    if(character == "BusterCall"){        
+        $("#raidDrops").css('display','block');     
+        large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";        
+        
+        for(i = 0; i < charJs.drops.length; i++){
+            var url = "http://optc-db.github.io/characters/#/view/" + charJs.drops[i];
+            var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(charJs.drops[i]);
+            $("#raidDropsImg").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+        }
+        
+    } else {
+        $("#raidDrops").css('display','none'); 
+        if(charJs.linkDB != "missing"){
+            large = "<a href='" + charJs.linkDB + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>";
+        }else {
+            large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
+        }
+    }  
+    
+    $("#raidBody h2").empty().append(charJs.name);
+    $("#raidImage").empty().append(large);
+
 
     for (i = 0; i < last.length; i++) {
         $("#raidLast").append("<li>" + last[i] + "</li>");

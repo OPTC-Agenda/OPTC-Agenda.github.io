@@ -231,7 +231,7 @@ div.inline {
     margin: 0 auto;
 }
 
-#fnDrops, #fnBooks, #specialDrops, #expert, #elite{
+#fnDrops, #fnBooks, #specialDrops, #expert, #elite, #raidDropsImg{
     display: table;
     margin: 0 auto;
 }

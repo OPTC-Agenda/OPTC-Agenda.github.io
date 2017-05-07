@@ -62,41 +62,41 @@
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
                 {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Zephyr", "NightmareLuffy", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]}
+                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]}
             ]     
         },
         {
             "starting": 7,
             "month" : "May",
             "program": [                
-                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["none"]},
+                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
+                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
+                {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
+                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["FreePull"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]}
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["Kuma", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["Boa", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]}
+                {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 21,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Garp", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},

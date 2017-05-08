@@ -80,9 +80,9 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["RevolutionaryArmy", "ProposalNami", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Snail","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail", "LvlUp"]},
-                {"raid": ["Pica"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]},
+                {"raid": ["Pica"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail", "Sugofest"]},
                 {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Snail", "DoffyShip", "Sugofest"]},
-                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail", "Sugofest"]}
+                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]}
             ]     
         },{
             "starting": 14,

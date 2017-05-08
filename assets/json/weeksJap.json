@@ -73,30 +73,30 @@
                 {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
                 {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
                 {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["Kuma", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
+                {"raid": ["Kuma", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]}
             ]     
         },
         {
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["Boa", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]}
+                {"raid": ["Boa", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
+                {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},
+                {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},
+                {"raid": ["Kizaru", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]}
             ]     
         },
         {
             "starting": 21,
             "month" : "May",
             "program": [                
-                {"raid": ["Garp", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Garp", "Mihawk"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
@@ -109,8 +109,8 @@
             "month" : "May",
             "program": [                
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

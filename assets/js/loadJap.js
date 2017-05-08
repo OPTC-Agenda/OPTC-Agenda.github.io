@@ -237,11 +237,16 @@ function showSpecial(flag){
                         if (character == "Cotton" || character == "CottonEgg") {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
-                            if (character == "LvlUp") {
-                                if ($(window).width() > 768) {
-                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
+                            if (character == "LvlUp" || character == "LvlUpx3") {
+                                if ($(window).width() > 768) {                                    
+                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                 } else {
                                     $("#special" + (i + 1)).addClass('special-img');
+                                    if(character == "LvlUp"){                                        
+                                        $("#special" + (i + 1)).addClass('skillup-x2');                                        
+                                    }else {                                        
+                                        $("#special" + (i + 1)).addClass('skillup-x3');                                                                                
+                                    }
                                 }
                             } 
                             if (character == "Snail" || character == "Sugofest" || character == "FreePull") {
@@ -264,6 +269,7 @@ function emptyAll() {
     emptyColo();
     emptySpecial();
     emptyDays();
+    emptySpecialLvlUp();
 }
 
 function emptyRaid() {    
@@ -294,6 +300,14 @@ function emptyDays() {
     for (i = 0; i < 7; i++) {
         $("#day" + (i + 1)).empty();
     }
+}
+
+function emptySpecialLvlUp() {
+    for (i = 0; i < 7; i++) {
+        $("#special" + (i + 1)).removeClass('special-img');
+        $("#special" + (i + 1)).removeClass('skillup-x3');
+        $("#special" + (i + 1)).removeClass('skillup-x2');                
+    }    
 }
 
 function monthDays(month, day) {
@@ -485,9 +499,7 @@ function fnModal(character) {
     $("#fnLast").empty();
     $("#fnDrops").empty();
     $("#fnBooks").empty();
-    $("#fnCondition").empty();
-    
-    console.log(fnList[character].condition);
+    $("#fnCondition").empty();       
     
     if(fnList[character].hasOwnProperty('condition')){
         $("#conditions").css('display','block');

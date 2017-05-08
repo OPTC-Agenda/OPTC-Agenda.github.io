@@ -19,10 +19,16 @@
     "LvlUp" : {
         "tiny" : "assets/images/others/special_lvl_up.png"
     },
+    "LvlUpx3" : {
+        "tiny" : "assets/images/others/special_lvl_up_x3.png"
+    },    
     "Sugofest" : {
         "tiny" : "assets/images/special/sugofest.png"
     },
     "FreePull" : {
         "tiny" : "assets/images/special/free-pull.png"
+    },
+    "DoffyShip" : {
+        "tiny" : "assets/images/special/doffy_ship.png"
     }
 }

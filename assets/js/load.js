@@ -239,12 +239,13 @@ function showSpecial(flag){
                         } else {                            
                             if (character == "LvlUp") {
                                 if ($(window).width() > 768) {
-                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + ")' class='special-img inline'></div></div>");
+                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                 } else {
                                     $("#special" + (i + 1)).addClass('special-img');
+                                    $("#special" + (i + 1)).addClass('skillup-x2');
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest") {
+                            if (character == "Snail" || character == "Sugofest" || character == "DoffyShip") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }
@@ -300,6 +301,8 @@ function emptyDays() {
 function emptySpecialLvlUp() {
     for (i = 0; i < 7; i++) {
         $("#special" + (i + 1)).removeClass('special-img');
+        $("#special" + (i + 1)).removeClass('skillup-x3');
+        $("#special" + (i + 1)).removeClass('skillup-x2');                
     }    
 }
 

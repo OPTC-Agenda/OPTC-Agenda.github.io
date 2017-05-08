@@ -309,14 +309,21 @@ form {
 }
 
 .special-img {
-    height: 28px;
-    width: 100px;
-    background-repeat: no-repeat;
-    background-image: url('../images/others/special_lvl_up.png');
+    height: 35px;    
+    background-repeat: no-repeat;    
     margin: 0 auto;
     background-size: contain;
 }
 
+.skillup-x2 {
+    background-image: url('../images/others/special_lvl_up.png');
+    width: 100px;
+}
+
+.skillup-x3 {
+    background-image: url('../images/others/special_lvl_up_x3.png');
+    width: 81px;
+}
 .little-view {
     display: table;
     margin: 0 auto;

@@ -73,9 +73,9 @@
                 {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
                 {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
                 {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["BusterCall", "Whitebeard"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3", "Sugofest"]},
+                {"raid": ["BusterCall", "Whitebeard"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3", "Sugofest"]},
+                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3", "Sugofest"]}
             ]     
         },
         {

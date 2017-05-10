@@ -511,6 +511,10 @@ function fnModal(character) {
     for (i = 0; i < last.length; i++) {
         $("#fnLast").append("<li>" + last[i] + "</li>");
     }
+    
+    if(drops.length == 0){
+        $("#fnDrops").append("<p>None</p>");
+    }
 
     for (i = 0; i < drops.length; i++) {        
         var drop = drops[i];

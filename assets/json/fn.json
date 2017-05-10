@@ -402,5 +402,45 @@
         "lastTimes": [],
         "books" : ["Buggy6", "Kid", "ChopperMask", "Violet", "BrookDex", "Hyouzou", "Dosun", "PeronaGiant", "Dadan", "Brook5+"],
         "drops": ["LawFN", "MonetFN"]
+    },
+    "Ace6": {
+        "title": "Ace 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/ace.png",
+        "lastTimes": [],
+        "books" : ["Ace6", "Hawkins", "Apoo", "Usopp3D2Y", "FrankyNewSW", "UsoppTS", "Kuina", "KidStory", "Sarquiss", "Hamburg", "Pickles"],
+        "drops": []
+    },
+    "Shanks6": {
+        "title": "Shanks 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/shanks.png",
+        "lastTimes": [],
+        "books" : ["SWShanks", "Bepo", "ChopperMask", "Violet", "Maynard", "FrankyTS", "Gedatsu", "Koza", "LawStory", "Taralan", "HoroHoroGhost"],
+        "drops": []
+    },
+    "Doffy6": {
+        "title": "Doffy 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/doffy.png",
+        "lastTimes": [],
+        "books" : ["Doffy6", "Killer", "WhiteyBay", "Caesar", "Trebol", "LaoG", "SpeedGil", "MissMerryChristmas", "Nojiko", "KakuSixPowers", "BigBun"],
+        "drops": []
+    },
+    "Cavendish6": {
+        "title": "Cavendish 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/cavendish.png",
+        "lastTimes": [],
+        "books" : ["SaintCharlos", "Cavendish6", "G3", "BrookBorn", "FunkBrothers", "Orlumbus", "RobinTS", "MissValentine", "Shura", "MihawkStory", "Baskerville"],
+        "drops": []
+    },
+    "Law6": {
+        "title": "Law 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/law.png",
+        "lastTimes": [],
+        "books" : ["Law6", "SaintRoswald", "ZoroLionSong", "Law", "IvankovINT", "Machvise", "Leo", "HotoriKotori", "MagellanStory", "Mr9", "Absalom"],
+        "drops": []
     }
 }

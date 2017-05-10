@@ -547,7 +547,10 @@
     },
     "Law" : {
         "id" : "308"
-    },    
+    },  
+    "Law6" : {   
+        "id" : "1045"
+    },     
     "RobinCry" : {
         "id" : "709"
     },    
@@ -832,5 +835,41 @@
     },
     "Dadan" : {
         "id" : "1342"
+    },
+    "Pickles" : {
+        "id": "566"
+    },
+    "FrankyTS" : {
+        "id" : "1364"
+    },
+    "Gedatsu" : {
+        "id" : "465"
+    },
+    "HoroHoroGhost" : {
+        "id" : "888"
+    },
+    "SpeedGil" : {
+        "id" : "1190"
+    },
+    "Nojiko" : {
+        "id" : "586"
+    },
+    "BigBun" : {
+        "id" : "567"
+    },
+    "SaintCharlos" : {
+        "id" : "963"
+    },
+    "Cavendish6" : {
+        "id" : "1123"
+    },
+    "BrookBorn" : {
+        "id" : "914"
+    },
+    "Orlumbus" : {
+        "id" : "1127"
+    },
+    "MihawkStory" : {
+        "id" : "1227"
     }
 }

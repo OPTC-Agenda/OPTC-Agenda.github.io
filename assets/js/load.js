@@ -245,7 +245,7 @@ function showSpecial(flag){
                                     $("#special" + (i + 1)).addClass('skillup-x2');
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest" || character == "DoffyShip") {
+                            if (character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }

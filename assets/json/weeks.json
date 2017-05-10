@@ -100,11 +100,11 @@
             "starting": 21,
             "month" : "May",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Rayleigh", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["noe"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]     

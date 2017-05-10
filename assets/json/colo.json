@@ -194,5 +194,35 @@
         "tiny": "assets/images/colo/tiny/orlumbus.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1583"
+    },
+    "LaoG": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1291.png",
+        "tiny": "assets/images/colo/tiny/lao_g.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1291"
+    },
+    "DonChinjao": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1455.png",
+        "tiny": "assets/images/colo/tiny/don_chinjao.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1455"
+    },
+    "Ideo": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1486.png",
+        "tiny": "assets/images/colo/tiny/ideo.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1486"
+    },
+    "BoaSandersonia": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1294.png",
+        "tiny": "assets/images/colo/tiny/boa_sandersonia.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1294"
+    },
+    "Saga": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1088.png",
+        "tiny": "assets/images/colo/tiny/saga.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1088"
     }
 }

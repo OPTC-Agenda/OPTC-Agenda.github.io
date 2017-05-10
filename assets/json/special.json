@@ -30,5 +30,8 @@
     },
     "DoffyShip" : {
         "tiny" : "assets/images/special/doffy_ship.png"
+    },
+    "Rayleigh" : {
+        "tiny" : "assets/images/fn/tiny/rayleigh.png"
     }
 }

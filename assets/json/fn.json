@@ -143,6 +143,23 @@
         "books": ["Ashura", "TonyTonyChopper", "SmoothAlvida", "ZoroYakkoudori"],
         "drops": ["IronAlvida", "Coby", "Gaimon", "MasterSea"]
     },
+    "Krieg": {
+        "title": "Krieg's Assault!",
+        "large": "assets/images/fn/big/krieg.png",
+        "tiny": "assets/images/fn/tiny/krieg.png",
+        "lastTimes": [],
+        "expert" : ["DiableJambe" , "Krieg"],
+        "elite" : ["ChefSanji", "DiableJambe", "Krieg", "Sanji5+"],        
+        "drops": ["Gin", "Pearl", "Krieg"]
+    },    
+    "Morgan": {
+        "title": "Escaped! Morgan",
+        "large": "assets/images/fn/big/morgan.png",
+        "tiny": "assets/images/fn/tiny/morgan.png",
+        "lastTimes": [],
+        "books": ["ChopperHeavyPoint", "ChopperBrain", "ChopperArmPoint", "ChopperHornPoint", "ChopperGuardPoint", "Helmeppo", "Morgan"],
+        "drops": ["Helmeppo", "Morgan"]
+    },
     "WhitebeardCommanders": {
         "title": "Encounter! Whitebeard pirates",
         "large": "assets/images/fn/big/whitebeard_s_commanders.png",
@@ -171,20 +188,22 @@
         "books": ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
         "drops": ["BrookSoulKing", "BrookManager"]
     },
-    "LuffyHalloweenJAP": {
+    "LuffyHalloween": {
         "title": "Twilight Party DEAD or TREAT!! ",
         "large": "assets/images/fn/big/halloween_strawhats.png",
         "tiny": "assets/images/fn/tiny/halloween_strawhats.png",
         "lastTimes": [],
-        "books": ["G3", "Whitebeard", "CrocoSlasher", "Masira", "UsoppSW", "Hamburg", "Crocus", "HikingBear", "UsoppCode", "Whitebeard4Emperors"],
+        "japan_books": ["G3", "Whitebeard", "CrocoSlasher", "Masira", "UsoppSW", "Hamburg", "Crocus", "HikingBear", "UsoppCode", "Whitebeard4Emperors"],
+        "global_books": ["Ashura", "G3", "Whitebeard", "Broggy", "Law", "Chessmarimo", "CrocoSlasher", "Masira", "ZoroYakkoudori", "Whitebeard4Emperors"],
         "drops": ["LuffyHalloween", "UsoppHalloween", "FrankyHalloween", "NamiHalloween", "ChopperHalloween"]
     },
-    "ZoroHalloweenJAP": {
+    "ZoroHalloween": {
         "title": "Midnight Party DEAD or TREAT!!",
         "large": "assets/images/fn/big/halloween_strawhats_2.png",
         "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
         "lastTimes": [],
-        "books": ["UsoppImpact", "Rayleigh", "Jinbe", "Bellamy", "SWZoro", "Foxy", "Purinpurin", "Franky", "ZoroCode"],
+        "japan_books": ["UsoppImpact", "Rayleigh", "Jinbe", "Bellamy", "SWZoro", "Foxy", "Purinpurin", "Franky", "ZoroCode"],
+        "global_books": ["Ace", "Mr9", "UsoppImpact", "Marco", "Jozu", "Dorry", "Rayleigh", "Bellamy"],
         "drops": ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
     },
     "RevolutionaryArmy": {
@@ -359,6 +378,16 @@
         "japan_books": ["Fossa", "Chaka", "LogLuffy", "DemolisherAxeman", "DemolisherSpearman", "DemolisherGunner", "OzuJr", "FrankyTom"],
         "drops": ["Tom", "FrankyTom", "IceburgTom"]
     },
+    "Wanze": {
+        "title": "Explosive! Wanze's Ramen Kenpo!!",
+        "large": "assets/images/fn/big/wanze.png",
+        "tiny": "assets/images/fn/tiny/wanze.png",
+        "condition" : "You can only bring STR, QCK and DEX units",
+        "lastTimes": [],
+        "global_books": ["PlasticSurgerySanji", "MrPrince", "KumaShooter", "Pickles", "BigBun", "Nojiko", "Koala", "Hack"],
+        "japan_books": ["PlasticSurgerySanji", "MrPrince", "KumaShooter", "Pickles", "BigBun", "Nojiko", "NicoRobinCode", "FrankyNewSW"],
+        "drops": ["Nero", "Wanze"]
+    },    
     "Shandia": {
         "title": "Warriors of Shandia! Dreams of a Homeland!",
         "large": "assets/images/fn/big/skypea_warriors.png",

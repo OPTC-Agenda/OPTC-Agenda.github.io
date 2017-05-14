@@ -19,19 +19,19 @@
             "program": [                
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["SoulKing", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Boa"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "Tsuru", "Kraken", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Boa"], "colo" : ["none"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 16,
             "month" : "April",
             "program": [                
-                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Duval", "Whitebeard"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["SoulKing", "LuffyHalloweenJAP", "ZoroHalloweenJAP", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Duval", "Whitebeard"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["SoulKing", "LuffyHalloween", "ZoroHalloween", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Binz", "Ryuma", "Hajrudin", "Marco", "Alvida", "Cavendish"], "fn": ["Elizabello", "ShanksBuggy", "Camie", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["LuckyRoo", "Vista", "Diamante", "Doma", "Mr7", "Cavendish"], "fn": ["Elizabello", "Wapol", "World", "Crocodile"], "special" : ["none"]},

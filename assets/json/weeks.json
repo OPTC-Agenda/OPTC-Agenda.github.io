@@ -88,13 +88,13 @@
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]},
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["Garp"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["Sabo"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
+                {"raid": ["Garp"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
+                {"raid": ["Sabo"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]}
             ]     
         },{
             "starting": 21,
@@ -102,33 +102,33 @@
             "program": [                
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["Rayleigh", "LvlUp"]},
-                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["noe"], "fn": ["Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "LvlUp"]},
+                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["noe"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 28,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["noe"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["noe"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 4,
             "month" : "June",
             "program": [                
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["noe"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]     

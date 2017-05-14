@@ -101,6 +101,9 @@
     "RumbarLaboon": { 
         "id" : "1206"
     },
+    "NicoRobinCode" : {
+        "id" : "1208"
+    },
     "Drake": {
         "id" : "361"
     },
@@ -239,6 +242,12 @@
     "ChefSanji": {
         "id" : "19"
     }, 
+    "PlasticSurgerySanji": {
+        "id" : "18"
+    }, 
+    "MrPrince": {
+        "id" : "225"
+    },     
     "NicoRobin" : {
         "id" : "210"
     }, 
@@ -871,5 +880,23 @@
     },
     "MihawkStory" : {
         "id" : "1227"
+    },
+    "Krieg" : {
+        "id" : "58"
+    },
+    "ChopperArmPoint" : {
+        "id" : "24"
+    },
+    "ChopperHornPoint" : {
+        "id" : "25"
+    },
+    "ChopperGuardPoint" : {
+        "id" : "26"
+    },
+    "Helmeppo": {
+        "id" : "34"
+    },
+    "Morgan" : {
+        "id" : "228"
     }
 }

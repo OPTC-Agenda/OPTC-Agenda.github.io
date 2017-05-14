@@ -88,8 +88,8 @@
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["Cotton", "Snail"]},
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "TomWorkers", "Shandia"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
                 {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
                 {"raid": ["Garp"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},

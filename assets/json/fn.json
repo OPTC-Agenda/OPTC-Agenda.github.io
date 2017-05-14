@@ -471,5 +471,45 @@
         "lastTimes": [],
         "books" : ["Law6", "SaintRoswald", "ZoroLionSong", "Law", "IvankovINT", "Machvise", "Leo", "HotoriKotori", "MagellanStory", "Mr9", "Absalom"],
         "drops": []
+    },
+    "Luffy6": {
+        "title": "Log Luffy 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/luffy.png",
+        "lastTimes": [],
+        "books" : ["LogLuffy", "Ricky", "Elizabello", "Ideo", "LuffySW", "NewSWChopper", "Luffy5+", "MoriaStory", "Masira", "Nola", "Porche"],
+        "drops": []
+    },
+    "Crocodile6": {
+        "title": "Crocodile 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/crocodile6.png",
+        "lastTimes": [],
+        "books" : ["Croco6", "Jinbe", "Robin3D2Y", "NicoRobinCode", "TashigiG5", "NamiTS", "Wyper", "JabraINT", "MissMonday", "BearSkin", "Yamakaji"],
+        "drops": []
+    },
+    "Kuzan6": {
+        "title": "Kuzan 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/kuzan.png",
+        "lastTimes": [],
+        "books" : ["Kuzan", "Vista", "Capone", "Thatch", "UsoppCode", "ChopperTSQck", "Mr5Breeze", "StrikerCroco", "MargueriteStory", "MontblancCricket", "WatchDog"],
+        "drops": []
+    },
+    "Corazon6": {
+        "title": "Corazon 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/corazon.png",
+        "lastTimes": [],
+        "books" : ["Corazon6", "Namule", "Giolla", "Mansherry", "Kingdew", "CobyStudent", "Usopp5+", "UsoppImpact", "WapolStory", "Tilestone", "Zambai"],
+        "drops": []
+    },
+    "Blackbeard6": {
+        "title": "Blackbeard 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/blackbeard.png",
+        "lastTimes": [],
+        "books" : ["Blackbeard6", "Ace", "FukuroStory", "AbdullahJeet", "DonSai", "Sentomaru", "DocQ", "Foxy", "Kikyo", "Zeff", "LapinAdult"],
+        "drops": []
     }
 }

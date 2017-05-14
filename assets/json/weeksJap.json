@@ -82,9 +82,9 @@
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["Boa", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
+                {"raid": ["Boa", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Violet", "Mr3Jail", "CrocodileKimono"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},
                 {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Snail"]},

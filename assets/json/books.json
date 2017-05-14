@@ -11,6 +11,9 @@
     "MoriaShadow": { 
         "id" : "894"
     },
+    "MoriaStory" : {
+        "id" : "816"
+    },
     "Squard": {
         "id" : "643"
     },
@@ -308,6 +311,9 @@
     "DonChinJao" : {
         "id": "1025"
     },
+    "DonSai" : {
+        "id": "1082"
+    },    
     "FunkBrothers" : {
         "id" : "1029"
     }, 
@@ -413,6 +419,9 @@
     "CrocoSlasher": {
         "id" : "408"
     },
+    "Croco6" : {
+        "id" : "720"
+    },
     "Masira": {
         "id" : "426"
     },
@@ -446,6 +455,9 @@
     "Foxy" : {
         "id" : "569"
     },
+    "Kikyo" : {
+        "id" : "1061"
+    },    
     "Purinpurin" : {
         "id" : "611"
     },
@@ -499,6 +511,9 @@
     },
     "Lucci6" : {
         "id" : "748"
+    },
+    "Giolla" : {
+        "id" : "878"
     },
     "Monet" : {
         "id" : "842"
@@ -590,6 +605,12 @@
     "ChopperTS" : {
         "id" : "1412"
     },
+    "ChopperTSQck" : {
+        "id" : "1370"
+    },
+    "Corazon6" : {
+        "id" : "1001"
+    },    
     "Bepo" : {
         "id" : "316"
     },
@@ -601,6 +622,9 @@
     },
     "BearSkin" : {
         "id" : "814"
+    },
+    "Yamakaji" : {
+        "id" : "1224"
     },
     "Trebol" : {
         "id" : "876"
@@ -737,9 +761,15 @@
     "LawStory" : {
         "id" : "967"
     },
+    "Kingdew" : {
+        "id" : "1183"
+    },    
     "PX5" : {
         "id" : "972"
     },
+    "CobyStudent" : {
+        "id" : "1316"
+    },    
     "SentomaruStory" : {
         "id" : "974"
     },
@@ -854,6 +884,9 @@
     "Gedatsu" : {
         "id" : "465"
     },
+    "NamiTS" : {
+        "id" : "1366"
+    },
     "HoroHoroGhost" : {
         "id" : "888"
     },
@@ -898,5 +931,17 @@
     },
     "Morgan" : {
         "id" : "228"
+    },
+    "Elizabello" : {
+        "id" : "1131"
+    },
+    "LuffySW" : {
+        "id" : "1115"
+    },
+    "Robin3D2Y" : {
+        "id" : "908"
+    },
+    "Blackbeard6": {
+        "id" : "1268"
     }
 }

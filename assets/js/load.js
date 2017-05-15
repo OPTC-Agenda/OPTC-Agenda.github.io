@@ -108,19 +108,19 @@ function showColo(flag) {
             return json;
         })();
         ;
-
-
+        
         var start = $("#day1").text();
-        var month = $("#month").text();
+        var month = $("#month").text();             
 
         $.getJSON("assets/json/weeks.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
-
+                   
             for (i = 0; i < weeks.length; i++) {
-                if (weeks[i].month == month && weeks[i].starting == start) {
+                if (weeks[i].month == month && weeks[i].starting == start) {                    
                     cont = i;
+                    break;
                 }
             }
 
@@ -712,7 +712,13 @@ function nextWeek(day, newMonth) {
         showFN(false);            
         showColo(false);
         showRaid(false);
-        showSpecial(false);    
+        showSpecial(false);
+        
+        if(timezone){
+            prev = monthDays(month, start);
+            $("#day1").empty().append(prev);
+            $("#month").empty().append(month);
+        }
 
         for (i = 0; i < 7; i++) {
             // Gestione giorni
@@ -782,10 +788,16 @@ function prevWeek(day, newMonth) {
         $("#day1").empty().append(day);
 
         showFN(false);             
-        showColo(false);
+        showColo();
         showRaid(false);
         showSpecial(false);   
-
+        
+        if(timezone){
+            prev = monthDays(month, start);
+            $("#day1").empty().append(prev);
+            $("#month").empty().append(month);
+        }
+        
         for (i = 0; i < 7; i++) {
             // Gestione giorni
             if (i != 0) {
@@ -823,7 +835,7 @@ function setMargin() {
 }
 
 function firstLoad() {
-    // Day from the agenda has to start
+    // Day from the agenda has to start    
     var now = new Date();
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
     var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
@@ -878,7 +890,13 @@ function firstLoad() {
         showColo(false);
         showRaid(false);               
         showSpecial(false);   
-
+        
+        if(timezone){
+            prev = monthDays(month, start);
+            $("#day1").empty().append(prev);
+            $("#month").empty().append(month);
+        }
+        
         for (i = 0; i < 7; i++) {
             // Gestione giorni
             if (i != 0) {

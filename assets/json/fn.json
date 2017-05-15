@@ -511,5 +511,13 @@
         "lastTimes": [],
         "books" : ["Blackbeard6", "Ace", "FukuroStory", "AbdullahJeet", "DonSai", "Sentomaru", "DocQ", "Foxy", "Kikyo", "Zeff", "LapinAdult"],
         "drops": []
+    },
+    "Shiraoshi": {
+        "title": "Shiraoshi fortnight",
+        "large": "assets/images/fn/big/shiraoshi.png",
+        "tiny": "assets/images/fn/tiny/shiraoshi.png",
+        "lastTimes": [],
+        "books" : ["Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
+        "drops": ["Shiraoshi" , "Ryuboshi", "Manboshi"]
     }
 }

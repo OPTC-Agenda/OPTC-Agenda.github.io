@@ -466,5 +466,17 @@
     },
     "Wanze" : {
         "id" : "742"
+    },
+    "Shiraoshi" : {
+        "id" : "1596",
+        "missing" : "yes"
+    },
+    "Ryuboshi" : {
+        "id" : "1598",
+        "missing" : "yes"
+    },
+    "Manboshi" : {
+        "id" : "1599",
+        "missing" : "yes"
     }
 }

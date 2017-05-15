@@ -89,8 +89,14 @@
     "Brook5+" : {
         "id" : "1551"
     },
+    "Franky5+" : {
+        "id" : "1550"
+    },
     "Gyaro" : {
         "id" : "954"
+    },
+    "Ikaros" : {
+        "id" : "1438"
     },
     "Dellinger": {
         "id" : "997"
@@ -109,6 +115,15 @@
     },
     "Drake": {
         "id" : "361"
+    },
+    "Daruma" : {
+        "id" : "1440"
+    },
+    "OarsStory" : {
+        "id" : "893"
+    },
+    "Porchemy" : {
+        "id" : "1343"
     },
     "StrikerCroco": { 
         "id" : "384"
@@ -256,6 +271,9 @@
     }, 
     "Apoo" : {
         "id" : "359"        
+    },
+    "Diamante" : {
+        "id" : "999"
     },
     "FirePearl": {
         "id" : "56"

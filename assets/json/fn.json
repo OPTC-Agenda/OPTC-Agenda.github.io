@@ -411,7 +411,7 @@
         "large": "assets/images/fn/big/kuro.png",
         "tiny": "assets/images/fn/tiny/kuro.png",
         "lastTimes": [],
-        "expert" : ["Sogeking", "Usopp5+"],
+        "expert" : ["Sogeking"],
         "elite" : ["GoldenPound"],
         "drops": ["Siam", "Butchie", "Django", "Kuro"]
     },

@@ -38,6 +38,9 @@
     "RighteousJuror": { 
         "id" : "704"
     }, 
+    "Tansui" : {
+        "id" : "956"
+    },
     "Marco6": {  
         "id" : "649"
     }, 
@@ -80,6 +83,12 @@
     "ZoroLionSong": {
         "id" : "219"
     },
+    "Zoro3D2Y": {
+        "id" : "906"
+    },   
+    "Dagama": {
+        "id" : "1129"
+    },       
     "KakuSixPowers": { 
         "id" : "631"
     },
@@ -182,6 +191,9 @@
     "Satori": {
         "id" : "463"
     },
+    "Atmos": {
+        "id" : "1187"
+    },
     "Yama": {
         "id" : "467"
     },
@@ -251,6 +263,9 @@
     "Minorhinoceros" : {
         "id" : "539"
     }, 
+    "Minotaur" : {
+        "id" : "1151"
+    },     
     "Boa6+":{
         "id" : "1445"
     }, 
@@ -662,11 +677,17 @@
     "OnigumoINT" : {
         "id" : "1324"
     },
+    "Momonga" : {
+        "id" : "1322"
+    },
     "NamiThunderbolt" : {
         "id" :  "12"
     },
     "LucciLeopard" : {
         "id" : "737"
+    },
+    "Gloriosa": {
+        "id" : "1062"
     },
     "Caesar" : {
         "id" : "838"
@@ -704,8 +725,23 @@
     "FukuroStory" : {
         "id" : "733"
     },
+    "Fujitora" : {
+        "id" : "1085"
+    },
+    "Lafitte" : {
+        "id" : "1270"
+    },    
+    "Genzo" : {
+        "id" : "785"
+    },       
+    "KizaruStoria" : {
+        "id" : "1228"
+    },
     "KalifaStrongest" : {
         "id" : "752"
+    },
+    "KalifaStory" : {
+        "id" : "729"
     },
     "BoaSandersonia" : {
         "id" : "1056"
@@ -736,6 +772,9 @@
     }, 
     "Mr2Kimono" : {
         "id" : "899"
+    }, 
+    "Mr2" : {
+        "id" : "208"
     },
     "Sabo6+" : {
         "id" : "1492"
@@ -797,6 +836,9 @@
     "Mansherry" : {
         "id" : "1079"
     },
+    "OnionPepper" : {
+        "id" : "791"
+    },    
     "KumadoriStrong" : {
         "id" : "760"
     },
@@ -899,6 +941,9 @@
     "FrankyTS" : {
         "id" : "1364"
     },
+    "SanjiTS" : {
+        "id" : "1368"
+    },    
     "Gedatsu" : {
         "id" : "465"
     },

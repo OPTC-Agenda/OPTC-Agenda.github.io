@@ -519,5 +519,45 @@
         "lastTimes": [],
         "books" : ["Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
         "drops": ["Shiraoshi" , "Ryuboshi", "Manboshi"]
+    },
+    "Mihawk6": {
+        "title": "Mihawk 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/mihawk.png",
+        "lastTimes": [],
+        "books" : ["MihawkINT", "Doma", "Buffalo", "Zoro3D2Y", "Dagama", "BastilleG5", "Momonga", "Satori", "KalifaStory", "OnionPepper", "NeptunianSquid"],
+        "drops": []
+    },
+    "Sabo6": {
+        "title": "Sabo 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/sabo.png",
+        "lastTimes": [],
+        "books" : ["Sabo6", "SenorPink", "Luffy3D2Y", "BlueGilly", "NamiLoyal", "GarpSTR", "GumGumBaloon", "Chessmarimo", "Kaya", "LucciLeopard", "Gloriosa"],
+        "drops": []
+    },
+    "Ray6": {
+        "title": "Rayleigh 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/ray.png",
+        "lastTimes": [],
+        "books" : ["Rayleigh", "NicoRobin", "MoriaShadow", "Dellinger", "Nami5+", "ChopperTS", "Mr2", "Bellamy", "Wyper", "Gyaro", "Minotaur"],
+        "drops": []
+    },
+    "Jinbe6": {
+        "title": "Jinbe 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/jinbe.png",
+        "lastTimes": [],
+        "books" : ["Jinbe6", "CrocoSlasher", "DeCalvan", "Koala", "Hack", "Atmos", "Burgess", "SanjiTS", "Kureha", "RighteousJuror", "Tansui"],
+        "drops": []
+    },
+    "Fujitora6": {
+        "title": "Fujitora 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/fujitora.png",
+        "lastTimes": [],
+        "books" : ["Fujitora", "SaintShalria", "Moria", "Curiel", "Diamante", "Lafitte", "StreamingWolfZoro", "GoldenPound", "Genzo", "KizaruStoria", "Yama"],
+        "drops": []
     }
 }

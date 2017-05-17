@@ -13,6 +13,19 @@
         "lastTimes": [],
         "drops": ["EggRCV", "EggATK", "EggHP", "Cola"]
     },
+    "Luffy30": {
+        "title": "Luffy Booster and Evolvers fortnight",
+        "large": "assets/images/fn/big/luffy_books.png",
+        "tiny": "assets/images/fn/tiny/luffy_30.png",
+        "drops": ["Luffy3Anniversary", "ElderRed", "ElderBlue", "ElderGreen", "ElderYellow", "ElderPurple", "ElderHorse", 
+            "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple", "SeaPony", "SeaColt", "SeaHorse", "ATK", "HP", "RCV", "Cola"]
+    },
+    "Luffy40": {
+        "title": "Luffy socket book fortnight",
+        "large": "assets/images/fn/big/luffy_books.png",
+        "tiny": "assets/images/fn/tiny/luffy_40.png",
+        "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "Socket10", "Socket11", "ATK", "HP", "RCV", "Cola"]
+    },
     "Snail": {
         "tiny": "assets/images/special/snail.png"
     },

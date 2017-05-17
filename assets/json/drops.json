@@ -221,6 +221,88 @@
     "Cola" : {
         "image" : "assets/images/special/cola.png"
     },
+    "Socket1" : {        
+        "image" : "assets/images/special/socket1.png"   
+    },
+    "Socket2" : {   
+        "image" : "assets/images/special/socket2.png"   
+    }, 
+    "Socket3": {
+        "image": "assets/images/special/socket3.png"
+    },
+    "Socket4": {
+        "image": "assets/images/special/socket4.png"
+    },
+    "Socket5": {
+        "image": "assets/images/special/socket5.png"
+    },
+    "Socket6": {
+        "image": "assets/images/special/socket6.png"
+    },
+    "Socket7": {
+        "image": "assets/images/special/socket7.png"
+    },
+    "Socket8": {
+        "image": "assets/images/special/socket8.png"
+    },
+    "Socket9": {
+        "image": "assets/images/special/socket9.png"
+    },
+    "Socket10": {
+        "image": "assets/images/special/socket10.png"
+    },
+    "Socket11": {
+        "image": "assets/images/special/socket11.png"
+    },    
+    "Luffy3Anniversary": {
+        "image": "assets/images/special/socket11.png"
+    },    
+    "ElderRed": {
+        "image": "assets/images/special/elder_red.png"
+    },    
+    "ElderBlue": {
+        "image": "assets/images/special/elder_blue.png"
+    },    
+    "ElderGreen": {
+        "image": "assets/images/special/elder_green.png"
+    },   
+    "ElderYellow": {
+        "image": "assets/images/special/elder_yellow.png"
+    },    
+    "ElderPurple": {
+        "image": "assets/images/special/elder_purple.png"
+    },     
+    "ElderHorse": {
+        "image": "assets/images/special/elder_horse.png"
+    },    
+    "MediumRed": {
+        "image": "assets/images/special/medium_red.png"
+    },    
+    "MediumBlue": {
+        "image": "assets/images/special/medium_blue.png"
+    },     
+    "MediumGreen": {
+        "image": "assets/images/special/medium_green.png"
+    },    
+    "MediumYellow": {
+        "image": "assets/images/special/medium_yellow.png"
+    },    
+    "MediumPurple": {
+        "image": "assets/images/special/medium_purple.png"
+    },    
+    "SeaPony": {
+        "image": "assets/images/special/sea_pony.png"
+    },    
+    "SeaColt": {
+        "image": "assets/images/special/sea_colt.png"
+    },    
+    "SeaHorse": {
+        "image": "assets/images/special/sea_horse.png"
+    },    
+    "Luffy3Anniversary" : {
+        "image": "assets/images/special/luffy_3.png",
+        "id" : "1600"
+    },
     "BrookSoulKing" : {
         "id" : "1546"
     },

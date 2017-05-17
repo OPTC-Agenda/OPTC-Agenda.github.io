@@ -567,21 +567,5 @@
         "lastTimes": [],
         "books" : ["Fujitora", "SaintShalria", "Moria", "Curiel", "Diamante", "Lafitte", "StreamingWolfZoro", "GoldenPound", "Genzo", "KizaruStoria", "Yama"],
         "drops": []
-    },
-    "Luffy30": {
-        "title": "Luffy Booster and Evolvers fortnight",
-        "large": "assets/images/fn/big/6books.png",
-        "tiny": "assets/images/fn/tiny/jinbe.png",
-        "lastTimes": [],
-        "books" : ["Jinbe6", "CrocoSlasher", "DeCalvan", "Koala", "Hack", "Atmos", "Burgess", "SanjiTS", "Kureha", "RighteousJuror", "Tansui"],
-        "drops": []
-    },
-    "Luffy40": {
-        "title": "Luffy socket book fortnight",
-        "large": "assets/images/fn/big/6books.png",
-        "tiny": "assets/images/fn/tiny/fujitora.png",
-        "lastTimes": [],
-        "books" : ["Fujitora", "SaintShalria", "Moria", "Curiel", "Diamante", "Lafitte", "StreamingWolfZoro", "GoldenPound", "Genzo", "KizaruStoria", "Yama"],
-        "drops": []
     }
 }

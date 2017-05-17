@@ -478,5 +478,14 @@
     "Manboshi" : {
         "id" : "1599",
         "missing" : "yes"
+    },
+    "Perona" : {
+        "id" : "391"
+    },
+    "Kumachi": {
+        "id" : "393"
+    },
+    "DogPenguin" : {
+        "id" : "394"
     }
 }

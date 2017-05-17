@@ -432,6 +432,14 @@
         "books" : ["Buggy6", "Kid", "ChopperMask", "Violet", "BrookDex", "Hyouzou", "Dosun", "PeronaGiant", "Dadan", "Brook5+"],
         "drops": ["LawFN", "MonetFN"]
     },
+    "Perona": {
+        "title": "Perona's Worden Garden",
+        "large": "assets/images/fn/big/perona.png",
+        "tiny": "assets/images/fn/tiny/perona.png",
+        "lastTimes": [],
+        "books" : ["G2", "Helmeppo", "Yosaku", "Bepo", "Dalton", "Kumachi", "DogPenguin", "Luffy5+"],
+        "drops": ["Perona", "Kumachi", "DogPenguin"]
+    },    
     "Ace6": {
         "title": "Ace 6* Books fortnight",
         "large": "assets/images/fn/big/6books.png",
@@ -554,6 +562,22 @@
     },
     "Fujitora6": {
         "title": "Fujitora 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/fujitora.png",
+        "lastTimes": [],
+        "books" : ["Fujitora", "SaintShalria", "Moria", "Curiel", "Diamante", "Lafitte", "StreamingWolfZoro", "GoldenPound", "Genzo", "KizaruStoria", "Yama"],
+        "drops": []
+    },
+    "Luffy30": {
+        "title": "Luffy Booster and Evolvers fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/jinbe.png",
+        "lastTimes": [],
+        "books" : ["Jinbe6", "CrocoSlasher", "DeCalvan", "Koala", "Hack", "Atmos", "Burgess", "SanjiTS", "Kureha", "RighteousJuror", "Tansui"],
+        "drops": []
+    },
+    "Luffy40": {
+        "title": "Luffy socket book fortnight",
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/fujitora.png",
         "lastTimes": [],

@@ -13,6 +13,12 @@
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/950"
     },
+    "Hawkins": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0830.png",
+        "tiny": "assets/images/colo/tiny/hawkins.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/830"
+    },    
     "Alvida": {
         "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0861.png",
         "tiny": "assets/images/colo/tiny/alvida.png",

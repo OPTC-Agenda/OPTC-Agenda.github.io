@@ -550,16 +550,13 @@
         "id" : "742"
     },
     "Shiraoshi" : {
-        "id" : "1596",
-        "missing" : "yes"
+        "id" : "1596"        
     },
     "Ryuboshi" : {
-        "id" : "1598",
-        "missing" : "yes"
+        "id" : "1598"
     },
     "Manboshi" : {
-        "id" : "1599",
-        "missing" : "yes"
+        "id" : "1599"        
     },
     "Perona" : {
         "id" : "391"
@@ -569,5 +566,23 @@
     },
     "DogPenguin" : {
         "id" : "394"
+    },
+    "YoungBaby5" : {
+        "id" : "1286"
+    },
+    "YoungLaw": {
+        "id" : "1288"
+    },
+    "YoungBuffalo" : {
+        "id" : "1290"
+    },
+    "NicoOlvia" : {
+        "id" : "1048"
+    },
+    "Sauro": {
+        "id" : "1050"
+    },
+    "RobinOhara" : {
+        "id" : "1052"
     }
 }

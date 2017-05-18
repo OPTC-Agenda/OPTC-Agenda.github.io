@@ -521,7 +521,7 @@
         "drops": []
     },
     "Shiraoshi": {
-        "title": "Shiraoshi fortnight",
+        "title": "Fishman Island! The Royal Family!",
         "large": "assets/images/fn/big/shiraoshi.png",
         "tiny": "assets/images/fn/tiny/shiraoshi.png",
         "lastTimes": [],
@@ -567,5 +567,23 @@
         "lastTimes": [],
         "books" : ["Fujitora", "SaintShalria", "Moria", "Curiel", "Diamante", "Lafitte", "StreamingWolfZoro", "GoldenPound", "Genzo", "KizaruStoria", "Yama"],
         "drops": []
-    }
+    },
+    "DonquixotePirates": {
+        "title": "Donquixote Family's Children!",
+        "large": "assets/images/fn/big/donquixote_pirates.png",
+        "tiny": "assets/images/fn/tiny/donquixote_pirates.png",
+        "condition" : "Child-like characters get their ATK and HP boosted by 3.5x, RCV by 1.5x, <br>and cooldowns reduced by 7 turns at the start of the fight",
+        "lastTimes": [],
+        "books" : ["Law6", "SaintCharlos", "Marco", "KumadoriStrong", "DonSai", "Dagama", "Pell", "Kashii", "Gloriosa"],
+        "drops": ["YoungBaby5", "YoungLaw", "YoungBuffalo"]
+    },
+    "NicoOlvia": {
+        "title": "The One Who Seeks the Truth of History: Archaeologist Nico Olvia",
+        "condition" : "Only TND/RCV/INT orbs will appear",
+        "large": "assets/images/fn/big/nico_olvia.png",
+        "tiny": "assets/images/fn/tiny/nico_olvia.png",
+        "lastTimes": [],
+        "books" : ["Doffy6", "UsoppCode", "BigBun", "Nojiko", "Zambai", "MoriaStory", "Sugar", "Robin3D2Y"],
+        "drops": ["NicoOlvia", "Sauro", "RobinOhara"]
+    }           
 }

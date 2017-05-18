@@ -102,35 +102,35 @@
             "program": [                
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "LvlUp"]},
-                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["noe"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "LvlUp"]},
+                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 28,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["noe"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 4,
             "month" : "June",
             "program": [                
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["noe"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["none"], "special" : ["none"]}
             ]     
         }                          
     ]

@@ -230,5 +230,23 @@
         "tiny": "assets/images/colo/tiny/saga.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1088"
+    },
+    "Zephyr": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1101.png",
+        "tiny": "assets/images/colo/tiny/zephyr.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1101"
+    },
+    "Shiryu": {
+        "large": "assets/images/colo/big/1773.png",
+        "tiny": "assets/images/colo/tiny/shiryu.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1601"
+    },
+    "McGuy": {
+        "large": "assets/images/colo/big/1724.png",
+        "tiny": "assets/images/colo/tiny/McGuy.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1603"
     }
 }

@@ -41,6 +41,9 @@
     "Tansui" : {
         "id" : "956"
     },
+    "HogbackStory" : {
+        "id" : "891"
+    },    
     "Marco6": {  
         "id" : "649"
     }, 
@@ -128,9 +131,15 @@
     "Daruma" : {
         "id" : "1440"
     },
+    "Haruta" : {
+        "id" : "1186"
+    },    
     "OarsStory" : {
         "id" : "893"
     },
+    "OarsJr" : {
+        "id" : "647"
+    },    
     "Porchemy" : {
         "id" : "1343"
     },
@@ -344,6 +353,12 @@
     "DonChinJao" : {
         "id": "1025"
     },
+    "Hiriluk" : {
+        "id": "787"
+    }, 
+    "Shoujou" : {
+        "id": "427"
+    },        
     "DonSai" : {
         "id": "1082"
     },    
@@ -430,6 +445,9 @@
     }, 
     "Nami3D2Y" : {
         "id" : "939"
+    }, 
+    "Sanji3D2Y" : {
+        "id" : "912"
     },
     "DiableJambe" : {
         "id" : "20"
@@ -506,6 +524,9 @@
     "BluenoStory" : {
         "id" : "707"
     },
+    "BluenoStrong" : {
+        "id" : "756"
+    },    
     "Macro" : {
         "id" : "955"
     },
@@ -551,6 +572,9 @@
     "Monet" : {
         "id" : "842"
     },
+    "Gladius" : {
+        "id" : "993"
+    },    
     "Buffalo" : {
         "id" : "846"
     },
@@ -626,6 +650,9 @@
     "AkainuStory" : {
         "id" : "1283"
     },    
+    "Sakazuki6" : {
+        "id" : "1314"
+    },     
     "Zoro6" : {
         "id" : "1362"
     },    
@@ -722,12 +749,12 @@
     "Nola" : {
         "id" : "542"
     },
-    "Mr3" : {
-        "id" : "203"
-    },
     "FukuroStory" : {
         "id" : "733"
     },
+    "AokijiStory" : {
+        "id" : "1280"
+    },    
     "Fujitora" : {
         "id" : "1085"
     },
@@ -833,6 +860,12 @@
     "SentomaruStory" : {
         "id" : "974"
     },
+    "Minozebra" : {
+        "id" : "1152"
+    },    
+    "Sphinx" : {
+        "id" : "1153"
+    }, 
     "Leo" : {
         "id" : "1077"
     },

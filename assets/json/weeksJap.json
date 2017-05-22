@@ -62,59 +62,85 @@
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Rumbar", "Lucci", "Sengoku"], "special" : ["Snail"]},
                 {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
                 {"raid": ["Zephyr", "NightmareLuffy", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail"]},
-                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]}
+                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]}
             ]     
         },
         {
             "starting": 7,
             "month" : "May",
             "program": [                
-                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
-                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
+                {"raid": ["Franky", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
+                {"raid": ["Blackbeard", "Chopper", "Shanks"], "colo" : ["Wyper", "Ain", "Byrnndi", "BrownBeard", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
                 {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["Snail", "FreePull"]},
-                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6"], "special" : ["LvlUpx3", "Sugofest"]},
+                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["LawMonet", "AfroLuffy", "Shambles", "CalgaraNoland"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga", "Cavendish"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6"], "special" : ["LvlUpx3", "Sugofest"]},
                 {"raid": ["BusterCall", "Whitebeard"], "colo" : ["none"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6"], "special" : ["LvlUpx3", "Sugofest"]},
-                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6"], "special" : ["LvlUpx3", "Sugofest"]}
+                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6"], "special" : ["LvlUpx3", "Sugofest"]}
             ]     
         },
         {
             "starting": 14,
             "month" : "May",
             "program": [                
-                {"raid": ["Boa", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["LvlUpx3"]},
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["Snail"]},
+                {"raid": ["Boa", "Mihawk", "Whitebeard"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Ace6", "Shanks6", "Doffy6", "Cavendish6", "Law6", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga", "Cavendish"], "fn": ["LawMonet", "Violet", "Mr3Jail", "CrocodileKimono", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "Violet", "Mr3Jail", "CrocodileKimono", "Luffy6", "Crocodile6", "Kuzan6", "Corazon6", "Blackbeard6"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Shiraoshi","Violet", "Mr3Jail", "CrocodileKimono", "Mihawk6", "Sabo6", "Ray6", "Jinbe6", "Fujitora6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
-                {"raid": ["none"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Mihawk6", "Sabo6", "Ray6", "Jinbe6", "Fujitora6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
+                {"raid": ["none"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["Shiraoshi","Violet", "Mr3Jail", "CrocodileKimono", "Mihawk6", "Sabo6", "Ray6", "Jinbe6", "Fujitora6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
+                {"raid": ["none"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Mihawk6", "Sabo6", "Ray6", "Jinbe6", "Fujitora6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
                 {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Mihawk6", "Sabo6", "Ray6", "Jinbe6", "Fujitora6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
-                {"raid": ["Kizaru", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40", "Snail"]}
+                {"raid": ["Kizaru", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Marco6", "Sengoku6","Lucci6", "Whitebeard6", "Sakazuki6"], "special" : ["Luffy30", "Luffy40", "Snail"]}
             ]     
         },
         {
             "starting": 21,
             "month" : "May",
             "program": [                
-                {"raid": ["Garp", "Fujitora", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40", "Snail"]},
-                {"raid": ["Akainu", "Shanks"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40", "Snail"]},
+                {"raid": ["Garp", "Fujitora", "Mihawk", "Shanks"], "colo" : ["Orlumbus", "Helmeppo", "Kinemon", "Ace", "Rebecca", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Marco6", "Sengoku6","Lucci6", "Whitebeard6", "Sakazuki6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
+                {"raid": ["Akainu", "Shanks"], "colo" : ["DonChinjao", "LaoG", "Ideo", "BoaSandersonia", "Saga", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Marco6", "Sengoku6","Lucci6", "Whitebeard6", "Sakazuki6"], "special" : ["Luffy30", "Luffy40", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono"], "special" : ["Luffy30", "Luffy40"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]}
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]}
             ]     
         },
         {
             "starting": 28,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["none"], "special" : ["none"]}
+            ]     
+        },
+        {
+            "starting": 4,
+            "month" : "June",
+            "program": [                
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["none"], "special" : ["none"]}
+            ]     
+        },
+        {
+            "starting": 11,
+            "month" : "June",
+            "program": [                
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]     
         }
     ]

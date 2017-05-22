@@ -585,5 +585,45 @@
         "lastTimes": [],
         "books" : ["Doffy6", "UsoppCode", "BigBun", "Nojiko", "Zambai", "MoriaStory", "Sugar", "Robin3D2Y"],
         "drops": ["NicoOlvia", "Sauro", "RobinOhara"]
-    }           
+    },
+    "Marco6": {
+        "title": "Marco 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/marco6.png",
+        "lastTimes": [],
+        "books" : ["Marco6", "Marco", "KakuStrong", "Monet", "Gladius", "BrookCode", "Chaka", "KakuSixPowers", "SeaCat", "HogbackStory", "SmokerPSYStory"],
+        "drops": []
+    },
+    "Sengoku6": {
+        "title": "Sengoku 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/sengoku6.png",
+        "lastTimes": [],
+        "books" : ["Sengoku6", "Rakuyo", "NewSWSanji", "Haruta", "ZoroCode", "Robin5+", "DoubleFinger", "Bellmere", "SentomaruStory", "Minozebra", "Sphinx"],
+        "drops": []
+    },
+    "Lucci6": {
+        "title": "Lucci 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/lucci6.png",
+        "lastTimes": [],
+        "books" : ["Lucci6", "Urouge", "BluenoStrong", "Sanji3D2Y", "BastilleG5", "Sanji5+", "LucciSTR", "Hiriluk", "JabraINT", "Shoujou", "JohnGiant"],
+        "drops": []
+    },    
+    "Whitebeard6": {
+        "title": "Whitebeard 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/whitebeard6.png",
+        "lastTimes": [],
+        "books" : ["Whitebeard", "Whitebeard4Emperors", "Drake", "BigEaterBonny", "KalifaStrongest", "Sugar", "Nami3D2Y", "Mr3", "AokijiStory", "Capote", "Oimo", "Saldeath"],
+        "drops": []
+    },
+    "Sakazuki6": {
+        "title": "Sakazuki 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/sakazuki6.png",
+        "lastTimes": [],
+        "books" : ["Sakazuki6", "ViviPrincess", "Blamenco", "KumaShooter", "Fossa", "OarsJr", "OnigumoINT", "Broggy", "Dalton", "AkainuStory", "Macro"],
+        "drops": []
+    }        
 }

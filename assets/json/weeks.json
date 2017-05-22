@@ -103,8 +103,8 @@
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "LvlUp"]},
-                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "Sugofest", "LvlUp"]},
+                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Sugofest", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]}
             ]     

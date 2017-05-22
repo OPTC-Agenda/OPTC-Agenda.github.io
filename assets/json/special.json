@@ -20,6 +20,12 @@
         "drops": ["Luffy3Anniversary", "ElderRed", "ElderBlue", "ElderGreen", "ElderYellow", "ElderPurple", "ElderHorse", 
             "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple", "SeaPony", "SeaColt", "SeaHorse", "ATK", "HP", "RCV", "Cola"]
     },
+    "SugoIsland": {
+        "title": "Island sugofest!",
+        "large": "assets/images/special/zoro_sugofest.jpg",
+        "tiny": "assets/images/special/sugo_island.png",
+        "drops": ["ATK", "HP", "RCV", "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple"]
+    },    
     "Luffy40": {
         "title": "Luffy socket book fortnight",
         "large": "assets/images/fn/big/luffy_books.png",
@@ -65,15 +71,15 @@
     "Snail": {
         "tiny": "assets/images/special/snail.png"
     },
+    "Sugofest": {
+        "tiny": "assets/images/special/sugofest.png"
+    },    
     "LvlUp" : {
         "tiny" : "assets/images/others/special_lvl_up.png"
     },
     "LvlUpx3" : {
         "tiny" : "assets/images/others/special_lvl_up_x3.png"
     },    
-    "Sugofest" : {
-        "tiny" : "assets/images/special/sugofest.png"
-    },
     "FreePull" : {
         "tiny" : "assets/images/special/free-pull.png"
     },

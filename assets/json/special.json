@@ -26,6 +26,12 @@
         "tiny": "assets/images/fn/tiny/luffy_40.png",
         "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "Socket10", "Socket11", "ATK", "HP", "RCV", "Cola"]
     },
+    "HimeSTR": {
+        "title": "Hime STR Turtles",
+        "large": "assets/images/fn/big/turtles.png",
+        "tiny": "assets/images/fn/tiny/hime_str.png",
+        "drops": ["HimeRed", "ElderRed"]
+    },    
     "Snail": {
         "tiny": "assets/images/special/snail.png"
     },

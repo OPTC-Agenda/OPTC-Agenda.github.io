@@ -256,7 +256,7 @@
     },    
     "Luffy3Anniversary": {
         "image": "assets/images/special/socket11.png"
-    },    
+    },        
     "ElderRed": {
         "image": "assets/images/special/elder_red.png"
     },    
@@ -274,7 +274,25 @@
     },     
     "ElderHorse": {
         "image": "assets/images/special/elder_horse.png"
+    }, 
+    "HimeRed": {
+        "image": "assets/images/special/hime_red.png"
     },    
+    "HimeBlue": {
+        "image": "assets/images/special/hime_blue.png"
+    },    
+    "HimeGreen": {
+        "image": "assets/images/special/hime_green.png"
+    },   
+    "HimeYellow": {
+        "image": "assets/images/special/hime_yellow.png"
+    },    
+    "HimePurple": {
+        "image": "assets/images/special/hime_purple.png"
+    },     
+    "ElderHorse": {
+        "image": "assets/images/special/elder_horse.png"
+    },      
     "MediumRed": {
         "image": "assets/images/special/medium_red.png"
     },    

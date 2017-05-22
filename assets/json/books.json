@@ -17,6 +17,9 @@
     "Squard": {
         "id" : "643"
     },
+    "Vergo": {
+        "id" : "840"
+    },    
     "Hack": { 
         "id" : "673"
     },
@@ -155,6 +158,9 @@
     "Capote": {           
         "id" : "564"
     },    
+    "HannyabalStory" : {
+        "id" : "1157"
+    },
     "Koza": {           
         "id" : "590"
     },       
@@ -177,11 +183,14 @@
         "id" : "223"
     },
     "Mr8": {
-        "id" : "224"
+        "id" : "234"
     },
     "MissMonday": {
         "id" : "236"
     },
+    "Cerberus": {
+        "id" : "812"
+    },    
     "Shanks": {
         "id" : "77"
     },
@@ -260,6 +269,9 @@
     "Nezumi": {
         "id" : "59"
     }, 
+    "Borsalino6": {
+        "id" : "1240"
+    },     
     "Capone": {
         "id" : "365"
     },
@@ -274,10 +286,16 @@
     }, 
     "Minotaur" : {
         "id" : "1151"
-    },     
+    },   
+    "VanAugur" : {
+        "id" : "1272"
+    },         
     "Boa6+":{
         "id" : "1445"
     }, 
+    "TsuruG5":{
+        "id" : "1320"
+    },     
     "GiantFighterYellow" : {
         "id" : "371"        
     },
@@ -289,7 +307,10 @@
     }, 
     "MrPrince": {
         "id" : "225"
-    },     
+    },  
+    "Mr4" : {
+        "id" : "398"
+    },
     "NicoRobin" : {
         "id" : "210"
     }, 
@@ -368,6 +389,9 @@
     "AbdullahJeet" : {
         "id" : "1033"
     },    
+    "Ohm" : {
+        "id" : "541"
+    },     
     "BoaSTR" : {
         "id" : "1218"
     },
@@ -392,6 +416,9 @@
     "TonyTonyChopper" : {
         "id" : "21"
     },
+    "Chopper5+" : {
+        "id" : "1448"
+    },    
     "SmoothAlvida" : {
         "id" : "30"
     },
@@ -773,9 +800,12 @@
     "KalifaStory" : {
         "id" : "729"
     },
+    "BoaMarigold" : {
+        "id" : "1058"
+    },
     "BoaSandersonia" : {
         "id" : "1056"
-    },
+    },    
     "MargueriteStory" : {
         "id" : "1060"
     },

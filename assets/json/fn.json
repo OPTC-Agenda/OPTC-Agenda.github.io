@@ -625,5 +625,45 @@
         "lastTimes": [],
         "books" : ["Sakazuki6", "ViviPrincess", "Blamenco", "KumaShooter", "Fossa", "OarsJr", "OnigumoINT", "Broggy", "Dalton", "AkainuStory", "Macro"],
         "drops": []
+    },
+    "Boa6": {
+        "title": "Boa Hancock 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/boa.png",
+        "lastTimes": [],
+        "books" : ["Boa6", "Boa6+", "Jozu", "Inazuma", "TsuruG5", "Chopper5+", "Mr1Sword", "Pell", "Crocus", "OarsStory", "HannyabalStory", "Kashii"],
+        "drops": []
+    },
+    "Bartolomeo6": {
+        "title": "Bartolomeo 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/bartolomeo.png",
+        "lastTimes": [],
+        "books" : ["Bartolomeo6", "TowelNami", "Kid", "Squard", "Vergo", "DonChinJao", "FunkBrothers", "MrPrince", "Ohm", "FukuroStory", "BoaSandersonia"],
+        "drops": []
+    },
+    "Buggy6": {
+        "title": "Buggy 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/buggy6.png",
+        "lastTimes": [],
+        "books" : ["Buggy6", "Hajrudin", "SmokerG5", "Shiryu", "Franky5+", "LaboonLuffyDrawing", "BluenoStory", "KumadoriSixPowers", "PeronaGiant", "GarpSTR", "Unluckies"],
+        "drops": []
+    },    
+    "Borsalino6": {
+        "title": "Borsalino 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/borsalino.png",
+        "lastTimes": [],
+        "books" : ["Borsalino6", "Shanks", "Izo", "KumadoriStrong", "Franky3D2Y", "VanAugur", "Brook5+", "Mr4", "Iceburg", "BoaMarigold", "Nezumi"],
+        "drops": []
+    },
+    "Zoro6": {
+        "title": "Zoro 6* Books fortnight",
+        "large": "assets/images/fn/big/6books.png",
+        "tiny": "assets/images/fn/tiny/zoro.png",
+        "lastTimes": [],
+        "books" : ["Zoro6", "Baby5", "Kyros", "Suleiman", "BrookTS", "KamiEneru", "SengokuINT", "Mr8", "Cerberus", "Yosaku"],
+        "drops": []
     }        
 }

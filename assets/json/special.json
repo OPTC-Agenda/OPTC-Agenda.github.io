@@ -21,7 +21,7 @@
             "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple", "SeaPony", "SeaColt", "SeaHorse", "ATK", "HP", "RCV", "Cola"]
     },
     "SugoIsland": {
-        "title": "Island sugofest!",
+        "title": "Sugofest is coming!",
         "large": "assets/images/special/zoro_sugofest.jpg",
         "tiny": "assets/images/special/sugo_island.png",
         "drops": ["ATK", "HP", "RCV", "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple"]

@@ -25,6 +25,7 @@ $(document).ready(function () {
     showIcon();
     setMargin();
     firstLoad();
+    
 
     $('#showRaid').click(function () {        
         showRaid(true);
@@ -41,6 +42,7 @@ $(document).ready(function () {
     $('#showSpecials').click(function () {
         showSpecial(true);
     });     
+        
 });
 
 function showRaid(flag) {
@@ -228,9 +230,6 @@ function showSpecial(flag){
 
             for (i = 0; i < 7; i++) {
                 var special = json.weeks[cont].program[i].special;
-                console.log(character);
-                console.log(special);
-                console.log(specialList[character]);
                 if (special[0] != "none") {
                     for (j = 0; j < special.length; j++) {
                         var character = special[j];

@@ -154,8 +154,8 @@ and open the template in the editor.
                         <div class="arrow-left"></div>
                     </a>                
                     <div class="center-arrow text-center"> <!-- col-lg-8 col-md-8 col-sm-8 -->
-                        <h1 id="month" class="text-uppercase"></h1>
-                        <h3 class="fuso">JST Time</h3>
+                        <h1 id="month" class="text-uppercase"></h1>                       
+                        <h3 class="fuso"><span id="clock"></span> JST</h3>
                     </div>                
                     <a class="next bigSee" href="#" onclick="empty()">
                         <div class="arrow-right"></div>
@@ -163,14 +163,14 @@ and open the template in the editor.
                 </div>
             </div>
         </aside>     
-<section>               
+        <section>               
             <div class="container section-div">
                 <a class="prev bigSee" href="#" onclick="empty()">
                     <div class="row arrow-top">                                        
                     </div>
                 </a>
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">                        
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back1">                        
                         <div id="day1" ></div>
                         <div id="special1"></div>
                     </div>
@@ -182,7 +182,7 @@ and open the template in the editor.
                     </div>                 
                 </div>
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back2">
                         <div id="day2" ></div>
                         <div id="special2"></div>                        
                     </div>
@@ -194,7 +194,7 @@ and open the template in the editor.
                     </div>                 
                 </div>
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back3">
                         <div id="day3" ></div>
                         <div id="special3"></div>                         
                     </div>
@@ -206,7 +206,7 @@ and open the template in the editor.
                     </div>                 
                 </div>
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back4">
                         <div id="day4" ></div>
                         <div id="special4"></div>                         
                     </div>
@@ -218,7 +218,7 @@ and open the template in the editor.
                     </div>                 
                 </div>            
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back5">
                         <div id="day5" ></div>
                         <div id="special5"></div>                         
                     </div>
@@ -230,7 +230,7 @@ and open the template in the editor.
                     </div>                 
                 </div>           
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back6">
                         <div id="day6" ></div>
                         <div id="special6"></div>                         
                     </div>
@@ -247,7 +247,7 @@ and open the template in the editor.
                 </a>                          
                 
                 <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day">
+                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back7">
                         <div id="day7" ></div>
                         <div id="special7"></div>                         
                     </div>
@@ -448,7 +448,12 @@ and open the template in the editor.
         <!-- Plugin JavaScript -->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
+        <script type="text/javascript">
+            var yourTimeZoneFrom = +9.00;
+        </script>        
+        
         <script src="assets/js/loadJap.js"></script>
+        <script src="assets/js/clock.js"></script>
 
     </body>
 

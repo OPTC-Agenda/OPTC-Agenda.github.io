@@ -26,11 +26,41 @@
         "tiny": "assets/images/fn/tiny/luffy_40.png",
         "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "Socket10", "Socket11", "ATK", "HP", "RCV", "Cola"]
     },
+    "AceTraining": {
+        "title": "Ace beginner training forest",
+        "large": "assets/images/special/ace_training_big.png",
+        "tiny": "assets/images/special/ace_training.png",
+        "drops": ["AceTraining"]
+    },
     "HimeSTR": {
         "title": "Hime STR Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_str.png",
         "drops": ["HimeRed", "ElderRed"]
+    },
+    "HimeQCK": {
+        "title": "Hime QCK Turtles",
+        "large": "assets/images/fn/big/turtles.png",
+        "tiny": "assets/images/fn/tiny/hime_qck.png",
+        "drops": ["HimeBlue", "ElderBlue"]
+    },
+    "HimeDEX": {
+        "title": "Hime DEX Turtles",
+        "large": "assets/images/fn/big/turtles.png",
+        "tiny": "assets/images/fn/tiny/hime_dex.png",
+        "drops": ["HimeGreen", "ElderGreen"]
+    },
+    "HimePSY": {
+        "title": "Hime PSY Turtles",
+        "large": "assets/images/fn/big/turtles.png",
+        "tiny": "assets/images/fn/tiny/hime_psy.png",
+        "drops": ["HimeYellow", "ElderYellow"]
+    },
+    "HimeINT": {
+        "title": "Hime INT Turtles",
+        "large": "assets/images/fn/big/turtles.png",
+        "tiny": "assets/images/fn/tiny/hime_int.png",
+        "drops": ["HimePurple", "ElderPurple"]
     },    
     "Snail": {
         "tiny": "assets/images/special/snail.png"

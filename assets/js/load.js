@@ -228,13 +228,14 @@ function showSpecial(flag){
 
             for (i = 0; i < 7; i++) {
                 var special = json.weeks[cont].program[i].special;
+                console.log(character);
                 if (special[0] != "none") {
                     for (j = 0; j < special.length; j++) {
                         var character = special[j];
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
                         
-                        if (character == "Cotton" || character == "CottonEgg") {
+                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime")) {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
                             if (character == "LvlUp") {

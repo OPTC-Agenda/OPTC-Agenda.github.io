@@ -94,29 +94,29 @@
                 {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
                 {"raid": ["Garp"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
                 {"raid": ["Sabo"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull"]}
+                {"raid": ["none"], "colo" : ["Killer", "Drake", "Coby", "LuckyRoo", "Wyper"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["FreePull", "HimeINT"]}
             ]     
         },{
             "starting": 21,
             "month" : "May",
             "program": [                
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders3", "Perona", "Buggy", "Kuro", "Arlong"], "special" : ["Rayleigh", "HimeQCK"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Rayleigh", "Sugofest", "LvlUp"]},
                 {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg"], "special" : ["Sugofest", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["HimeSTR"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 28,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["HimeSTR"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimeDEX"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimePSY"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
             ]     

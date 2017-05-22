@@ -285,8 +285,11 @@
         "image": "assets/images/special/hime_green.png"
     },   
     "HimeYellow": {
-        "image": "assets/images/special/hime_yellow.png"
+        "image": "assets/images/special/hime_psy.png"
     },    
+    "AceTraining": {
+        "image": "assets/images/special/ace_special.png"
+    },        
     "HimePurple": {
         "image": "assets/images/special/hime_purple.png"
     },     

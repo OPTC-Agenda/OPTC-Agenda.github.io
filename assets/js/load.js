@@ -8,15 +8,15 @@ $(window).bind("load", function () {
     setMargin();
 });
 
-function showIcon(){    
+function showIcon() {
 //    $(window).resize(function(){
-        if ($(this).width() <= 768) {            
-            $('.littleSee').show();
-            $('.bigSee').hide();
-        } else {            
-            $('.littleSee').hide();
-            $('.bigSee').show();
-        }
+    if ($(this).width() <= 768) {
+        $('.littleSee').show();
+        $('.bigSee').hide();
+    } else {
+        $('.littleSee').hide();
+        $('.bigSee').show();
+    }
     //});
 }
 
@@ -25,9 +25,9 @@ $(document).ready(function () {
     showIcon();
     setMargin();
     firstLoad();
-    
 
-    $('#showRaid').click(function () {        
+
+    $('#showRaid').click(function () {
         showRaid(true);
     });
 
@@ -37,17 +37,17 @@ $(document).ready(function () {
 
     $('#showFortnights').click(function () {
         showFN(true);
-    });        
-    
+    });
+
     $('#showSpecials').click(function () {
         showSpecial(true);
-    });     
-        
+    });
+
 });
 
 function showRaid(flag) {
-    
-    if ($("#showRaid:checked").length > 0) {        
+
+    if ($("#showRaid:checked").length > 0) {
         var raidList = (function () {
             $.ajax({
                 'async': false,
@@ -89,9 +89,9 @@ function showRaid(flag) {
             }
         });
 
-    }else {
+    } else {
         emptyRaid();
-    } 
+    }
 }
 
 function showColo(flag) {
@@ -110,17 +110,17 @@ function showColo(flag) {
             return json;
         })();
         ;
-        
+
         var start = $("#day1").text();
-        var month = $("#month").text();             
+        var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
             var weeks = json.weeks;
             var prev = start;
             var cont;
-                   
+
             for (i = 0; i < weeks.length; i++) {
-                if (weeks[i].month == month && weeks[i].starting == start) {                    
+                if (weeks[i].month == month && weeks[i].starting == start) {
                     cont = i;
                     break;
                 }
@@ -140,7 +140,7 @@ function showColo(flag) {
             }
         });
 
-    }else {
+    } else {
         emptyColo();
     }
 }
@@ -192,12 +192,12 @@ function showFN(flag) {
             }
         });
 
-    }else {
+    } else {
         emptyFn();
     }
 }
 
-function showSpecial(flag){
+function showSpecial(flag) {
     if ($("#showSpecials:checked").length > 0) {
 
         var specialList = (function () {
@@ -235,18 +235,31 @@ function showSpecial(flag){
                         var character = special[j];
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
-                        
+
                         if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime") || character == "SugoIsland") {
-                            $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
-                        } else {                            
+                            if (timezone) {
+                                $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                            } else {
+                                $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                            }
+                        } else {
                             if (character == "LvlUp") {
                                 if ($(window).width() > 768) {
-                                    $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                    if (timezone) {
+                                        $("#list" + (i) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                    } else {
+                                        $("#list" + (i+1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                    }
                                 } else {
-                                    $("#special" + (i + 1)).addClass('special-img');
-                                    $("#special" + (i + 1)).addClass('skillup-x2');
+                                    if (timezone) {
+                                        $("#special" + (i)).addClass('special-img');
+                                        $("#special" + (i)).addClass('skillup-x2');
+                                    } else {
+                                        $("#special" + (i + 1)).addClass('special-img');
+                                        $("#special" + (i + 1)).addClass('skillup-x2');
+                                    }
                                 }
-                            } 
+                            }
                             if (character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
@@ -256,7 +269,7 @@ function showSpecial(flag){
             }
         });
 
-    }else {
+    } else {
         emptySpecial();
     }
 }
@@ -270,9 +283,9 @@ function emptyAll() {
     emptySpecialLvlUp();
 }
 
-function emptyRaid() {    
+function emptyRaid() {
     for (i = 0; i < 7; i++) {
-        $("#list" + (i + 1) + " .raid").empty();        
+        $("#list" + (i + 1) + " .raid").empty();
     }
 }
 
@@ -304,8 +317,8 @@ function emptySpecialLvlUp() {
     for (i = 0; i < 7; i++) {
         $("#special" + (i + 1)).removeClass('special-img');
         $("#special" + (i + 1)).removeClass('skillup-x3');
-        $("#special" + (i + 1)).removeClass('skillup-x2');                
-    }    
+        $("#special" + (i + 1)).removeClass('skillup-x2');
+    }
 }
 
 function monthDays(month, day) {
@@ -345,12 +358,12 @@ function monthDays(month, day) {
     } else {
         newDay = day + 1;
     }
-    
-    if(month == "April"){
-        if(day == 30){
+
+    if (month == "April") {
+        if (day == 30) {
             newDay = 1;
         }
-    }    
+    }
 
     return newDay;
 }
@@ -374,29 +387,29 @@ function raidModal(character) {
     var charJs = raidList[character];
     var large;
     var last = raidList[character].lastTimes;
-    
-    $("#raidDropsImg").empty();  
+
+    $("#raidDropsImg").empty();
     $("#raidLast").empty();
-        
-    if(character == "BusterCall"){        
-        $("#raidDrops").css('display','block');     
-        large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";        
-        
-        for(i = 0; i < charJs.drops.length; i++){
+
+    if (character == "BusterCall") {
+        $("#raidDrops").css('display', 'block');
+        large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
+
+        for (i = 0; i < charJs.drops.length; i++) {
             var url = "http://optc-db.github.io/characters/#/view/" + charJs.drops[i];
             var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(charJs.drops[i]);
             $("#raidDropsImg").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
         }
-        
+
     } else {
-        $("#raidDrops").css('display','none'); 
-        if(charJs.linkDB != "missing"){
+        $("#raidDrops").css('display', 'none');
+        if (charJs.linkDB != "missing") {
             large = "<a href='" + charJs.linkDB + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>";
-        }else {
+        } else {
             large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
         }
-    }  
-    
+    }
+
     $("#raidBody h2").empty().append(charJs.name);
     $("#raidImage").empty().append(large);
 
@@ -487,17 +500,17 @@ function fnModal(character) {
     var books;
     var expert;
     var elite;
-    
-    if(fnList[character].hasOwnProperty('books')){
+
+    if (fnList[character].hasOwnProperty('books')) {
         books = fnList[character].books;
     } else {
-        if(fnList[character].hasOwnProperty('expert')) {
+        if (fnList[character].hasOwnProperty('expert')) {
             expert = fnList[character].expert;
-            elite = fnList[character].elite;            
+            elite = fnList[character].elite;
         } else {
             books = fnList[character].global_books;
         }
-    }    
+    }
 
     $("#fnBody h2").empty().append(title);
     $("#fnImage").empty().append(large);
@@ -507,30 +520,30 @@ function fnModal(character) {
     $("#fnCondition").empty();
     $("#eliteBooks").empty();
     $("#expertBooks").empty();
-    
-    if(fnList[character].hasOwnProperty('condition')){
-        $("#conditions").css('display','block');
+
+    if (fnList[character].hasOwnProperty('condition')) {
+        $("#conditions").css('display', 'block');
         $("#fnCondition").append(fnList[character].condition);
     } else {
-        $("#conditions").css('display','none');
+        $("#conditions").css('display', 'none');
     }
-    
-    if(fnList[character].hasOwnProperty('expert')){
-        for(i=0;i<expert.length;i++){
+
+    if (fnList[character].hasOwnProperty('expert')) {
+        for (i = 0; i < expert.length; i++) {
             var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[expert[i]].id);//bookList[books[i]].image;
             var url = "http://optc-db.github.io/characters/#/view/" + bookList[expert[i]].id;
-            $("#expertBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");            
+            $("#expertBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
         }
-        for(i=0;i<elite.length;i++){
+        for (i = 0; i < elite.length; i++) {
             var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[elite[i]].id);//bookList[books[i]].image;
             var url = "http://optc-db.github.io/characters/#/view/" + bookList[elite[i]].id;
-            $("#eliteBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");                        
+            $("#eliteBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
         }
-        $("#expert").css('display','table');            
-        $("#elite").css('display','table');
+        $("#expert").css('display', 'table');
+        $("#elite").css('display', 'table');
     } else {
-        $("#elite").css('display','none');
-        $("#expert").css('display','none');
+        $("#elite").css('display', 'none');
+        $("#expert").css('display', 'none');
     }
 
     for (i = 0; i < last.length; i++) {
@@ -544,14 +557,14 @@ function fnModal(character) {
         var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
         $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }
-    
-    if (books != null){
+
+    if (books != null) {
         for (i = 0; i < books.length; i++) {
             var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
             var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
             $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
         }
-    }   
+    }
 }
 
 function specialModal(character) {
@@ -594,11 +607,11 @@ function specialModal(character) {
     $("#specialBody h2").empty().append(title);
     $("#specialImage").empty().append(large);
     //$("#specialLast").empty();
-    $("#specialDrops").empty();    
+    $("#specialDrops").empty();
 
     /*for (i = 0; i < last.length; i++) {
-        $("#fnLast").append("<li>" + last[i] + "</li>");
-    }*/
+     $("#fnLast").append("<li>" + last[i] + "</li>");
+     }*/
 
     for (i = 0; i < drops.length; i++) {
         var drop = drops[i];
@@ -683,10 +696,10 @@ function nextWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");                    
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
-                    $(".next").attr("data-toggle", "modal");                    
+                    $(".next").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
@@ -694,7 +707,7 @@ function nextWeek(day, newMonth) {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
-                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("onclick", "prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                     $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
@@ -711,12 +724,12 @@ function nextWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        showFN(false);            
+        showFN(false);
         showColo(false);
         showRaid(false);
         showSpecial(false);
-        
-        if(timezone){
+
+        if (timezone) {
             prev = monthDays(month, start);
             $("#day1").empty().append(prev);
             $("#month").empty().append(month);
@@ -761,10 +774,10 @@ function prevWeek(day, newMonth) {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");          
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
-                    $(".next").attr("data-toggle", "modal");                    
+                    $(".next").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
@@ -772,7 +785,7 @@ function prevWeek(day, newMonth) {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
-                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("onclick", "prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                     $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
@@ -789,17 +802,17 @@ function prevWeek(day, newMonth) {
         $("#month").empty().append(month);
         $("#day1").empty().append(day);
 
-        showFN(false);             
+        showFN(false);
         showColo();
         showRaid(false);
-        showSpecial(false);   
-        
-        if(timezone){
+        showSpecial(false);
+
+        if (timezone) {
             prev = monthDays(month, start);
             $("#day1").empty().append(prev);
             $("#month").empty().append(month);
         }
-        
+
         for (i = 0; i < 7; i++) {
             // Gestione giorni
             if (i != 0) {
@@ -862,10 +875,10 @@ function firstLoad() {
                     nextMonth = weeks[i + 1].month;
                     //$(".next").empty().append("<a href='#' class='arrow-right' onclick='nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )'></a>");
                     $(".next").attr("onclick", "nextWeek(" + nextWeek + ",\"" + nextMonth + "\" )");
-                    $(".next").attr("href", "#");          
+                    $(".next").attr("href", "#");
                 } catch (e) {
                     $(".next").attr("href", "#errorModal");
-                    $(".next").attr("data-toggle", "modal");                    
+                    $(".next").attr("data-toggle", "modal");
                     $("#titleError").empty().append("There is no other content announced yet!");
                     $("#dataError").empty().append("Please be patient, we will update as soon as possible!");
                 }
@@ -873,7 +886,7 @@ function firstLoad() {
                     previousWeek = weeks[i - 1].starting;
                     previousMonth = weeks[i - 1].month;
                     //$(".prev").empty().append("<a href='#' onclick='prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )'>Previous week</a>");
-                    $(".prev").attr("onclick","prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
+                    $(".prev").attr("onclick", "prevWeek(" + previousWeek + ",\"" + previousMonth + "\" )");
                     $(".prev").attr("href", "#");
                 } catch (e) {
                     $(".prev").attr("href", "#errorModal");
@@ -888,17 +901,17 @@ function firstLoad() {
         $("#month").append(month);
         $("#day1").append(start);
 
-        showFN(false);             
+        showFN(false);
         showColo(false);
-        showRaid(false);               
-        showSpecial(false);   
-        
-        if(timezone){
+        showRaid(false);
+        showSpecial(false);
+
+        if (timezone) {
             prev = monthDays(month, start);
             $("#day1").empty().append(prev);
             $("#month").empty().append(month);
         }
-        
+
         for (i = 0; i < 7; i++) {
             // Gestione giorni
             if (i != 0) {

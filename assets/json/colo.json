@@ -248,5 +248,29 @@
         "tiny": "assets/images/colo/tiny/McGuy.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1603"
+    },
+    "TBone": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1423.png",
+        "tiny": "assets/images/colo/tiny/tbone.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1423"
+    },
+    "Kanjuro": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1337.png",
+        "tiny": "assets/images/colo/tiny/kanjuro.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1337"
+    },
+    "Kuro": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1457.png",
+        "tiny": "assets/images/colo/tiny/kuro.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1457"
+    },
+    "Musshuru": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1086.png",
+        "tiny": "assets/images/colo/tiny/musshuru.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1086"
     }
 }

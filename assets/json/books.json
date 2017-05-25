@@ -514,7 +514,10 @@
     },   
     "Crocus": {
         "id" : "588"
-    },       
+    },  
+    "Crocus3": {
+        "id" : "587"
+    },     
     "HikingBear" : {
         "id" : "610"
     },
@@ -722,6 +725,12 @@
     "LaoG" : {
         "id" : "880"
     },
+    "ChopperAnimalKing" : {
+        "id" : "1014"
+    },    
+    "FrankySW" : {
+        "id" : "560"
+    },
     "SmokerPSYStory" : {
         "id" : "1226"
     },
@@ -886,6 +895,9 @@
     },
     "CobyStudent" : {
         "id" : "1316"
+    },   
+    "Coby" : {
+        "id" : "32"
     },    
     "SentomaruStory" : {
         "id" : "974"
@@ -1043,6 +1055,9 @@
     "BrookBorn" : {
         "id" : "914"
     },
+    "Shuraiya" : {
+        "id" : "1070"
+    },    
     "Orlumbus" : {
         "id" : "1127"
     },
@@ -1084,5 +1099,20 @@
     },
     "DogPenguin" : {
         "id" : "394"
-    }
+    }, 
+    "Billy" : {
+        "id" : "1098"
+    },
+    "CobyTraining" : {
+        "id" : "263"
+    },
+    "HelmeppoTraining" : {
+        "id" : "265"
+    }, 
+    "Minokoala" : {
+        "id" : "551"
+    }, 
+    "Manticore" : {
+        "id" : "552"
+    } 
 }

@@ -131,6 +131,18 @@
     "Paulie"  : {
         "id" : "319"
     },
+    "Coby" : {
+        "id" : "31"
+    },
+    "Helmeppo" : {
+        "id" : "33"
+    },
+    "CobyTraining" : {
+        "id" : "262"
+    },
+    "HelmeppoTraining" : {
+        "id" : "264"
+    },
     "CowboyBourbon" : {
         "id": "441"
     },
@@ -605,5 +617,53 @@
     },
     "RobinOhara" : {
         "id" : "1052"
-    }
+    },
+    "CountButler" : {
+        "id" : "1010"
+    },
+    "PresidentHeaby" : {
+        "id" : "1012"
+    },
+    "GeneralHotdog": {
+        "id" : "1013"
+    },
+    "ChopperAnimalKing" : {
+        "id" : "1014"
+    },
+    "Shuraiya" : {
+        "id" : "1069"
+    },
+    "Gasparde": {
+        "id" : "1071"
+    },
+    "Needless" : {
+        "id" : "1073"
+    },
+    "Baccarat" : {
+        "id" : "1166"
+    },
+    "Dice": {
+        "id" : "1168"
+    },
+    "MrTanaka" : {
+        "id" : "1170"
+    },
+    "DrIndigo" : {
+        "id" : "1094"
+    }, 
+    "CommanderScarlet" : {
+        "id" : "1096"
+    }, 
+    "Billy" : {
+        "id" : "1098"
+    },
+    "SadieChan" : {
+        "id" : "549"
+    }, 
+    "Minokoala" : {
+        "id" : "551"
+    }, 
+    "Manticore" : {
+        "id" : "552"
+    }    
 }

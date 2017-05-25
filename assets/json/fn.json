@@ -665,5 +665,57 @@
         "lastTimes": [],
         "books" : ["Zoro6", "Baby5", "Kyros", "Suleiman", "BrookTS", "KamiEneru", "SengokuINT", "Mr8", "Cerberus", "Yosaku"],
         "drops": []
-    }        
+    },
+    "CountButler": {
+        "title": "Rare Animal Island's Count Butler",
+        "large": "assets/images/fn/big/count_butler.png",
+        "tiny": "assets/images/fn/tiny/count_butler.png",
+        "lastTimes": [],
+        "global_books": ["SWShanks", "Hamburg", "Koala", "FrankyStraw", "Cerberus", "Vergo", "LaoG", "ChopperAnimalKing", "Franky5+"],
+        "japan_books": ["SWShanks", "FrankySW", "Hamburg", "FrankyStraw", "Cerberus", "Vergo", "LaoG", "ChopperAnimalKing", "FrankyNewSW", "Franky5+"],
+        "drops": ["CountButler", "PresidentHeaby", "GeneralHotdog", "ChopperAnimalKing"]
+    },    
+    "Gasparde": {
+        "title": "Pirate Ship Competition! \"Dead End\" Opens!",
+        "condition" : "STR/DEX/QCK units get their ATK boosted by 1.6x. INT/PSY units get their HP boosted by 2.0x",
+        "large": "assets/images/fn/big/gasparde.png",
+        "tiny": "assets/images/fn/tiny/gasparde.png",
+        "lastTimes": [],
+        "books" : ["Ace6", "Crocus3", "Franky", "WhiteyBay", "HoroHoroGhost", "PeronaGiant", "Zoro3D2Y", "BrookBorn", "Shuraiya"],
+        "drops": ["Shuraiya", "Gasparde", "Needless"]
+    },
+    "GranTesoro": {
+        "title": "Welcome To The Gran Tesoro!",
+        "large": "assets/images/fn/big/gran_tesoro.png",
+        "tiny": "assets/images/fn/tiny/gran_tesoro.png",
+        "lastTimes": [],
+        "books" : ["Chaka", "LogLuffy", "DemolisherSpearman", "IvankovINT", "WatchDog", "Machvise", "Gladius", "Diamante"],
+        "drops": ["Baccarat", "Dice", "MrTanaka"]
+    },
+    "Indigo": {
+        "title": "Dr. Indigo & Scarlet!",
+        "condition" : "Boosts ATK of Driven characters by 2x and boosts HP for Powerhouse characters by 2x",
+        "large": "assets/images/fn/big/indigo.png",
+        "tiny": "assets/images/fn/tiny/indigo.png",
+        "lastTimes": [],
+        "books" : ["Koza", "Purinpurin", "OarsJr", "Marco6", "HogbackStory", "OarsStory", "ChopperMask", "Sanji3D2Y", "Billy"],
+        "drops": ["DrIndigo", "CommanderScarlet", "Billy"]
+    },
+    "SadieChan": {
+        "title": "Chief Jailer Sadie: Cruel and Unusual",
+        "condition" : "<b>30</b>: Non-Slasher, Evolver, or Booster class characters are weakend <br> <b>15</b>: Striker and Shooter class characters are weakened",
+        "large": "assets/images/fn/big/sadie_chan.png",
+        "tiny": "assets/images/fn/tiny/sadie_chan.png",
+        "lastTimes": [],
+        "books" : ["Vista", "Law", "Dalton", "CrocoSlasher", "Masira", "Sarquiss", "Minokoala", "Manticore"],
+        "drops": ["SadieChan", "Minokoala", "Manticore"]
+    },
+    "CobiMeppo": {
+        "title": "Cobymeppo's Proving Ground!",        
+        "large": "assets/images/fn/big/cobimeppo.png",
+        "tiny": "assets/images/fn/tiny/cobimeppo.png",
+        "lastTimes": [],
+        "books" : ["Coby", "FirePearl", "Hatchi", "NicoRobin", "MrPrince", "CobyTraining", "HelmeppoTraining"],
+        "drops": ["Coby", "Helmeppo", "CobyTraining", "HelmeppoTraining"]
+    }               
 }

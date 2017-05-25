@@ -114,24 +114,60 @@
             "program": [                
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["HimeSTR"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "NicoOlvia", "Alvida", "Morgan", "Krieg", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimeDEX"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
-                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimePSY"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimeDEX"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["none"]},
+                {"raid": ["Aokiji", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "ZoroHalloween"], "special" : ["HimePSY"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]}
             ]     
         },{
             "starting": 4,
             "month" : "June",
             "program": [                
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]}
             ]     
-        }                          
+        },{
+            "starting": 11,
+            "month" : "June",
+            "program": [                
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]}
+            ]     
+        },{
+            "starting": 18,
+            "month" : "June",
+            "program": [                
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]}
+            ]     
+        },{
+            "starting": 25,
+            "month" : "June",
+            "program": [                
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]     
+        }                              
     ]
 }

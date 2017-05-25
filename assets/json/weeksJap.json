@@ -100,15 +100,15 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Boa6", "Bartolomeo6", "Buggy6", "Borsalino6", "Zoro6"], "special" : ["Luffy30", "Luffy40", "AceTraining"]},
                 {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "SunaSand", "YoungNamiRobin", "JinbeKimono", "Boa6", "Bartolomeo6", "Buggy6", "Borsalino6", "Zoro6"], "special" : ["Luffy30", "Luffy40"]},
                 {"raid": ["none"], "colo" : ["Kanjuro", "TBone", "Apoo", "Kuro", "Musshuru"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3", "Boa6", "Bartolomeo6", "Buggy6", "Borsalino6", "Zoro6"], "special" : ["Luffy30", "Luffy40"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40", "CottonX3"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40", "CottonX3"]}
             ]     
         },
         {
             "starting": 28,
             "month" : "May",
             "program": [                
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40", "CottonX3"]},
                 {"raid": ["none"], "colo" : ["Kanjuro", "TBone", "Apoo", "Kuro", "Musshuru"], "fn": ["Shiraoshi", "WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["Luffy30", "Luffy40", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["WhitebeardCommanders", "WhitebeardCommanders2", "WhitebeardCommanders3"], "special" : ["none"]},

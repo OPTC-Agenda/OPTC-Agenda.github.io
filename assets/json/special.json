@@ -6,6 +6,13 @@
         "lastTimes": [],
         "drops": ["RCV", "ATK", "HP", "AllCotton", "Cola"]
     },
+    "CottonX3": {
+        "title": "Restaurant Le Crap! Cotton x3!!",
+        "large": "assets/images/fn/big/cottonX3.png",
+        "tiny": "assets/images/fn/tiny/cottonX3.png",
+        "lastTimes": [],
+        "drops": ["RCV", "ATK", "HP", "AllCotton", "Cola"]
+    },    
     "CottonEgg": {
         "title": "Restaurant Le Crap! Easter Brunch!",
         "large": "assets/images/fn/big/cotton.png",

@@ -665,5 +665,38 @@
     }, 
     "Manticore" : {
         "id" : "552"
-    }    
+    },
+    "Lafitte" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "VanAugur" : {
+        "id" : "#",
+        "missing" : "yes"
+    }, 
+    "DocQ" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "Marguerite" : {
+        "id" : "917"
+    },
+    "Aphelandra" : {
+        "id" : "919"
+    },
+    "Sweetpea" : {
+        "id" : "920"
+    },
+    "Ivankov" : {
+        "id" : "1036"
+    },
+    "Inazuma" : {
+        "id" : "1038"
+    },
+    "Brook" : {
+        "id" : "423"
+    },
+    "Ryuma" : {
+        "id" : "425"
+    }   
 }

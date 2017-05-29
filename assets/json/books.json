@@ -941,6 +941,9 @@
     "NewSWSanji" : {
         "id" : "1117"
     },
+    "SWSanji" : {
+        "id" : "522"
+    },
     "ChopperBrain" : {
         "id" : "23"
     },
@@ -1114,5 +1117,26 @@
     }, 
     "Manticore" : {
         "id" : "552"
-    } 
+    }, 
+    "Zeo" : {
+        "id" : "1442"
+    },
+    "VanderDecken" : {
+        "id" : "1481"
+    },
+    "Bluejam" : {
+        "id" : "1344"
+    },
+    "LuffyTS" : {
+        "id" : "1404"
+    },
+    "G4" : {
+        "id" : "1593"
+    },
+    "Sweetpea" : {
+        "id" : "920"
+    },
+    "Ryuma" : {
+        "id" : "425"
+    }  
 }

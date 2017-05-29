@@ -69,7 +69,7 @@
         "condition" : "You can only bring Fighter and Powerhouse units",
         "lastTimes": [],
         "global_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Inazuma", "OctopusBoxer"],
-        "japan_books": ["Ace", "KungFuDugongFaithfulApprentice", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
+        "japan_books": ["Ace", "KungFuDugongFaithfulApprentice", "Moria", "Sarquiss", "Ace6", "Tilestone", "Doma", "OctopusBoxer"],
         "drops": ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
     },
     "Kraken": {
@@ -717,5 +717,41 @@
         "lastTimes": [],
         "books" : ["Coby", "FirePearl", "Hatchi", "NicoRobin", "MrPrince", "CobyTraining", "HelmeppoTraining"],
         "drops": ["Coby", "Helmeppo", "CobyTraining", "HelmeppoTraining"]
-    }               
+    },
+    "BlackbeardPirates": {
+        "title": "Blackbeard Pirates!",        
+        "large": "assets/images/fn/big/blackbeard_pirates.png",
+        "tiny": "assets/images/fn/tiny/blackbeard_pirates.png",
+        "lastTimes": [],
+        "books" : ["LuffyTS", "G4", "Drake", "BigEaterBonny", "MoriaShadow", "Dellinger", "FunkBrothers", "Zeo", "VanderDecken", "Bluejam"],
+        "drops": ["Lafitte", "VanAugur", "DocQ"]
+    },
+    "KujaPirates": {
+        "title": "Men are Forbidden!? The Secret Flower Garden ",
+        "condition" : "You can only bring DEX units",
+        "large": "assets/images/fn/big/kuja_pirates.png",
+        "tiny": "assets/images/fn/tiny/kuja_pirates.png",
+        "lastTimes": [],
+        "global_books": ["Pell", "NewSWSanji", "Ohm", "Nola", "Baskerville", "BluenoStory", "Croco6", "BluenoStrong", "Sweetpea"],
+        "japan_books": ["SWSanji", "NewSWSanji", "Ohm", "Nola", "Baskerville", "BluenoStory", "Croco6", "BluenoStrong", "OnionPepper", "Sweetpea"],
+        "drops": ["Marguerite", "Aphelandra", "Sweetpea"]
+    },
+    "IvankovWoman": {
+        "title": "Temptation!? The Queen of Kamabakka Queendom! ",
+        "condition" : "Only DEX/RCV/TND orbs will appear",        
+        "large": "assets/images/fn/big/ivankov.png",
+        "tiny": "assets/images/fn/tiny/ivankov.png",
+        "lastTimes": [],
+        "books" : ["SWZoro", "ZoroCode", "Pickles", "Taralan", "BearSkin", "SenorPink", "Trebol", "Giolla"],
+        "drops": ["Ivankov", "Inazuma"]
+    },
+    "Brook": {
+        "title": " Adrift!? Humming Brook", 
+        "condition" : "You can only get STR, DEX, INT and PSY Orbs",
+        "large": "assets/images/fn/big/brook.png",
+        "tiny": "assets/images/fn/tiny/brook.png",
+        "lastTimes": [],
+        "books" : ["MissValentine", "LaboonLuffyDrawing", "ZoroLionSong", "UsoppImpact", "Hawkins", "WapolStory", "Ryuma"],
+        "drops": ["Brook", "Ryuma"]
+    }                   
 }

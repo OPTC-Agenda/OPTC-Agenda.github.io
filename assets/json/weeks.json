@@ -126,47 +126,47 @@
             "program": [                
                 {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]}
             ]     
         },{
             "starting": 11,
             "month" : "June",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]}
+                {"raid": ["Zephyr"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["LvlUp"]},
+                {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]}
             ]     
         },{
             "starting": 18,
             "month" : "June",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]}
+                {"raid": ["Shiki"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]}
             ]     
         },{
             "starting": 25,
             "month" : "June",
             "program": [                
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo"], "special" : ["none"]},
+                {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["none"], "special" : ["none"]}
             ]     
         }                              
     ]

@@ -95,5 +95,8 @@
     },
     "Rayleigh" : {
         "tiny" : "assets/images/fn/tiny/rayleigh.png"
+    },
+    "ColaCavern" : {
+        "tiny" : "assets/images/special/cavern_cola.png"
     }
 }

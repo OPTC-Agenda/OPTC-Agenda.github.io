@@ -44,6 +44,9 @@
     "RumbarBrook":{ 
         "id" : "1205"  
     },
+    "MissGoldenweek" : {
+        "id" : "205"
+    },
     "RumbarLaboon":{
         "id" : "1206"  
     },
@@ -173,11 +176,23 @@
     "DazBonesPrisoner"  : {
         "id" : "511"
     },
+    "MerryChristmas"  : {
+        "id" : "395"
+    },    
     "IronAlvida"  : {
         "id" : "29"
     },  
     "Coby"  : {
         "id" : "31"
+    },
+    "Mr4"  : {
+        "id" : "397"
+    },  
+    "MissDoublefinger"  : {
+        "id" : "399"
+    }, 
+    "Mr1"  : {
+        "id" : "401"
     },
     "RakuyoCommander"  : {
         "id" : "946"
@@ -387,6 +402,9 @@
     "ToySoldier" : {
         "id" : "1383"
     }, 
+    "Crocodile" : {
+        "id" : "383"
+    },     
     "RebeccaKid" : {
         "id" : "1385"
     }, 
@@ -453,6 +471,9 @@
     "Mr3Kimono" : {
         "id" : "898"
     }, 
+    "Mr3" : {
+        "id" : "203"
+    },     
     "Mr2Kimono" : {
         "id" : "899"
     },
@@ -698,5 +719,68 @@
     },
     "Ryuma" : {
         "id" : "425"
-    }   
+    },
+    "Shura" : {
+        "id" : "464"
+    },
+    "Gedatsu" : {
+        "id" : "465"
+    },
+    "Ohm" : {
+        "id" : "541"
+    },
+    "Enel" : {
+        "id" : "545"
+    },
+    "KakuStory" : {
+        "id" : "630"
+    },
+    "LucciStory" : {
+        "id" : "632"
+    },
+    "KalifaStory" : {
+        "id" : "728"
+    },
+    "JabraStory" : {
+        "id" : "730"
+    },
+    "MoriaStory" : {
+        "id" : "815"
+    },
+    "PeronaStory" : {
+        "id" : "889"
+    },
+    "OarsStory" : {
+        "id" : "893"
+    },
+    "SentomaruStory" : {
+        "id" : "973"
+    },
+    "BoaSandersonia" : {
+        "id" : "1055"
+    },
+    "BoaMarigold" : {
+        "id" : "1057"
+    },
+    "Hannyabal" : {
+        "id" : "1156"
+    },
+    "Magellan" : {
+        "id" : "1158"
+    },
+    "Mihawk" : {
+        "id" : "1227"
+    },
+    "Kizaru" : {
+        "id" : "1228"
+    },
+    "Aokiji" : {
+        "id" : "1280"
+    },
+    "Akainu" : {
+        "id" : "1283"
+    },
+    "Ray" : {
+        "id" : "1353"
+    }
 }

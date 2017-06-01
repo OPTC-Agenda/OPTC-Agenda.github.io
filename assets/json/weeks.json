@@ -126,30 +126,30 @@
             "program": [                
                 {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]}
             ]     
         },{
             "starting": 11,
             "month" : "June",
             "program": [                
-                {"raid": ["Zephyr"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["LvlUp"]},
-                {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]}
+                {"raid": ["Zephyr"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp"]},
+                {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]},
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]}
             ]     
         },{
             "starting": 18,
             "month" : "June",
             "program": [                
-                {"raid": ["Shiki"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Shiki"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},

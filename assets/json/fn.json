@@ -753,5 +753,19 @@
         "lastTimes": [],
         "books" : ["MissValentine", "LaboonLuffyDrawing", "ZoroLionSong", "UsoppImpact", "Hawkins", "WapolStory", "Ryuma"],
         "drops": ["Brook", "Ryuma"]
-    }                   
+    },
+    "StrawHatJourney": {
+        "title": "Straw Hat's Journey!", 
+        "condition" : "The fight gets more difficult every time you complete it until it gets to 40 stamina.<br> This island can drop Colas, Cotton Candies, Boosters and Evolvers too.",
+        "large": "assets/images/fn/big/straw_hat_journey.png",
+        "tiny": "assets/images/fn/tiny/straw_hat_journey.png",
+        "lastTimes": [],        
+        "drops": [
+            "MohjiRichie", "Cabaji", "Buggy", "Django", "Kuro", "Gin", "Pearl", "Krieg", "Arlong",
+            "Mr3", "MissGoldenweek", "Crocodile", "MerryChristmas", "Mr4", "MissDoublefinger", "Mr1",
+            "Shura", "Gedatsu", "Ohm", "Enel", "KakuStory", "LucciStory", "KalifaStory", "JabraStory", 
+            "MoriaStory", "PeronaStory", "OarsStory", "SentomaruStory", "BoaSandersonia",
+            "BoaMarigold", "Hannyabal", "Magellan", "Mihawk", "Kizaru", "Aokiji", "Akainu", "Ray"
+            ]
+    }                    
 }

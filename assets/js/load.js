@@ -263,6 +263,15 @@ function showSpecial(flag) {
                             if (character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
+                            
+                            if(character == "ColaCavern") {
+                                if (timezone) {
+                                    $("#list" + (i) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
+                                } else {
+                                    $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
+                                }
+                            }
+                            
                         }
                     }
                 }
@@ -503,12 +512,16 @@ function fnModal(character) {
 
     if (fnList[character].hasOwnProperty('books')) {
         books = fnList[character].books;
+        $("#fnBooksTitle").css('display', 'block');
     } else {
         if (fnList[character].hasOwnProperty('expert')) {
             expert = fnList[character].expert;
             elite = fnList[character].elite;
         } else {
             books = fnList[character].global_books;
+        }
+        if(!fnList[character].hasOwnProperty('books')){
+            $("#fnBooksTitle").css('display', 'none');
         }
     }
 

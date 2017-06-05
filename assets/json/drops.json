@@ -688,16 +688,13 @@
         "id" : "552"
     },
     "Lafitte" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1606"
     },
     "VanAugur" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1607"        
     }, 
     "DocQ" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1608"
     },
     "Marguerite" : {
         "id" : "917"

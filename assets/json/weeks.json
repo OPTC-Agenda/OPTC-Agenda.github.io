@@ -141,7 +141,7 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp", "Ranking"]},
                 {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp"]},
                 {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]},
+                {"raid": ["Eneru", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]},
                 {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]}
             ]     
         },{

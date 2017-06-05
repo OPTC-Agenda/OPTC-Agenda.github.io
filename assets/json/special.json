@@ -39,6 +39,12 @@
         "tiny": "assets/images/fn/tiny/luffy_40.png",
         "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "Socket10", "Socket11", "ATK", "HP", "RCV", "Cola"]
     },
+    "RaySocket": {
+        "title": "Rayleigh Socket Island!",
+        "large": "assets/images/fn/big/ray_sockets.png",
+        "tiny": "assets/images/fn/tiny/rayleigh.png",
+        "drops": ["Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket8", "MediumRed", "MediumBlue", "MediumGreen", "MediumYellow", "MediumPurple"]
+    },    
     "AceTraining": {
         "title": "Ace beginner training forest",
         "large": "assets/images/special/ace_training_big.png",
@@ -98,5 +104,8 @@
     },
     "ColaCavern" : {
         "tiny" : "assets/images/special/cavern_cola.png"
+    },
+    "Ranking" : {
+        "tiny" : "assets/images/special/ranking.png"
     }
 }

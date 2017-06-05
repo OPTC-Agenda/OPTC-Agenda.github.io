@@ -126,7 +126,7 @@
             "program": [                
                 {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "CountButler", "SunaSand", "Wanze", "LuffyHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["ColaCavern", "Ranking"]},
                 {"raid": ["none"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["ColaCavern", "Sugofest"]},
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["Mr3Jail", "LuffyHalloween", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["Sugofest"]},
                 {"raid": ["Mihawk"], "colo" : ["Hawkins", "Vista", "Ace", "Apoo", "Alvida"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
@@ -138,7 +138,7 @@
             "program": [                
                 {"raid": ["Zephyr"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "Gasparde", "SadieChan", "CobiMeppo", "StrawHatJourney"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp", "Ranking"]},
                 {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["LvlUp"]},
                 {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["ColaCavern"]},

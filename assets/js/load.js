@@ -264,6 +264,10 @@ function showSpecial(flag) {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                             
+                            if (character == "Ranking"){
+                                $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + "); max-width: 100px' class='image-div inline'></div>");
+                            }
+                            
                             if(character == "ColaCavern") {
                                 if (timezone) {
                                     $("#list" + (i) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");

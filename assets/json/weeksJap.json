@@ -123,7 +123,7 @@
             "program": [                
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["none"]},
                 {"raid": ["Kuma", "Shanks"], "colo" : ["Kanjuro", "TBone", "Apoo", "Kuro", "Musshuru", "Cavendish"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
+                {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
                 {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["RaySocket", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},

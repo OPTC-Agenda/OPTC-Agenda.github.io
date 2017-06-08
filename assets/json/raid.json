@@ -202,5 +202,12 @@
         "tiny": "assets/images/raid/tiny/fujitora.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1595"
+    },
+    "DoffyINT": {
+        "name" : "Doflamingo INT raid boss!",
+        "large": "assets/images/raid/big/doffy_int.png",
+        "tiny": "assets/images/raid/tiny/doflamingo.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1622"
     }
 }

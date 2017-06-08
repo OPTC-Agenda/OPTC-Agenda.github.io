@@ -272,5 +272,17 @@
         "tiny": "assets/images/colo/tiny/musshuru.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1086"
+    },
+    "Dorry": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0883.png",
+        "tiny": "assets/images/colo/tiny/dorry.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/883"
+    },
+    "Broggy": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0902.png",
+        "tiny": "assets/images/colo/tiny/broggy.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/902"
     }
 }

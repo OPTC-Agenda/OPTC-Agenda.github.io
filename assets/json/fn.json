@@ -770,7 +770,7 @@
     },
     "Fishman": {
         "title": "Fishman Island",
-        "large": "assets/images/fn/big/fishman.png",
+        "large": "assets/images/fn/big/fishman.PNG",
         "tiny": "assets/images/fn/tiny/fishman.png",
         "lastTimes": [],
         "books" : ["HodyJones", "Capone", "Jinbe", "Gladius", "Hajrudin", "Neptune", "Fukaboshi", "Gyaro", "Birdie"],

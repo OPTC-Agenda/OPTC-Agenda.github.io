@@ -125,7 +125,7 @@
                 {"raid": ["Kuma", "Shanks"], "colo" : ["Kanjuro", "TBone", "Apoo", "Kuro", "Musshuru", "Cavendish"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
                 {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
                 {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["BlackbeardPirates", "CountButler", "GranTesoro", "Breed"], "special" : ["RaySocket"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["RaySocket", "Snail"]},
+                {"raid": ["DoffyINT"], "colo" : ["Moria", "Drake", "Hina", "SadieChan", "Beckman"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["RaySocket", "Snail"]},
                 {"raid": ["DoffyINT", "Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
                 {"raid": ["DoffyINT", "Mihawk", "Boa", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail", "LvlUp"]}
             ]     
@@ -135,26 +135,39 @@
             "month" : "June",
             "program": [                
                 {"raid": ["DoffyINT", "Mihawk", "Whitebeard"], "colo" : ["Shiryu", "McGuy", "Zephyr", "Jozu", "Coby", "Cavendish"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["DoffyINT", "Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]}
+                {"raid": ["DoffyINT", "Tesoro", "Whitebeard"], "colo" : ["Moria", "Drake", "Hina", "SadieChan", "Beckman"], "fn": ["BlackbeardPirates", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
+                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["Fishman", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
+                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["Fishman", "Indigo", "SadieChan", "KujaPirates"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["Moria", "Drake", "Hina", "SadieChan", "Beckman"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]}
             ]     
         },
         {
             "starting": 18,
             "month" : "June",
             "program": [                
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Moria", "Drake", "Hina", "SadieChan", "Beckman"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["none"]}
             ]     
+        },
+        {
+            "starting": 25,
+            "month" : "June",
+            "program": [
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]
         }
     ]
 }

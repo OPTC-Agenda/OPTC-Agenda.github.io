@@ -779,5 +779,17 @@
     },
     "Ray" : {
         "id" : "1353"
+    },
+    "Daruma" : {
+        "missing": "yes",
+        "id" : "#"
+    },
+    "Hyouzou" : {
+        "missing": "yes",
+        "id" : "#"
+    },
+    "Dosun" : {
+        "missing": "yes",
+        "id" : "#"
     }
 }

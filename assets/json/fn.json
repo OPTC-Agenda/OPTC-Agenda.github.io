@@ -767,5 +767,13 @@
             "MoriaStory", "PeronaStory", "OarsStory", "SentomaruStory", "BoaSandersonia",
             "BoaMarigold", "Hannyabal", "Magellan", "Mihawk", "Kizaru", "Aokiji", "Akainu", "Ray"
             ]
-    }                    
+    },
+    "Fishman": {
+        "title": "Fishman Island",
+        "large": "assets/images/fn/big/fishman.png",
+        "tiny": "assets/images/fn/tiny/fishman.png",
+        "lastTimes": [],
+        "books" : ["HodyJones", "Capone", "Jinbe", "Gladius", "Hajrudin", "Neptune", "Fukaboshi", "Gyaro", "Birdie"],
+        "drops": ["Daruma", "Hyouzou", "Dosun"]
+    }
 }

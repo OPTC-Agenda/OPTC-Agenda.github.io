@@ -249,7 +249,7 @@ function showSpecial(flag){
                                     }
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest" || character == "FreePull") {
+                            if (character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }

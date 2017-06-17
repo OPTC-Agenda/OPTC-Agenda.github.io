@@ -775,5 +775,14 @@
         "lastTimes": [],
         "books" : ["HodyJones", "Capone", "Jinbe", "Gladius", "Hajrudin", "Neptune", "Fukaboshi", "Gyaro", "Birdie"],
         "drops": ["Daruma", "Hyouzou", "Dosun"]
+    },
+    "Tontatta1": {
+        "title": "Tontatta Kingdom Island Part 1: Leo",
+        "condition": "Slasher characters are Silenced for 99 turns and have their ATK reduced by a variable amount (75% on 30 stamina).",
+        "large": "assets/images/fn/big/tontatta_kingdom.png",
+        "tiny": "assets/images/fn/tiny/tontatta_kingdom.png",
+        "lastTimes": [],
+        "books" : ["G2", "Chaka", "KumadoriSixPowers", "FukuroStrongest", "KumadoriStrong", "BoaMarigold", "Fujitora", "Orlumbus", "Elizabello", "Luffy5+"],
+        "drops": ["Leo", "Wicca", "Gancho"]
     }
 }

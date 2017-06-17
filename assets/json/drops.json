@@ -781,15 +781,21 @@
         "id" : "1353"
     },
     "Daruma" : {
-        "missing": "yes",
-        "id" : "#"
+        "id" : "1625"
     },
     "Hyouzou" : {
-        "missing": "yes",
-        "id" : "#"
+        "id" : "1624"
     },
     "Dosun" : {
-        "missing": "yes",
-        "id" : "#"
+        "id" : "1626"
+    },
+    "Leo" : {
+        "id" : "1327"
+    },
+    "Wicca" : {
+        "id" : "1329"
+    },
+    "Gancho" : {
+        "id" : "1330"
     }
 }

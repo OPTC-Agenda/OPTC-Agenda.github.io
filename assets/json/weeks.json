@@ -150,24 +150,36 @@
             "program": [                
                 {"raid": ["Shiki"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Mr3Jail", "GranTesoro", "Lucci", "YoungNamiRobin", "StrawHatJourney"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
-                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
-                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["Shiki", "Zephyr", "Tesoro", "Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]}
             ]     
         },{
             "starting": 25,
             "month" : "June",
             "program": [                
-                {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Indigo", "WhitebeardCommanders2", "ShanksBuggy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1"], "special" : ["none"]}
             ]     
-        }                              
+        },{
+            "starting": 2,
+            "month" : "July",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]
+        }
     ]
 }

@@ -797,5 +797,20 @@
     },
     "Gancho" : {
         "id" : "1330"
+    },
+    "Absalom" : {
+      "id" : "404"
+    },
+    "GeneralZombie" : {
+      "id" : "406"
+    },
+    "Jigoro" : {
+      "id" : "407"
+    },
+    "Pekoms" : {
+      "id" : "1356"
+    },
+    "Tamago" : {
+      "id" : "1358"
     }
 }

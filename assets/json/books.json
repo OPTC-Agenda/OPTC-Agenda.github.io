@@ -136,7 +136,13 @@
     },
     "Haruta" : {
         "id" : "1186"
-    },    
+    },
+    "Blenheim" : {
+        "id" : "1182"
+    },
+    "Kingdew" : {
+       "id" : "1184"
+    },
     "OarsStory" : {
         "id" : "893"
     },
@@ -1001,6 +1007,9 @@
     "Luffy5+" : {
         "id" : "1387"
     },
+    "Zoro5+" : {
+        "id" : "1388"
+    },
     "LuffyBazooka" : {
         "id" : "3"
     },
@@ -1153,5 +1162,11 @@
     },
     "Fukaboshi" : {
         "id" : "1477"
+    },
+    "GeneralZombie" : {
+      "id" : "406"
+    },
+    "Jigoro" : {
+      "id" : "407"
     }
 }

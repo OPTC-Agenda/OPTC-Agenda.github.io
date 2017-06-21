@@ -179,7 +179,16 @@
         "books": ["Tashigi", "Shanks", "UsoppHammer", "Vista"],
         "drops": ["Franky", "Kiwi", "Mozu"]
     },
-    "SoulKing": {
+    "Absalom": {
+      "title": "Perv-salom's Manly Adventure",
+      "condition" : "You can only get QCK, DEX, PSY and Food Orbs",
+      "large": "assets/images/fn/big/absalom.png",
+      "tiny": "assets/images/fn/tiny/absalom.png",
+      "lastTimes": [],
+      "books": ["DiableJambe", "ChopperGuardPoint", "Mr2", "Killer", "Kureha","GeneralZombie", "Jigoro", "Sanji5+"],
+      "drops": ["Absalom", "GeneralZombie", "Jigoro"]
+    },
+  "SoulKing": {
         "title": "Soul King!",
         "large": "assets/images/fn/big/soul_king.png",
         "tiny": "assets/images/fn/tiny/soul_king.png",
@@ -784,5 +793,13 @@
         "lastTimes": [],
         "books" : ["G2", "Chaka", "KumadoriSixPowers", "FukuroStrongest", "KumadoriStrong", "BoaMarigold", "Fujitora", "Orlumbus", "Elizabello", "Luffy5+"],
         "drops": ["Leo", "Wicca", "Gancho"]
+    },
+    "BigMomPirates": {
+      "title": "Big Mom Pirates!",
+      "large": "assets/images/fn/big/big_mom.png",
+      "tiny": "assets/images/fn/tiny/big_mom.png",
+      "lastTimes": [],
+      "books" : ["Ashura", "HikingBear", "KakuSTR", "Vergo", "Cavendish6", "HannyabalStory", "Blenheim", "Kingdew", "Zoro5+"],
+      "drops": ["Pekoms", "Tamago"]
     }
 }

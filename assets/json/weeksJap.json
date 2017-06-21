@@ -151,20 +151,20 @@
                 {"raid": ["Pica", "Shanks"], "colo" : ["Moria", "Drake", "Hina", "SadieChan", "Beckman"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["Rayleigh"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["Rayleigh", "Snail"]},
                 {"raid": ["none"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["Fishman", "DonquixotePirates", "IvankovWoman", "Brook"], "special" : ["Rayleigh", "Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["Rayleigh", "Snail"]},
-                {"raid": ["NightmareLuffy", "Whitebeard"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["Snail", "Cotton"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["Fishman"], "special" : ["Snail", "Cotton", "LvlUp"]}
+                {"raid": ["PicaSTR"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["Fishman", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Rayleigh", "Snail"]},
+                {"raid": ["PicaSTR", "NightmareLuffy", "Whitebeard"], "colo" : ["none"], "fn": ["Fishman", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail", "Cotton"]},
+                {"raid": ["PicaSTR", "Mihawk", "Whitebeard"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["Fishman", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail", "Cotton", "LvlUp"]}
             ]     
         },
         {
             "starting": 25,
             "month" : "June",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["Fishman"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["PicaSTR", "Mihawk", "Whitebeard"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["Fishman", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["PicaSTR"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["Fishman", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail"]},
+                {"raid": ["PicaSTR"], "colo" : ["none"], "fn": ["NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail"]},
+                {"raid": ["PicaSTR"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["none"], "special" : ["none"]}
             ]
@@ -174,7 +174,7 @@
             "month" : "July",
             "program": [
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

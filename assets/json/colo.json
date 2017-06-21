@@ -326,5 +326,29 @@
         "tiny": "assets/images/colo/tiny/ikaros.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1629"
+    },
+    "Franky": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0901.png",
+        "tiny": "assets/images/colo/tiny/franky.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/901"
+    },
+    "Marguerite": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1378.png",
+        "tiny": "assets/images/colo/tiny/marguerite.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1378"
+    },
+    "Suleiman": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1525.png",
+        "tiny": "assets/images/colo/tiny/suleiman.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1525"
+    },
+    "Krieg": {
+      "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1489.png",
+        "tiny": "assets/images/colo/tiny/krieg.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1489"
     }
 }

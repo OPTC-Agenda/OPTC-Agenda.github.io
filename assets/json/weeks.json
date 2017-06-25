@@ -186,18 +186,18 @@
             "program": [
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]}
             ]
         },{
             "starting": 16,
             "month" : "July",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

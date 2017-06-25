@@ -137,9 +137,6 @@
     "Coby" : {
         "id" : "31"
     },
-    "Helmeppo" : {
-        "id" : "33"
-    },
     "CobyTraining" : {
         "id" : "262"
     },
@@ -181,9 +178,6 @@
     },    
     "IronAlvida"  : {
         "id" : "29"
-    },  
-    "Coby"  : {
-        "id" : "31"
     },
     "Mr4"  : {
         "id" : "397"
@@ -199,6 +193,12 @@
     }, 
     "FossaCommander"  : {
         "id" : "947"
+    },
+    "Yosaku"  : {
+        "id" : "47"
+    },
+    "Johnny"  : {
+        "id" : "48"
     },
     "CurielCommander"  : {
         "id" : "948"
@@ -393,7 +393,7 @@
     "Camie" : {
         "id" : "634"
     },
-    "Hatchan" : {
+    "HatchanShop" : {
         "id" : "637"
     },        
     "Pappagu" : {
@@ -461,13 +461,19 @@
     },
     "BuggyEscape" : {
         "id" : "1301"
-    }, 
+    },
     "Mr3Escape" : {
         "id" : "1303"
     },
     "CrocodileKimono" : {
         "id" : "897"
-    }, 
+    },
+    "Mr9" : {
+        "id" : "211"
+    },
+    "Mr8" : {
+        "id" : "233"
+    },
     "Mr3Kimono" : {
         "id" : "898"
     }, 
@@ -561,6 +567,12 @@
     "Django" : {
         "id" : "43"
     },
+    "Fullbody" : {
+        "id" : "49"
+    },
+    "Hina" : {
+        "id" : "231"
+    },
     "Kuro" : {
         "id" : "45"
     },
@@ -578,6 +590,12 @@
     },
     "LawFN" : {        
         "id" : "1580"
+    },
+    "Patty" : {
+        "id" : "50"
+    },
+    "Carne" : {
+        "id" : "51"
     },
     "MonetFN" : {        
         "id" : "1582"
@@ -608,6 +626,9 @@
     },
     "Ryuboshi" : {
         "id" : "1598"
+    },
+    "Nezumi": {
+        "id" : "59"
     },
     "Manboshi" : {
         "id" : "1599"        
@@ -812,5 +833,32 @@
     },
     "Tamago" : {
       "id" : "1358"
+    },
+    "Bepo" : {
+        "id" : "1002"
+    },
+    "Sachi" : {
+        "id" : "1004"
+    },
+    "JeanBart" : {
+        "id" : "1005"
+    },
+    "LuffyKimono" : {
+        "id" : "420"
+    },
+    "ZoroKimono" : {
+        "id" : "421"
+    },
+    "NamiKimono" : {
+        "id" : "422"
+    },
+    "Ganfor" : {
+        "id" : "712"
+    },
+    "Pierre" : {
+        "id" : "714"
+    },
+    "Conis" : {
+        "id" : "715"
     }
 }

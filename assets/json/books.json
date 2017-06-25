@@ -68,7 +68,13 @@
     "ChopperHeavyPoint" : {
         "id" : "22"        
     },
-    "Patty": { 
+    "DoubleJango" : {
+        "id" : "229"
+    },
+    "DoubleFullbody" : {
+        "id" : "230"
+    },
+    "Patty": {
         "id" : "50"     
     },
     "Zeff": { 
@@ -1168,5 +1174,14 @@
     },
     "Jigoro" : {
       "id" : "407"
+    },
+    "NamiKimono" : {
+        "id" : "422"
+    },
+    "JeanBart" : {
+        "id" : "1006"
+    },
+    "Conis" : {
+        "id" : "715"
     }
 }

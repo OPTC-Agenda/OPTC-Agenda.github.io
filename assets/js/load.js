@@ -524,7 +524,7 @@ function fnModal(character) {
         } else {
             books = fnList[character].global_books;
         }
-        if(!fnList[character].hasOwnProperty('books')){
+        if(!(fnList[character].hasOwnProperty('global_books') && fnList[character].hasOwnProperty('japan_books'))){
             $("#fnBooksTitle").css('display', 'none');
         }
     }

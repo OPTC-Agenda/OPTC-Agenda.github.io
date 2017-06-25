@@ -99,6 +99,15 @@
         "books": ["ChefSanji", "NicoRobin", "G3", "Apoo", "GiantFighterYellow", "GiantStrikerBlack", "StrikerCroco"],
         "drops": ["Elizabeth", "Caroline", "SanjiKamabakka"]
     },
+    "HeartPirates": {
+        "title": "Let's Find Our Captain! Heart Pirates!",
+        "large": "assets/images/fn/big/heart_pirates.png",
+        "tiny": "assets/images/fn/tiny/heart_pirates.png",
+        "condition" : "You can only bring QCK units",
+        "lastTimes": [],
+        "books": ["NicoRobinCode", "Capote", "LucciLeopard", "Lucci6", "Genzo", "Baby5", "Buffalo", "JeanBart"],
+        "drops": ["Bepo", "Sachi", "JeanBart"]
+    },
     "Kalifa": {
         "title": "Kalifa's Secret Assignment",
         "large": "assets/images/fn/big/kalifa.png",
@@ -151,7 +160,16 @@
         "expert" : ["DiableJambe" , "Krieg"],
         "elite" : ["ChefSanji", "DiableJambe", "Krieg", "Sanji5+"],        
         "drops": ["Gin", "Pearl", "Krieg"]
-    },    
+    },
+    "Hina": {
+        "title": "Hina's Resort Getaway",
+        "large": "assets/images/fn/big/hina.png",
+        "tiny": "assets/images/fn/tiny/hina.png",
+        "lastTimes": [],
+        "expert" : ["Mr2", "TowelNami", "DoubleJango", "DoubleFullbody", "Gin", "Kuroobi"],
+        "elite" : ["Mr2", "TowelNami", "DoubleJango", "DoubleFullbody"],
+        "drops": ["Django", "Fullbody", "Hina"]
+    },
     "Morgan": {
         "title": "Escaped! Morgan",
         "large": "assets/images/fn/big/morgan.png",
@@ -231,7 +249,7 @@
         "condition" : "No Units above the cost of 49 is allowed",
         "lastTimes": [],
         "books": ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
-        "drops": ["Camie", "Hatchan", "Pappagu"]
+        "drops": ["Camie", "HatchanShop", "Pappagu"]
     },
     "Soldatino": {
         "title": "Soldier-san's Training!",
@@ -795,11 +813,29 @@
         "drops": ["Leo", "Wicca", "Gancho"]
     },
     "BigMomPirates": {
-      "title": "Big Mom Pirates!",
-      "large": "assets/images/fn/big/big_mom.png",
-      "tiny": "assets/images/fn/tiny/big_mom.png",
-      "lastTimes": [],
-      "books" : ["Ashura", "HikingBear", "KakuSTR", "Vergo", "Cavendish6", "HannyabalStory", "Blenheim", "Kingdew", "Zoro5+"],
-      "drops": ["Pekoms", "Tamago"]
+        "title": "Big Mom Pirates!",
+        "large": "assets/images/fn/big/big_mom.png",
+        "tiny": "assets/images/fn/tiny/big_mom.png",
+        "lastTimes": [],
+        "books" : ["Ashura", "HikingBear", "KakuSTR", "Vergo", "Cavendish6", "HannyabalStory", "Blenheim", "Kingdew", "Zoro5+"],
+        "drops": ["Pekoms", "Tamago"]
+    },
+    "KimonoLuffy": {
+        "title": "Rising Sun, Rising Fortunes ",
+        "large": "assets/images/fn/big/kimono_luffy.png",
+        "tiny": "assets/images/fn/tiny/kimono_luffy.png",
+        "lastTimes": [],
+        "books" : ["Ashura", "Mr3", "MissGoldenweek", "MrPrince", "Law", "Chessmarimo", "NamiKimono" ,"Zoro5+"],
+        "drops": ["LuffyKimono", "ZoroKimono", "NamiKimono", "MohjiRichie", "Cabaji", "Yosaku", "Johnny", "Fullbody", "Patty", "Carne", "Nezumi", "Hatchan", "Mr9", "Mr8"]
+    },
+    "Ganfor": {
+        "title": "Sky Night Ganfor ",
+        "condition" : "<b>30</b>: Non-Free Spirit, Evolver, or Booster class characters are weakend<br/><b>15</b>: Striker and Shooter class characters are weakened",
+        "large": "assets/images/fn/big/ganfor.png",
+        "tiny": "assets/images/fn/tiny/ganfor.png",
+        "lastTimes": [],
+        "japan_books" : ["MissValentine", "Mr3", "BigEaterBonny", "DoubleFinger", "LuffySW", "Ohm", "KamiEneru", "Conis"],
+        "global_books" : ["MissValentine", "Mr3", "BigEaterBonny", "DoubleFinger", "Squard", "Ohm", "KamiEneru", "Conis"],
+        "drops": ["Ganfor", "Pierre", "Conis"]
     }
 }

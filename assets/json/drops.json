@@ -860,5 +860,22 @@
     },
     "Conis" : {
         "id" : "715"
+    },
+    "Giolla" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "BrookGiolla" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "DonSai" : {
+        "id" : "1425"
+    },
+    "Boo" : {
+        "id" : "1427"
+    },
+    "JeanAngo" : {
+        "id" : "1428"
     }
 }

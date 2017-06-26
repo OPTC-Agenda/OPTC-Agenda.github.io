@@ -173,6 +173,9 @@
     "HannyabalStory" : {
         "id" : "1157"
     },
+    "Caribou" : {
+        "id" : "1479"
+    },
     "Koza": {           
         "id" : "590"
     },       
@@ -205,6 +208,9 @@
     },    
     "Shanks": {
         "id" : "77"
+    },
+    "MadameShyarly": {
+        "id" : "1483"
     },
     "Hawkins": {
         "id" : "310"
@@ -424,6 +430,9 @@
     },
     "Ashura" : {
         "id" : "8"
+    },
+    "Humandrillis" : {
+        "id" : "1348"
     },
     "TonyTonyChopper" : {
         "id" : "21"
@@ -670,7 +679,10 @@
     },
     "Shiryu" : {
         "id" : "1276"
-    },    
+    },
+    "Shirahoshi" : {
+        "id" : "1473"
+    },
     "Stainless" : {
         "id" : "1418"
     },

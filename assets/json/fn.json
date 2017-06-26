@@ -837,5 +837,23 @@
         "japan_books" : ["MissValentine", "Mr3", "BigEaterBonny", "DoubleFinger", "LuffySW", "Ohm", "KamiEneru", "Conis"],
         "global_books" : ["MissValentine", "Mr3", "BigEaterBonny", "DoubleFinger", "Squard", "Ohm", "KamiEneru", "Conis"],
         "drops": ["Ganfor", "Pierre", "Conis"]
+    },
+    "GiollaBrook": {
+        "title": "Giolla & Brook fortnight!",
+        "condition" : "They must be in the crew a unit for each color (DEX, STR, QCK, INT, PSY)",
+        "large": "assets/images/fn/big/giolla_brook.PNG",
+        "tiny": "assets/images/fn/tiny/giolla_brook.png",
+        "lastTimes": [],
+        "books" : ["Shirahoshi", "KumaShooter", "Moria", "BlueGilly", "Ricky", "Caribou", "MadameShyarly", "Tansui", "Humandrillis"],
+        "drops": ["Giolla", "BrookGiolla"]
+    },
+    "ChinjaoFamily": {
+        "title": "Chinjao Family! The 13th Leader Appears!",
+        "condition" : "You can only bring DEX units",
+        "large": "assets/images/fn/big/chinjao.png",
+        "tiny": "assets/images/fn/tiny/chinjao.png",
+        "lastTimes": [],
+        "books" : ["Vista", "Cerberus", "Sugar", "Giolla", "Yamakaji", "MihawkStory", "Borsalino6", "Lafitte", "VanAugur"],
+        "drops": ["DonSai", "Boo", "JeanAngo"]
     }
 }

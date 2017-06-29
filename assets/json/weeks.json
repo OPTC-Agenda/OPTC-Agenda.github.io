@@ -175,10 +175,10 @@
                 {"raid": ["Duval", "Whitebeard"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp"]},
                 {"raid": ["Akainu"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]}
             ]
         },{
             "starting": 9,
@@ -187,10 +187,10 @@
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]}
             ]
         },{
             "starting": 16,
@@ -199,10 +199,10 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

@@ -855,5 +855,14 @@
         "lastTimes": [],
         "books" : ["Vista", "Cerberus", "Sugar", "Giolla", "Yamakaji", "MihawkStory", "Borsalino6", "Lafitte", "VanAugur"],
         "drops": ["DonSai", "Boo", "JeanAngo"]
+    },
+    "Whitebeard4": {
+        "title": "Exit! Whitebeard Pirates",
+        "condition" : "You can only bring PSY units",
+        "large": "assets/images/fn/big/whitebeard_s_commanders_4.png",
+        "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_4.png",
+        "lastTimes": [],
+        "books" : ["Sogeking", "Urouge", "Moria", "Robin3D2Y", "Corazon6", "AokijiStory", "CobyStudent", "SanjiTS", "ChopperTSQck", "Usopp5+"],
+        "drops": ["Haruta", "SpeedJil", "Atmos", "Kingdew"]
     }
 }

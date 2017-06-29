@@ -165,7 +165,7 @@
                 {"raid": ["PicaSTR"], "colo" : ["none"], "fn": ["GiollaBrook", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["Snail"]},
                 {"raid": ["PicaSTR"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["GiollaBrook", "NicoOlvia", "Absalom", "BigMomPirates"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["Sugofest"]},
+                {"raid": ["Usopp", "Heracles"], "colo" : ["none"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["Sugofest"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Ikaros", "Machvise", "Killer", "BoaMarigold", "Gedatsu"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["Sugofest"]}
             ]
         },
@@ -177,19 +177,19 @@
                 {"raid": ["Zephyr", "Shanks"], "colo" : ["Marguerite", "Suleiman", "Marco", "Franky", "Krieg"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["none"]},
                 {"raid": ["Franky", "Shanks"], "colo" : ["none"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]}
             ]
         },
         {
             "starting": 9,
             "month" : "July",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
+                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "Shambles", "Kraken"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

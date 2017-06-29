@@ -862,12 +862,10 @@
         "id" : "715"
     },
     "Giolla" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1648"
     },
     "BrookGiolla" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1650"
     },
     "DonSai" : {
         "id" : "1425"
@@ -877,5 +875,17 @@
     },
     "JeanAngo" : {
         "id" : "1428"
+    },
+    "Haruta" : {
+        "id" : "1509"
+    },
+    "SpeedJil" : {
+        "id" : "1510"
+    },
+    "Atmos" : {
+        "id" : "1511"
+    },
+    "Kingdew" : {
+        "id" : "1512"
     }
 }

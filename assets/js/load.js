@@ -260,7 +260,7 @@ function showSpecial(flag) {
                                     }
                                 }
                             }
-                            if (character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
+                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                             

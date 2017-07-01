@@ -107,5 +107,12 @@
     },
     "Ranking" : {
         "tiny" : "assets/images/special/ranking.png"
+    },
+    "Booster" : {
+        "tiny" : "assets/images/special/booster.png"
+    },
+    "Evolver" : {
+        "tiny" : "assets/images/special/evolver.png"
     }
+
 }

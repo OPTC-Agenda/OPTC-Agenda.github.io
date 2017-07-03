@@ -113,6 +113,24 @@
     },
     "Evolver" : {
         "tiny" : "assets/images/special/evolver.png"
+    },
+    "NamiSummer": {
+        "title": "Girls of Summer Paradise: Nami",
+        "large": "assets/images/fn/big/summer.png",
+        "tiny": "assets/images/fn/tiny/summer_nami.png",
+        "drops": ["NamiSummer", "LuffySummer"]
+    },
+    "RobinSummer": {
+        "title": "Girls of Summer Paradise: Robin",
+        "large": "assets/images/fn/big/summer.png",
+        "tiny": "assets/images/fn/tiny/summer_robin.png",
+        "drops": ["RobinSummer", "LuffySummer"]
+    },
+    "PeronaSummer": {
+        "title": "Girls of Summer Paradise: Perona",
+        "large": "assets/images/fn/big/summer.png",
+        "tiny": "assets/images/fn/tiny/summer_perona.png",
+        "drops": ["PeronaSummer", "LuffySummer"]
     }
 
 }

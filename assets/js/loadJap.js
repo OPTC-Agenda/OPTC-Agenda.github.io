@@ -234,7 +234,10 @@ function showSpecial(flag){
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (character == "Cotton" || character == "CottonEgg" || character == "CottonX3" || character == "Luffy30" || character == "Luffy40" || character == "AceTraining" || character == "RaySocket") {
+                        if (character == "Cotton" || character == "CottonEgg" || character == "CottonX3"
+                            || character == "Luffy30" || character == "Luffy40" || character == "AceTraining"
+                            || character == "RaySocket" || character == "NamiSummer" || character == "RobinSummer"
+                            || character == "PeronaSummer") {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
                             if (character == "LvlUp" || character == "LvlUpx3") {
@@ -249,7 +252,7 @@ function showSpecial(flag){
                                     }
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh") {
+                            if (character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }

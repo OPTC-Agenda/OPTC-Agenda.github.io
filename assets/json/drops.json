@@ -280,10 +280,7 @@
     },
     "Socket11": {
         "image": "assets/images/special/socket11.png"
-    },    
-    "Luffy3Anniversary": {
-        "image": "assets/images/special/socket11.png"
-    },        
+    },
     "ElderRed": {
         "image": "assets/images/special/elder_red.png"
     },    
@@ -298,10 +295,7 @@
     },    
     "ElderPurple": {
         "image": "assets/images/special/elder_purple.png"
-    },     
-    "ElderHorse": {
-        "image": "assets/images/special/elder_horse.png"
-    }, 
+    },
     "HimeRed": {
         "image": "assets/images/special/hime_red.png"
     },    
@@ -887,5 +881,30 @@
     },
     "Kingdew" : {
         "id" : "1512"
+    },
+    "Mansherry" : {
+        "id" : "1331"
+    },
+    "Kabu" : {
+        "id" : "1333"
+    },
+    "Bian" : {
+        "id" : "1334"
+    },
+    "LuffySummer" : {
+        "image": "assets/images/special/luffy_summer.png",
+        "id" : "659"
+    },
+    "NamiSummer" : {
+        "image": "assets/images/special/nami_summer.png",
+        "id" : "680"
+    },
+    "RobinSummer" : {
+        "image": "assets/images/special/robin_summer.png",
+        "id" : "682"
+    },
+    "PeronaSummer" : {
+        "image": "assets/images/special/perona_summer.png",
+        "id" : "684"
     }
 }

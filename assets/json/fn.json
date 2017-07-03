@@ -864,5 +864,14 @@
         "lastTimes": [],
         "books" : ["Sogeking", "Urouge", "Moria", "Robin3D2Y", "Corazon6", "AokijiStory", "CobyStudent", "SanjiTS", "ChopperTSQck", "Usopp5+"],
         "drops": ["Haruta", "SpeedJil", "Atmos", "Kingdew"]
+    },
+    "Tontatta2": {
+        "title": "Tontatta Kingdom Island Part 2: Mansherry",
+        "condition": "Striker characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (70% on 30 stamina).",
+        "large": "assets/images/fn/big/mansherry.png",
+        "tiny": "assets/images/fn/tiny/mansherry.png",
+        "lastTimes": [],
+        "books" : ["Croco6", "Spandam", "BluenoStrong", "Minotaur", "Sphinx", "Haruta", "Atmos", "SpeedGil"],
+        "drops": ["Mansherry", "Kabu", "Bian"]
     }
 }

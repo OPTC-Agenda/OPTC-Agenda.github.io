@@ -219,7 +219,7 @@
     },
     "AokijiKai": {
         "name" : "Aokiji Kai",
-        "large": "assets/images/raid/big/aokiji.png",
+        "large": "assets/images/raid/big/aokiji_kai.png",
         "tiny": "assets/images/raid/tiny/aokiji.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/"

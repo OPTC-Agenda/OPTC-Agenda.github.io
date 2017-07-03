@@ -362,5 +362,23 @@
         "tiny": "assets/images/colo/tiny/krieg.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1489"
+    },
+    "Ganfoll": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1195.png",
+        "tiny": "assets/images/colo/tiny/ganfoll.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1195"
+    },
+    "Foxy": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1142.png",
+        "tiny": "assets/images/colo/tiny/foxy.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1142"
+    },
+    "Kyros": {
+        "large": "assets/images/colo/big/1829.png",
+        "tiny": "assets/images/colo/tiny/kyros.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1666"
     }
 }

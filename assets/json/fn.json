@@ -873,5 +873,14 @@
         "lastTimes": [],
         "books" : ["Croco6", "Spandam", "BluenoStrong", "Minotaur", "Sphinx", "Haruta", "Atmos", "SpeedGil"],
         "drops": ["Mansherry", "Kabu", "Bian"]
+    },
+    "Sentomaru": {
+        "title": "Gatekeeper of the New World! Stop the Rookies!",
+        "condition": "You can only bring QCK units",
+        "large": "assets/images/fn/big/sentomaru.png",
+        "tiny": "assets/images/fn/tiny/sentomaru.png",
+        "lastTimes": [],
+        "books" : ["Hawkins", "Zoro3D2Y", "BrookBorn", "Kikyo", "KizaruStoria", "Blackbeard6", "TsuruG5", "MomongaG5", "Lip"],
+        "drops": ["Sentomaru", "Lip", "Albion"]
     }
 }

@@ -380,5 +380,11 @@
         "tiny": "assets/images/colo/tiny/kyros.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1666"
+    },
+    "Arlong": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1526.png",
+        "tiny": "assets/images/colo/tiny/arlong.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1526"
     }
 }

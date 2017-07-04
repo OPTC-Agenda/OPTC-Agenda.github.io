@@ -906,5 +906,14 @@
     "PeronaSummer" : {
         "image": "assets/images/special/perona_summer.png",
         "id" : "684"
+    },
+    "Sentomaru" : {
+        "id" : "1468"
+    },
+    "Lip" : {
+        "id" : "1470"
+    },
+    "Albion" : {
+        "id" : "1471"
     }
 }

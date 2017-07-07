@@ -165,8 +165,8 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["Cotton"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["Booster", "Evolver"]}
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Zephyr", "Ain", "Binz", "Dorry", "Broggy"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["Booster", "Evolver"]}
             ]     
         },{
             "starting": 2,
@@ -175,10 +175,10 @@
                 {"raid": ["Duval", "Whitebeard"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "HeartPirates", "Duck", "Hina"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp"]},
-                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp", "Sugofest"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["LvlUp", "Sugofest"]},
+                {"raid": ["Mihawk"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["Cotton"]},
+                {"raid": ["Mihawk"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7", "Shanks"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]}
             ]
         },{
             "starting": 9,
@@ -188,21 +188,45 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "KimonoLuffy", "Ganfor", "Arlong"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]}
+                {"raid": ["Sabo"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["Mihawk", "BusterCall"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["Mihawk", "FakeMugiwara"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]}
             ]
         },{
             "starting": 16,
             "month" : "July",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["Pica"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Tontatta2", "AfroLuffy", "Domino", "Alvida"], "special" : ["none"]},
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["none"]},
+                {"raid": ["Usopp", "Heracles"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["LvlUp"]},
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 23,
+            "month" : "July",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9"], "special" : ["none"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["none"]},
+                {"raid": ["MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]}
+            ]
+        },{
+            "starting": 30,
+            "month" : "July",
+            "program": [
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Saga", "Musshuru", "Kid", "Urouge", "Mr7"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

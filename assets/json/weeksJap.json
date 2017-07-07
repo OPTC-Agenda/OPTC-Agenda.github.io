@@ -178,7 +178,7 @@
                 {"raid": ["Franky", "Shanks"], "colo" : ["none"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "ColaCavern"]},
                 {"raid": ["none"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["GiollaBrook", "ChinjaoFamily", "Gasparde", "Ganfor"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "ColaCavern"]},
                 {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "ColaCavern"]},
-                {"raid": ["AokijiKai", "Kizaru", "Whitebeard"], "colo" : ["Hajrudin", "Diamante", "Arlong", "Dorry", "Broggy"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "ColaCavern"]},
+                {"raid": ["AokijiKai", "Kizaru", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "ColaCavern"]},
                 {"raid": ["AokijiKai","Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]}
             ]
         },
@@ -187,35 +187,35 @@
             "month" : "July",
             "program": [
                 {"raid": ["AokijiKai","Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull"]},
-                {"raid": ["AokijiKai","Magellan", "Whitebeard"], "colo" : ["Hajrudin", "Diamante", "Arlong", "Dorry", "Broggy"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull"]},
-                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull", "LvlUp"]},
-                {"raid": ["AokijiKai"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull", "LvlUp"]},
-                {"raid": ["AokijiKai"], "colo" : ["Hajrudin", "Diamante", "Arlong", "Dorry", "Broggy"], "fn": ["none"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
-                {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["none"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]}
+                {"raid": ["AokijiKai","Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["GiollaBrook", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull"]},
+                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["MadameSharley", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull", "LvlUp"]},
+                {"raid": ["AokijiKai"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "Whitebeard4", "Shambles", "Kraken"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer", "FreePull", "LvlUp"]},
+                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
+                {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]}
             ]
         },
         {
             "starting": 16,
             "month" : "July",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["none"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
-                {"raid": ["Doflamingo", "Shanks"], "colo" : ["Hajrudin", "Diamante", "Arlong", "Dorry", "Broggy"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Chopper", "Akainu", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["NamiSummer", "RobinSummer", "PeronaSummer"]},
+                {"raid": ["Doflamingo", "Shanks"], "colo" : ["none"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["Chopper", "Akainu", "Shanks"], "colo" : ["none"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "Duck", "Dadan", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
+                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["none"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates"], "special" : ["none"]}
             ]
         },
         {
             "starting": 23,
             "month" : "July",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Garp", "Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
+                {"raid": ["Garp", "Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "Elizabello", "HeartPirates"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

@@ -40,9 +40,6 @@
     },
     "RighteousJuror": { 
         "id" : "704"
-    }, 
-    "Tansui" : {
-        "id" : "956"
     },
     "HogbackStory" : {
         "id" : "891"
@@ -547,6 +544,12 @@
     },
     "Rayleigh" : {
         "id" : "367"
+    },
+    "RayleighStory" : {
+        "id" : "1353"
+    },
+    "Longarm" : {
+        "id" : "1350"
     },
     "Jinbe" : {
         "id" : "410"
@@ -1198,5 +1201,15 @@
     },
     "Conis" : {
         "id" : "715"
+    },
+    "Lip" : {
+        "id" : "1470"
+    },
+    "PeronaAccomplice" : {
+        "id" : "1540"
+    },
+    "JinbeStory" : {
+        "id" : "1345"
     }
+
 }

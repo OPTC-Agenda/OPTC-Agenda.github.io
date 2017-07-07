@@ -874,13 +874,38 @@
         "books" : ["Croco6", "Spandam", "BluenoStrong", "Minotaur", "Sphinx", "Haruta", "Atmos", "SpeedGil"],
         "drops": ["Mansherry", "Kabu", "Bian"]
     },
+    "Zeff": {
+        "title": "Raging Cook! Red Leg Zeff",
+        "condition": "You cannot use any two units that are the same",
+        "large": "assets/images/fn/big/zeff.png",
+        "tiny": "assets/images/fn/tiny/zeff.png",
+        "lastTimes": [],
+        "books" : ["Patty", "Zeff", "Killer", "Thatch", "Curiel", "Kaya"],
+        "drops": ["Zeff", "PattyFN", "CarneFN"]
+    },
     "Sentomaru": {
         "title": "Gatekeeper of the New World! Stop the Rookies!",
         "condition": "You can only bring QCK units",
         "large": "assets/images/fn/big/sentomaru.png",
         "tiny": "assets/images/fn/tiny/sentomaru.png",
         "lastTimes": [],
-        "books" : ["Hawkins", "Zoro3D2Y", "BrookBorn", "Kikyo", "KizaruStoria", "Blackbeard6", "TsuruG5", "MomongaG5", "Lip"],
-        "drops": ["Sentomaru", "Lip", "Albion"]
+        "books" : ["Hawkins", "Zoro3D2Y", "BrookBorn", "Kikyo", "KizaruStoria", "Blackbeard6", "TsuruG5", "Momonga", "Lip"],
+        "drops": ["SentomaruFN", "Lip", "Albion"]
+    },
+    "Dadan": {
+        "title": "Dadan Family! Encounter with the Mountain Bandits",
+        "large": "assets/images/fn/big/dadan.png",
+        "tiny": "assets/images/fn/tiny/dadan.png",
+        "lastTimes": [],
+        "books" : ["ChopperHeavyPoint", "Bepo", "HogbackStory", "Sanji3D2Y", "Luffy3D2Y", "GarpSTR", "Sakazuki6", "FrankyTS", "NamiTS", "Chopper5+"],
+        "drops": ["Dadan", "Dogra", "CarneFN"]
+    },
+    "MadameSharley": {
+        "title": "Madame Sharley Fortnight!",
+        "large": "assets/images/fn/big/madame_sharley.PNG",
+        "tiny": "assets/images/fn/tiny/madame_sharley.png",
+        "lastTimes": [],
+        "books" : ["Fujitora", "Namule", "Curiel", "Kyros", "RayleighStory", "PeronaAccomplice", "JinbeStory", "Macro", "Longarm"],
+        "drops": ["MadameSharley", "CamieMadame", "PappaguMadame"]
     }
 }

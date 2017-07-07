@@ -203,6 +203,13 @@
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1595"
     },
+    "FakeMugiwara": {
+        "name" : "Impostor Straw Hat!",
+        "large": "assets/images/raid/big/impostor_strawhat.png",
+        "tiny": "assets/images/raid/tiny/impostor_strawhat.png",
+        "lastTimes": [],
+        "drops" : ["985", "986", "987", "988"]
+    },
     "DoffyINT": {
         "name" : "Doflamingo INT raid boss!",
         "large": "assets/images/raid/big/doffy_int.png",
@@ -215,12 +222,19 @@
         "large": "assets/images/raid/big/pica_str.png",
         "tiny": "assets/images/raid/tiny/pica.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/"
+        "linkDB": "http://optc-db.github.io/characters/#/view/1646"
     },
     "AokijiKai": {
         "name" : "Aokiji Kai",
         "large": "assets/images/raid/big/aokiji_kai.png",
         "tiny": "assets/images/raid/tiny/aokiji.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1668"
+    },
+    "MihawkKai": {
+        "name" : "Mihawk Kai",
+        "large": "assets/images/raid/big/mihawk.png",
+        "tiny": "assets/images/raid/tiny/mihawk.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/"
     }

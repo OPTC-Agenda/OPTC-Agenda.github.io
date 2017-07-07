@@ -383,7 +383,7 @@
     },        
     "HackKarate" : {
         "id" : "1243"
-    },        
+    },
     "Camie" : {
         "id" : "634"
     },
@@ -768,11 +768,20 @@
     "SentomaruStory" : {
         "id" : "973"
     },
+    "SentomaruFN" : {
+        "id" : "1468"
+    },
     "BoaSandersonia" : {
         "id" : "1055"
     },
     "BoaMarigold" : {
         "id" : "1057"
+    },
+    "Lip" : {
+        "id" : "1470"
+    },
+    "Albion" : {
+        "id" : "1471"
     },
     "Hannyabal" : {
         "id" : "1156"
@@ -907,13 +916,35 @@
         "image": "assets/images/special/perona_summer.png",
         "id" : "684"
     },
-    "Sentomaru" : {
-        "id" : "1468"
+    "Zeff" : {
+        "id" : "606"
     },
-    "Lip" : {
-        "id" : "1470"
+    "CarneFN" : {
+        "id" : "609"
     },
-    "Albion" : {
-        "id" : "1471"
+    "PattyFN" : {
+        "id" : "608"
+    },
+    "Dadan" : {
+        "id" : "1519"
+    },
+    "Dogra" : {
+        "id" : "1521"
+    },
+    "AceDadan" : {
+        "id" : "1522"
+    },
+    "CamieMadame" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "MadameSharley" : {
+        "id" : "#",
+        "missing" : "yes"
+    },
+    "PappaguMadame" : {
+        "id" : "#",
+        "missing" : "yes"
     }
+
 }

@@ -404,7 +404,7 @@ function raidModal(character) {
     $("#raidDropsImg").empty();
     $("#raidLast").empty();
 
-    if (character == "BusterCall") {
+    if (character == "BusterCall" || character == "FakeMugiwara") {
         $("#raidDrops").css('display', 'block');
         large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
 

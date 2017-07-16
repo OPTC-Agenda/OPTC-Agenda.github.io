@@ -910,35 +910,35 @@
     },
     "SecretSanji": {
         "title": "Sanji secret character!",
-        "large": "assets/images/fn/big/secret.PNG",
+        "large": "assets/images/fn/big/secret.png",
         "tiny": "assets/images/fn/tiny/sanji_secret.png",
         "lastTimes": [],
         "drops": ["SanjiOkama"]
     },
     "SecretAisa": {
         "title": "Aisa secret character!",
-        "large": "assets/images/fn/big/secret.PNG",
+        "large": "assets/images/fn/big/secret.png",
         "tiny": "assets/images/fn/tiny/aisa_secret.png",
         "lastTimes": [],
         "drops": ["Aisa"]
     },
     "SecretMr1": {
         "title": "Mr. 1 secret character! ",
-        "large": "assets/images/fn/big/secret.PNG",
+        "large": "assets/images/fn/big/secret.png",
         "tiny": "assets/images/fn/tiny/mr_1_secret.png",
         "lastTimes": [],
         "drops": ["DazBonesPrisoner"]
     },
     "SecretDogPenguin": {
         "title": "Dog Penguin secret character!",
-        "large": "assets/images/fn/big/secret.PNG",
+        "large": "assets/images/fn/big/secret.png",
         "tiny": "assets/images/fn/tiny/dog_penguin_secret.png",
         "lastTimes": [],
         "drops": ["DogPenguin"]
     },
     "SecretConis": {
         "title": "Conis secret character!",
-        "large": "assets/images/fn/big/secret.PNG",
+        "large": "assets/images/fn/big/secret.png",
         "tiny": "assets/images/fn/tiny/conis_secret.png",
         "lastTimes": [],
         "drops": ["ConisEv"]

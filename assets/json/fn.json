@@ -109,7 +109,7 @@
         "drops": ["Bepo", "Sachi", "JeanBart"]
     },
     "Kalifa": {
-        "title": "Kalifa's Secret Assignment",
+        "title": "Kalifa's secret character! Assignment",
         "large": "assets/images/fn/big/kalifa.png",
         "tiny": "assets/images/fn/tiny/kalifa.png",
         "condition" : "You may only bring STR units into this island",
@@ -368,7 +368,7 @@
         "drops": ["ViviYoung", "KozaYoung", "KingCobra"]
     },
     "YoungNamiRobin": {
-        "title": "Robin and Nami's Secret Undercover Investigation ",
+        "title": "Robin and Nami's secret character! Undercover Investigation ",
         "large": "assets/images/fn/big/young_nami_robin.png",
         "tiny": "assets/images/fn/tiny/young_nami_robin.png",
         "condition" : "Boosts ATK of Cerebral and Free Spirit characters by 2x, other classes get .5x ATK. <br>Boosts HP of Striker and Shooter characters by 2x, other classes get .5x HP. (This STACKS for characters with multiple classes)",
@@ -754,7 +754,7 @@
         "drops": ["Lafitte", "VanAugur", "DocQ"]
     },
     "KujaPirates": {
-        "title": "Men are Forbidden!? The Secret Flower Garden ",
+        "title": "Men are Forbidden!? The secret character! Flower Garden ",
         "condition" : "You can only bring DEX units",
         "large": "assets/images/fn/big/kuja_pirates.png",
         "tiny": "assets/images/fn/tiny/kuja_pirates.png",
@@ -907,5 +907,41 @@
         "lastTimes": [],
         "books" : ["Fujitora", "Namule", "Curiel", "Kyros", "RayleighStory", "PeronaAccomplice", "JinbeStory", "Macro", "Longarm"],
         "drops": ["MadameSharley", "CamieMadame", "PappaguMadame"]
+    },
+    "SecretSanji": {
+        "title": "Sanji secret character!",
+        "large": "assets/images/fn/big/secret.PNG",
+        "tiny": "assets/images/fn/tiny/sanji_secret.png",
+        "lastTimes": [],
+        "drops": ["SanjiOkama"]
+    },
+    "SecretAisa": {
+        "title": "Aisa secret character!",
+        "large": "assets/images/fn/big/secret.PNG",
+        "tiny": "assets/images/fn/tiny/aisa_secret.png",
+        "lastTimes": [],
+        "drops": ["Aisa"]
+    },
+    "SecretMr1": {
+        "title": "Mr. 1 secret character! ",
+        "large": "assets/images/fn/big/secret.PNG",
+        "tiny": "assets/images/fn/tiny/mr_1_secret.png",
+        "lastTimes": [],
+        "drops": ["DazBonesPrisoner"]
+    },
+    "SecretDogPenguin": {
+        "title": "Dog Penguin secret character!",
+        "large": "assets/images/fn/big/secret.PNG",
+        "tiny": "assets/images/fn/tiny/dog_penguin_secret.png",
+        "lastTimes": [],
+        "drops": ["DogPenguin"]
+    },
+    "SecretConis": {
+        "title": "Conis secret character!",
+        "large": "assets/images/fn/big/secret.PNG",
+        "tiny": "assets/images/fn/tiny/conis_secret.png",
+        "lastTimes": [],
+        "drops": ["ConisEv"]
     }
+
 }

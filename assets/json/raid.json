@@ -233,9 +233,9 @@
     },
     "MihawkKai": {
         "name" : "Mihawk Kai",
-        "large": "assets/images/raid/big/mihawk.png",
-        "tiny": "assets/images/raid/tiny/mihawk.png",
+        "large": "assets/images/raid/big/mihawk_kai.png",
+        "tiny": "assets/images/raid/tiny/mihawk_kai.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/"
+        "linkDB": "http://optc-db.github.io/characters/#/view/1679"
     }
 }

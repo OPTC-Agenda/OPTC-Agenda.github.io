@@ -386,5 +386,11 @@
         "tiny": "assets/images/raid/tiny/whitebeard.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1257"
+    },
+    "Blenheim": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1528.png",
+        "tiny": "assets/images/colo/tiny/blenheim.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1528"
     }
 }

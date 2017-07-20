@@ -131,6 +131,18 @@
         "large": "assets/images/fn/big/summer.png",
         "tiny": "assets/images/fn/tiny/summer_perona.png",
         "drops": ["PeronaSummer", "LuffySummer"]
+    },
+    "VioletSummer": {
+        "title": "Girls of Summer Paradise: Violet",
+        "large": "assets/images/fn/big/summer_violet_bonney.png",
+        "tiny": "assets/images/fn/tiny/summer_violet.png",
+        "drops": ["VioletSummer", "LuffySummer"]
+    },
+    "BonneySummer": {
+        "title": "Girls of Summer Paradise: Bonney",
+        "large": "assets/images/fn/big/summer_violet_bonney.png",
+        "tiny": "assets/images/fn/tiny/summer_bonney.png",
+        "drops": ["BonneySummer", "LuffySummer"]
     }
 
 }

@@ -942,6 +942,17 @@
         "tiny": "assets/images/fn/tiny/conis_secret.png",
         "lastTimes": [],
         "drops": ["ConisEv"]
+    },
+    "RobinAnniversary": {
+        "title": "Robin anniversary!",
+        "large": "assets/images/fn/big/robin_anniversary.png",
+        "tiny": "assets/images/fn/tiny/robin_anniversary.png",
+        "lastTimes": [],
+        "drops": [],
+        "books" : ["LogLuffy", "LuffyTS", "G4", "G3", "NicoRobin", "Robin3D2Y", "Luffy3D2Y", "Usopp3D2Y", "Franky3D2Y",
+                "LuffySW", "NicoRobinCode", "UsoppCode", "FrankyNewSW", "FrankyTS", "RobinTS", "Luffy5+", "Usopp5+",
+                "Robin5+", "Franky5+", "UsoppImpact", "GoldenPound", "Franky", "AllSunday"
+        ]
     }
 
 }

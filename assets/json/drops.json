@@ -922,6 +922,14 @@
         "image": "assets/images/special/perona_summer.png",
         "id" : "684"
     },
+    "VioletSummer" : {
+        "image": "assets/images/special/violet_summer.png",
+        "id" : "1200"
+    },
+    "BonneySummer" : {
+        "image": "assets/images/special/bonney_summer.png",
+        "id" : "1198"
+    },
     "Zeff" : {
         "id" : "606"
     },

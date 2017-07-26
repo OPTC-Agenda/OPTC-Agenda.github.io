@@ -211,10 +211,10 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9", "SecretConis"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Smoker", "Zeff", "CP9", "SecretConis"], "special" : ["none"]},
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol", "SecretConis"], "special" : ["none"]},
-                {"raid": ["MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["MihawkKai"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
-                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
-                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail", "LvlUp"]}
+                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
+                {"raid": ["Mihawk", "MihawkKai"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie", "Whitebeard"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail", "LvlUp"]}
             ]
         },{
             "starting": 30,
@@ -223,10 +223,10 @@
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail", "LvlUp"]},
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["BigMomPirates", "CobiMeppo", "TBone", "Wapol"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Eneru"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Moria"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Moria", "Killer", "Capone", "Coby", "Paulie"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

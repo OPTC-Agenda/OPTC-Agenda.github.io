@@ -949,15 +949,24 @@
         "id" : "1522"
     },
     "CamieMadame" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1671"
     },
     "MadameSharley" : {
-        "id" : "#",
-        "missing" : "yes"
+        "id" : "1670"
     },
     "PappaguMadame" : {
-        "id" : "#",
+        "id" : "1671"
+    },
+    "Kid" : {
+        "id" : "1689",
+        "missing" : "yes"
+    },
+    "Heat" : {
+        "id" : "1691",
+        "missing" : "yes"
+    },
+    "Wire" : {
+        "id" : "1692",
         "missing" : "yes"
     }
 

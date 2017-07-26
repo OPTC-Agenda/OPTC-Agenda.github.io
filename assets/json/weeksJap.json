@@ -213,12 +213,51 @@
             "month" : "July",
             "program": [
                 {"raid": ["MihawkKai", "Mihawk", "Whitebeard"], "colo" : ["Kyros", "Kanjuro", "Capone", "Ganfoll", "Foxy"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["MihawkKai", "Garp", "Tesoro", "Whitebeard"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["none"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]}
+                {"raid": ["MihawkKai", "Garp", "Tesoro", "Whitebeard"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["MadameSharley", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer", "LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["KidPirates", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer", "LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["none"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["Vergo"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]}
+            ]
+        },
+        {
+            "starting": 30,
+            "month" : "July",
+            "program": [
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["none"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2"], "special" : ["Booster"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates"], "special" : ["Booster"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates"], "special" : ["Booster"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates"], "special" : ["Evolver"]}
+            ]
+        },
+        {
+            "starting": 6,
+            "month" : "August",
+            "program": [
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates"], "special" : ["Evolver"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates"], "special" : ["Evolver"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 13,
+            "month" : "August",
+            "program": [
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

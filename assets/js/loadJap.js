@@ -251,7 +251,7 @@ function showSpecial(flag){
                                     }
                                 }
                             } 
-                            if (character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern") {
+                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }
@@ -881,3 +881,17 @@ function firstLoad() {
 
     });
 }
+
+// {
+//     "starting": 23,
+//     "month" : "July",
+//     "program": [
+//     {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+// ]
+// }

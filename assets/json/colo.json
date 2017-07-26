@@ -376,7 +376,7 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1142"
     },
     "Kyros": {
-        "large": "assets/images/colo/big/1829.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1666.png",
         "tiny": "assets/images/colo/tiny/kyros.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1666"
@@ -392,5 +392,11 @@
         "tiny": "assets/images/colo/tiny/blenheim.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1528"
+    },
+    "Inuarashi": {
+        "large": "assets/images/colo/big/1877.png",
+        "tiny": "assets/images/colo/tiny/inuarashi.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1693"
     }
 }

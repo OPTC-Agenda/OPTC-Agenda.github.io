@@ -953,6 +953,15 @@
                 "LuffySW", "NicoRobinCode", "UsoppCode", "FrankyNewSW", "FrankyTS", "RobinTS", "Luffy5+", "Usopp5+",
                 "Robin5+", "Franky5+", "UsoppImpact", "GoldenPound", "Franky", "AllSunday"
         ]
+    },
+    "KidPirates": {
+        "title": "Kid Pirates Fortnight!",
+        "condition" : "Only PSY and INT orbs will appear",
+        "large": "assets/images/fn/big/kid_pirates.png",
+        "tiny": "assets/images/fn/tiny/kid_pirates.png",
+        "lastTimes": [],
+        "books" : ["GodUsopp", "Usopp6+", "Thatch", "Rakuyo", "Mansherry", "Heracles", "Elizabeth", "LawStory", "HeraclesStory", "Haredas"],
+        "drops": ["Kid", "Heat", "Wire"]
     }
 
 }

@@ -227,7 +227,7 @@
             "program": [
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
                 {"raid": ["Duval", "Shanks"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["Sabo"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2"], "special" : ["none"]},
+                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2"], "special" : ["Booster"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["Booster"]},
                 {"raid": ["Ivankov", "Kuma", "Whitebeard"], "colo" : ["none"], "fn": ["KidPirates", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["Booster"]},

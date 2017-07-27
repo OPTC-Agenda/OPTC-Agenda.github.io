@@ -547,13 +547,13 @@
         "books" : ["Blackbeard6", "Ace", "FukuroStory", "AbdullahJeet", "DonSai", "Sentomaru", "DocQ", "Foxy", "Kikyo", "Zeff", "LapinAdult"],
         "drops": []
     },
-    "Shiraoshi": {
+    "Shirahoshi": {
         "title": "Fishman Island! The Royal Family!",
-        "large": "assets/images/fn/big/shiraoshi.png",
-        "tiny": "assets/images/fn/tiny/shiraoshi.png",
+        "large": "assets/images/fn/big/shirahoshi.png",
+        "tiny": "assets/images/fn/tiny/shirahoshi.png",
         "lastTimes": [],
         "books" : ["Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
-        "drops": ["Shiraoshi" , "Ryuboshi", "Manboshi"]
+        "drops": ["Shirahoshi" , "Ryuboshi", "Manboshi"]
     },
     "Mihawk6": {
         "title": "Mihawk 6* Books fortnight",
@@ -727,6 +727,15 @@
         "lastTimes": [],
         "books" : ["Koza", "Purinpurin", "OarsJr", "Marco6", "HogbackStory", "OarsStory", "ChopperMask", "Sanji3D2Y", "Billy"],
         "drops": ["DrIndigo", "CommanderScarlet", "Billy"]
+    },
+    "Hogback": {
+        "title": "Dr. Hogback's Lab of the Dead",
+        "condition" : "You may only bring PSY units for 15 and 30 Stamina",
+        "large": "assets/images/fn/big/hogback.png",
+        "tiny": "assets/images/fn/tiny/hogback.png",
+        "lastTimes": [],
+        "books" : ["NamiMirageTempo", "Sogeking", "MohjiRichie", "Urouge", "LapinAdult", "Cindry", "Usopp5+"],
+        "drops": ["Hogback", "Cindry"]
     },
     "SadieChan": {
         "title": "Chief Jailer Sadie: Cruel and Unusual",

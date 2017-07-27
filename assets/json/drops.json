@@ -618,7 +618,7 @@
     "Wanze" : {
         "id" : "742"
     },
-    "Shiraoshi" : {
+    "Shirahoshi" : {
         "id" : "1596"        
     },
     "Ryuboshi" : {
@@ -968,6 +968,12 @@
     "Wire" : {
         "id" : "1692",
         "missing" : "yes"
+    },
+    "Hogback" : {
+        "id" : "385"
+    },
+    "Cindry" : {
+        "id" : "387"
     }
 
 }

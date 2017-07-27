@@ -217,7 +217,7 @@
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["KidPirates", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer", "LvlUp"]},
                 {"raid": ["MihawkKai"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "TBone", "Elizabello", "HeartPirates", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
                 {"raid": ["none"], "colo" : ["Byrnndi", "Hawkins", "Ideo", "LuckyRoo", "Blenheim"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
-                {"raid": ["Vergo"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
+                {"raid": ["Vergo", "Shanks"], "colo" : ["none"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "CP9", "ProposalNami", "Tontatta2", "RobinAnniversary"], "special" : ["VioletSummer", "BonneySummer"]}
             ]
         },

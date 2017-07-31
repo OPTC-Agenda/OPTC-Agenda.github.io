@@ -268,19 +268,19 @@
                 {"raid": ["Eneru", "Whitebeard"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
-                {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]}
             ]
         },
         {
             "starting": 27,
             "month" : "August",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
-                {"raid": ["Pica", "Tesoro", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
-                {"raid": ["Akainu", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "Tontatta1", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Pica", "Tesoro", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Akainu", "Shanks"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]}

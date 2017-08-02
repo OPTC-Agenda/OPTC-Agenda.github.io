@@ -958,22 +958,28 @@
         "id" : "1671"
     },
     "Kid" : {
-        "id" : "1689",
-        "missing" : "yes"
+        "id" : "1689"
     },
     "Heat" : {
-        "id" : "1691",
-        "missing" : "yes"
+        "id" : "1691"
     },
     "Wire" : {
-        "id" : "1692",
-        "missing" : "yes"
+       "id" : "1692"
     },
     "Hogback" : {
         "id" : "385"
     },
     "Cindry" : {
-        "id" : "387"
+       "id" : "387"
+    },
+    "Hannyaball" : {
+       "id" : "928"
+    },
+    "Saldeath" : {
+        "id" : "930"
+    },
+    "Blugori" : {
+        "id" : "931"
     }
 
 }

@@ -21,10 +21,19 @@
     "Smoker": {
         "title": "Smoker's Great Pursuit",
         "large": "assets/images/fn/big/smoker.png",
-        "tiny": "assets/images/fn/tiny/smoker.png",        
+        "tiny": "assets/images/fn/tiny/smoker.png",
         "lastTimes": [],
         "books": ["Patty", "Zeff", "ViviPrincess", "Mr3", "MissGoldenweek", "Mr9", "ZoroLionSong"],
         "drops": ["Tashigi", "SmokerFN"]
+    },
+    "Hannyabal": {
+        "title": "Hannyabal Great Ambition",
+        "condition" : "You can only bring STR units",
+        "large": "assets/images/fn/big/hannyaball.png",
+        "tiny": "assets/images/fn/tiny/hannyaball.png",
+        "lastTimes": [],
+        "books": ["Pell", "LuffySW", "Wyper", "KalifaStory", "FukuroStory", "KalifaStrongest", "FukuroStrongest", "Hiriluk", "SaldeathFN"],
+        "drops": ["Hannyaball", "Saldeath", "Blugori"]
     },
     "Rumbar": {
         "title": "Rumbar Pirates!",

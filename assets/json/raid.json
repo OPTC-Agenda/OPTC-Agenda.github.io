@@ -215,6 +215,7 @@
         "large": "assets/images/raid/big/doffy_int.png",
         "tiny": "assets/images/raid/tiny/doflamingo.png",
         "lastTimes": [],
+        "conditions" : "Raid available only for <b>Fighter</b>, <b>Striker</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1622"
     },
     "PicaSTR": {
@@ -222,6 +223,7 @@
         "large": "assets/images/raid/big/pica_str.png",
         "tiny": "assets/images/raid/tiny/pica.png",
         "lastTimes": [],
+        "conditions" : "Raid available only for <b>Powerhouse</b>, <b>Driven</b> and <b>Salsher</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1646"
     },
     "AokijiKai": {
@@ -229,6 +231,7 @@
         "large": "assets/images/raid/big/aokiji_kai.png",
         "tiny": "assets/images/raid/tiny/aokiji.png",
         "lastTimes": [],
+        "conditions" : "Raid available only for <b>Free Spirit</b>, <b>Shooter</b> and <b>Striker</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1668"
     },
     "MihawkKai": {
@@ -236,6 +239,7 @@
         "large": "assets/images/raid/big/mihawk_kai.png",
         "tiny": "assets/images/raid/tiny/mihawk_kai.png",
         "lastTimes": [],
+        "conditions" : "Raid available only for <b>Powerhouse</b>, <b>Driven</b> and <b>Salsher</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1679"
     },
     "Vergo": {
@@ -244,5 +248,13 @@
         "tiny": "assets/images/raid/tiny/vergo.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1695"
+    },
+    "SaboKai": {
+        "name" : "Sabo",
+        "large": "assets/images/raid/big/sabo.png",
+        "tiny": "assets/images/raid/tiny/sabo.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Shooter</b>, <b>Fighter</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/1726"
     }
 }

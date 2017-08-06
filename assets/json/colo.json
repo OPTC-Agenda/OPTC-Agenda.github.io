@@ -394,9 +394,27 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1528"
     },
     "Inuarashi": {
-        "large": "assets/images/colo/big/1877.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1693.png",
         "tiny": "assets/images/colo/tiny/inuarashi.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1693"
+    },
+    "Gladius": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1400.png",
+        "tiny": "assets/images/colo/tiny/gladius.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1400"
+    },
+    "Dellinger": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1375.png",
+        "tiny": "assets/images/colo/tiny/blenheim.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1375"
+    },
+    "Chopper": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1339.png",
+        "tiny": "assets/images/colo/tiny/chopper.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1339"
     }
 }

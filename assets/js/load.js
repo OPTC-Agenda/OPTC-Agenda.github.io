@@ -423,6 +423,14 @@ function raidModal(character) {
         }
     }
 
+    console.log(charJs.conditions);
+    if(!charJs.hasOwnProperty('conditions')){
+        $("#raidConditions").css('display', 'none');
+    } else {
+        $("#raidConditions").css('display', 'block');
+        $("#raidConditions p").empty().append(charJs.conditions);
+    }
+
     $("#raidBody h2").empty().append(charJs.name);
     $("#raidImage").empty().append(large);
 

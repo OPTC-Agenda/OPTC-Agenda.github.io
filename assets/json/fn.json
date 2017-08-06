@@ -153,6 +153,15 @@
         "books": ["AllSunday", "Mr9", "Blamenco", "Kid", "GiantImperialShooter", "DoubleFinger", "Mr1Sword"],
         "drops": ["CrocodilePrisoner", "DazBonesPrisoner"]
     },
+    "BaroqueWorksPrison": {
+        "title": "Prison Break! Baroque Works",
+        "large": "assets/images/fn/big/impel_down.png",
+        "tiny": "assets/images/fn/tiny/impel_down.png",
+        "condition" : "<b>30</b>: Non-Fighter, Evolver, or Booster class characters are weakend;<br/><b>15</b>: Striker and Slasher class characters are weakened (Note: Multi-class characters such as Fighter / Powerhouse are not affected)",
+        "lastTimes": [],
+        "books": ["Mr8", "MissMonday", "Jozu", "Drake", "GiantWarriorGreen", "MissMerryChristmas", "Mr4"],
+        "drops": ["Mr3EscapeBaroque", "Mr2Escape"]
+    },
     "Alvida": {
         "title": "Alvida's Romance",
         "large": "assets/images/fn/big/alvida.png",

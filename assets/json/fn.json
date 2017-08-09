@@ -998,6 +998,13 @@
         "lastTimes": [],
         "books" : ["Cavendish6", "Fossa", "FrankyNewSW", "KidStory", "Leo", "IvankovDEX", "Duval", "Kinemon", "Momonosuke"],
         "drops": ["Neptune", "Fukaboshi"]
+    },
+    "SwimRobin": {
+        "title": "Swimsuit Robin!",
+        "large": "assets/images/fn/big/nami_robin_swim.png",
+        "tiny": "assets/images/fn/tiny/robin_swim.png",
+        "lastTimes": [],
+        "drops": ["SwimRobin"]
     }
 
 }

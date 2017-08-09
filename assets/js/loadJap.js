@@ -492,9 +492,13 @@ function fnModal(character) {
    
     if(fnList[character].hasOwnProperty('books')){
         books = fnList[character].books;
+        $("#fnBooksTitle").css('display', 'block');
     } else {
         books = fnList[character].japan_books;
+        $("#fnBooksTitle").css('display', 'none');
     }
+
+
 
     $("#fnBody h2").empty().append(title);
     $("#fnImage").empty().append(large);
@@ -521,6 +525,7 @@ function fnModal(character) {
     for (i = 0; i < drops.length; i++) {        
         var drop = drops[i];
         var toDrop = dropList[drops[i]];
+
         if(toDrop.hasOwnProperty('missing')){
             var tiny = "https://onepiece-treasurecruise.com/wp-content/themes/onepiece-treasurecruise/images/noimage.png";            
         } else {

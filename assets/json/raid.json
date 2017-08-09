@@ -250,8 +250,8 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1695"
     },
     "SaboKai": {
-        "name" : "Sabo",
-        "large": "assets/images/raid/big/sabo.png",
+        "name" : "Sabo Kai",
+        "large": "assets/images/raid/big/sabo_kai.png",
         "tiny": "assets/images/raid/tiny/sabo.png",
         "lastTimes": [],
         "conditions" : "Raid available only for <b>Shooter</b>, <b>Fighter</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",

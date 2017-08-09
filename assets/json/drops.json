@@ -986,6 +986,14 @@
     },
     "Mr3EscapeBaroque" : {
         "id" : "460"
+    },
+    "Neptune" : {
+        "id" : "1722",
+        "missing" : "yes"
+    },
+    "Fukaboshi" : {
+        "id" : "1724",
+        "missing" : "yes"
     }
 
 }

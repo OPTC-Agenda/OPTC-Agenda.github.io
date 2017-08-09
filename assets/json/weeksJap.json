@@ -240,32 +240,32 @@
             "program": [
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["KidPirates", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["Evolver"]},
                 {"raid": ["Zephyr", "NightmareLuffy", "Whitebeard"], "colo" : ["Zephyr", "Dellinger", "Gladius", "Chopper", "Ain"], "fn": ["KidPirates", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["Evolver"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Zephyr", "Dellinger", "Gladius", "Chopper", "Ain"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Fukaboshi", "Kalifa", "CrocodileKimono", "Rumbar"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Zephyr", "Dellinger", "Gladius", "Chopper", "Ain"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai", "Kizaru", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai", "Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]}
             ]
         },
         {
             "starting": 13,
             "month" : "August",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["Blackbeard", "Shanks"], "colo" : ["Zephyr", "Dellinger", "Gladius", "Chopper", "Ain"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["Boa", "BusterCall", "Shanks"], "colo" : ["none"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wapol", "Domino", "Zeff"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
-                {"raid": ["Aokiji", "Whitebeard"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]}
+                {"raid": ["SaboKai", "Mihawk", "Shanks"], "colo" : ["Inuarashi", "Kinemon", "Ryuma", "Urouge", "Ace"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai", "Blackbeard", "Shanks"], "colo" : ["Zephyr", "Dellinger", "Gladius", "Chopper", "Ain"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai", "Boa", "BusterCall", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["Fukaboshi", "Wapol", "Domino", "Zeff"], "special" : ["none"]},
+                {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["Fukaboshi", "TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
+                {"raid": ["SaboKai", "Aokiji", "Whitebeard"], "colo" : ["none"], "fn": ["Fukaboshi", "TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Fukaboshi", "TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]}
             ]
         },
         {
             "starting": 20,
             "month" : "August",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
-                {"raid": ["Eneru", "Whitebeard"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Fukaboshi", "TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
+                {"raid": ["Eneru", "Whitebeard"], "colo" : ["none"], "fn": ["Fukaboshi", "TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta1", "Sengoku"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "SoulKing", "LawMonet"], "special" : ["none"]},

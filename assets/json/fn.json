@@ -989,6 +989,15 @@
         "lastTimes": [],
         "books" : ["GodUsopp", "Usopp6+", "Thatch", "Rakuyo", "Mansherry", "Heracles", "Elizabeth", "LawStory", "HeraclesStory", "Haredas"],
         "drops": ["Kid", "Heat", "Wire"]
+    },
+    "Fukaboshi": {
+        "title": "Royal Neptune Family!",
+        "condition" : "Strikers and Powerhouse characters get a boost",
+        "large": "assets/images/fn/big/fukaboshi.png",
+        "tiny": "assets/images/fn/tiny/fukaboshi.png",
+        "lastTimes": [],
+        "books" : ["Cavendish6", "Fossa", "FrankyNewSW", "KidStory", "Leo", "IvankovDEX", "Duval", "Kinemon", "Momonosuke"],
+        "drops": ["Neptune", "Fukaboshi"]
     }
 
 }

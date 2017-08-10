@@ -321,7 +321,7 @@
         "drops": ["VioletDancing", "SanjiLove"]
     },
     "Shambles": {
-        "title": "Shambles! Tashigi and Smoker?!?",
+        "title": "Recover their bodies! Smokey and the Captain!",
         "large": "assets/images/fn/big/shambles.png",
         "tiny": "assets/images/fn/tiny/shambles.png",
         "condition" : "Your captain will be switched with your middle right character when you encounter Law",
@@ -459,6 +459,15 @@
         "expert" : ["Sogeking"],
         "elite" : ["GoldenPound"],
         "drops": ["Siam", "Butchie", "Django", "Kuro"]
+    },
+    "ArlongPirates": {
+        "title": " Shark Attack! Arlong Pirates ",
+        "condition": "You can only get STR, QCK, DEX, PSY and INT orbs",
+        "large": "assets/images/fn/big/arlong.png",
+        "tiny": "assets/images/fn/tiny/arlong_pirates.png",
+        "lastTimes": [],
+        "books": ["Moo", "Kid", "Mr4", "Rakuyo", "Fossa", "Gedatsu", "Bellmere", "YoungChoo"],
+        "drops": ["YoungArlong", "YoungKuroobi", "YoungChoo"]
     },
     "Arlong": {
         "title": "Arlong: Empire Rising",
@@ -1005,6 +1014,13 @@
         "tiny": "assets/images/fn/tiny/robin_swim.png",
         "lastTimes": [],
         "drops": ["SwimRobin"]
+    },
+    "StrawHat": {
+        "title": "Straw Hat Pirates!",
+        "large": "assets/images/fn/big/straw_hat_pirates.png",
+        "tiny": "assets/images/fn/tiny/straw_hat_pirates.png",
+        "lastTimes": [],
+        "drops": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "FrankyBase", "Robin", "BrookBase"]
     }
 
 }

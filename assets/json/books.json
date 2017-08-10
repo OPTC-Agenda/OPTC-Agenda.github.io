@@ -19,9 +19,12 @@
     },
     "Vergo": {
         "id" : "840"
-    },    
-    "Hack": { 
+    },
+    "Hack": {
         "id" : "673"
+    },
+    "Moo": {
+        "id" : "60"
     },
     "DemolisherAxeman": { 
         "id" : "615"
@@ -925,6 +928,9 @@
     },    
     "KakuStrong" : {
         "id" : "750"
+    },
+    "YoungChoo" : {
+        "id" : "658"
     },
     "LawStory" : {
         "id" : "967"

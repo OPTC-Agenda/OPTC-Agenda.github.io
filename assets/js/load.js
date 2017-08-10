@@ -236,7 +236,7 @@ function showSpecial(flag) {
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime") || character == "SugoIsland" || character.includes("Summer")) {
+                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime") || character == "RaySocket" || character == "SugoIsland" || character.includes("Summer")) {
                             if (timezone) {
                                 $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             } else {
@@ -578,9 +578,6 @@ function fnModal(character) {
     for (i = 0; i < drops.length; i++) {
         var drop = drops[i];
         var toDrop = dropList[drops[i]];
-        console.log(drops[i]);
-        console.log(dropList);
-        console.log(toDrop);
         var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
         var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
         $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");

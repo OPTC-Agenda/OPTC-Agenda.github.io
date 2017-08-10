@@ -997,6 +997,42 @@
     },
     "SwimRobin" : {
         "id" : "1710"
+    },
+    "Luffy" : {
+        "id" : "2"
+    },
+    "Zoro" : {
+        "id" : "5"
+    },
+    "Nami" : {
+        "id" : "9"
+    },
+    "Usopp" : {
+        "id" : "13"
+    },
+    "Sanji" : {
+        "id" : "17"
+    },
+    "Chopper" : {
+        "id" : "21"
+    },
+    "FrankyBase" : {
+        "id" : "629"
+    },
+    "Robin" : {
+        "id" : "708"
+    },
+    "BrookBase" : {
+        "id" : "895"
+    },
+    "YoungArlong" : {
+        "id" : "655"
+    },
+    "YoungKuroobi" : {
+        "id" : "657"
+    },
+    "YoungChoo" : {
+        "id" : "658"
     }
 
 }

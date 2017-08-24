@@ -273,14 +273,14 @@
                 {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Ranking"]},
                 {"raid": ["none"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler", "LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler"]}
+                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver", "LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver"]}
             ]
         },{
             "starting": 3,
             "month" : "September",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["LvlUp"]},

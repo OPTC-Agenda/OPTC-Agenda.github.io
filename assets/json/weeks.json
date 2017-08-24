@@ -258,7 +258,7 @@
             "program": [
                 {"raid": ["Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["Shambles", "BaroqueWorksPrison", "KujaPirates", "RevolutionaryArmy"], "special" : ["none"]},
                 {"raid": ["Usopp", "Heracles"], "colo" : ["none"], "fn": ["Shambles", "BaroqueWorksPrison", "KujaPirates", "RevolutionaryArmy"], "special" : ["none"]},
-                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["RaySocket", "Snail", "LvlUp"]},
+                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["RaySocket", "Snail", "LvlUp", "Ranking"]},
                 {"raid": ["AokijiKai"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["RaySocket", "Snail", "LvlUp"]},
                 {"raid": ["AokijiKai", "Duval"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["RaySocket", "Snail", "LvlUp"]},
                 {"raid": ["AokijiKai", "Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["RaySocket", "Snail", "LvlUp"]},
@@ -270,18 +270,30 @@
             "program": [
                 {"raid": ["AokijiKai", "Chopper"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["Snail", "LvlUp"]},
                 {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]}
+                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Ranking"]},
+                {"raid": ["none"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler", "LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler"]}
             ]
         },{
             "starting": 3,
             "month" : "September",
             "program": [
-                {"raid": ["none", "Chopper"], "colo" : ["none"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Breed", "Rumbar"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evoler"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 10,
+            "month" : "September",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

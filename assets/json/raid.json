@@ -256,5 +256,13 @@
         "lastTimes": [],
         "conditions" : "Raid available only for <b>Shooter</b>, <b>Fighter</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1726"
+    },
+    "BellamyKai": {
+        "name" : "Bellamy Kai",
+        "large": "assets/images/raid/big/bellamy_kai.png",
+        "tiny": "assets/images/raid/tiny/bellamy.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Free Spirit</b>, <b>Driven</b> and <b>Striker</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/1738"
     }
 }

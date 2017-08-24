@@ -143,9 +143,6 @@
     "Haruta" : {
         "id" : "1186"
     },
-    "Atmos" : {
-        "id" : "1188"
-    },
     "Blenheim" : {
         "id" : "1182"
     },
@@ -175,6 +172,12 @@
     },    
     "HannyabalStory" : {
         "id" : "1157"
+    },
+    "Inuarashi" : {
+        "id" : "1571"
+    },
+    "Wanda" : {
+        "id" : "1573"
     },
     "Caribou" : {
         "id" : "1479"
@@ -304,7 +307,10 @@
     },
     "Boa6": {
         "id" : "416"
-    }, 
+    },
+    "Pedro": {
+        "id" : "1654"
+    },
     "MontblancCricket": {
         "id" : "428"
     }, 
@@ -559,6 +565,9 @@
     },
     "RayleighStory" : {
         "id" : "1353"
+    },
+    "RayleighSecret" : {
+        "id" : "1354"
     },
     "Longarm" : {
         "id" : "1350"

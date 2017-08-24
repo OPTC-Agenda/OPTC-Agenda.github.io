@@ -292,7 +292,7 @@
         "tiny": "assets/images/fn/tiny/sengoku.png",
         "condition" : "You can only bring INT units",
         "lastTimes": [],
-        "books": ["Jozu", "Taralan", "Doffy6", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
+        "books": ["Doffy6", "Jozu", "Taralan", "SenorPink", "Bastille", "Maynard", "Burgess", "Shiryu", "Stainless"],
         "drops": ["SengokuFN", "Ronse", "Stainless"]
     },
     "Elizabello": {
@@ -354,7 +354,7 @@
         "tiny": "assets/images/fn/tiny/impel_down_kimono_2.png",
         "condition" : "Only STR/DEX/QCK/PSY/INT orbs will appear",
         "lastTimes": [],
-        "books": ["Thatch", "Shura", "ChopperSW", "Sabo6", "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
+        "books": ["Sabo6", "Thatch", "Shura", "ChopperSW", "Oimo", "Kashii", "JabraStrong", "Mr2Kimono", "NewSWChopper", "Sabo6+"],
         "drops": ["CrocodileKimono", "Mr3Kimono", "Mr2Kimono"]
     },
     "WhitebeardCommanders2": {
@@ -1021,6 +1021,15 @@
         "tiny": "assets/images/fn/tiny/straw_hat_pirates.png",
         "lastTimes": [],
         "drops": ["Luffy", "Zoro", "Nami", "Usopp", "Sanji", "Chopper", "FrankyBase", "Robin", "BrookBase"]
+    },
+    "SugarTrebol": {
+        "title": "Underground Trade Port! Escape!",
+        "condition" : "Limited amount of turns to complete the mission.",
+        "large": "assets/images/fn/big/sugar_trebol.png",
+        "tiny": "assets/images/fn/tiny/sugar_trebol.png",
+        "lastTimes": [],
+        "books" : ["Inuarashi", "UsoppSW", "UsoppCode", "DeCalvan", "Blenheim", "Atmos", "RayleighSecret", "Wanda", "Pedro"],
+        "drops": ["SugarFN", "TrebolFN"]
     }
 
 }

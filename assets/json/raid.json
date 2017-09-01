@@ -98,6 +98,13 @@
         "lastTimes": [],        
         "drops" : ["770", "771", "772", "773", "774", "775"]
     },
+    "Cavendish": {
+        "name" : "Ambush Cavendish!",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1529.png",
+        "tiny": "assets/images/colo/tiny/cavendish.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1529"
+    },
     "NightmareLuffy": { 
         "name" : "Nightmare Luffy",
         "large": "assets/images/raid/big/nightmare_luffy.png",
@@ -264,5 +271,13 @@
         "lastTimes": [],
         "conditions" : "Raid available only for <b>Free Spirit</b>, <b>Driven</b> and <b>Striker</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1738"
+    },
+    "KumaKai": {
+        "name" : "Kuma Kai",
+        "large": "assets/images/raid/big/kuma_kai.png",
+        "tiny": "assets/images/raid/tiny/kuma.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Shooter</b>, <b>Slasher</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/1771"
     }
 }

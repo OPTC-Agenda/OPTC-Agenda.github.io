@@ -63,6 +63,12 @@
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1015"
     },
+    "LittleOarsJr": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1221.png",
+        "tiny": "assets/images/colo/tiny/little_oars_jr.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1221"
+    },
     "Apoo": {
         "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0881.png",
         "tiny": "assets/images/colo/tiny/apoo.png",
@@ -334,7 +340,7 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1627"
     },
     "Ikaros": {
-        "large": "assets/images/colo/big/1629.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1629.png",
         "tiny": "assets/images/colo/tiny/ikaros.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1629"
@@ -422,5 +428,11 @@
         "tiny": "assets/images/colo/tiny/miss_valentine.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1459"
+    },
+    "Nekomamushi": {
+        "large": "assets/images/colo/big/1879.png",
+        "tiny": "assets/images/colo/tiny/nekomamushi.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1732"
     }
 }

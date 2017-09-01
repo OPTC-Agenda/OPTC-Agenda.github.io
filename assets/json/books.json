@@ -473,6 +473,12 @@
     "KumadoriSixPowers" : {
         "id" : "735"
     },
+    "KumaPSY" : {
+        "id" : "1612"
+    },
+    "LucciDEX" : {
+        "id" : "1614"
+    },
     "Spandam" : {
         "id" : "738"
     },
@@ -968,6 +974,9 @@
     "Haredas" : {
         "id" : "1349"
     },
+    "RayQCK" : {
+        "id" : "1534"
+    },
     "HeraclesStory" : {
         "id" : "1346"
     },
@@ -1072,7 +1081,10 @@
     },
     "Buggy6" : {
         "id" : "1391"
-    },    
+    },
+    "DemaloBlack" : {
+        "id" : "1393"
+    },
     "ChopperMask" : {
         "id" : "910"
     },

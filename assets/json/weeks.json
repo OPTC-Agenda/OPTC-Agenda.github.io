@@ -272,7 +272,7 @@
                 {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Shambles", "Hogback", "Perona", "ArlongPirates"], "special" : ["Snail", "LvlUp"]},
                 {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Rayleigh", "Ranking", "Snail"]},
                 {"raid": ["none"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["LvlUp", "Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["NightmareLuffy", "Cavendish"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Snail", "LvlUp"]},
                 {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver", "Snail", "LvlUp"]},
                 {"raid": ["Mihawk"], "colo" : ["DonChinjao", "Kuro", "Apoo", "Alvida", "Beckman", "MissValentine"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver"]}
             ]
@@ -280,23 +280,47 @@
             "starting": 3,
             "month" : "September",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver", "Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Snail"]},
-                {"raid": ["Heracles"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["Kuma", "Mihawk"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Rayleigh", "Snail"]}
+                {"raid": ["Kuma", "Cavendish"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Booster", "Evolver", "Snail"]},
+                {"raid": ["Eneru", "Cavendish"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono", "Camie", "Breed", "Rumbar"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Heracles", "Pica"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["BusterCall", "Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Kuma", "Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Rayleigh", "Snail"]}
             ]
         },{
             "starting": 10,
             "month" : "September",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Rayleigh", "Snail"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sengoku", "CrocodileKimono"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Rayleigh", "Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["Blackbeard"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 17,
+            "month" : "September",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 24,
+            "month" : "September",
+            "program": [
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]

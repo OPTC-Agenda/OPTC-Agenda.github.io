@@ -280,56 +280,56 @@
                 {"raid": ["BellamyKai", "Mihawk", "Shanks"], "colo" : ["Moria", "Orlumbus", "Smoker", "Binz", "Paulie"], "fn": ["SugarTrebol", "Hogback", "SoulKing", "LawMonet", "SwimRobin"], "special" : ["LvlUp"]},
                 {"raid": ["BellamyKai", "Pica", "Tesoro", "Shanks"], "colo" : ["Kid", "Machvise", "Alvida", "Wyper", "Rebecca"], "fn": ["SugarTrebol", "Hogback", "SoulKing", "LawMonet"], "special" : ["LvlUp"]},
                 {"raid": ["BellamyKai", "Akainu", "Shanks"], "colo" : ["none"], "fn": ["SugarTrebol", "Hogback", "SoulKing", "LawMonet"], "special" : ["ColaCavern", "LvlUp"]},
-                {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["SugarTrebol", "Hogback", "SoulKing", "LawMonet"], "special" : ["ColaCavern"]},
-                {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["BellamyKai"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["SugarTrebol", "Hogback", "SoulKing", "LawMonet"], "special" : ["ColaCavern"]},
+                {"raid": ["BellamyKai"], "colo" : ["Doma", "DonChinjao", "Shiryu", "Vista", "LittleOarsJr"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
                 {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
-                {"raid": ["Heracles", "Usopp", "Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]}
+                {"raid": ["Heracles", "Usopp", "Mihawk", "Whitebeard"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]}
             ]
         },
         {
             "starting": 3,
             "month" : "September",
             "program": [
-                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
-                {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["Shandia", "ShanksBuggy", "Mr3Jail"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Shandia", "ShanksBuggy", "Mr3Jail"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]}
+                {"raid": ["Kuma", "Mihawk", "Whitebeard"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["Doflamingo", "Whitebeard"], "colo" : ["Doma", "DonChinjao", "Shiryu", "Vista", "LittleOarsJr"], "fn": ["SugarTrebol", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["BlueGilly", "Wanze", "KujaPirates", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["KumaKai"], "colo" : ["Doma", "DonChinjao", "Shiryu", "Vista", "LittleOarsJr"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Kizaru", "Shanks"], "colo" : ["none"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]}
             ]
         },
         {
             "starting": 10,
             "month" : "September",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["BusterCall", "Shanks"], "colo" : ["none"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["Magellan", "Shanks"], "colo" : ["none"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]}
+                {"raid": ["KumaKai", "Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai", "BusterCall", "Shanks"], "colo" : ["Doma", "DonChinjao", "Shiryu", "Vista", "LittleOarsJr"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["KumaKai"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]}
             ]
          },
           {
             "starting": 17,
             "month" : "September",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Chopper", "Vergo", "Whitebeard"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["Chopper", "Vergo", "Whitebeard"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
                 {"raid": ["Garp", "Franky", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]}
             ]
         },
         {
           "starting": 24,
           "month" : "September",
           "program": [
-            {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
+            {"raid": ["Mihawk", "Shanks"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
             {"raid": ["Duval", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
             {"raid": ["Ivankov", "Eneru", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
             {"raid": ["Zephyr", "Shanks"], "colo" : ["none"], "fn": ["AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},

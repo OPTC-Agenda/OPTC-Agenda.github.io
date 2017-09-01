@@ -1030,6 +1030,14 @@
         "lastTimes": [],
         "books" : ["Inuarashi", "UsoppSW", "UsoppCode", "DeCalvan", "Blenheim", "Atmos", "RayleighSecret", "Wanda", "Pedro"],
         "drops": ["SugarFN", "TrebolFN"]
+    },
+    "BlueGilly": {
+        "title": "Strawhat's Allies! Blue Gilly, Funk Brothers, Abdullah and Jeet!",
+        "large": "assets/images/fn/big/blue_gilly.png",
+        "tiny": "assets/images/fn/tiny/blue_gilly.png",
+        "lastTimes": [],
+        "books" : ["Kuzan", "LuffySW", "Kingdew", "SpeedGil", "ZoroCode", "KumaPSY", "LucciDEX", "RayQCK", "DemaloBlack"],
+        "drops": ["BlueGilly", "FunkBrothers", "AbdullahJeet"]
     }
 
 }

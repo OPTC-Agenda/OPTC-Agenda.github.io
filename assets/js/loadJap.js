@@ -453,7 +453,6 @@ function fnModal(character) {
         });
         return json;
     })();
-    ;
 
     var dropList = (function () {
         $.ajax({
@@ -467,7 +466,6 @@ function fnModal(character) {
         });
         return json;
     })();
-    ;
 
     var bookList = (function () {
         $.ajax({
@@ -481,7 +479,6 @@ function fnModal(character) {
         });
         return json;
     })();
-    ;
 
     var charJs = fnList[character];
     var title = charJs.title;
@@ -497,8 +494,6 @@ function fnModal(character) {
         books = fnList[character].japan_books;
         $("#fnBooksTitle").css('display', 'none');
     }
-
-
 
     $("#fnBody h2").empty().append(title);
     $("#fnImage").empty().append(large);
@@ -900,3 +895,4 @@ function firstLoad() {
 //     {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
 // ]
 // }
+//        "drops": ["BlueGilly", "FunkBrothers", "AbdullahJeet"]

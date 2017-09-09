@@ -52,31 +52,31 @@
         "drops": ["AceTraining"]
     },
     "HimeSTR": {
-        "title": "Hime STR Turtles",
+        "title": "Crimson Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_str.png",
         "drops": ["HimeRed", "ElderRed"]
     },
     "HimeQCK": {
-        "title": "Hime QCK Turtles",
+        "title": "Azure Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_qck.png",
         "drops": ["HimeBlue", "ElderBlue"]
     },
     "HimeDEX": {
-        "title": "Hime DEX Turtles",
+        "title": "Jade Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_dex.png",
         "drops": ["HimeGreen", "ElderGreen"]
     },
     "HimePSY": {
-        "title": "Hime PSY Turtles",
+        "title": "Amber Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_psy.png",
         "drops": ["HimeYellow", "ElderYellow"]
     },
     "HimeINT": {
-        "title": "Hime INT Turtles",
+        "title": "Onyx Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",
         "tiny": "assets/images/fn/tiny/hime_int.png",
         "drops": ["HimePurple", "ElderPurple"]

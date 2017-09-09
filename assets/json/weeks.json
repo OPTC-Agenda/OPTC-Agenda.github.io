@@ -292,32 +292,32 @@
             "starting": 10,
             "month" : "September",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Rayleigh", "Snail"]},
+                {"raid": ["Bellamy"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Rayleigh", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Sengoku", "CrocodileKimono", "AfroLuffy", "ProposalNami", "TomWorkers"], "special" : ["Snail"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
+                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["Cotton"]},
                 {"raid": ["DoffyINT"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
                 {"raid": ["DoffyINT", "Blackbeard"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 17,
             "month" : "September",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]},
+                {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["Cotton", "LvlUp"]},
                 {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeSTR"]}
             ]
         },{
             "starting": 24,
             "month" : "September",
             "program": [
-                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeDEX", "Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeQCK"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

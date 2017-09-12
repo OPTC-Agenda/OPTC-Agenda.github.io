@@ -143,6 +143,12 @@
         "large": "assets/images/fn/big/summer_violet_bonney.png",
         "tiny": "assets/images/fn/tiny/summer_bonney.png",
         "drops": ["BonneySummer", "LuffySummer"]
+    },
+    "RebeccaJuice": {
+        "title": "Rebecca Training Island!",
+        "large": "assets/images/fn/big/rebecca_juice.png",
+        "tiny": "assets/images/fn/tiny/rebecca_juice.png",
+        "drops": ["TinyJuice", "MediumJuice", "BigJuice"]
     }
 
 }

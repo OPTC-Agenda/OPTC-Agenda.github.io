@@ -927,6 +927,15 @@
         "image": "assets/images/special/bonney_summer.png",
         "id" : "1198"
     },
+    "TinyJuice" : {
+        "image": "assets/images/special/juice_tiny.png"
+    },
+    "MediumJuice" : {
+        "image": "assets/images/special/juice_medium.png"
+    },
+    "BigJuice" : {
+        "image": "assets/images/special/juice_big.png"
+    },
     "Zeff" : {
         "id" : "606"
     },
@@ -1036,16 +1045,13 @@
         "id" : "1736"
     },
     "BlueGilly" : {
-        "id" : "1765",
-        "missing" : "yes"
+        "id" : "1765"
     },
     "FunkBrothers" : {
-        "id" : "1767",
-        "missing" : "yes"
+        "id" : "1767"
     },
     "AbdullahJeet" : {
-        "id": "1768",
-        "missing" : "yes"
+        "id": "1768"
     }
 }
 

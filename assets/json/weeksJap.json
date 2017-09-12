@@ -305,10 +305,10 @@
             "program": [
                 {"raid": ["KumaKai", "Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Killer", "BoaSandersonia", "BoaMarigold", "Mr7"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
                 {"raid": ["KumaKai", "BusterCall", "Shanks"], "colo" : ["Doma", "DonChinjao", "Shiryu", "Vista", "LittleOarsJr"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["none"]},
-                {"raid": ["KumaKai", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["LvlUp"]},
-                {"raid": ["KumaKai"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["LvlUp"]},
-                {"raid": ["KumaKai"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["RebeccaJuice", "LvlUp"]},
+                {"raid": ["KumaKai"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Shandia", "ShanksBuggy", "Mr3Jail"], "special" : ["RebeccaJuice", "LvlUp"]},
+                {"raid": ["KumaKai"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["RebeccaJuice"]},
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["RebeccaJuice"]},
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Inuarashi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]}
             ]
          },

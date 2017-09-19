@@ -306,21 +306,33 @@
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]},
                 {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["ChinjaoFamily", "Brook", "WhitebeardCommanders3", "Mr3Jail"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["Cotton", "LvlUp"]},
-                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeSTR"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["Cotton", "LvlUp"]},
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Kinemon", "Kanjuro", "Marguerite", "Vista", "Hina", "Shanks"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeSTR"]}
             ]
         },{
             "starting": 24,
             "month" : "September",
             "program": [
-                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeDEX", "Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeQCK"]},
+                {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeDEX", "Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeQCK"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 1,
+            "month" : "October",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]

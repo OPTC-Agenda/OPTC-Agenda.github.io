@@ -1038,6 +1038,15 @@
         "lastTimes": [],
         "books" : ["Kuzan", "LuffySW", "Kingdew", "SpeedGil", "ZoroCode", "KumaPSY", "LucciDEX", "RayQCK", "DemaloBlack"],
         "drops": ["BlueGilly", "FunkBrothers", "AbdullahJeet"]
+    },
+    "WanoSamurai": {
+        "title": "Wano Samurai!",
+        "condition" : "Shooter and Free Spirit characters get a boost",
+        "large": "assets/images/fn/big/wano_samurai.png",
+        "tiny": "assets/images/fn/tiny/wano_samurai.png",
+        "lastTimes": [],
+        "books" : ["Sanji6", "Namule", "NewSWChopper", "NicoRobinCode", "SaintCharlos", "Haruta", "SentomaruStory2", "Mr0", "MoriaRR"],
+        "drops": ["Kinemon", "Momonosuke"]
     }
 
 }

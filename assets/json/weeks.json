@@ -318,18 +318,66 @@
             "program": [
                 {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeDEX", "Cotton"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Violet", "SadieChan", "Shandia", "DonquixotePirates"], "special" : ["HimeQCK"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]}
+                {"raid": ["AokijiKai"], "colo" : ["none"], "fn": ["Violet", "Sentomaru", "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["AokijiKai", "Blackbeard", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["AokijiKai", "Doflamingo", "Whitebeard"], "colo" : ["none"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Mihawk", "Enel", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Mihawk", "Duval", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail"]}
             ]
         },{
             "starting": 1,
             "month" : "October",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Violet"], "special" : ["none"]},
+                {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail"]},
+                {"raid": ["Garp", "Whitebeard"], "colo" : ["none"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
+                {"raid": ["Kuma", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
+                {"raid": ["Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
+                {"raid": ["Mihawk", "Aokiji", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["Mihawk", "Akainu", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]}
+            ]
+        },{
+            "starting": 8,
+            "month" : "October",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 15,
+            "month" : "October",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 22,
+            "month" : "October",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Absalom", "Tontatta1"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 29,
+            "month" : "October",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

@@ -320,20 +320,20 @@
                 {"raid": ["Fujitora", "Vergo", "Whitebeard"], "colo" : ["Kyros", "Apoo", "BrownBeard", "Franky", "Ganfoll"], "fn": ["BlueGilly", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Nekomamushi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["WanoSamurai", "Okama", "RevolutionaryArmy", "Soldatino"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Kyros", "Apoo", "BrownBeard", "Franky", "Ganfoll"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-                {"raid": ["Garp", "Franky", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]}
+                {"raid": ["KizaruKai"], "colo" : ["Kyros", "Apoo", "BrownBeard", "Franky", "Ganfoll"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
+                {"raid": ["KizaruKai", "Garp", "Franky", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
+                {"raid": ["KizaruKai", "Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]}
             ]
         },
         {
           "starting": 24,
           "month" : "September",
           "program": [
-            {"raid": ["Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-            {"raid": ["Duval", "Shanks"], "colo" : ["Kyros", "Apoo", "BrownBeard", "Franky", "Ganfoll"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-            {"raid": ["Ivankov", "Eneru", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-            {"raid": ["Zephyr", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["none"]},
-            {"raid": ["Blackbeard", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
+            {"raid": ["KizaruKai", "Mihawk", "Shanks"], "colo" : ["Nekomamushi", "Jozu", "Drake", "Suleiman", "Ikaros"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["FreePull"]},
+            {"raid": ["KizaruKai", "Duval", "Shanks"], "colo" : ["Kyros", "Apoo", "BrownBeard", "Franky", "Ganfoll"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["FreePull", "LvlUp"]},
+            {"raid": ["KizaruKai", "Ivankov", "Eneru", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["FreePull", "LvlUp"]},
+            {"raid": ["KizaruKai", "Zephyr", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "AfroLuffy", "WhitebeardCommanders3", "Violet"], "special" : ["FreePull", "LvlUp"]},
+            {"raid": ["KizaruKai", "Blackbeard", "Shanks"], "colo" : ["none"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
             {"raid": ["Bellamy", "Whitebeard"], "colo" : ["none"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
             {"raid": ["Sabo", "Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]}
           ]
@@ -346,7 +346,7 @@
             {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
             {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
             {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+            {"raid": ["Kizaru", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
             {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
             {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
           ]

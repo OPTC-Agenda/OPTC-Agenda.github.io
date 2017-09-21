@@ -236,7 +236,7 @@ function showSpecial(flag){
 
                         if (character == "Cotton" || character == "CottonEgg" || character == "CottonX3"
                             || character == "Luffy30" || character == "Luffy40" || character == "AceTraining"
-                            || character == "RaySocket" || character.includes("Summer") || character == "RebeccaJuice") {
+                            || character == "RaySocket" || character.includes("Summer") || character == "RebeccaJuice" || character == "SanjiLobster") {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
                             if (character == "LvlUp" || character == "LvlUpx3") {
@@ -399,7 +399,15 @@ function raidModal(character) {
         }else {
             large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";
         }
-    }  
+    }
+
+    console.log(charJs.conditions);
+    if(!charJs.hasOwnProperty('conditions')){
+        $("#raidConditions").css('display', 'none');
+    } else {
+        $("#raidConditions").css('display', 'block');
+        $("#raidConditions p").empty().append(charJs.conditions);
+    }
     
     $("#raidBody h2").empty().append(charJs.name);
     $("#raidImage").empty().append(large);
@@ -501,7 +509,7 @@ function fnModal(character) {
     $("#fnDrops").empty();
     $("#fnBooks").empty();
     $("#fnCondition").empty();       
-    
+
     if(fnList[character].hasOwnProperty('condition')){
         $("#conditions").css('display','block');
         $("#fnCondition").append(fnList[character].condition);

@@ -340,7 +340,16 @@
     },    
     "SeaHorse": {
         "image": "assets/images/special/sea_horse.png"
-    },    
+    },
+    "Lobster2": {
+        "image": "assets/images/special/lobst_2.png"
+    },
+    "Lobster3": {
+        "image": "assets/images/special/lobst_3.png"
+    },
+    "Lobster4": {
+        "image": "assets/images/special/lobst_4.png"
+    },
     "Luffy3Anniversary" : {
         "image": "assets/images/special/luffy_3.png",
         "id" : "1600"
@@ -1054,12 +1063,10 @@
         "id": "1768"
     },
     "Kinemon" : {
-        "id" : "1773",
-        "missing" : "yes"
+        "id" : "1773"
     },
     "Momonosuke" : {
-        "id": "1775",
-        "missing" : "yes"
+        "id": "1775"
     }
 }
 

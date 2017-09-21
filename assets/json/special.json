@@ -63,6 +63,12 @@
         "tiny": "assets/images/fn/tiny/hime_qck.png",
         "drops": ["HimeBlue", "ElderBlue"]
     },
+    "SanjiLobster": {
+        "title": "Sanji Lobster Island!",
+        "large": "assets/images/fn/big/sanji_lobster.png",
+        "tiny": "assets/images/fn/tiny/sanji_lobster.png",
+        "drops": ["Lobster2", "Lobster3", "Lobster4"]
+    },
     "HimeDEX": {
         "title": "Jade Hime Turtles",
         "large": "assets/images/fn/big/turtles.png",

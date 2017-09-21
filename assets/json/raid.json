@@ -218,7 +218,7 @@
         "drops" : ["985", "986", "987", "988"]
     },
     "DoffyINT": {
-        "name" : "Doflamingo INT raid boss!",
+        "name" : "Doflamingo Kai",
         "large": "assets/images/raid/big/doffy_int.png",
         "tiny": "assets/images/raid/tiny/doflamingo.png",
         "lastTimes": [],
@@ -226,7 +226,7 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1622"
     },
     "PicaSTR": {
-        "name" : "Pica STR raid boss!",
+        "name" : "Pica Kai",
         "large": "assets/images/raid/big/pica_str.png",
         "tiny": "assets/images/raid/tiny/pica.png",
         "lastTimes": [],

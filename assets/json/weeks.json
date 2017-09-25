@@ -332,16 +332,16 @@
                 {"raid": ["Garp", "Whitebeard"], "colo" : ["none"], "fn": ["Violet", "Sentomaru",  "Okama", "ShanksBuggy", "NicoOlvia"], "special" : ["Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
                 {"raid": ["Kuma", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
-                {"raid": ["Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail"]},
-                {"raid": ["Mihawk", "Aokiji", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["Mihawk", "Akainu", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]}
+                {"raid": ["Sabo", "Whitebeard"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["ColaCavern", "Snail"]},
+                {"raid": ["Mihawk", "Aokiji", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["ColaCavern", "Snail", "LvlUp"]},
+                {"raid": ["Mihawk", "Akainu", "Whitebeard"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["ColaCavern", "Snail", "LvlUp"]}
             ]
         },{
             "starting": 8,
             "month" : "October",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["ColaCavern", "Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky"], "special" : ["ColaCavern", "Snail", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Domino", "CP9", "Lucci"], "special" : ["none"]},

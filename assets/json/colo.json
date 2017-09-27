@@ -13,6 +13,12 @@
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/950"
     },
+    "Arlong": {
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1526.png",
+        "tiny": "assets/images/colo/tiny/arlong.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1526"
+    },
     "Hawkins": {
         "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c0830.png",
         "tiny": "assets/images/colo/tiny/hawkins.png",
@@ -430,9 +436,15 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1459"
     },
     "Nekomamushi": {
-        "large": "assets/images/colo/big/1879.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1732.png",
         "tiny": "assets/images/colo/tiny/nekomamushi.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1732"
+    },
+    "Lucy": {
+        "large": "assets/images/colo/big/lucy.png",
+        "tiny": "assets/images/colo/tiny/lucy.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1793"
     }
 }

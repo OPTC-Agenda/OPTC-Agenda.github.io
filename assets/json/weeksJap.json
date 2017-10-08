@@ -344,32 +344,32 @@
           "program": [
                 {"raid": ["Sanji", "Mihawk", "Whitebeard"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["FakeMugiwara", "Whitebeard"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["WanoSamurai", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["NightmareLuffy", "Whitebeard"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["DoffyINT", "Kizaru", "Whitebeard"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["none"]},
-                {"raid": ["DoffyINT", "Aokiji", "Shanks"], "colo" : ["none"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["LvlUp"]},
-                {"raid": ["DoffyINT", "Vergo", "Mihawk", "Shanks"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["LvlUp"]}
+                {"raid": ["NightmareLuffy", "Whitebeard"], "colo" : ["none"], "fn": ["WandaCarrot", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["WandaCarrot", "BlackbeardPirates", "SunaSand", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["DoffyINT", "Kizaru", "Whitebeard"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["none"]},
+                {"raid": ["DoffyINT", "Aokiji", "Shanks"], "colo" : ["none"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["LvlUp"]},
+                {"raid": ["DoffyINT", "Vergo", "Mihawk", "Shanks"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull", "LvlUp"]}
           ]
         },
         {
             "starting": 8,
             "month" : "October",
             "program": [
-                {"raid": ["Sanji", "Mihawk", "Shanks"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["LvlUp"]},
-                {"raid": ["Akainu", "Shanks"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["none"]},
-                {"raid": ["Shiki", "Shanks"], "colo" : ["none"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Camie", "CrocodileKimono", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]}
+                {"raid": ["DoffyINT", "Sanji", "Mihawk", "Shanks"], "colo" : ["Lucy", "Inuarashi", "Arlong", "Marco", "Hina"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull", "LvlUp"]},
+                {"raid": ["DoffyINT", "Akainu", "Shanks"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
+                {"raid": ["DoffyINT", "Shiki", "Shanks"], "colo" : ["none"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
+                {"raid": ["DoffyINT"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
+                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]}
             ]
         },
         {
             "starting": 15,
             "month" : "October",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},

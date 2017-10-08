@@ -116,6 +116,9 @@
     "Gyaro" : {
         "id" : "954"
     },
+    "Kanjuro" : {
+        "id" : "1658"
+    },
     "Ikaros" : {
         "id" : "1438"
     },
@@ -310,6 +313,9 @@
     },
     "Pedro": {
         "id" : "1654"
+    },
+    "Hammond": {
+        "id" : "1503"
     },
     "MontblancCricket": {
         "id" : "428"
@@ -1214,6 +1220,9 @@
     "VanderDecken" : {
         "id" : "1481"
     },
+    "VanderDeckenStory" : {
+        "id" : "1504"
+    },
     "Bluejam" : {
         "id" : "1344"
     },
@@ -1285,6 +1294,9 @@
     },
     "Momonosuke" : {
         "id" : "1579"
+    },
+    "Sicilian" : {
+        "id" : "1575"
     }
 
 }

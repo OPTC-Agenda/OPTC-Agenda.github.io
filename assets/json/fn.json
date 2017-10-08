@@ -1076,6 +1076,15 @@
         "tiny": "assets/images/fn/tiny/halloween_rocinante.png",
         "lastTimes": [],
         "drops": ["HalloweenCorazon"]
+    },
+    "WandaCarrot": {
+        "title": "Zou Royal Guard!",
+        "condition" : "Powerhouse Characters will be weakened",
+        "large": "assets/images/fn/big/wanda_carrot.png",
+        "tiny": "assets/images/fn/tiny/wanda_carrot.png",
+        "lastTimes": [],
+        "books" : ["NewSWSanji", "NamiLoyal", "SmokerG5", "BastilleG5", "Borsalino6", "Hammond", "VanderDeckenStory", "Sicilian", "Kanjuro"],
+        "drops": ["Wanda", "Carrot"]
     }
 
 }

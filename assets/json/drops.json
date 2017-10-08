@@ -190,8 +190,8 @@
     },
     "RakuyoCommander"  : {
         "id" : "946"
-    }, 
-    "FossaCommander"  : {
+    },
+  "FossaCommander"  : {
         "id" : "947"
     },
     "Yosaku"  : {
@@ -389,8 +389,11 @@
     },
     "KoalaKarate" : {
         "id" : "1241"
-    },        
-    "HackKarate" : {
+    },
+    "SanjiKimono" : {
+        "id" : "419"
+    },
+  "HackKarate" : {
         "id" : "1243"
     },
     "Camie" : {
@@ -567,8 +570,23 @@
     "Butchie" : {
         "id" : "42"
     },
+    "Masira": {
+        "id" : "426"
+    },
+    "Shoujou" : {
+        "id" : "427"
+    },
     "Django" : {
         "id" : "43"
+    },
+    "Sarquiss": {
+        "id" : "432"
+    },
+    "Porche": {
+        "id" : "563"
+    },
+    "Capote": {
+        "id" : "564"
     },
     "Fullbody" : {
         "id" : "49"
@@ -737,6 +755,9 @@
     },
     "Brook" : {
         "id" : "423"
+    },
+    "MissMonday" : {
+        "id" : "235"
     },
     "Ryuma" : {
         "id" : "425"
@@ -1067,6 +1088,24 @@
     },
     "Momonosuke" : {
         "id": "1775"
+    },
+    "HalloweenRebecca" : {
+        "id": "1299"
+    },
+    "HalloweenCorazon" : {
+       "id": "1325"
+    },
+    "HalloweenSugar" : {
+       "id": "1305"
+    },
+    "RobinKimono" : {
+        "id": "866"
+    },
+    "UsoppKimono" : {
+        "id": "867"
+    },
+    "ChopperKimono" : {
+        "id": "868"
     }
 }
 

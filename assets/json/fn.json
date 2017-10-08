@@ -864,6 +864,14 @@
         "books" : ["Ashura", "Mr3", "MissGoldenweek", "MrPrince", "Law", "Chessmarimo", "NamiKimono" ,"Zoro5+"],
         "drops": ["LuffyKimono", "ZoroKimono", "NamiKimono", "MohjiRichie", "Cabaji", "Yosaku", "Johnny", "Fullbody", "Patty", "Carne", "Nezumi", "Hatchan", "Mr9", "Mr8"]
     },
+    "KimonoRobin": {
+        "title": "Lightning Speed! Strawhat Crew's Surprise Visit",
+        "large": "assets/images/fn/big/robin_kimono.png",
+        "tiny": "assets/images/fn/tiny/robin_kimono.png",
+        "lastTimes": [],
+        "books" : ["Bellamy", "Namule", "Gedatsu", "Yama", "Bellmere", "LucciSTR", "Koala", "Hack", "RobinCry", "Robin5+"],
+        "drops": ["RobinKimono", "UsoppKimono", "ChopperKimono", "SanjiKimono", "Siam", "Butchie", "Gin", "MissMonday", "MerryChristmas", "Mr4", "Masira", "Shoujou", "Porche", "Capote"]
+    },
     "Ganfor": {
         "title": "Sky Night Ganfor ",
         "condition" : "<b>30</b>: Non-Free Spirit, Evolver, or Booster class characters are weakend<br/><b>15</b>: Striker and Shooter class characters are weakened",
@@ -1047,6 +1055,27 @@
         "lastTimes": [],
         "books" : ["Sanji6", "Namule", "NewSWChopper", "NicoRobinCode", "SaintCharlos", "Haruta", "SentomaruStory2", "Mr0", "MoriaRR"],
         "drops": ["Kinemon", "Momonosuke"]
+    },
+    "RebeccaHalloween": {
+        "title": "Monster's Party: Cat Girl",
+        "large": "assets/images/fn/big/halloween.png",
+        "tiny": "assets/images/fn/tiny/halloween_rebecca.png",
+        "lastTimes": [],
+        "drops": ["HalloweenRebecca"]
+    },
+    "SugarHalloween": {
+        "title": "Monster's Party: Imp",
+        "large": "assets/images/fn/big/halloween.png",
+        "tiny": "assets/images/fn/tiny/halloween_sugar.png",
+        "lastTimes": [],
+        "drops": ["HalloweenSugar"]
+    },
+    "CorazonHalloween": {
+        "title": "Monster's Party: Vampire",
+        "large": "assets/images/fn/big/halloween.png",
+        "tiny": "assets/images/fn/tiny/halloween_rocinante.png",
+        "lastTimes": [],
+        "drops": ["HalloweenCorazon"]
     }
 
 }

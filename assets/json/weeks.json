@@ -342,8 +342,8 @@
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky", "RebeccaHalloween"], "special" : ["ColaCavern", "Snail", "LvlUp"]},
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Sentomaru", "Camie", "HeartPirates", "Franky", "SugarHalloween"], "special" : ["ColaCavern", "Snail", "LvlUp"]},
-                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["MihawkKai"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["Booster", "LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["Evolver", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Byrnndi", "Suleiman", "Ganfoll", "Drake", "Wyper"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["none"]}
@@ -357,28 +357,28 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 22,
             "month" : "October",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]}
             ]
         },{
             "starting": 29,
             "month" : "October",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Booster"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Evolver"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Booster"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

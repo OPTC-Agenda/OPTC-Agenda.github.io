@@ -1085,6 +1085,15 @@
         "lastTimes": [],
         "books" : ["NewSWSanji", "NamiLoyal", "SmokerG5", "BastilleG5", "Borsalino6", "Hammond", "VanderDeckenStory", "Sicilian", "Kanjuro"],
         "drops": ["Wanda", "Carrot"]
+    },
+    "RikuViolet": {
+        "title": "Re Riku Royal Family!",
+        "condition" : "",
+        "large": "assets/images/fn/big/empty_riky.png",
+        "tiny": "assets/images/fn/tiny/riku.png",
+        "lastTimes": [],
+        "books" : ["Enel6", "SaintRoswald", "Squard", "NewSWBrook", "Sentomaru", "Raizo", "Carrot", "HodySTR", "Maynard"],
+        "drops": ["Riku", "Tank", "Violet"]
     }
 
 }

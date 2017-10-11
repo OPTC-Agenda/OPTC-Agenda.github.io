@@ -185,6 +185,9 @@
     "Caribou" : {
         "id" : "1479"
     },
+    "Carrot" : {
+        "id" : "1656"
+    },
     "Koza": {           
         "id" : "590"
     },       
@@ -317,6 +320,9 @@
     "Hammond": {
         "id" : "1503"
     },
+    "HodySTR": {
+        "id" : "1506"
+    },
     "MontblancCricket": {
         "id" : "428"
     }, 
@@ -409,6 +415,9 @@
     },
     "SaintRoswald" : {
         "id" : "964"
+    },
+    "Enel6" : {
+        "id" : "1610"
     },
     "DonChinJao" : {
         "id": "1025"
@@ -682,6 +691,9 @@
     },
     "Sentomaru" : {
         "id" : "1230"
+    },
+    "Raizo" : {
+        "id" : "1660"
     },
     "TashigiG5" : {
         "id" : "1234"

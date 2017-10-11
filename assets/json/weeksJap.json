@@ -359,7 +359,7 @@
                 {"raid": ["DoffyINT", "Akainu", "Shanks"], "colo" : ["Lucy", "Diamante", "Kanjuro", "Ideo", "Beckman"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
                 {"raid": ["DoffyINT", "Shiki", "Shanks"], "colo" : ["none"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
                 {"raid": ["DoffyINT"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Camie", "CrocodileKimono", "Fishman"], "special" : ["FreePull"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]},
+                {"raid": ["DoffyINT"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]},
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["FreePull"]}
             ]
@@ -369,10 +369,10 @@
             "month" : "October",
             "program": [
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]}
             ]
@@ -382,7 +382,7 @@
             "month" : "October",
             "program": [
                 {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},

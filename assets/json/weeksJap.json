@@ -370,32 +370,32 @@
             "program": [
                 {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["WandaCarrot", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["RikuScarlet", "Crocodile", "Perona", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]}
             ]
         },
         {
             "starting": 22,
             "month" : "October",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "World", "Shambles"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Lucy", "Hajrudin", "Hawkins", "Capone", "TBone"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Coby", "Marguerite", "Krieg", "McGuy"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "Breed", "World", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]}
             ]
         },
         {
             "starting": 29,
             "month" : "October",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

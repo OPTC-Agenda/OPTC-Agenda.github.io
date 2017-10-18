@@ -355,10 +355,10 @@
                 {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "SugarHalloween"], "special" : ["none"]},
                 {"raid": ["Heracles", "Usopp"], "colo" : ["Apoo", "Moria", "Rebecca"], "fn": ["Whitebeard4", "JinbeKimono", "Domino", "CP9", "Lucci", "CorazonHalloween"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Apoo", "Moria", "Rebecca"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]}
+                {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman", "Shanks"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["Rayleigh"], "colo" : ["Apoo", "Moria", "Rebecca"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman", "Shanks"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman", "Shanks"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 22,

@@ -289,10 +289,17 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1779"
     },
     "Sanji": {
-        "name" : "Kizaru Kai",
+        "name" : "Sanji",
         "large": "assets/images/raid/big/sanji.png",
         "tiny": "assets/images/raid/tiny/sanji.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1814"
+    },
+    "Rayleigh": {
+        "name" : "Rayleigh",
+        "large": "assets/images/raid/big/rayleigh.png",
+        "tiny": "assets/images/raid/tiny/rayleigh.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/5009"
     }
 }

@@ -366,8 +366,8 @@
             "program": [
                 {"raid": ["Duval"], "colo" : ["none"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "CorazonHalloween"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["Apoo", "Moria", "Rebecca"], "fn": ["Dadan", "Whitebeard4", "KimonoRobin", "Kalifa", "Absalom", "Tontatta1", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween", "AokijiRanking", "AkainuRanking", "KizaruRanking"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween", "AokijiRanking", "AkainuRanking", "KizaruRanking"], "special" : ["LvlUp"]},
                 {"raid": ["Magellan"], "colo" : ["Apoo", "Moria", "Rebecca"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
                 {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
                 {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]}

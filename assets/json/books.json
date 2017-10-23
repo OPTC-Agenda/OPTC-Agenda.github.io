@@ -1309,6 +1309,15 @@
     },
     "Sicilian" : {
         "id" : "1575"
+    },
+    "LogKid" : {
+        "id" : "1621"
+    },
+    "FisherTiger" : {
+        "id" : "1632"
+    },
+    "UniversalSkillbook" : {
+        "image": "assets/images/special/universal_skillbook.png"
     }
 
 }

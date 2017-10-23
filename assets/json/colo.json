@@ -419,7 +419,7 @@
     },
     "Dellinger": {
         "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1375.png",
-        "tiny": "assets/images/colo/tiny/blenheim.png",
+        "tiny": "assets/images/colo/tiny/dellinger.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1375"
     },
@@ -442,9 +442,15 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1732"
     },
     "Lucy": {
-        "large": "assets/images/colo/big/lucy.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1791.png",
         "tiny": "assets/images/colo/tiny/lucy.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1793"
+    },
+    "Sicilian": {
+        "large": "assets/images/colo/big/sicilian.png",
+        "tiny": "assets/images/colo/tiny/sicilian.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1827"
     }
 }

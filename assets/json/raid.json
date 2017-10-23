@@ -300,6 +300,14 @@
         "large": "assets/images/raid/big/rayleigh.png",
         "tiny": "assets/images/raid/tiny/rayleigh.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/5009"
+        "linkDB": "http://optc-db.github.io/characters/#/view/2000"
+    },
+    "AkainuKai": {
+        "name" : "Akainu Kai",
+        "large": "assets/images/raid/big/akainu_kai.png",
+        "tiny": "assets/images/raid/tiny/akainu.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Shooters</b>, <b>Striker</b> and <b>Slashers</b> teams.<br/> You can clear the content for each class only 30 minutes per day. Shanks is not available after clearing the content.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/1825"
     }
 }

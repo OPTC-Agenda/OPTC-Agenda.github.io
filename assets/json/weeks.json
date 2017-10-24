@@ -377,12 +377,24 @@
             "month" : "October",
             "program": [
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Booster"]},
-                {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Evolver"]},
+                {"raid": ["Ivankov"], "colo" : ["Ace", "Kid", "Brownbeard"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Evolver"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Booster"]},
                 {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Ace", "Kid", "Brownbeard"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 5,
+            "month" : "November",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Ace", "Kid", "Brownbeard"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Ace", "Kid", "Brownbeard"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

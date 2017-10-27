@@ -378,21 +378,69 @@
             "program": [
                 {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Booster"]},
                 {"raid": ["Ivankov"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["Dadan", "Perona", "Wapol", "World", "RebeccaHalloween", "SugarHalloween", "CorazonHalloween"], "special" : ["Evolver"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Booster"]},
-                {"raid": ["none"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["Booster"]},
+                {"raid": ["SaboKai"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["Snail"]},
+                {"raid": ["SaboKai", "Blackbeard"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["Snail"]},
+                {"raid": ["SaboKai", "Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["Snail", "LvlUp"]},
+                {"raid": ["SaboKai", "Mihawk"], "colo" : ["Gladius", "Orlumbus", "Smoker", "TBone", "Beckman"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["RaySocket", "Snail", "LvlUp"]}
             ]
         },{
             "starting": 5,
             "month" : "November",
             "program": [
+                {"raid": ["SaboKai", "Bellamy", "Whitebeard"], "colo" : ["none"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["RaySocket", "Snail", "LvlUp"]},
+                {"raid": ["SaboKai"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal", "RobinAnniversary"], "special" : ["RaySocket", "Snail", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["RaySocket", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["RaySocket", "LvlUp"]},
+                {"raid": ["Boa", "Whitebeard"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 12,
+            "month" : "November",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["Sabo"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["Shiki", "Mihawk"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Mihawk"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 19,
+            "month" : "November",
+            "program": [
+                {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["Eneru"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 26,
+            "month" : "November",
+            "program": [
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["Pica"], "colo" : ["none"], "fn": ["BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 3,
+            "month" : "December",
+            "program": [
+                {"raid": ["Zephyr", "Tesoro", "Shiki"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]

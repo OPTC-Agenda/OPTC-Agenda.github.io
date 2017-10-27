@@ -874,10 +874,22 @@
     },
     "Lafitte" : {
         "id" : "1270"
-    },    
+    },
     "Genzo" : {
         "id" : "785"
-    },       
+    },
+    "JimbeSecret" : {
+        "id" : "1700"
+    },
+    "Hannyabal" : {
+        "id" : "1704"
+    },
+    "CaribouStory" : {
+        "id" : "1501"
+    },
+    "Coribou" : {
+        "id" : "1502"
+    },
     "KizaruStoria" : {
         "id" : "1228"
     },

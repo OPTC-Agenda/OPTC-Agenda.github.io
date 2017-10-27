@@ -224,14 +224,14 @@
       "books": ["DiableJambe", "ChopperGuardPoint", "Mr2", "Killer", "Kureha","GeneralZombie", "Jigoro", "Sanji5+"],
       "drops": ["Absalom", "GeneralZombie", "Jigoro"]
     },
-  "SoulKing": {
-        "title": "Soul King!",
-        "large": "assets/images/fn/big/soul_king.png",
-        "tiny": "assets/images/fn/tiny/soul_king.png",
-        "condition" : "Strawhat Pirates get ATK, HP, and RCV boosted by 1.5x and reduces cooldown of specials by 9 turns at the start of the fight",
-        "lastTimes": [],
-        "books": ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
-        "drops": ["BrookSoulKing", "BrookManager"]
+    "SoulKing": {
+      "title": "Soul King!",
+      "large": "assets/images/fn/big/soul_king.png",
+      "tiny": "assets/images/fn/tiny/soul_king.png",
+      "condition" : "Strawhat Pirates get ATK, HP, and RCV boosted by 1.5x and reduces cooldown of specials by 9 turns at the start of the fight",
+      "lastTimes": [],
+      "books": ["Bartolomeo6", "Franky3D2Y", "UsoppTS", "Nami3D2Y", "DiableJambe", "Sanji5+", "SengokuINT", "JohnGiant", "Killer", "BrookTS"],
+      "drops": ["BrookSoulKing", "BrookManager"]
     },
     "LuffyHalloween": {
         "title": "Twilight Party DEAD or TREAT!! ",
@@ -1105,7 +1105,6 @@
     },
     "AkainuRanking": {
         "title": "Blitz Battle! The three admirals! Akainu!",
-        "large": "assets/images/fn/big/blitz_battle.png",
         "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations for past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
         "tiny": "assets/images/fn/tiny/akainu_ranking.png",
         "lastTimes": [],
@@ -1120,6 +1119,13 @@
         "lastTimes": [],
         "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
         "drops": ["MediumYellow", "ElderYellow"]
+    },
+    "Caribou": {
+        "title": "Caribou fortnight!",
+        "large": "assets/images/fn/big/caribou.png",
+        "tiny": "assets/images/fn/tiny/caribou.png",
+        "lastTimes": [],
+        "books" : ["Blackbeard6", "Doma", "WhiteyBay", "TashigiG5", "Lafitte", "JimbeSecret", "Hannyabal", "CaribouStory", "Coribou"],
+        "drops": ["Caribou", "Coribou"]
     }
-
 }

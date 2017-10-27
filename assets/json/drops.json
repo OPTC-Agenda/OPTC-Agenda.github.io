@@ -1121,6 +1121,14 @@
     },
     "Scarlet" : {
       "id": "1819"
+    },
+    "Caribou" : {
+      "id": "1841",
+      "missing": "yes"
+    },
+    "Coribou" : {
+      "id": "1843",
+      "missing": "yes"
     }
 }
 

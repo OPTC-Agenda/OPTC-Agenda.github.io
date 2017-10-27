@@ -78,6 +78,8 @@ function showRaid(flag) {
 
             for (i = 0; i < 7; i++) {
                 var raid = json.weeks[cont].program[i].raid;
+                console.log(raid);
+                console.log(raidList);
                 if (raid[0] != "none") {
                     for (j = 0; j < raid.length; j++) {
                         var character = raid[j];

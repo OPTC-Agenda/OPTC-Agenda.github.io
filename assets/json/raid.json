@@ -309,5 +309,12 @@
         "lastTimes": [],
         "conditions" : "Raid available only for <b>Shooters</b>, <b>Striker</b> and <b>Slashers</b> teams.<br/> You can clear the content for each class only 30 minutes per day. Shanks is not available after clearing the content.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1825"
+    },
+    "Caesar": {
+        "name" : "Caesar",
+        "large": "assets/images/raid/big/caesar.png",
+        "tiny": "assets/images/raid/tiny/caesar.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1829"
     }
 }

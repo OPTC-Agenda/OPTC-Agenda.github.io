@@ -220,13 +220,13 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1309"
     },
     "Helmeppo": {
-        "large": "assets/images/colo/big/1723.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1585.png",
         "tiny": "assets/images/colo/tiny/helmeppo.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1585"
     },
     "Orlumbus": {
-        "large": "assets/images/colo/big/1667.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1583.png",
         "tiny": "assets/images/colo/tiny/orlumbus.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1583"
@@ -286,13 +286,13 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1101"
     },
     "Shiryu": {
-        "large": "assets/images/colo/big/1773.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1601.png",
         "tiny": "assets/images/colo/tiny/shiryu.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1601"
     },
     "McGuy": {
-        "large": "assets/images/colo/big/1724.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1603.png",
         "tiny": "assets/images/colo/tiny/McGuy.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1603"
@@ -448,7 +448,7 @@
         "linkDB": "http://optc-db.github.io/characters/#/view/1793"
     },
     "Sicilian": {
-        "large": "assets/images/colo/big/sicilian.png",
+        "large": "https://onepiece-treasurecruise.com/wp-content/uploads/c1827.png",
         "tiny": "assets/images/colo/tiny/sicilian.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1827"

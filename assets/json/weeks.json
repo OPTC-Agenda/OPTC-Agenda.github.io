@@ -391,7 +391,7 @@
                 {"raid": ["SaboKai", "Bellamy", "Whitebeard"], "colo" : ["none"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal"], "special" : ["RaySocket", "Snail", "LvlUp"]},
                 {"raid": ["SaboKai"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["SoulKing", "IvankovWoman", "WhitebeardCommanders2", "Hannyabal", "RobinAnniversary"], "special" : ["RaySocket", "Snail", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["RaySocket", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["RaySocket", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["Ideo", "Marco", "Dorry", "Broggy", "SadieChan"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["RaySocket", "LvlUp"]},
                 {"raid": ["Boa", "Whitebeard"], "colo" : ["Ace", "Kid", "BrownBeard"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]},
                 {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SoulKing", "BaroqueWorksPrison", "RobinAnniversary"], "special" : ["none"]}

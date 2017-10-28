@@ -312,7 +312,7 @@
     },
     "Caesar": {
         "name" : "Caesar",
-        "large": "assets/images/raid/big/caesar.png",
+        "large": "https://raw.githubusercontent.com/OPTC-Agenda/OPTC-Agenda.github.io/master/assets/images/raid/big/caesar.png",
         "tiny": "assets/images/raid/tiny/caesar.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1829"

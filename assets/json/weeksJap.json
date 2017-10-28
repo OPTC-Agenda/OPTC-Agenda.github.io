@@ -396,32 +396,32 @@
             "program": [
                 {"raid": ["AkainuKai", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["RaySocket"]},
                 {"raid": ["AkainuKai", "Caesar", "Whitebeard"], "colo" : ["Byrnndi", "Helmeppo", "LaoG", "Dellinger", "Blenheim"], "fn": ["RikuScarlet", "ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["RaySocket"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["RaySocket"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Byrnndi", "Helmeppo", "LaoG", "Dellinger", "Blenheim"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
-                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["RaySocket"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["Caribou", "ArlongPirates", "WhitebeardCommanders", "MadameSharley", "LuffyHalloween", "ZoroHalloween", "RebeccaHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Byrnndi", "Helmeppo", "LaoG", "Dellinger", "Blenheim"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]},
+                {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 5,
             "month" : "November",
             "program": [
-                {"raid": ["Doflamingo", "Mihawk", "Shanks"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Chopper", "Shanks"], "colo" : ["Byrnndi", "Helmeppo", "LaoG", "Dellinger", "Blenheim"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["Blackbeard", "Sanji", "Shanks"], "colo" : ["none"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
-                {"raid": ["Sabo", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]}
+                {"raid": ["Doflamingo", "Mihawk", "Shanks"], "colo" : ["Sicilian", "Kinemon", "Kuro", "Saga", "Musshuru"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["Chopper", "Shanks"], "colo" : ["Byrnndi", "Helmeppo", "LaoG", "Dellinger", "Blenheim"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["Blackbeard", "Sanji", "Shanks"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["Caribou", "CalgaraNoland", "BigMomPirates", "CountButler", "SugarHalloween", "CorazonHalloween"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["Caribou", "GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["Caribou", "GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
+                {"raid": ["Sabo", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["Caribou", "GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]}
             ]
         },
         {
             "starting": 12,
             "month" : "November",
             "program": [
-                {"raid": ["Akainu", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Whitebeard"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
+                {"raid": ["Akainu", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["Caribou", "GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Whitebeard"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["Caribou", "GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["GranTesoro", "WhitebeardCommanders3", "Dadan"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["KidPirates", "Brook", "IvankovWoman"], "special" : ["none"]},

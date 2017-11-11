@@ -1127,5 +1127,13 @@
         "lastTimes": [],
         "books" : ["Blackbeard6", "Doma", "WhiteyBay", "TashigiG5", "Lafitte", "JimbeSecret", "Hannyabal", "CaribouStory", "Coribou"],
         "drops": ["Caribou", "Coribou"]
+    },
+    "Apoo": {
+        "title": "Apoo & Drake fortnight!",
+        "large": "assets/images/fn/big/apoo.png",
+        "tiny": "assets/images/fn/tiny/apoo.png",
+        "lastTimes": [],
+        "books" : ["Nekomamushi", "VanAugur", "DocQ", "LogKid", "IvankovRR", "IkarosStory"],
+        "drops": ["Apoo", "Drake"]
     }
 }

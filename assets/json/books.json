@@ -107,6 +107,9 @@
     "BrookDex": { 
         "id" : "896"
     },
+    "IkarosStory": {
+      "id" : "1558"
+    },
     "Brook5+" : {
         "id" : "1551"
     },
@@ -881,6 +884,9 @@
     "JimbeSecret" : {
         "id" : "1700"
     },
+    "IvankovRR" : {
+      "id" : "1702"
+    },
     "Hannyabal" : {
         "id" : "1704"
     },
@@ -957,7 +963,10 @@
         "id" : "459"
     },
     "FrankyNewSW" : {
-        "id" : "1212"
+      "id" : "1212"
+    },
+    "Nekomamushi" : {
+      "id" : "1652"
     },
     "JabraINT" : {
         "id" : "731"

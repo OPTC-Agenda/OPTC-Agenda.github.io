@@ -406,7 +406,7 @@
                 {"raid": ["AokijiKai"], "colo" : ["Ideo", "Marco", "Dorry", "Broggy", "SadieChan"], "fn": ["Elizabello", "CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
                 {"raid": ["AokijiKai", "Sabo"], "colo" : ["Zephyr", "Franky", "Alvida", "Binz"], "fn": ["Elizabello", "CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
                 {"raid": ["Shiki", "Mihawk"], "colo" : ["Ideo", "Marco", "Dorry", "Broggy", "SadieChan"], "fn": ["Elizabello", "CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Mihawk"], "colo" : ["Ideo", "Marco", "Dorry", "Broggy", "SadieChan"], "fn": ["Elizabello", "CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["none"]}
+                {"raid": ["Zephyr", "Mihawk"], "colo" : ["Ideo", "Marco", "Dorry", "Broggy", "SadieChan"], "fn": ["Elizabello", "CountButler", "Indigo", "HeartPirates", "RobinAnniversary"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 19,
@@ -425,10 +425,10 @@
             "month" : "November",
             "program": [
                 {"raid": ["Garp"], "colo" : ["none"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
-                {"raid": ["Pica"], "colo" : ["none"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
+                {"raid": ["Pica"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Rayleigh"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Rayleigh"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
             ]

@@ -436,36 +436,62 @@
                 {"raid": ["Aokiji", "Mihawk", "Whitebeard"], "colo" : ["Sicilian", "Zephyr", "Urouge", "SadieChan", "Gedatsu"], "fn": ["Apoo", "KidPirates", "Brook", "IvankovWoman"], "special" : ["Cotton", "LvlUp"]},
                 {"raid": ["Vergo", "Whitebeard"], "colo" : ["Nekomamushi", "Ace", "Dorry", "Broggy", "LuckyRoo"], "fn": ["Apoo", "KidPirates", "Brook", "IvankovWoman"], "special" : ["Cotton", "Booster"]},
                 {"raid": ["Franky", "Whitebeard"], "colo" : ["none"], "fn": ["Apoo", "KidPirates", "Brook", "IvankovWoman"], "special" : ["Cotton", "Evolver"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo", "KidPirates", "Brook", "IvankovWoman"], "special" : ["Booster"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["Evolver"]},
-                {"raid": ["Garp", "Cavendish"], "colo" : ["none"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["Booster"]},
-                {"raid": ["NightmareLuffy", "Mihawk", "Cavendish"], "colo" : ["none"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["Apoo", "KidPirates", "Brook", "IvankovWoman"], "special" : ["Booster"]},
+                {"raid": ["none"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida", "KinemonKai"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["Evolver"]},
+                {"raid": ["Garp", "Cavendish"], "colo" : ["KinemonKai"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["Booster"]},
+                {"raid": ["NightmareLuffy", "Mihawk", "Cavendish"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma", "KinemonKai"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]}
             ]
         },
         {
             "starting": 26,
             "month" : "November",
             "program": [
-                {"raid": ["Kizaru", "Mihawk", "Cavendish"], "colo" : ["none"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
-                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kraken", "Indigo", "Sentomaru"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["LvlUp"]},
+                {"raid": ["Kizaru", "Mihawk", "Cavendish"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma", "KinemonKai"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["Boa", "Cavendish"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida", "KinemonKai"], "fn": ["Apoo", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["KinemonKai"], "fn": ["Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma", "KinemonKai"], "fn": ["Kraken", "Indigo", "Sentomaru"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida", "KinemonKai"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]}
             ]
         },
         {
             "starting": 3,
             "month" : "December",
             "program": [
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 10,
+            "month" : "December",
+            "program": [
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 17,
+            "month" : "December",
+            "program": [
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

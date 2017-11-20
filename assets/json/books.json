@@ -1339,6 +1339,16 @@
     },
     "UniversalSkillbook" : {
         "image": "assets/images/special/universal_skillbook.png"
+    },
+    "Magellan6" : {
+        "id" : "1698"
+    },
+    "Mr2STR" : {
+        "id" : "1706"
+    },
+    "Wadatsumi" : {
+        "id" : "1556"
     }
+
 
 }

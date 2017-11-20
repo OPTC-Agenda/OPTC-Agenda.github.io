@@ -1129,11 +1129,17 @@
       "id": "1843"
     },
     "Apoo" : {
-      "id": "1856",
-      "missing" : "yes"
+      "id": "1856"
     },
     "Drake" : {
-      "id": "1854",
+      "id": "1854"
+    },
+    "Urouge" : {
+      "id": "1864",
+      "missing" : "yes"
+    },
+    "Hawkins" : {
+      "id": "1866",
       "missing" : "yes"
     }
 }

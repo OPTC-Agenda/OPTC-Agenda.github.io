@@ -1135,5 +1135,13 @@
         "lastTimes": [],
         "books" : ["Nekomamushi", "VanAugur", "DocQ", "LogKid", "IvankovRR", "IkarosStory"],
         "drops": ["Apoo", "Drake"]
+    },
+    "UrougeHawkins": {
+        "title": "Urouge & Hawkins fortnight!",
+        "large": "assets/images/fn/big/urouge_hawkins.png.png",
+        "tiny": "assets/images/fn/tiny/urouge_hawkins.png.png",
+        "lastTimes": [],
+        "books" : ["Magellan6", "Burgess", "Shiryu", "FisherTiger", "Mr2STR", "Wadatsumi"],
+        "drops": ["Urouge", "Hawkins"]
     }
 }

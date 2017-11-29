@@ -1138,8 +1138,8 @@
     },
     "UrougeHawkins": {
         "title": "Urouge & Hawkins fortnight!",
-        "large": "assets/images/fn/big/urouge_hawkins.png.png",
-        "tiny": "assets/images/fn/tiny/urouge_hawkins.png.png",
+        "large": "assets/images/fn/big/urouge_hawkins.png",
+        "tiny": "assets/images/fn/tiny/urouge_hawkins.png",
         "lastTimes": [],
         "books" : ["Magellan6", "Burgess", "Shiryu", "FisherTiger", "Mr2STR", "Wadatsumi"],
         "drops": ["Urouge", "Hawkins"]

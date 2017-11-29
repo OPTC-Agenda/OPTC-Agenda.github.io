@@ -426,23 +426,71 @@
             "program": [
                 {"raid": ["KizaruKai", "Garp"], "colo" : ["none"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
                 {"raid": ["KizaruKai", "Pica"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
-                {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["KizaruKai", "Rayleigh"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
+                {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["KizaruKai", "Rayleigh"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
             ]
         },{
             "starting": 3,
             "month" : "December",
             "program": [
-                {"raid": ["Zephyr", "Tesoro", "Shiki"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Zephyr", "Tesoro", "Shiki"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]}
+            ]
+        },{
+            "starting": 10,
+            "month" : "December",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["Chopper"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["Vergo"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 17,
+            "month" : "December",
+            "program": [
+                {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 24,
+            "month" : "December",
+            "program": [
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "WhitebeardCommanders3", "Shambles"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]}
+            ]
+        },{
+            "starting": 31,
+            "month" : "December",
+            "program": [
+                {"raid": ["Boa"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku"], "special" : ["none"]}
             ]
         }
     ]

@@ -427,10 +427,10 @@
                 {"raid": ["KizaruKai", "Garp"], "colo" : ["none"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
                 {"raid": ["KizaruKai", "Pica"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["Elizabello", "BigMomPirates", "Crocodile", "Gasparde"], "special" : ["none"]},
                 {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["KizaruKai"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["KizaruKai", "Rayleigh"], "colo" : ["Byrnndi", "Ain", "Saga", "Musshuru"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Tesoro", "Shiki", "Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]}
             ]
         },{
             "starting": 3,
@@ -439,22 +439,22 @@
                 {"raid": ["Zephyr", "Tesoro", "Shiki"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Lucci", "GranTesoro", "YoungNamiRobin"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["Doflamingo"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]}
+                {"raid": ["BellamyKai"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["BellamyKai","Doflamingo"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["BellamyKai","Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["BellamyKai","Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 10,
             "month" : "December",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["Chopper"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["BellamyKai","Chopper"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
+                {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
                 {"raid": ["Vergo"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Franky", "Ganfor", "Perona"], "special" : ["none"]}
             ]
         },{
             "starting": 17,

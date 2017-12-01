@@ -350,7 +350,7 @@ function monthDays(month, day) {
         newDay = day + 1;
     }
     
-    if(month == "April" || month == "June"){
+    if(month == "April" || month == "June" || month == "September" || month == "November"){
         if(day == 30){
             newDay = 1;
         }

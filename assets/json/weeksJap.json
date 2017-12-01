@@ -451,8 +451,8 @@
                 {"raid": ["none"], "colo" : ["KinemonKai"], "fn": ["UrougeHawkins", "Kraken", "Indigo", "Sentomaru"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma", "KinemonKai"], "fn": ["UrougeHawkins", "Kraken", "Indigo", "Sentomaru"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida", "KinemonKai"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["LvlUp"]},
-                {"raid": ["Fujitora", "Shanks"], "colo" : ["none"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]}
+                {"raid": ["Bartolomeo", "Shanks"], "colo" : ["none"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
+                {"raid": ["Fujitora", "Mihawk", "Shanks"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]}
             ]
         },
         {

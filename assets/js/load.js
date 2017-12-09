@@ -238,7 +238,8 @@ function showSpecial(flag) {
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime") || character == "RaySocket" || character == "SugoIsland" || character.includes("Summer")) {
+                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime")
+                            || character == "RaySocket" || character == "SugoIsland" || character.includes("Summer") || character == "SanjiLobster") {
                             if (timezone) {
                                 $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             } else {
@@ -262,7 +263,8 @@ function showSpecial(flag) {
                                     }
                                 }
                             }
-                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
+                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest"
+                                || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                             
@@ -553,6 +555,10 @@ function fnModal(character) {
         $("#fnCondition").append(fnList[character].condition);
     } else {
         $("#conditions").css('display', 'none');
+    }
+
+    if(drops.length == 0){
+        $("#fnDrops").append("<p>None</p>");
     }
 
     if (fnList[character].hasOwnProperty('expert')) {

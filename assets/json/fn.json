@@ -579,7 +579,8 @@
         "large": "assets/images/fn/big/shirahoshi.png",
         "tiny": "assets/images/fn/tiny/shirahoshi.png",
         "lastTimes": [],
-        "books" : ["Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
+        "global_books" : ["LawQck", "Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
+        "japan_books": ["Law6", "Apoo", "Diamante", "AbdullahJeet", "Franky5+", "Ikaros", "Daruma", "OarsStory", "Porchemy"],
         "drops": ["Shirahoshi" , "Ryuboshi", "Manboshi"]
     },
     "Mihawk6": {
@@ -728,7 +729,7 @@
         "global_books": ["SWShanks", "Hamburg", "Koala", "FrankyStraw", "Cerberus", "Vergo", "LaoG", "ChopperAnimalKing", "Franky5+"],
         "japan_books": ["SWShanks", "FrankySW", "Hamburg", "FrankyStraw", "Cerberus", "Vergo", "LaoG", "ChopperAnimalKing", "FrankyNewSW", "Franky5+"],
         "drops": ["CountButler", "PresidentHeaby", "GeneralHotdog", "ChopperAnimalKing"]
-    },    
+    },
     "Gasparde": {
         "title": "Pirate Ship Competition! \"Dead End\" Opens!",
         "condition" : "STR/DEX/QCK units get their ATK boosted by 1.6x. INT/PSY units get their HP boosted by 2.0x",
@@ -987,6 +988,19 @@
         "lastTimes": [],
         "drops": ["ConisEv"]
     },
+    "SanjiAnniversary": {
+        "title": "Robin anniversary!",
+        "large": "assets/images/fn/big/sanji_20th.png",
+        "tiny": "assets/images/fn/tiny/sanji_20th.png",
+        "lastTimes": [],
+        "drops": [],
+        "books" : ["Ashura", "NamiMirageTempo", "NamiThunderbolt", "ChefSanji", "DiableJambe",
+            "ChopperHeavyPoint", "ChopperBrain", "StreamingWolfZoro", "ZoroLionSong", "TowelNami",
+            "BrookDex", "Zoro3D2Y", "ChopperMask", "Sanji3D2Y", "BrookBorn", "NewSWSanji", "NamiLoyal",
+            "NewSWBrook", "ZoroCode", "NewSWChopper", "Zoro6", "NamiTS", "SanjiTS", "ChopperTSQck",
+            "Zoro5", "Nami5", "BrookTS", "ChopperTS", "Sanji5+", "Chopper5+", "Brook5+"
+        ]
+    },
     "RobinAnniversary": {
         "title": "Robin anniversary!",
         "large": "assets/images/fn/big/robin_anniversary.png",
@@ -994,8 +1008,8 @@
         "lastTimes": [],
         "drops": [],
         "books" : ["LogLuffy", "LuffyTS", "G4", "G3", "NicoRobin", "Robin3D2Y", "Luffy3D2Y", "Usopp3D2Y", "Franky3D2Y",
-                "LuffySW", "NicoRobinCode", "UsoppCode", "FrankyNewSW", "FrankyTS", "RobinTS", "Luffy5+", "Usopp5+",
-                "Robin5+", "Franky5+", "UsoppImpact", "GoldenPound", "Franky", "AllSunday"
+            "LuffySW", "NicoRobinCode", "UsoppCode", "FrankyNewSW", "FrankyTS", "RobinTS", "Luffy5+", "Usopp5+",
+            "Robin5+", "Franky5+", "UsoppImpact", "GoldenPound", "Franky", "AllSunday"
         ]
     },
     "KidPirates": {
@@ -1022,6 +1036,14 @@
         "tiny": "assets/images/fn/tiny/robin_swim.png",
         "lastTimes": [],
         "drops": ["SwimRobin"]
+    },
+    "ZoroMission": {
+        "title": "Zoro 20th Anniversary Mission",
+        "large": "assets/images/fn/big/zoro_mission.png",
+        "tiny": "assets/images/fn/tiny/zoro_mission.png",
+        "lastTimes": [],
+        "condition" : "There will be 6 different difficultes. Every time you clear one island, a new one will appear.<br/>Every time you clear one of these island you got a price in gems (from 1 to 20). Link to <a href=\"https://xn--pck6bvfc.gamewith.jp/article/show/66091\" target=\"_blank\">gamewith</a> and <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7dlc9n/20th_anniversary_straw_hat_mission_part_2_20/\" target=\"_blank\">reddit</> guides.",
+        "drops": ["HimePurple", "HimeRed", "Cola", "RCV", "ATK", "HP", "Socket4", "Socket5", "Socket6", "UniversalSkillbook"]
     },
     "StrawHat": {
         "title": "Straw Hat Pirates!",

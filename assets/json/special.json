@@ -65,7 +65,7 @@
     },
     "SanjiLobster": {
         "title": "Sanji Lobster Island!",
-        "large": "assets/images/fn/big/sanji_lobster.png",
+        "large": "assets/images/fn/big/sanji_lobsters.png",
         "tiny": "assets/images/fn/tiny/sanji_lobster.png",
         "drops": ["Lobster2", "Lobster3", "Lobster4"]
     },

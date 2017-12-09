@@ -451,29 +451,29 @@
                 {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
                 {"raid": ["BellamyKai","Chopper"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["LawMonet", "Breed", "Rumbar", "ChinjaoFamily"], "special" : ["LvlUp"]},
                 {"raid": ["BellamyKai"], "colo" : ["none"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp"]},
-                {"raid": ["Vergo"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Sugofest"]},
+                {"raid": ["Vergo"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["Sugofest"]},
                 {"raid": ["Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Shiryu", "McGuy", "Coby", "Killer", "LuckyRoo"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp"]}
             ]
         },{
             "starting": 17,
             "month" : "December",
             "program": [
                 {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull"]},
-                {"raid": ["Kizaru"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Kinemon", "Jozu", "Broggy", "Mr7", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull"]},
-                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp"]},
-                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp"]}
+                {"raid": ["Kizaru"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Kinemon", "Jozu", "Broggy", "Mr7", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]},
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]}
             ]
         },{
             "starting": 24,
             "month" : "December",
             "program": [
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["DonChinjao", "Paulie", "Hawkins", "McGuy", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]},
+                {"raid": ["none"], "colo" : ["DonChinjao", "Paulie", "Hawkins", "McGuy", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["SanjiLobster"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},

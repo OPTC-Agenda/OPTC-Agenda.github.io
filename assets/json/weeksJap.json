@@ -461,45 +461,45 @@
             "program": [
                 {"raid": ["Bellamy", "Mihawk", "Shanks"], "colo" : ["Raizo", "Moria", "Chopper", "Ain", "Ryuma"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
                 {"raid": ["Shiki", "Shanks"], "colo" : ["Machvise", "Smoker", "Binz", "Alvida"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["Pica"], "colo" : ["none"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["Caesar", "Whitebeard"], "colo" : ["none"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["Eneru", "Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]}
+                {"raid": ["Pica"], "colo" : ["none"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "WhitebeardCommanders2", "ChinjaoFamily", "Violet", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Caesar", "Whitebeard"], "colo" : ["none"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Eneru", "Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]}
             ]
         },
         {
             "starting": 10,
             "month" : "December",
             "program": [
-                {"raid": ["BusterCall", "Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Whitebeard"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["Hannyabal", "Soldatino", "Tontatta1"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["Blackbeard", "Cavendish"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["Chopper", "Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]}
+                {"raid": ["BusterCall", "Mihawk", "Whitebeard"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Whitebeard"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["UrougeHawkins", "Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["Hannyabal", "Soldatino", "Tontatta1", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["LvlUp"]},
+                {"raid": ["Blackbeard", "Cavendish"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["LvlUp"]},
+                {"raid": ["Chopper", "Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 17,
             "month" : "December",
             "program": [
-                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["Heracles", "Usopp", "Cavendish"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello"], "special" : ["none"]},
-                {"raid": ["Ivankov", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
-                {"raid": ["Sabo", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]}
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Heracles", "Usopp", "Cavendish"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Ivankov", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Sabo", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]}
             ]
         },
         {
             "starting": 24,
             "month" : "December",
             "program": [
-                {"raid": ["Sanji", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
-                {"raid": ["Boa", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
+                {"raid": ["Sanji", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["CottonX3"]},
+                {"raid": ["Boa", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},

@@ -1165,5 +1165,13 @@
         "lastTimes": [],
         "books" : ["Magellan6", "Burgess", "Shiryu", "FisherTiger", "Mr2STR", "Wadatsumi"],
         "drops": ["Urouge", "Hawkins"]
+    },
+    "AmbushTashigi": {
+        "title": "Tashigi Ambush",
+        "large": "assets/images/fn/big/tashigi_ambush.png",
+        "tiny": "assets/images/fn/tiny/tashigi_ambush.png",
+        "lastTimes": [],
+        "condition" : "Ambush quest available for fornights. It's easy to clear and drops very good items.",
+        "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "HimePurple"]
     }
 }

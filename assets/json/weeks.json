@@ -464,7 +464,7 @@
                 {"raid": ["Kizaru"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7"], "fn": ["Shirahoshi", "Franky", "Ganfor", "Perona", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
                 {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
-                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Kinemon", "Jozu", "Broggy", "Mr7", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
+                {"raid": ["none"], "colo" : ["Kinemon", "Jozu", "Broggy", "Mr7", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["FreePull", "Snail"]},
                 {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]},
                 {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]}
             ]
@@ -475,10 +475,10 @@
                 {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]},
                 {"raid": ["none"], "colo" : ["DonChinjao", "Paulie", "Hawkins", "McGuy", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster", "Snail"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["SanjiLobster"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["SanjiLobster"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]}
             ]
         },{
             "starting": 31,
@@ -487,10 +487,10 @@
                 {"raid": ["Boa"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["Camie", "Tontatta2", "Sengoku"], "special" : ["none"]}
             ]
         }
     ]

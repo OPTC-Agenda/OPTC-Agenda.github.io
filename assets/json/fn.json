@@ -1173,5 +1173,13 @@
         "lastTimes": [],
         "condition" : "Ambush quest available for fornights. It's easy to clear and drops very good items.",
         "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "HimePurple"]
+    },
+    "PeronaMihawk": {
+        "title": "Kuraigana Island! Mihawk and Perona!",
+        "large": "assets/images/fn/big/mihawk_perona.png",
+        "tiny": "assets/images/fn/tiny/mihawk_perona.png",
+        "lastTimes": [],
+        "books" : ["Sakazuki6", "CobyStudent", "Momonga", "Sandersonia", "Marigold", "HyouzouS"],
+        "drops": ["MihawkFN", "PeronaM"]
     }
 }

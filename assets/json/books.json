@@ -110,6 +110,9 @@
     "IkarosStory": {
       "id" : "1558"
     },
+    "HyouzouS": {
+        "id" : "1559"
+    },
     "Brook5+" : {
         "id" : "1551"
     },
@@ -1351,6 +1354,12 @@
     },
     "Wadatsumi" : {
         "id" : "1556"
+    },
+    "Sandersonia" : {
+        "id" : "1741"
+    },
+    "Marigold" : {
+        "id" : "1743"
     }
 
 

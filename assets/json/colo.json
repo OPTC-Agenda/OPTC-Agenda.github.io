@@ -470,5 +470,17 @@
         "tiny": "assets/images/colo/tiny/raizo.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1861"
+    },
+    "Enel": {
+        "large": "assets/images/colo/big/enel.png",
+        "tiny": "assets/images/colo/tiny/enel.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1896"
+    },
+    "KillerKai": {
+        "large": "assets/images/colo/big/neo_killer.png",
+        "tiny": "assets/images/colo/tiny/neo_killer.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1898"
     }
 }

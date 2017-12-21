@@ -487,32 +487,32 @@
             "program": [
                 {"raid": ["Doflamingo", "Mihawk", "Cavendish"], "colo" : ["Raizo", "Kyros", "Vista", "Doma", "Mr7"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
                 {"raid": ["Bellamy", "Cavendish"], "colo" : ["Shiryu", "Blenheim", "Foxy", "Wyper", "Rebecca"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Heracles", "Usopp", "Cavendish"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
-                {"raid": ["Boa"], "colo" : ["none"], "fn": ["SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
-                {"raid": ["Ivankov", "Magellan", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]}
+                {"raid": ["Zephyr", "Heracles", "Usopp", "Cavendish"], "colo" : ["none"], "fn": ["PeronaMihawk", "SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Kuma"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr"], "fn": ["PeronaMihawk", "SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Boa"], "colo" : ["Lucy", "Kid", "DonChinjao", "Orlumbus"], "fn": ["PeronaMihawk", "SadieChan", "Gasparde", "Elizabello", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Ivankov", "Magellan", "Shanks"], "colo" : ["KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Shanks"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr", "KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["none"]}
             ]
         },
         {
             "starting": 24,
             "month" : "December",
             "program": [
-                {"raid": ["Sanji", "Mihawk", "Shanks"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
-                {"raid": ["Franky", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]}
+                {"raid": ["Sanji", "Mihawk", "Shanks"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr", "KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9", "AmbushTashigi"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["Lucy", "Kid", "DonChinjao", "Orlumbus", "KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr", "KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy", "Kid", "DonChinjao", "Orlumbus", "KillerKai"], "fn": ["PeronaMihawk", "Fukaboshi", "Absalom", "CP9"], "special" : ["none"]},
+                {"raid": ["Franky", "Whitebeard"], "colo" : ["KillerKai"], "fn": ["PeronaMihawk", "SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr"], "fn": ["PeronaMihawk", "SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]}
             ]
         },
         {
             "starting": 31,
             "month" : "December",
             "program": [
-                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
+                {"raid": ["Mihawk", "Whitebeard"], "colo" : ["Enel", "Inuarashi", "Marco", "LittleOarsJr"], "fn": ["PeronaMihawk", "SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy", "Kid", "DonChinjao", "Orlumbus"], "fn": ["PeronaMihawk", "SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["SugarTrebol", "Ganfor", "LawMonet"], "special" : ["none"]},

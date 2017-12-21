@@ -472,9 +472,9 @@
             "starting": 24,
             "month" : "December",
             "program": [
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail"]},
-                {"raid": ["Fujitora", "DoffyINT"], "colo" : ["DonChinjao", "Paulie", "Hawkins", "McGuy", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster", "Snail"]},
-                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster"]},
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["LvlUp", "Snail", "Sugofest"]},
+                {"raid": ["Fujitora", "DoffyINT"], "colo" : ["DonChinjao", "Paulie", "Hawkins", "McGuy", "Cavendish"], "fn": ["Shirahoshi", "Duck", "WhitebeardCommanders3", "Shambles", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster", "Snail", "Sugofest"]},
+                {"raid": ["DoffyINT"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet", "SanjiAnniversary", "ZoroMission"], "special" : ["SanjiLobster", "Sugofest"]},
                 {"raid": ["Eneru", "Kuma", "DoffyINT"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["SanjiLobster"]},
                 {"raid": ["Eneru", "Kuma", "Magellan"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},
                 {"raid": ["Eneru", "Kuma","Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet"], "special" : ["none"]},

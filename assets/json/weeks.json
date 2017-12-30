@@ -488,9 +488,74 @@
                 {"raid": ["Heracles", "Usopp", "Aokiji"], "colo" : ["none"], "fn": ["BlackbeardPirates", "SunaSand", "WhitebeardCommanders", "Violet", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["Aokiji"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["Aokiji", "Rayleigh"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
+                {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["Akainu", "Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku", "KimonoRobin", "JinbeKimono"], "special" : ["none"]},
                 {"raid": ["BusterCall", "Mihawk"], "colo" : ["Inuarashi", "Hajrudin", "Capone", "Vista", "Hina"], "fn": ["BlackbeardPirates", "Camie", "Tontatta2", "Sengoku"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 7,
+            "month" : "January",
+            "program": [
+                {"raid": ["Bellamy"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Camie", "Tontatta2", "Sengoku"], "special" : ["none"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]}
+            ]
+        },
+        {
+            "starting": 14,
+            "month" : "January",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook", "Wanze", "Sentomaru"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 21,
+            "month" : "January",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Franky", "TBone", "BaroqueWorksPrison"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 28,
+            "month" : "January",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 4,
+            "month" : "February",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

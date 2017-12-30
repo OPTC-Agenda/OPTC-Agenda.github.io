@@ -1144,13 +1144,20 @@
       "id": "1866"
     },
     "MihawkFN" : {
-      "id": "1892",
-      "missing" : "yes"
+      "id": "1892"
     },
     "PeronaM" : {
-      "id": "1890",
+      "id": "1890"
+    },
+    "Reiju" : {
+      "id": "1917",
+      "missing" : "yes"
+    },
+    "SanjiGermaKid" : {
+      "id": "1919",
       "missing" : "yes"
     }
+
 }
 
 

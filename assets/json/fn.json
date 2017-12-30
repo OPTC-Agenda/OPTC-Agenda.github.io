@@ -1151,7 +1151,7 @@
         "drops": ["Caribou", "Coribou"]
     },
     "Apoo": {
-        "title": "Apoo & Drake fortnight!",
+        "title": "Supernova! Apoo and Drake!",
         "large": "assets/images/fn/big/apoo.png",
         "tiny": "assets/images/fn/tiny/apoo.png",
         "lastTimes": [],
@@ -1159,7 +1159,7 @@
         "drops": ["Apoo", "Drake"]
     },
     "UrougeHawkins": {
-        "title": "Urouge & Hawkins fortnight!",
+        "title": "Supernova! Hawkins and Urouge!",
         "large": "assets/images/fn/big/urouge_hawkins.png",
         "tiny": "assets/images/fn/tiny/urouge_hawkins.png",
         "lastTimes": [],
@@ -1175,11 +1175,19 @@
         "drops": ["Socket1", "Socket2", "Socket3", "Socket4", "Socket5", "Socket6", "Socket7", "Socket8", "Socket9", "HimePurple"]
     },
     "PeronaMihawk": {
-        "title": "Kuraigana Island! Mihawk and Perona!",
+        "title": "Perona's Strange Communal Life!",
         "large": "assets/images/fn/big/mihawk_perona.png",
         "tiny": "assets/images/fn/tiny/mihawk_perona.png",
         "lastTimes": [],
         "books" : ["Sakazuki6", "CobyStudent", "Momonga", "Sandersonia", "Marigold", "HyouzouS"],
         "drops": ["MihawkFN", "PeronaM"]
+    },
+    "ReijuSanji": {
+        "title": "Escape from Germa 66!",
+        "large": "assets/images/fn/big/reiju_sanji.png",
+        "tiny": "assets/images/fn/tiny/reiju_sanji.png",
+        "lastTimes": [],
+        "books" : ["LawQck", "TsuruG5", "ChopperTSQck", "AokijiSecret", "Marguerite", "DarumaStory"],
+        "drops": ["Reiju", "SanjiGermaKid"]
     }
 }

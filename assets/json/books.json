@@ -877,7 +877,10 @@
     },
     "AokijiStory" : {
         "id" : "1280"
-    },    
+    },
+    "AokijiSecret" : {
+        "id" : "1665"
+    },
     "Fujitora" : {
         "id" : "1085"
     },
@@ -919,6 +922,12 @@
     },    
     "MargueriteStory" : {
         "id" : "1060"
+    },
+    "DarumaStory" : {
+        "id" : "1560"
+    },
+    "Marguerite" : {
+        "id" : "1745"
     },
     "Suleiman" : {
         "id" : "1125"

@@ -1352,6 +1352,9 @@
     "FisherTiger" : {
         "id" : "1632"
     },
+    "LimitedJinbe" : {
+        "id" : "1721"
+    },
     "UniversalSkillbook" : {
         "image": "assets/images/special/universal_skillbook.png"
     },

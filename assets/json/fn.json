@@ -1119,7 +1119,7 @@
     "AokijiRanking": {
         "title": "Blitz Battle! The three admirals! Aokiji!",
         "large": "assets/images/fn/big/blitz_battle.png",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations for past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations from past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
         "tiny": "assets/images/fn/tiny/aokiji_ranking.png",
         "lastTimes": [],
         "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
@@ -1127,7 +1127,7 @@
     },
     "AkainuRanking": {
         "title": "Blitz Battle! The three admirals! Akainu!",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations for past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations from past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
         "tiny": "assets/images/fn/tiny/akainu_ranking.png",
         "lastTimes": [],
         "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
@@ -1137,10 +1137,37 @@
         "title": "Blitz Battle! The three admirals! Kizaru!",
         "large": "assets/images/fn/big/blitz_battle.png",
         "tiny": "assets/images/fn/tiny/kizaru_ranking.png",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations for past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations from past japan event<a href=\"https://www.reddit.com/r/OnePieceTC/comments/6nddfc/jpn_3_admiral_showdown_megathread/\" target=\"_blank\"> on reddit</a>.",
         "lastTimes": [],
         "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
         "drops": ["MediumYellow", "ElderYellow"]
+    },
+    "SanjiRanking": {
+        "title": "Blitz Battle! Straw Hats! Aokiji!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "tiny": "assets/images/fn/tiny/sanji_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumRed", "ElderRed"]
+    },
+    "ZoroRanking": {
+        "title": "Blitz Battle! Straw Hats! Akainu!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "tiny": "assets/images/fn/tiny/zoro_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumGreen", "ElderGreen"]
+    },
+    "LuffyRanking": {
+        "title": "Blitz Battle! Straw Hats! Kizaru!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "tiny": "assets/images/fn/tiny/luffy_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumBlue", "ElderBlue"]
     },
     "Caribou": {
         "title": "Caribou fortnight!",

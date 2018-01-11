@@ -525,20 +525,20 @@
             "month" : "January",
             "program": [
                 {"raid": ["Kuma", "Mihawk", "Cavendish"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["none"]},
-                {"raid": ["NightmareLuffy", "Cavendish"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["none"]},
-                {"raid": ["Caesar", "Cavendish"], "colo" : ["none"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["none"]},
-                {"raid": ["Shiki", "Cavendish"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["none"]},
-                {"raid": ["Sanji", "Cavendish"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
-                {"raid": ["Garp", "Shanks"], "colo" : ["none"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Mihawk", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]}
+                {"raid": ["EneruKai", "NightmareLuffy", "Cavendish"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["none"]},
+                {"raid": ["EneruKai", "Caesar", "Cavendish"], "colo" : ["none"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["FreePull"]},
+                {"raid": ["EneruKai", "Shiki", "Cavendish"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoLuffy", "SunaSand", "NicoOlvia"], "special" : ["FreePull"]},
+                {"raid": ["EneruKai", "Sanji", "Cavendish"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["FreePull"]},
+                {"raid": ["EneruKai", "Garp", "Shanks"], "colo" : ["none"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["FreePull", "LvlUpx3"]},
+                {"raid": ["EneruKai", "Kizaru", "Mihawk", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["FreePull", "LvlUpx3"]}
             ]
         },
         {
             "starting": 14,
             "month" : "January",
             "program": [
-                {"raid": ["Vergo", "Mihawk", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
-                {"raid": ["Bartolomeo", "Shanks"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
+                {"raid": ["EneruKai", "Vergo", "Mihawk", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["FreePull"]},
+                {"raid": ["Bartolomeo", "Shanks"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["ReijuSanji", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["FreePull"]},
                 {"raid": ["Fujitora", "Shanks"], "colo" : ["none"], "fn": ["KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
                 {"raid": ["Doflamingo", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
                 {"raid": ["Bellamy", "Shanks"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["none"]},

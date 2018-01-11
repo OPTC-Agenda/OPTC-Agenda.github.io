@@ -247,7 +247,7 @@ function showSpecial(flag){
                                     if(character == "LvlUp"){                                        
                                         $("#special" + (i + 1)).addClass('skillup-x2');                                        
                                     }else {                                        
-                                        $("#special" + (i + 1)).addClass('skillup-x3');                                                                                
+                                        $("#special" + (i + 1)).addClass('skillup-x3');
                                     }
                                 }
                             } 

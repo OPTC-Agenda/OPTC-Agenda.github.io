@@ -288,6 +288,14 @@
         "conditions" : "Raid available only for <b>Free Spirit</b>, <b>Striker</b> and <b>Powerhouse</b> teams.<br/> You can clear the content for each class only 30 minutes per day. No ambush is available after clearing the content.",
         "linkDB": "http://optc-db.github.io/characters/#/view/1779"
     },
+    "EneruKai": {
+        "name" : "Eneru Kai",
+        "large": "assets/images/raid/big/eneru_kai.png",
+        "tiny": "assets/images/raid/tiny/eneru.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Driven</b>, <b>Powerhouse</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day. No ambush is available after clearing the content.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/1929"
+    },
     "Sanji": {
         "name" : "Sanji",
         "large": "assets/images/raid/big/sanji.png",

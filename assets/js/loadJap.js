@@ -553,11 +553,24 @@ function fnModal(character) {
         // $("#fnDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     }
 
-    for (i = 0; i < books.length; i++) {
-        var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
-        var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
-        $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+    if (books != null) {
+        for (i = 0; i < books.length; i++) {
+            if(bookList[books[i]].hasOwnProperty('image')){
+                var tiny = bookList[books[i]].image;
+                $("#fnBooks").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
+            } else {
+                var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
+                var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
+                $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+            }
+        }
     }
+
+    // for (i = 0; i < books.length; i++) {
+    //     var tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(bookList[books[i]].id);//bookList[books[i]].image;
+    //     var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
+    //     $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+    // }
 }
 
 function specialModal(character) {

@@ -1216,5 +1216,13 @@
         "lastTimes": [],
         "books" : ["LawQck", "TsuruG5", "ChopperTSQck", "AokijiSecret", "Marguerite", "DarumaStory"],
         "drops": ["Reiju", "SanjiGermaKid"]
+    },
+    "BoaSisters": {
+        "title": "Gorgon Sisters Escape from Mariejois!",
+        "large": "assets/images/fn/big/boa_sister.png",
+        "tiny": "assets/images/fn/tiny/boa_sister.png",
+        "lastTimes": [],
+        "books" : ["BoaV2", "GarpSTR", "DosunStory", "OnigumoINT", "BepoQck", "BurgessDex"],
+        "drops": ["BoaSandersoniaFN", "BoaMarigoldFN", "BoaHancockFN"]
     }
 }

@@ -926,6 +926,9 @@
     "DarumaStory" : {
         "id" : "1560"
     },
+    "DosunStory" : {
+        "id" : "1561"
+    },
     "Marguerite" : {
         "id" : "1745"
     },
@@ -1372,7 +1375,15 @@
     },
     "Marigold" : {
         "id" : "1743"
+    },
+    "BoaV2" : {
+        "id" : "1747"
+    },
+    "BepoQck" : {
+        "id" : "1749"
+    },
+    "BurgessDex" : {
+        "id" : "1798"
     }
-
 
 }

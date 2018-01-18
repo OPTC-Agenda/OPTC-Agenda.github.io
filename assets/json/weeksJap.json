@@ -543,15 +543,15 @@
                 {"raid": ["BellamyKai", "Doflamingo", "Shanks"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "KimonoRobin", "Zeff", "Whitebeard4"], "special" : ["none"]},
                 {"raid": ["BellamyKai", "Bellamy", "Shanks"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Luffy40"]},
                 {"raid": ["BellamyKai", "BusterCall", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Luffy40"]},
-                {"raid": ["BellamyKai", "Zephyr", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Booster"]}
+                {"raid": ["BellamyKai", "Zephyr", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono","AokijiRanking","AkainuRanking","KizaruRanking"], "special" : ["Booster"]}
             ]
         },
         {
             "starting": 21,
             "month" : "January",
             "program": [
-                {"raid": ["BellamyKai", "Chopper", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Evolver","LvlUpx3"]},
-                {"raid": ["BellamyKai", "Blackbeard", "Whitebeard"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["LvlUpx3"]},
+                {"raid": ["BellamyKai", "Chopper", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono","AokijiRanking","AkainuRanking","KizaruRanking"], "special" : ["Evolver","LvlUpx3"]},
+                {"raid": ["BellamyKai", "Blackbeard", "Whitebeard"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono","AokijiRanking","AkainuRanking","KizaruRanking"], "special" : ["LvlUpx3"]},
                 {"raid": ["BellamyKai", "Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["none"]},

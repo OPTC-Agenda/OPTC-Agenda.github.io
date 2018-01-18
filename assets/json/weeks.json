@@ -525,33 +525,33 @@
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["LvlUp"]},
                 {"raid": ["Boa"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["LvlUp"]},
-                {"raid": ["Magellan"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Aokiji"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Pica"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Kuma"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket",  "LvlUp"]},
-                {"raid": ["NightmareLuffy", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]}
+                {"raid": ["Magellan"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
+                {"raid": ["Aokiji"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
+                {"raid": ["Pica"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
+                {"raid": ["Kuma"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket",  "LvlUp"]},
+                {"raid": ["NightmareLuffy", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]}
             ]
         },
         {
             "starting": 28,
             "month" : "January",
             "program": [
-                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Blackbeard"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
+                {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket"]},
+                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["Blackbeard"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
             ]
         },
         {
             "starting": 4,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

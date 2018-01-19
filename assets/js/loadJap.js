@@ -251,7 +251,7 @@ function showSpecial(flag){
                                     }
                                 }
                             } 
-                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern") {
+                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern" || /^Hime/.test(character)) {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }

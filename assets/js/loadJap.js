@@ -235,10 +235,10 @@ function showSpecial(flag){
                         var foo = 'fnModal(\'' + character + '\')';
 
                         if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining"
-                            || character == "RaySocket" || character.contains("Summer") || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character)) {
+                            || character == "RaySocket" || /^Summer/.test(character) || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character)) {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
-                            if (/^LvlUP/.test(character)) {
+                            if (/^LvlUp/.test(character)) {
                                 if ($(window).width() > 768) {                                    
                                     $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                 } else {

@@ -552,11 +552,11 @@
             "program": [
                 {"raid": ["BellamyKai", "Chopper", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono","AokijiRanking","AkainuRanking","KizaruRanking"], "special" : ["Evolver","LvlUpx3"]},
                 {"raid": ["BellamyKai", "Blackbeard", "Whitebeard"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["BellamyKai", "Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["none"]},
-                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["none"]}
+                {"raid": ["BellamyKai", "Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["HimeSTR","LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["HimeDEX"]},
+                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimeQCK"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimeINT"]},
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimePSY"]}
             ]
         },
         {

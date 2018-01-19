@@ -482,5 +482,11 @@
         "tiny": "assets/images/colo/tiny/neo_killer.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1898"
+    },
+    "Pedro": {
+        "large": "assets/images/colo/big/pedro.png",
+        "tiny": "assets/images/colo/tiny/pedro.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/1944"
     }
 }

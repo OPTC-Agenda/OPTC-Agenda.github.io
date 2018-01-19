@@ -238,8 +238,8 @@ function showSpecial(flag) {
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (character == "Cotton" || character == "CottonEgg" || character.includes("Hime")
-                            || character == "RaySocket" || character == "SugoIsland" || character.includes("Summer") || character == "SanjiLobster") {
+                        if (/^Cotton/.test(character) || character.contains("Hime")
+                            || character == "RaySocket" || character == "SugoIsland" || character.contains("Summer") || character == "SanjiLobster") {
                             if (timezone) {
                                 $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             } else {

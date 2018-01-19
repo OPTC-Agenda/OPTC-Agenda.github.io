@@ -235,7 +235,7 @@ function showSpecial(flag){
                         var foo = 'fnModal(\'' + character + '\')';
 
                         if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining"
-                            || character == "RaySocket" || character.contains("Summer") || character == "RebeccaJuice" || character == "SanjiLobster") {
+                            || character == "RaySocket" || character.contains("Summer") || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character)) {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
                             if (/^LvlUP/.test(character)) {
@@ -250,7 +250,7 @@ function showSpecial(flag){
                                     }
                                 }
                             } 
-                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern" || /^Hime/.test(character)) {
+                            if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest" || character == "FreePull" || character == "Rayleigh" || character == "ColaCavern") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                         }

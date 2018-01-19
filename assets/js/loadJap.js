@@ -234,12 +234,11 @@ function showSpecial(flag){
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (character == "Cotton" || character == "CottonEgg" || character == "CottonX3"
-                            || character == "Luffy30" || character == "Luffy40" || character == "AceTraining"
-                            || character == "RaySocket" || character.includes("Summer") || character == "RebeccaJuice" || character == "SanjiLobster") {
+                        if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining"
+                            || character == "RaySocket" || character.contains("Summer") || character == "RebeccaJuice" || character == "SanjiLobster") {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
-                            if (character == "LvlUp" || character == "LvlUpx3") {
+                            if (/^LvlUP/.test(character)) {
                                 if ($(window).width() > 768) {                                    
                                     $("#list" + (i + 1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                 } else {

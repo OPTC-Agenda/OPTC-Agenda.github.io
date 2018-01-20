@@ -566,19 +566,19 @@
                 {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern"]},
                 {"raid": ["Eneru", "Cavendish"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["none"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina","Garp"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["none"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["RaySocket"]},
-                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["none"], "special" : ["RaySocket"]}
+                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Franky","Ideo","Jozu","Hina","Garp"], "fn": ["none"], "special" : ["RaySocket"]}
             ]
         },
         {
             "starting": 4,
             "month" : "February",
             "program": [
-                {"raid": ["Doflamingo"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["none"], "special" : ["RaySocket"]},
-                {"raid": ["Pica"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["none"], "special" : ["RaySocket"]},
-                {"raid": ["Heracles","Usopp"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Doflamingo","Shanks"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["none"], "special" : ["RaySocket"]},
+                {"raid": ["Pica","Shanks"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["none"], "special" : ["RaySocket"]},
+                {"raid": ["Heracles","Usopp","Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

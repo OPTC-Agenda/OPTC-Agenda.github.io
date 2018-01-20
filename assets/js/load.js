@@ -249,7 +249,12 @@ function showSpecial(flag) {
                             if (character == "LvlUp") {
                                 if ($(window).width() > 768) {
                                     if (timezone) {
-                                        $("#list" + (i) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                        if(i==6){
+                                            $("#list" + (i) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                            $("#list" + (i+1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                        } else {
+                                            $("#list" + (i) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
+                                        }
                                     } else {
                                         $("#list" + (i+1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                     }

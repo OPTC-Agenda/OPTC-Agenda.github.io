@@ -155,6 +155,12 @@
         "large": "assets/images/fn/big/rebecca_juice.png",
         "tiny": "assets/images/fn/tiny/rebecca_juice.png",
         "drops": ["TinyJuice", "MediumJuice", "BigJuice"]
+    },
+    "AceTM": {
+        "title": "Ace Treasure Map!",
+        "large": "assets/images/fn/big/ace_tm.png",
+        "tiny": "assets/images/fn/tiny/ace_tm.png",
+        "drops": ["AceTM"]
     }
 
 }

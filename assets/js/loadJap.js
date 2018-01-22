@@ -234,7 +234,7 @@ function showSpecial(flag){
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining"
+                        if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining" || character == "AceTM"
                             || character == "RaySocket" || /^Summer/.test(character) || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character)) {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
@@ -625,6 +625,9 @@ function specialModal(character) {
         var url;
         if(toDrop.hasOwnProperty("id")){
             url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
+            if(toDrop.hasOwnProperty('missing')){
+                tiny = "https://onepiece-treasurecruise.com/wp-content/themes/onepiece-treasurecruise/images/noimage.png";
+            }
             $("#specialDrops").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>")
         } else {
             $("#specialDrops").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");

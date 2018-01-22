@@ -526,10 +526,10 @@
                 {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["LvlUp"]},
                 {"raid": ["Boa"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["LvlUp"]},
                 {"raid": ["Magellan"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Aokiji"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Pica"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
-                {"raid": ["Kuma"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket",  "LvlUp"]},
-                {"raid": ["NightmareLuffy", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]}
+                {"raid": ["Aokiji"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","LvlUp"]},
+                {"raid": ["Pica"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","LvlUp"]},
+                {"raid": ["Kuma"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","RaySocket",  "LvlUp"]},
+                {"raid": ["NightmareLuffy", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","RaySocket", "Cotton"]}
             ]
         },
         {

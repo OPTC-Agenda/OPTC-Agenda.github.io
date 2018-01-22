@@ -552,21 +552,21 @@
             "program": [
                 {"raid": ["BellamyKai", "Chopper", "Mihawk", "Whitebeard"], "colo" : ["Enel", "BoaSandersonia", "BoaMarigold", "Kanjuro", "Urouge"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono","AokijiRanking","AkainuRanking","KizaruRanking"], "special" : ["Evolver","LvlUpx3"]},
                 {"raid": ["BellamyKai", "Blackbeard", "Whitebeard"], "colo" : ["Diamante", "Apoo", "Drake", "TBone", "Paulie"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["LvlUpx3"]},
-                {"raid": ["BellamyKai", "Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["HimeSTR","LvlUpx3"]},
-                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["HimeDEX"]},
-                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimeQCK"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimeINT"]},
-                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["HimePSY"]}
+                {"raid": ["BellamyKai", "Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Sugofest","HimeSTR","LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "Franky", "JinbeKimono", "CrocodileKimono"], "special" : ["Sugofest","HimeDEX"]},
+                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","HimeQCK"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","HimeINT"]},
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","HimePSY"]}
             ]
         },
         {
             "starting": 28,
             "month" : "January",
             "program": [
-                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern"]},
-                {"raid": ["Eneru", "Cavendish"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["ColaCavern","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina","Garp"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["LvlUp"]},
+                {"raid": ["Mihawk", "Cavendish"], "colo" : ["Franky","Ideo","Jozu","Hina"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","ColaCavern"]},
+                {"raid": ["Eneru", "Cavendish"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","ColaCavern"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","ColaCavern","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Franky","Ideo","Jozu","Hina","Garp"], "fn": ["TomWorkers", "Tontatta2", "SoulKing"], "special" : ["Sugofest","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["none"], "special" : ["LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["RaySocket"]},
                 {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Franky","Ideo","Jozu","Hina","Garp"], "fn": ["none"], "special" : ["RaySocket"]}

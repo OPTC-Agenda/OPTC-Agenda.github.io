@@ -1231,7 +1231,7 @@
         "tiny": "assets/images/fn/tiny/alvidaSpecial.png",
         "lastTimes": [],
         "books" : ["SmoothAlvida"],
-        "drops": ["AlvidaEvo"]
+        "drops": ["AlvidaEvo","MediumRed"]
     },
     "UsoppSpecial": {
         "title": "Usopp Special Island!",
@@ -1239,6 +1239,6 @@
         "tiny": "assets/images/fn/tiny/usoppSpecial.png",
         "lastTimes": [],
         "books" : [],
-        "drops": ["Usopp"]
+        "drops": ["Usopp","MediumYellow"]
     }
 }

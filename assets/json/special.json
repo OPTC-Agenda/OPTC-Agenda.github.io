@@ -161,6 +161,12 @@
         "large": "assets/images/fn/big/ace_tm.png",
         "tiny": "assets/images/fn/tiny/ace_tm.png",
         "drops": ["AceTM"]
+    },
+    "BuggyTreasure": {
+        "title": "Buggy Treasure Island!",
+        "large": "assets/images/fn/big/BuggyAlvidaUsopp.png",
+        "tiny": "assets/images/fn/tiny/BuggyTreasure.png",
+        "drops": ["AceTM"]
     }
 
 }

@@ -331,5 +331,12 @@
         "tiny": "assets/images/raid/tiny/bartolomeo.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1878"
+    },
+    "SenorPink": {
+        "name" : "Senor Pink",
+        "large": "assets/images/raid/big/pink.png",
+        "tiny": "assets/images/raid/tiny/pink.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/"
     }
 }

@@ -1238,7 +1238,7 @@
         "large": "assets/images/fn/big/alvidaUsoppSpecial.png",
         "tiny": "assets/images/fn/tiny/usoppSpecial.png",
         "lastTimes": [],
-        "books" : [],
-        "drops": ["Usopp","MediumYellow"]
+        "books" : ["GoldenPound"],
+        "drops": ["UsoppGP","MediumYellow"]
     }
 }

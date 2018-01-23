@@ -235,7 +235,7 @@ function showSpecial(flag){
                         var foo = 'fnModal(\'' + character + '\')';
 
                         if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining" || character == "AceTM"
-                            || character == "RaySocket" || /^Summer/.test(character) || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character)) {
+                            || character == "RaySocket" || /^Summer/.test(character) || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character) || character == "BuggyTreasure") {
                             $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                         } else {                            
                             if (/^LvlUp/.test(character)) {

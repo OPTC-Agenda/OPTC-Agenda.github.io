@@ -164,9 +164,11 @@
     },
     "BuggyTreasure": {
         "title": "Buggy Treasure Island!",
-        "large": "assets/images/fn/big/BuggyAlvidaUsopp.png",
-        "tiny": "assets/images/fn/tiny/BuggyTreasure.png",
-        "drops": ["AceTM"]
+        "large": "assets/images/special/buggyTreasureBig.png",
+        "tiny": "assets/images/special/buggyTreasure.png",
+        "drops": ["ElderRed","ElderBlue","ElderGreen","ElderYellow","ElderPurple","Socket1","Socket2","Socket3",
+            "Socket4","Socket5","Socket6","Socket7","Socket8","Socket9","Socket10","Socket11","HP","ATK","RCV",
+            "Lobster3","Lobster4","Cola"]
     }
 
 }

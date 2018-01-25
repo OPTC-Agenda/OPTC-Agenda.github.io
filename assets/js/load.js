@@ -387,6 +387,12 @@ function monthDays(month, day) {
         }
     }
 
+    if(month == "February"){
+        if(day == 28){
+            newDay = 1;
+        }
+    }
+
     return newDay;
 }
 
@@ -978,3 +984,18 @@ function firstLoad() {
 
     });
 }
+
+// ,
+// {
+//     "starting": 18,
+//     "month" : "February",
+//     "program": [
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+//     {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+// ]
+// }

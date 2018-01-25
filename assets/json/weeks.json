@@ -502,7 +502,7 @@
                 {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
                 {"raid": ["MihawkKai"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
                 {"raid": ["MihawkKai"], "colo" : ["Shiryu", "Ideo", "Ace"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru"], "special" : ["LvlUp"]},
-                {"raid": ["Ivankov"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru", "SanjiRanking", "ZoroRanking", "LuffyRanking"], "special" : ["LvlUp"]},
+                {"raid": ["Ivankov", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru", "SanjiRanking", "ZoroRanking", "LuffyRanking"], "special" : ["LvlUp"]},
                 {"raid": ["Duval", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Brook", "Wanze", "Sentomaru", "SanjiRanking", "ZoroRanking", "LuffyRanking"], "special" : ["LvlUp"]}
             ]
         },
@@ -515,7 +515,7 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["ColaCavern"]},
                 {"raid": ["none"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["ColaCavern"]},
                 {"raid": ["Garp"], "colo" : ["Shiryu", "Ideo", "Ace"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["ColaCavern"]},
-                {"raid": ["Sabo"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["ColaCavern", "Cotton"]},
+                {"raid": ["Sabo", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["ColaCavern", "Cotton"]},
                 {"raid": ["FakeMugiwara", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["Fishman", "Franky", "TBone", "Mr3Jail"], "special" : ["LvlUp"]}
             ]
         },
@@ -528,7 +528,7 @@
                 {"raid": ["Magellan"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["LvlUp"]},
                 {"raid": ["Aokiji"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","LvlUp"]},
                 {"raid": ["Pica"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","LvlUp"]},
-                {"raid": ["Kuma"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","RaySocket",  "LvlUp"]},
+                {"raid": ["Kuma", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","RaySocket",  "LvlUp"]},
                 {"raid": ["NightmareLuffy", "Mihawk"], "colo" : ["Machvise", "Nekomamushi", "TBone", "Moria", "Wyper"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["Sugofest","RaySocket", "Cotton"]}
             ]
         },
@@ -538,24 +538,37 @@
             "program": [
                 {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket"]},
                 {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Blackbeard"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["Blackbeard", "Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
             ]
         },
         {
             "starting": 4,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 11,
+            "month" : "February",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

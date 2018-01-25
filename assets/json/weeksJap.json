@@ -567,49 +567,62 @@
                 {"raid": ["Eneru", "Cavendish"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["AceTM", "Sugofest","ColaCavern"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["AceTM", "Sugofest","ColaCavern","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["Sugofest","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["AlvidaSpecial","UsoppSpecial"], "special" : ["LvlUp"]},
-                {"raid": ["SenorPink"], "colo" : ["none"], "fn": ["AlvidaSpecial","UsoppSpecial"], "special" : ["RaySocket"]},
-                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["none"], "special" : ["RaySocket"]}
+                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial"], "special" : ["LvlUp"]},
+                {"raid": ["SenorPink"], "colo" : ["none"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial"], "special" : ["RaySocket"]},
+                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi"], "special" : ["RaySocket"]}
             ]
         },
         {
             "starting": 4,
             "month" : "February",
             "program": [
-                {"raid": ["Doflamingo","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina"], "fn": ["none"], "special" : ["RaySocket"]},
-                {"raid": ["Pica","Shanks"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["none"], "special" : ["RaySocket"]},
-                {"raid": ["Heracles","Usopp","Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Doflamingo","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi"], "special" : ["RaySocket"]},
+                {"raid": ["Pica","Shanks"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi"], "special" : ["RaySocket"]},
+                {"raid": ["Heracles","Usopp","Shanks"], "colo" : ["none"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["YoungNamiRobin",  "WandaCarrot", "Shirahoshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["Caesar", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]}
             ]
         },
         {
-          "starting": 11,
-          "month" : "February",
-          "program": [
-            {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]}
-          ]
+            "starting": 11,
+            "month" : "February",
+            "program": [
+                {"raid": ["Bartolomeo", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]}
+            ]
         },
         {
-          "starting": 18,
-          "month" : "February",
-          "program": [
-            {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-            {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
-          ]
+            "starting": 18,
+            "month" : "February",
+            "program": [
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["Fujitora", "Cavendish"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["Chopper", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 25,
+            "month" : "February",
+            "program": [
+                {"raid": ["Akainu", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["Ivankov", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]
         }
     ]
 }

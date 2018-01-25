@@ -355,6 +355,12 @@ function monthDays(month, day) {
         }
     }
 
+    if(month == "February"){
+        if(day == 28){
+            newDay = 1;
+        }
+    }
+
     return newDay;
 }
 

@@ -631,6 +631,7 @@ function specialModal(character) {
         var url;
         if(toDrop.hasOwnProperty("id")){
             url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
+            tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;
             if(toDrop.hasOwnProperty('missing')){
                 tiny = "https://onepiece-treasurecruise.com/wp-content/themes/onepiece-treasurecruise/images/noimage.png";
             }

@@ -8,77 +8,86 @@ var tzDifference = 60 + d.getTimezoneOffset();
 var offset = tzDifference * 60 * 1000;
 
 function UpdateClock() {
-    var tDate = new Date(new Date().getTime()+offset);
-    var year = tDate.getFullYear();
-    var formatter;
-    var month = tDate.getMonth() + 1;
-    dayOfClock = tDate.getDate();
-    var hourFormat = document.getElementById("hourFormat").checked ? false : true;
-    //alert(hourFormat);
+  var tDate = new Date(new Date().getTime()+offset);
+  var formatter;
+  var day;
+  var getDay;
+  var getMonth;
+  dayOfClock = tDate.getDate();
+  var hourFormat = document.getElementById("hourFormat").checked ? false : true;
+  //alert(hourFormat);
 
-    if(window.timezone) {
+  if(window.timezone) {
+    var options = {
+      timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+      hour: 'numeric',
+      minute: 'numeric',
+      second: 'numeric',
+      hour12 : hourFormat
+    }
+
+    getDay = {
+      timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
+      day: 'numeric'
+    }
+
+    getMonth = {
+      timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
+      month: 'numeric'
+    }
+
+    formatter = new Intl.DateTimeFormat([],options);
+    document.getElementById("clock").innerHTML = formatter.format(new Date()) + " " + options.timeZone;
+  } else {
+    if(window.jap){
       var options = {
-        timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        timeZone: 'Asia/Tokyo',
         hour: 'numeric',
         minute: 'numeric',
         second: 'numeric',
         hour12 : hourFormat
       }
 
-      formatter = new Intl.DateTimeFormat([],options);
-
-      document.getElementById("clock").innerHTML = formatter.format(new Date()) + " " + options.timeZone;
-    } else {
-      if(window.jap){
-        var options = {
-          timeZone: 'Asia/Tokyo',
-          hour: 'numeric',
-          minute: 'numeric',
-          second: 'numeric',
-          hour12 : hourFormat
-        }
-
-        formatter = new Intl.DateTimeFormat([], options);
-
-        document.getElementById("clock").innerHTML = formatter.format(new Date()) + " JST";
-      } else {
-        var options = {
-          timeZone: 'Pacific/Pitcairn',
-          hour: 'numeric',
-          minute: 'numeric',
-          second: 'numeric',
-          hour12 : hourFormat
-        }
-
-        formatter = new Intl.DateTimeFormat([], options);
-
-        document.getElementById("clock").innerHTML = formatter.format(new Date()) + " PST";
+      getDay = {
+        timeZone : 'Asia/Tokyo',
+        day: 'numeric'
       }
+
+      getMonth = {
+        timeZone : 'Asia/Tokyo',
+        month: 'numeric'
+      }
+
+      formatter = new Intl.DateTimeFormat([], options);
+
+      document.getElementById("clock").innerHTML = formatter.format(new Date()) + " JST";
+    } else {
+      var options = {
+        timeZone: 'Pacific/Pitcairn',
+        hour: 'numeric',
+        minute: 'numeric',
+        second: 'numeric',
+      }
+
+      getDay = {
+        timeZone : 'Pacific/Pitcairn',
+        day: 'numeric'
+      }
+
+      getMonth = {
+        timeZone : 'Pacific/Pitcairn',
+        month: 'numeric'
+      }
+
+      formatter = new Intl.DateTimeFormat([], options);
+
+      document.getElementById("clock").innerHTML = formatter.format(new Date()) + " PST";
     }
+  }
 
-
-
-//
-//     var in_hours = tDate.getHours()
-//     var in_minutes=tDate.getMinutes();
-//     var in_seconds= tDate.getSeconds();
-//
-//     if(in_minutes < 10)
-//         in_minutes = '0'+in_minutes;
-//     if(in_seconds<10)
-//         in_seconds = '0'+in_seconds;
-//     if(in_hours<10)
-//         in_hours = '0'+in_hours;
-//
-//    document.getElementById('clock').innerHTML = ""
-// //   				   + year + "-"
-// //                   + month + "-"
-// //                   + day + " "
-//                    + in_hours + ":"
-//                    + in_minutes + ":"
-//                    + in_seconds;
-   
-   setToday(month);
+  day = new Intl.DateTimeFormat([],getDay).format();
+  month = new Intl.DateTimeFormat([],getMonth).format();
+  setToday(parseInt(month),parseInt(day));
 
 }
 function StartClock() {
@@ -93,11 +102,11 @@ window.onload=function() {
   
 }
 
-function setToday(month){
+function setToday(month,day){
    for(i=0;i<7;i++){
        var dayGet = $('#day'+(i+1)).text();            
        var monthGet = $("#month").text();
-       if(dayOfClock == dayGet && numberToMonth(month) == monthGet){
+       if(day == dayGet && numberToMonth(month) == monthGet){
            $("#back" + (i+1)).css("background-color", "darkblue");
        } else {
            $("#back" + (i+1)).css("background-color", "rgb(27, 128, 205)");

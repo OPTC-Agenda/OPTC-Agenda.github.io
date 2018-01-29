@@ -36,7 +36,7 @@ function UpdateClock() {
         hour: 'numeric',
         minute: 'numeric',
         second: 'numeric',
-        hour12 : hourFormat
+        hour12: hourFormat
       }
 
       getDay = {
@@ -58,6 +58,7 @@ function UpdateClock() {
         hour: 'numeric',
         minute: 'numeric',
         second: 'numeric',
+        hour12: hourFormat
       }
 
       getDay = {

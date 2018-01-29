@@ -1,21 +1,12 @@
 var clockID;
-//var yourTimeZoneFrom = +1.00; //time zone value where you are at
-
-var d = new Date();  
-//get the timezone offset from local time in minutes
-var tzDifference = 60 + d.getTimezoneOffset();
-//convert the offset to milliseconds, add to targetTime, and make a new Date
-var offset = tzDifference * 60 * 1000;
 
 function UpdateClock() {
-  var tDate = new Date(new Date().getTime()+offset);
   var formatter;
   var day;
+  var month;
   var getDay;
   var getMonth;
-  dayOfClock = tDate.getDate();
   var hourFormat = document.getElementById("hourFormat").checked ? false : true;
-  //alert(hourFormat);
 
   if(window.timezone) {
     var options = {
@@ -94,16 +85,13 @@ function StartClock() {
    clockID = setInterval(UpdateClock, 500);
 }
 
-function KillClock() {
-  clearTimeout(clockID);
-}
+
 window.onload=function() {
   StartClock();
-  
 }
 
 function setToday(month,day){
-   for(i=0;i<7;i++){
+   for(var i=0;i<7;i++){
        var dayGet = $('#day'+(i+1)).text();            
        var monthGet = $("#month").text();
        if(day == dayGet && numberToMonth(month) == monthGet){

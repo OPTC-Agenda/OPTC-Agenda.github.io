@@ -4,8 +4,8 @@ function UpdateClock() {
   var formatter;
   var day;
   var month;
-  var getDayMonth;
-  var dayMonth;
+  var getDay;
+  var getMonth;
   var hourFormat = document.getElementById("hourFormat").checked ? false : true;
 
   if(window.timezone) {
@@ -17,10 +17,14 @@ function UpdateClock() {
       hour12 : hourFormat
     }
 
-    getDayMonth = {
+    getDay = {
       timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
-      day: 'numeric',
-      month : 'numeric'
+      day: 'numeric'
+    }
+
+    getMonth = {
+      timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
+      month: 'numeric'
     }
 
     formatter = new Intl.DateTimeFormat([],options);
@@ -35,10 +39,14 @@ function UpdateClock() {
         hour12: hourFormat
       }
 
-      getDayMonth = {
+      getDay = {
         timeZone : 'Asia/Tokyo',
-        day: 'numeric',
-        month : 'numeric'
+        day: 'numeric'
+      }
+
+      getMonth = {
+        timeZone : 'Asia/Tokyo',
+        month: 'numeric'
       }
 
       formatter = new Intl.DateTimeFormat([], options);
@@ -53,10 +61,14 @@ function UpdateClock() {
         hour12: hourFormat
       }
 
-      getDayMonth = {
+      getDay = {
         timeZone : 'Pacific/Pitcairn',
-        day: 'numeric',
-        month : 'numeric'
+        day: 'numeric'
+      }
+
+      getMonth = {
+        timeZone : 'Pacific/Pitcairn',
+        month: 'numeric'
       }
 
       formatter = new Intl.DateTimeFormat([], options);
@@ -65,9 +77,8 @@ function UpdateClock() {
     }
   }
 
-  dayMonth = new Intl.DateTimeFormat([],getDayMonth).format().split(" ");
-  day = dayMonth[0];
-  month = dayMonth[1];
+  day = new Intl.DateTimeFormat([],getDay).format();
+  month = new Intl.DateTimeFormat([],getMonth).format();
   setToday(parseInt(month),parseInt(day));
 
 }

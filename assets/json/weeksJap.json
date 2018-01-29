@@ -567,9 +567,9 @@
                 {"raid": ["Eneru", "Cavendish"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman"], "fn": ["BoaSisters", "TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["AceTM", "Sugofest","ColaCavern"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["VanderDecken","TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["AceTM", "Sugofest","ColaCavern","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["VanderDecken","TomWorkers", "Tontatta2", "SoulKing","AlvidaSpecial","UsoppSpecial"], "special" : ["Sugofest","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["LvlUp"]},
-                {"raid": ["SenorPink","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket"]},
-                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket"]}
+                {"raid": ["none"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["Sugofest","LvlUp"]},
+                {"raid": ["SenorPink","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket","Sugofest"]},
+                {"raid": [ "Kuma","Mihawk","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket","Sugofest"]}
             ]
         },
         {

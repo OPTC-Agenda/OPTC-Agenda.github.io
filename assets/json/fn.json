@@ -1240,5 +1240,13 @@
         "lastTimes": [],
         "books" : ["GoldenPound"],
         "drops": ["UsoppGP","MediumYellow"]
+    },
+    "SanjiGroom": {
+        "title": "Groom Sanji!",
+        "large": "assets/images/fn/big/sanjiPudding.png",
+        "tiny": "assets/images/fn/tiny/sanjiGroom.png",
+        "lastTimes": [],
+        "books" : [],
+        "drops": ["SanjiGroom","HP","ATK","RCV","Lobster3","Lobster4","ElderYellow","MediumYellow"]
     }
 }

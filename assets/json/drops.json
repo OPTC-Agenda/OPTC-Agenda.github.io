@@ -1176,6 +1176,14 @@
     "SanjiGroom" : {
       "id" : "1960",
       "missing" : "yes"
+    },
+    "VanderDecken" : {
+      "id" : "1946",
+      "missing" : "yes"
+    },
+    "Wadatsumi" : {
+      "id" : "1948",
+      "missing" : "yes"
     }
 
 }

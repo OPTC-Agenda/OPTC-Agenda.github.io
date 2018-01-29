@@ -911,8 +911,18 @@ function setMargin() {
 }
 
 function firstLoad() {
-    // Day from the agenda has to start    
-    var now = new Date();
+    // Day from the agenda has to start
+    var getDay = {
+      timeZone : 'Pacific/Pitcairn',
+      day : 'numeric',
+      weekday : 'long'
+    }
+    var now = new Intl.DateTimeFormat([],getDay).format();
+    var day = now.split(" ");
+    alert(day[0] + "  adas  " + day[1]);
+    day[1] = getWeekDay(day[1]);
+    alert(day[0] + "  adas  " + day[1]);
+
     var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
     var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
     var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
@@ -983,6 +993,34 @@ function firstLoad() {
         }
 
     });
+}
+
+function  getWeekDay(string) {
+  var day;
+  switch(string){
+    case "Sunday":
+      day = 0;
+      break;
+    case "Monday":
+      day = 1;
+      break;
+    case "Tuesday":
+      day = 2;
+      break;
+    case "Wednesday":
+      day = 3;
+      break;
+    case "Thursday":
+      day = 4;
+      break;
+    case "Friday":
+      day = 5;
+      break;
+    case "Saturday":
+      day = 6;
+      break;
+  }
+  return day;
 }
 
 // ,

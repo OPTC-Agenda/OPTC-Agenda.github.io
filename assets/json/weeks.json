@@ -537,38 +537,51 @@
             "month" : "January",
             "program": [
                 {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy"], "special" : ["RaySocket", "Cotton"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Blackbeard", "Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["GiollaBrook","Zeff", "ProposalNami", "RevolutionaryArmy","Cavendish6","Doffy6","Law6","Shanks6","Ace6"], "special" : ["RaySocket", "Cotton"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Cavendish6","Doffy6","Law6","Shanks6","Ace6"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Cavendish6","Doffy6","Law6","Shanks6","Ace6"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Kanjuro", "Drake", "Mr7","MissValentine"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Blackbeard6","Crocodile6","Luffy6","Corazon6","Kuzan6"], "special" : ["none"]},
+                {"raid": ["Blackbeard", "Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Blackbeard6","Crocodile6","Luffy6","Corazon6","Kuzan6"], "special" : ["none"]},
+                {"raid": ["Pica","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Blackbeard6","Crocodile6","Luffy6","Corazon6","Kuzan6"], "special" : ["none"]}
             ]
         },
         {
             "starting": 4,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley"], "special" : ["none"]}
+                {"raid": ["Eneru"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["none"]},
+                {"raid": ["Heracles","Usopp"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["LvlUpx3"]},
+                {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["MadameSharley","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Rayleigh"], "colo" : ["none"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Boa","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Bellamy","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]}
             ]
         },
         {
             "starting": 11,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley"], "special" : ["none"]},
+                {"raid": ["Sanji"], "colo" : ["none"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40","FreePull"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["Luffy30","Luffy40","FreePull"]},
+                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["FreePull"]}
+            ]
+        },
+        {
+            "starting": 18,
+            "month" : "February",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["FreePull"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

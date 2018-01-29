@@ -239,14 +239,14 @@ function showSpecial(flag) {
                         var foo = 'fnModal(\'' + character + '\')';
 
                         if (/^Cotton/.test(character) || /^Hime/.test(character)
-                            || character == "RaySocket" || character == "SugoIsland" || /^Summer/.test(character) || character == "SanjiLobster") {
+                            || character == "RaySocket" || character == "SugoIsland" || /^Summer/.test(character) || character == "SanjiLobster" || /^Luffy/.test(character)) {
                             if (timezone) {
                                 $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             } else {
                                 $("#list" + (i + 1) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
                             }
                         } else {
-                            if (character == "LvlUp") {
+                            if (/^LvlUp/.test(character)) {
                                 if ($(window).width() > 768) {
                                     if (timezone) {
                                         if(i==6){

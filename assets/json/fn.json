@@ -571,7 +571,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/blackbeard.png",
         "lastTimes": [],
-        "books" : ["Blackbeard6", "Ace", "FukuroStory", "AbdullahJeet", "DonSai", "Sentomaru", "DocQ", "Foxy", "Kikyo", "Zeff", "LapinAdult"],
+        "books" : ["Blackbeard6", "Ace", "FukuroStrongest", "AbdullahJeet", "DonSai", "Sentomaru", "DocQ", "Foxy", "Kikyo", "Zeff", "LapinAdult"],
         "drops": []
     },
     "Shirahoshi": {
@@ -604,7 +604,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/ray.png",
         "lastTimes": [],
-        "books" : ["Rayleigh", "NicoRobin", "MoriaShadow", "Dellinger", "Nami5+", "ChopperTS", "Mr2", "Bellamy", "Wyper", "Gyaro", "Minotaur"],
+        "books" : ["Rayleigh", "NicoRobin", "MoriaShadow", "Dellinger", "Nami5+", "NamiThunderbolt", "ChopperTS", "Mr2", "Bellamy", "Wyper", "Gyaro", "Minotaur"],
         "drops": []
     },
     "Jinbe6": {
@@ -662,7 +662,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/lucci6.png",
         "lastTimes": [],
-        "books" : ["Lucci6", "Urouge", "BluenoStrong", "Sanji3D2Y", "BastilleG5", "Sanji5+", "LucciSTR", "Hiriluk", "JabraINT", "Shoujou", "JohnGiant"],
+        "books" : ["Lucci6", "Lucci6+", "Urouge", "BluenoStrong", "Sanji3D2Y", "BastilleG5", "Sanji5+", "DiableJambe", "LucciSTR", "Hiriluk", "JabraINT", "Shoujou", "JohnGiant"],
         "drops": []
     },    
     "Whitebeard6": {
@@ -678,7 +678,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/sakazuki6.png",
         "lastTimes": [],
-        "books" : ["Sakazuki6", "ViviPrincess", "Blamenco", "KumaShooter", "Fossa", "OarsJr", "OnigumoINT", "Broggy", "Dalton", "AkainuStory", "Macro"],
+        "books" : ["Sakazuki6", "ViviPrincess", "Blamenco", "KumaShooter", "Fossa", "OarsJr", "OnigumoINT", "Dorry", "Dalton", "AkainuStory", "Macro"],
         "drops": []
     },
     "Boa6": {
@@ -686,7 +686,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/boa.png",
         "lastTimes": [],
-        "books" : ["Boa6", "Boa6+", "Jozu", "Inazuma", "TsuruG5", "Chopper5+", "Mr1Sword", "Pell", "Crocus", "OarsStory", "HannyabalStory", "Kashii"],
+        "books" : ["Boa6", "Boa6+", "Jozu", "Inazuma", "TsuruG5", "Chopper5+", "ChopperHeavyPoint", "Mr1Sword", "Pell", "Crocus", "OarsStory", "HannyabalStory", "Kashii"],
         "drops": []
     },
     "Bartolomeo6": {
@@ -694,7 +694,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/bartolomeo.png",
         "lastTimes": [],
-        "books" : ["Bartolomeo6", "TowelNami", "Kid", "Squard", "Vergo", "DonChinJao", "FunkBrothers", "MrPrince", "Ohm", "FukuroStory", "BoaSandersonia"],
+        "books" : ["Bartolomeo6", "TowelNami", "Kid", "Squard", "Vergo", "DonChinJao", "Blenheim", "MrPrince", "Ohm", "FukuroStory", "BoaSandersonia"],
         "drops": []
     },
     "Buggy6": {
@@ -702,7 +702,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/buggy6.png",
         "lastTimes": [],
-        "books" : ["Buggy6", "Hajrudin", "SmokerG5", "Shiryu", "Franky5+", "LaboonLuffyDrawing", "BluenoStory", "KumadoriSixPowers", "PeronaGiant", "GarpSTR", "Unluckies"],
+        "books" : ["Buggy6", "Hajrudin", "SmokerG5", "Shiryu", "Franky5+", "FrankyStraw", "LaboonLuffyDrawing", "BluenoStory", "KumadoriSixPowers", "PeronaGiant", "GarpSTR", "Unluckies"],
         "drops": []
     },    
     "Borsalino6": {
@@ -710,7 +710,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/borsalino.png",
         "lastTimes": [],
-        "books" : ["Borsalino6", "Shanks", "Izo", "KumadoriStrong", "Franky3D2Y", "VanAugur", "Brook5+", "Mr4", "Iceburg", "BoaMarigold", "Nezumi"],
+        "books" : ["Borsalino6", "Shanks", "Izo", "KumadoriStrong", "Franky3D2Y", "VanAugur", "Brook5+", "BrookDex", "Mr4", "Iceburg", "BoaMarigold", "Nezumi"],
         "drops": []
     },
     "Zoro6": {
@@ -718,7 +718,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/zoro.png",
         "lastTimes": [],
-        "books" : ["Zoro6", "Baby5", "Kyros", "Suleiman", "BrookTS", "KamiEneru", "SengokuINT", "Mr8", "Cerberus", "Yosaku"],
+        "books" : ["Zoro6", "Baby5", "Kyros", "Suleiman", "Zoro5+", "Ashura", "BrookTS", "KamiEneru", "SengokuINT", "Mr8", "Cerberus", "Yosaku"],
         "drops": []
     },
     "CountButler": {

@@ -336,3 +336,11 @@ form {
 #raidConditions {
     margin-bottom: 20px;
 }
+
+.rounded{
+    border-radius: 8px;
+}
+
+.buttonBox{
+    margin-top: 5px;
+}

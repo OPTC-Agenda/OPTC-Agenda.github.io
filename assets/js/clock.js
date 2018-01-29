@@ -3,33 +3,80 @@ var clockID;
 
 var d = new Date();  
 //get the timezone offset from local time in minutes
-var tzDifference = yourTimeZoneFrom * 60 + d.getTimezoneOffset();
+var tzDifference = 60 + d.getTimezoneOffset();
 //convert the offset to milliseconds, add to targetTime, and make a new Date
 var offset = tzDifference * 60 * 1000;
 
 function UpdateClock() {
     var tDate = new Date(new Date().getTime()+offset);
     var year = tDate.getFullYear();
+    var formatter;
     var month = tDate.getMonth() + 1;
     dayOfClock = tDate.getDate();
-    var in_hours = tDate.getHours()
-    var in_minutes=tDate.getMinutes();
-    var in_seconds= tDate.getSeconds();
+    var hourFormat = document.getElementById("hourFormat").checked ? false : true;
+    //alert(hourFormat);
 
-    if(in_minutes < 10)
-        in_minutes = '0'+in_minutes;
-    if(in_seconds<10)   
-        in_seconds = '0'+in_seconds;
-    if(in_hours<10) 
-        in_hours = '0'+in_hours;
+    if(window.timezone) {
+      var options = {
+        timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+        hour: 'numeric',
+        minute: 'numeric',
+        second: 'numeric',
+        hour12 : hourFormat
+      }
 
-   document.getElementById('clock').innerHTML = "" 
-//   				   + year + "-"
-//                   + month + "-"
-//                   + day + " "                    
-                   + in_hours + ":" 
-                   + in_minutes + ":" 
-                   + in_seconds;
+      formatter = new Intl.DateTimeFormat([],options);
+
+      document.getElementById("clock").innerHTML = formatter.format(new Date()) + " " + options.timeZone;
+    } else {
+      if(window.jap){
+        var options = {
+          timeZone: 'Asia/Tokyo',
+          hour: 'numeric',
+          minute: 'numeric',
+          second: 'numeric',
+          hour12 : hourFormat
+        }
+
+        formatter = new Intl.DateTimeFormat([], options);
+
+        document.getElementById("clock").innerHTML = formatter.format(new Date()) + " JST";
+      } else {
+        var options = {
+          timeZone: 'Pacific/Pitcairn',
+          hour: 'numeric',
+          minute: 'numeric',
+          second: 'numeric',
+          hour12 : hourFormat
+        }
+
+        formatter = new Intl.DateTimeFormat([], options);
+
+        document.getElementById("clock").innerHTML = formatter.format(new Date()) + " PST";
+      }
+    }
+
+
+
+//
+//     var in_hours = tDate.getHours()
+//     var in_minutes=tDate.getMinutes();
+//     var in_seconds= tDate.getSeconds();
+//
+//     if(in_minutes < 10)
+//         in_minutes = '0'+in_minutes;
+//     if(in_seconds<10)
+//         in_seconds = '0'+in_seconds;
+//     if(in_hours<10)
+//         in_hours = '0'+in_hours;
+//
+//    document.getElementById('clock').innerHTML = ""
+// //   				   + year + "-"
+// //                   + month + "-"
+// //                   + day + " "
+//                    + in_hours + ":"
+//                    + in_minutes + ":"
+//                    + in_seconds;
    
    setToday(month);
 

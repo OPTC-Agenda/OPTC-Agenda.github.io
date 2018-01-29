@@ -109,7 +109,6 @@ and open the template in the editor.
                                     <li><input type="checkbox" id="showFortnights" name="showFortnights" value="showFortnights" checked> Show Fortnights</li>                                      
                                     <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials</li>  
                                 </form>
-                                <li><a href="global_gmt.html">Go to Global GMT Time Zone</a></li>
                                 <li><a href="https://lukforce.bitbucket.io/optc-cal/" target="_blank">Go to Global month calendar view</a></li>
                             </ul>                        
                         </li>                    
@@ -149,8 +148,12 @@ and open the template in the editor.
                 <div class="row text-center">                 
                     <div class="center-arrow text-center"> <!-- col-lg-8 col-md-8 col-sm-8 -->
                         <h1 id="month" class="text-uppercase"></h1>
-                        <h3 class="fuso"><span id="clock"></span> PST</h3>
-                    </div>  
+                        <h3 class="fuso"><span id="clock"></span></h3>
+                    </div>
+                    <div class="row text-center buttonBox">
+                      <input type="button" id="timeZone" class="btn-primary rounded" onclick="location.href='global_gmt.html'">
+                      <input type="checkbox" id="hourFormat">24h</input>
+                    </div>
                 </div>
             </div>
         </aside>
@@ -461,6 +464,11 @@ and open the template in the editor.
             var timezone = false;
             var yourTimeZoneFrom = -8.00;
             var dayOfClock;
+
+            var timezoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            document.getElementById("timeZone").value = "Switch to " + timezoneName + " time zone ";
+
+
         </script>        
         
         <script src="assets/js/clock.js"></script>

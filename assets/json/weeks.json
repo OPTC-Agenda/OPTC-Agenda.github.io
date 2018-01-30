@@ -550,10 +550,10 @@
             "month" : "February",
             "program": [
                 {"raid": ["Eneru"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["none"]},
-                {"raid": ["Heracles","Usopp"], "colo" : ["none"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Heracles","Usopp"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["MadameSharley", "GiollaBrook","AfroLuffy", "ShanksBuggy", "Dadan","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["LvlUpx3"]},
                 {"raid": ["BusterCall"], "colo" : ["none"], "fn": ["MadameSharley","Zoro6","Boa6","Bartolomeo6","Buggy6","Borsalino6"], "special" : ["LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
-                {"raid": ["Rayleigh"], "colo" : ["none"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
+                {"raid": ["Rayleigh"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
                 {"raid": ["Boa","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Fujitora6","Mihawk6","Sabo6","Ray6","Jinbe6"], "special" : ["LvlUpx3"]},
                 {"raid": ["Bellamy","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]}
             ]
@@ -563,10 +563,10 @@
             "month" : "February",
             "program": [
                 {"raid": ["Sanji"], "colo" : ["none"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
+                {"raid": ["none"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["MadameSharley","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
                 {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40","FreePull"]},
+                {"raid": ["none"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["none"], "special" : ["Luffy30","Luffy40","FreePull"]},
                 {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["Luffy30","Luffy40","FreePull"]},
                 {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["none"], "special" : ["FreePull"]}
             ]

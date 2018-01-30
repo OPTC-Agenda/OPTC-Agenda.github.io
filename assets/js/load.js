@@ -66,8 +66,7 @@ function showRaid(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json;
-            weeks = weeks["weeks"];
+            var weeks = json.weeks;
             var prev = start;
             var cont;
 
@@ -78,7 +77,7 @@ function showRaid(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var raid = weeks[cont].program[i].raid;
+                var raid = json.weeks[cont].program[i].raid;
                 console.log(raid);
                 console.log(raidList);
                 if (raid[0] != "none") {
@@ -118,8 +117,7 @@ function showColo(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json;
-            weeks  = weeks["weeks"];
+            var weeks = json.weeks;
             var prev = start;
             var cont;
 
@@ -131,7 +129,7 @@ function showColo(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var colo = weeks[cont].program[i].colo;
+                var colo = json.weeks[cont].program[i].colo;
                 if (colo[0] != "none") {
                     for (j = 0; j < colo.length; j++) {
                         var character = colo[j];
@@ -171,20 +169,18 @@ function showFN(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json;
-            weeks = weeks["weeks"];
+            var weeks = json.weeks;
             var prev = start;
             var cont;
 
             for (i = 0; i < weeks.length; i++) {
                 if (weeks[i].month == month && weeks[i].starting == start) {
                     cont = i;
-                    break;
                 }
             }
 
             for (i = 0; i < 7; i++) {
-                var fn = weeks[cont].program[i].fn;
+                var fn = json.weeks[cont].program[i].fn;
                 if (fn[0] != "none") {
                     for (j = 0; j < fn.length; j++) {
                         var character = fn[j];
@@ -224,8 +220,7 @@ function showSpecial(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json;
-            weeks = weeks["weeks"];
+            var weeks = json.weeks;
             var prev = start;
             var cont;
 
@@ -236,7 +231,7 @@ function showSpecial(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var special = weeks[cont].program[i].special;
+                var special = json.weeks[cont].program[i].special;
                 if (special[0] != "none") {
                     for (j = 0; j < special.length; j++) {
                         var character = special[j];
@@ -744,8 +739,7 @@ function nextWeek(day, newMonth) {
     var month = newMonth;
 
     $.getJSON("assets/json/weeks.json", function (json) {
-        var weeks = json;
-        weeks = weeks["weeks"];
+        var weeks = json.weeks;
 //        var start = json.weeks[0].starting;        
         var prev = day;
         var previousWeek;
@@ -823,8 +817,7 @@ function prevWeek(day, newMonth) {
     var month = newMonth;
 
     $.getJSON("assets/json/weeks.json", function (json) {
-        var weeks = json;
-        weeks = weeks["weeks"];
+        var weeks = json.weeks;
 //        var start = json.weeks[0].starting;        
         var prev = day;
         var previousWeek;
@@ -918,55 +911,15 @@ function setMargin() {
 }
 
 function firstLoad() {
-    var getWeekDay;
-    var getDay;
-    if(window.timezone){
-      getWeekDay = {
-        timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
-        weekday : 'long'
-      };
-      getDay = {
-        timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
-        day : 'numeric',
-        month : 'numeric',
-        year : 'numeric'
-      }
-    } else {
-      if(window.jap){
-        getWeekDay = {
-          timeZone : 'Asia/Tokyo',
-          weekday : 'long'
-        };
-        getDay = {
-          timeZone : 'Asia/Tokyo',
-          day : 'numeric',
-          month : 'numeric',
-          year : 'numeric'
-        }
-      } else {
-        getWeekDay = {
-          timeZone : 'Pacific/Pitcairn',
-          weekday : 'long'
-        };
-        getDay = {
-          timeZone : 'Pacific/Pitcairn',
-          day : 'numeric',
-          month : 'numeric',
-          year : 'numeric'
-        }
-      }
-    }
+    // Day from the agenda has to start    
+    var now = new Date();
+    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
+    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
+    var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
+    var month = numberToMonth(lastMonth);
 
-    var now = new Intl.DateTimeFormat([],getDay).format();
-    var dayWeek = new Intl.DateTimeFormat([],getWeekDay).format();
-    var mdy = now.split("/");
-    dayWeek = weekDayNumber(dayWeek);
-    var start = (mdy[1]-dayWeek) > 0 ? (mdy[1]-dayWeek) : daysPerMonth(mdy[0]) - (dayWeek - mdy[1]) + 1;
-    var month = numberToMonth(parseInt(mdy[0]));
-
-    $.getJSON('assets/json/weeks.json', function (json) {
-        var weeks = json;
-        weeks = weeks["weeks"];
+    $.getJSON("assets/json/weeks.json", function (json) {
+        var weeks = json.weeks;
         var prev = start;
         var previousWeek;
         var previousMonth;
@@ -1030,43 +983,6 @@ function firstLoad() {
         }
 
     });
-}
-
-function  weekDayNumber(string) {
-  switch(string){
-    case "Sunday":
-      return 0;
-    case "Monday":
-      return 1;
-    case "Tuesday":
-      return 2;
-    case "Wednesday":
-      return 3;
-    case "Thursday":
-      return 4;
-    case "Friday":
-      return 5;
-    case "Saturday":
-      return 6;
-  }
-}
-
-function daysPerMonth(number,year) {
-  switch(number){
-    case 11:
-    case 4:
-    case 6:
-    case 9:
-      return 30;
-    case 2:
-      if(year%4 == 0){
-        return 29;
-      } else {
-        return 28;
-      }
-    default:
-      return 31;
-  }
 }
 
 // ,

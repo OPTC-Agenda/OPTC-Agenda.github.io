@@ -30,7 +30,7 @@ function UpdateClock() {
     formatter = new Intl.DateTimeFormat([],options);
     document.getElementById("clock").innerHTML = formatter.format(new Date()) + " " + options.timeZone;
   } else {
-    if(window.jap){
+    if(window.japSet){
       var options = {
         timeZone: 'Asia/Tokyo',
         hour: 'numeric',
@@ -89,7 +89,6 @@ function StartClock() {
 
 window.onload=function() {
   StartClock();
-  timezone = false;
 }
 
 function setToday(month,day){
@@ -150,17 +149,11 @@ function numberToMonth(number) {
 }
 
 function changeButton() {
-  if(timezone){
-    document.getElementById("changeTimeZone").value = "Switch to " + Intl.DateTimeFormat().resolvedOptions().timeZone + " timezone";
-    timezone = false;
-    location.reload();
-  } else {
-    if(japSet){
-      document.getElementById("changeTimeZone").value = "Switch to JST";
+  if(japSet){
+    if(timezone){
+      document.getElementById("changeTimeZone").value = "Switch to " + Intl.DateTimeFormat().resolvedOptions().timeZone + " timezone";
     } else {
       document.getElementById("changeTimeZone").value = "Switch to PST";
     }
-    timezone = true;
-    location.reload();
   }
 }

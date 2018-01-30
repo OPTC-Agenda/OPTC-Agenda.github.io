@@ -33,17 +33,14 @@ and open the template in the editor.
                 i['GoogleAnalyticsObject'] = r;
                 i[r] = i[r] || function () {
                     (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-                        m = s.getElementsByTagName(o)[0];
-                a.async = 1;
+                };
+                i[r].l = 1 * new Date();
+                a = s.createElement(o);
+                m = s.getElementsByTagName(o)[0];
+                a.async = true;
                 a.src = g;
                 m.parentNode.insertBefore(a, m)
             })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-            ga('create', 'UA-97593435-1', 'auto');
-            ga('send', 'pageview');
-
         </script>
 
         <header>                    
@@ -51,6 +48,7 @@ and open the template in the editor.
                 <div class="row">
                     <h1 class="text-uppercase text-center">JAP OPTC Agenda</h1>            
                 </div>
+            </div>
         </header>
 
         <!-- In this nav the user can choose:  
@@ -109,11 +107,11 @@ and open the template in the editor.
                                     <li><input type="checkbox" id="showRaid" name="showRaid" value="showRaid" checked> Show Raids<br></li>
                                     <li><input type="checkbox" id="showColiseum" name="showColiseum" value="showColiseum" checked> Show Coliseums<br></li>      
                                     <li><input type="checkbox" id="showFortnights" name="showFortnights" value="showFortnights" checked> Show Fortnights<br></li>                                      
-                                    <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials<br></li>  
+                                    <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials<br></li>
                                 </form>
                                 <li><a href="global_gmt.html">Go to Global GMT Time Zone</a></li>
                                 <li><a href="index.html">Go to Global PST Time Zone</a></li> 
-                            </ul>                        
+                            </ul>
                         </li>                    
                         <li class="dropdown">
                             <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Youtubers<span class="caret"></span></a>
@@ -157,7 +155,8 @@ and open the template in the editor.
                         <h3 class="fuso"><span id="clock"></span></h3>
                     </div>
                     <div class="row text-center">
-                      <input type="checkbox" id="hourFormat">24h</input>
+                      <input type="button" id="changeTimeZone" class="btn-primary rounded" onclick="changeButton()">
+                      <input type="checkbox" id="hourFormat">24h
                     </div>
                     <a class="next bigSee" href="#" onclick="empty()">
                         <div class="arrow-right"></div>
@@ -277,7 +276,7 @@ and open the template in the editor.
             <a href="https://www.facebook.com/OptcAgenda/"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>       
             <a href="https://twitter.com/OptcAgenda"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
 
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top" onsubmit="ga('send', 'event', 'Donation', 'button', 'Send Donation');">
+            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
                 <input type="hidden" name="cmd" value="_s-xclick">
                 <input type="hidden" name="hosted_button_id" value="7EK9EX5PSG334">
                 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
@@ -459,7 +458,10 @@ and open the template in the editor.
         <script type="text/javascript">
             var timezone = false;
             var jap = true;
-            var yourTimeZoneFrom = +9.00;
+
+            var timezoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
+            document.getElementById("changeTimeZone").value = "Switch to " + timezoneName + " time zone ";
+
         </script>        
         
         <script src="assets/js/loadJap.js"></script>

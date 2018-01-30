@@ -169,13 +169,15 @@ function showFN(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json.weeks;
+            var weeks = json;
+            weeks = weeks["weeks"];
             var prev = start;
             var cont;
 
             for (i = 0; i < weeks.length; i++) {
                 if (weeks[i].month == month && weeks[i].starting == start) {
                     cont = i;
+                    break;
                 }
             }
 
@@ -911,15 +913,46 @@ function setMargin() {
 }
 
 function firstLoad() {
-    // Day from the agenda has to start    
-    var now = new Date();
-    var today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
-    var start = (new Date(today.setDate(today.getDate() - today.getDay()))).getDate();
-    var lastMonth = (new Date(today.setDate(today.getDate() - today.getDay()))).getMonth() + 1;
-    var month = numberToMonth(lastMonth);
+    var getDay;
+    if(window.timezone){
+      getDay = {
+        timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
+        day : 'numeric',
+        weekday : 'long',
+        month : 'numeric',
+        year : 'numeric'
+      }
+    } else {
+      if(window.jap){
+        getDay = {
+          timeZone : 'Asia/Tokyo',
+          day : 'numeric',
+          weekday : 'long',
+          month : 'numeric',
+          year : 'numeric'
+        }
+      } else {
+        getDay = {
+          timeZone : 'Pacific/Pitcairn',
+          day : 'numeric',
+          weekday : 'long',
+          month : 'numeric',
+          year : 'numeric'
+        }
+      }
+    }
 
-    $.getJSON("assets/json/weeks.json", function (json) {
-        var weeks = json.weeks;
+    var now = new Intl.DateTimeFormat([],getDay).format();
+    var array = now.split(",");
+    var dayWeek = array[0];
+    var mdy = array[1].trim().split("/");
+    dayWeek = weekDayNumber(dayWeek);
+    var start = (mdy[1]-dayWeek) > 0 ? (mdy[1]-dayWeek) : daysPerMonth(mdy[0]) - (dayWeek - mdy[1]) + 1;
+    var month = numberToMonth(parseInt(mdy[0]));
+
+    $.getJSON('assets/json/weeks.json', function (json) {
+        var weeks = json;
+        weeks = weeks["weeks"];
         var prev = start;
         var previousWeek;
         var previousMonth;
@@ -983,6 +1016,43 @@ function firstLoad() {
         }
 
     });
+}
+
+function  weekDayNumber(string) {
+  switch(string){
+    case "Sunday":
+      return 0;
+    case "Monday":
+      return 1;
+    case "Tuesday":
+      return 2;
+    case "Wednesday":
+      return 3;
+    case "Thursday":
+      return 4;
+    case "Friday":
+      return 5;
+    case "Saturday":
+      return 6;
+  }
+}
+
+function daysPerMonth(number,year) {
+  switch(number){
+    case 11:
+    case 4:
+    case 6:
+    case 9:
+      return 30;
+    case 2:
+      if(year%4 == 0){
+        return 29;
+      } else {
+        return 28;
+      }
+    default:
+      return 31;
+  }
 }
 
 // ,

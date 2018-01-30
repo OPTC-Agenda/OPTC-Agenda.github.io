@@ -4,8 +4,8 @@ function UpdateClock() {
   var formatter;
   var day;
   var month;
-  var getDay;
-  var getMonth;
+  var getDayMonth;
+  var monthDay;
   var hourFormat = document.getElementById("hourFormat").checked ? false : true;
 
   if(window.timezone) {
@@ -17,14 +17,10 @@ function UpdateClock() {
       hour12 : hourFormat
     }
 
-    getDay = {
+    getDayMonth = {
       timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
-      day: 'numeric'
-    }
-
-    getMonth = {
-      timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
-      month: 'numeric'
+      day: 'numeric',
+      month : 'numeric'
     }
 
     formatter = new Intl.DateTimeFormat([],options);
@@ -39,13 +35,9 @@ function UpdateClock() {
         hour12: hourFormat
       }
 
-      getDay = {
+      getDayMonth = {
         timeZone : 'Asia/Tokyo',
-        day: 'numeric'
-      }
-
-      getMonth = {
-        timeZone : 'Asia/Tokyo',
+        day: 'numeric',
         month: 'numeric'
       }
 
@@ -61,13 +53,9 @@ function UpdateClock() {
         hour12: hourFormat
       }
 
-      getDay = {
+      getDayMonth = {
         timeZone : 'Pacific/Pitcairn',
-        day: 'numeric'
-      }
-
-      getMonth = {
-        timeZone : 'Pacific/Pitcairn',
+        day: 'numeric',
         month: 'numeric'
       }
 
@@ -77,8 +65,9 @@ function UpdateClock() {
     }
   }
 
-  day = new Intl.DateTimeFormat([],getDay).format();
-  month = new Intl.DateTimeFormat([],getMonth).format();
+  monthDay = new Intl.DateTimeFormat([],getDayMonth).format().split("/");
+  day = monthDay[1];
+  month = monthDay[0];
   setToday(parseInt(month),parseInt(day));
 
 }
@@ -146,4 +135,18 @@ function numberToMonth(number) {
     }
 
     return month;
+}
+
+function changeButton() {
+  if(window.timezone){
+    document.getElementById("changeTimeZone").value = "Switch to " + Intl.DateTimeFormat().resolvedOptions().timeZone + " timezone";
+    window.timezone = false;
+  } else {
+    if(window.jap){
+      document.getElementById("changeTimeZone").value = "Switch to JST";
+    } else {
+      document.getElementById("changeTimeZone").value = "Switch to PST";
+    }
+    window.timezone = true;
+  }
 }

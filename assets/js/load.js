@@ -913,29 +913,39 @@ function setMargin() {
 }
 
 function firstLoad() {
+    var getWeekDay;
     var getDay;
     if(window.timezone){
+      getWeekDay = {
+        timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
+        weekday : 'long'
+      };
       getDay = {
         timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
         day : 'numeric',
-        weekday : 'long',
         month : 'numeric',
         year : 'numeric'
       }
     } else {
       if(window.jap){
+        getWeekDay = {
+          timeZone : 'Asia/Tokyo',
+          weekday : 'long'
+        };
         getDay = {
           timeZone : 'Asia/Tokyo',
           day : 'numeric',
-          weekday : 'long',
           month : 'numeric',
           year : 'numeric'
         }
       } else {
+        getWeekDay = {
+          timeZone : 'Pacific/Pitcairn',
+          weekday : 'long'
+        };
         getDay = {
           timeZone : 'Pacific/Pitcairn',
           day : 'numeric',
-          weekday : 'long',
           month : 'numeric',
           year : 'numeric'
         }
@@ -943,9 +953,8 @@ function firstLoad() {
     }
 
     var now = new Intl.DateTimeFormat([],getDay).format();
-    var array = now.split(",");
-    var dayWeek = array[0];
-    var mdy = array[1].trim().split("/");
+    var dayWeek = new Intl.DateTimeFormat([],getWeekDay).format();
+    var mdy = now.split("/");
     dayWeek = weekDayNumber(dayWeek);
     var start = (mdy[1]-dayWeek) > 0 ? (mdy[1]-dayWeek) : daysPerMonth(mdy[0]) - (dayWeek - mdy[1]) + 1;
     var month = numberToMonth(parseInt(mdy[0]));

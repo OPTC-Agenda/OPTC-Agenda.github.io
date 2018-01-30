@@ -66,7 +66,8 @@ function showRaid(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json.weeks;
+            var weeks = json;
+            weeks = weeks["weeks"];
             var prev = start;
             var cont;
 
@@ -77,7 +78,7 @@ function showRaid(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var raid = json.weeks[cont].program[i].raid;
+                var raid = weeks[cont].program[i].raid;
                 console.log(raid);
                 console.log(raidList);
                 if (raid[0] != "none") {
@@ -117,7 +118,8 @@ function showColo(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json.weeks;
+            var weeks = json;
+            weeks  = weeks["weeks"];
             var prev = start;
             var cont;
 
@@ -129,7 +131,7 @@ function showColo(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var colo = json.weeks[cont].program[i].colo;
+                var colo = weeks[cont].program[i].colo;
                 if (colo[0] != "none") {
                     for (j = 0; j < colo.length; j++) {
                         var character = colo[j];
@@ -182,7 +184,7 @@ function showFN(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var fn = json.weeks[cont].program[i].fn;
+                var fn = weeks[cont].program[i].fn;
                 if (fn[0] != "none") {
                     for (j = 0; j < fn.length; j++) {
                         var character = fn[j];
@@ -222,7 +224,8 @@ function showSpecial(flag) {
         var month = $("#month").text();
 
         $.getJSON("assets/json/weeks.json", function (json) {
-            var weeks = json.weeks;
+            var weeks = json;
+            weeks = weeks["weeks"];
             var prev = start;
             var cont;
 
@@ -233,7 +236,7 @@ function showSpecial(flag) {
             }
 
             for (i = 0; i < 7; i++) {
-                var special = json.weeks[cont].program[i].special;
+                var special = weeks[cont].program[i].special;
                 if (special[0] != "none") {
                     for (j = 0; j < special.length; j++) {
                         var character = special[j];
@@ -741,7 +744,8 @@ function nextWeek(day, newMonth) {
     var month = newMonth;
 
     $.getJSON("assets/json/weeks.json", function (json) {
-        var weeks = json.weeks;
+        var weeks = json;
+        weeks = weeks["weeks"];
 //        var start = json.weeks[0].starting;        
         var prev = day;
         var previousWeek;
@@ -819,7 +823,8 @@ function prevWeek(day, newMonth) {
     var month = newMonth;
 
     $.getJSON("assets/json/weeks.json", function (json) {
-        var weeks = json.weeks;
+        var weeks = json;
+        weeks = weeks["weeks"];
 //        var start = json.weeks[0].starting;        
         var prev = day;
         var previousWeek;

@@ -151,7 +151,7 @@ and open the template in the editor.
                         <h3 class="fuso"><span id="clock"></span></h3>
                     </div>
                     <div class="row text-center buttonBox">
-                      <input type="button" id="changeTimeZone" class="btn-primary rounded" onclick="changeButton()">
+                      <input type="button" id="changeTimeZone" class="btn-primary rounded" onclick="location.href = 'global_gmt.html'">
                       <input type="checkbox" id="hourFormat">24h</input>
                     </div>
                 </div>
@@ -462,14 +462,13 @@ and open the template in the editor.
 
         <script type="text/javascript">
             var timezone = false;
-            var yourTimeZoneFrom = -8.00;
-            var dayOfClock;
+            var japSet = false;
 
             var timezoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
             document.getElementById("changeTimeZone").value = "Switch to " + timezoneName + " time zone ";
 
 
-        </script>        
+        </script>
         
         <script src="assets/js/clock.js"></script>
         <script src="assets/js/load.js"></script>        

@@ -89,6 +89,7 @@ function StartClock() {
 
 window.onload=function() {
   StartClock();
+  timezone = false;
 }
 
 function setToday(month,day){
@@ -149,15 +150,17 @@ function numberToMonth(number) {
 }
 
 function changeButton() {
-  if(window.timezone){
+  if(timezone){
     document.getElementById("changeTimeZone").value = "Switch to " + Intl.DateTimeFormat().resolvedOptions().timeZone + " timezone";
-    window.timezone = false;
+    timezone = false;
+    location.reload();
   } else {
-    if(window.jap){
+    if(japSet){
       document.getElementById("changeTimeZone").value = "Switch to JST";
     } else {
       document.getElementById("changeTimeZone").value = "Switch to PST";
     }
-    window.timezone = true;
+    timezone = true;
+    location.reload();
   }
 }

@@ -21,7 +21,7 @@ function showIcon() {
 }
 
 $(document).ready(function () {
-
+  
     showIcon();
     setMargin();
     firstLoad();

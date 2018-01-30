@@ -152,8 +152,10 @@ function changeButton() {
   if(japSet){
     if(timezone){
       document.getElementById("changeTimeZone").value = "Switch to " + Intl.DateTimeFormat().resolvedOptions().timeZone + " timezone";
+      timezone = false;
     } else {
-      document.getElementById("changeTimeZone").value = "Switch to PST";
+      document.getElementById("changeTimeZone").value = "Switch to JST";
+      timezone = true;
     }
   }
 }

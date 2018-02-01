@@ -95,7 +95,7 @@ function setToday(month,day){
    for(var i=0;i<7;i++){
        var dayGet = $('#day'+(i+1)).text();            
        var monthGet = $("#month").text();
-       if(day == dayGet && numberToMonth(month) == monthGet){
+       if(day == dayGet && (numberToMonth(month) == monthGet || numberToMonth((month-1)%12) == monthGet)){
            $("#back" + (i+1)).css("background-color", "darkblue");
        } else {
            $("#back" + (i+1)).css("background-color", "rgb(27, 128, 205)");

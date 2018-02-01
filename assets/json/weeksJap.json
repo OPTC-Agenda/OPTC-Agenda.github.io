@@ -580,32 +580,32 @@
                 {"raid": ["Pica","Shanks"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket"]},
                 {"raid": ["Heracles","Usopp","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["Caesar", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["Boa", "Whitebeard"], "colo" : ["none"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["Caesar", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]}
             ]
         },
         {
             "starting": 11,
             "month" : "February",
             "program": [
-                {"raid": ["Bartolomeo", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
-                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]}
+                {"raid": ["Bartolomeo", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]}
             ]
         },
         {
             "starting": 18,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
-                {"raid": ["Fujitora", "Cavendish"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
-                {"raid": ["Chopper", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
+                {"raid": ["Fujitora", "Cavendish"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
+                {"raid": ["Chopper", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
                 {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]},
                 {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "Sengoku", "BigMomPirates"], "special" : ["none"]}

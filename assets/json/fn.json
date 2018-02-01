@@ -1256,5 +1256,13 @@
       "lastTimes": [],
       "books" : ["LucciV2","FrankyTS","HodyQCK","LawLog","DiamanteQCK","CavendishDEX"],
       "drops": ["VanderDecken","Wadatsumi"]
+    },
+    "PuddingBride": {
+        "title": "Bride Pudding!",
+        "large": "assets/images/fn/big/sanjiPudding.png",
+        "tiny": "assets/images/fn/tiny/puddingBride.png",
+        "lastTimes": [],
+        "books" : [],
+        "drops": ["PuddingBride","HP","ATK","RCV","Lobster3","Lobster4","ElderPurple","MediumPurple"]
     }
 }

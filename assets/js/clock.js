@@ -4,72 +4,73 @@ function UpdateClock() {
   var formatter;
   var day;
   var month;
+  var options;
   var getDay;
   var getMonth;
-  var hourFormat = document.getElementById("hourFormat").checked ? false : true;
+  var hourFormat = !document.getElementById("hourFormat").checked;
 
   if(window.timezone) {
-    var options = {
+    options = {
       timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
       hour: 'numeric',
       minute: 'numeric',
       second: 'numeric',
       hour12 : hourFormat
-    }
+    };
 
     getDay = {
       timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
       day: 'numeric'
-    }
+    };
 
     getMonth = {
       timeZone : Intl.DateTimeFormat().resolvedOptions().timeZone,
       month: 'numeric'
-    }
+    };
 
     formatter = new Intl.DateTimeFormat([],options);
     document.getElementById("clock").innerHTML = formatter.format(new Date()) + " " + options.timeZone;
   } else {
     if(window.japSet){
-      var options = {
+      options = {
         timeZone: 'Asia/Tokyo',
         hour: 'numeric',
         minute: 'numeric',
         second: 'numeric',
         hour12: hourFormat
-      }
+      };
 
       getDay = {
         timeZone : 'Asia/Tokyo',
         day: 'numeric'
-      }
+      };
 
       getMonth = {
         timeZone : 'Asia/Tokyo',
         month: 'numeric'
-      }
+      };
 
       formatter = new Intl.DateTimeFormat([], options);
 
       document.getElementById("clock").innerHTML = formatter.format(new Date()) + " JST";
     } else {
-      var options = {
+      options = {
         timeZone: 'Pacific/Pitcairn',
         hour: 'numeric',
         minute: 'numeric',
         second: 'numeric',
         hour12: hourFormat
-      }
+      };
 
       getDay = {
         timeZone : 'Pacific/Pitcairn',
         day: 'numeric'
-      }
+      };
 
       getMonth = {
         timeZone : 'Pacific/Pitcairn',
         month: 'numeric'
-      }
+      };
 
       formatter = new Intl.DateTimeFormat([], options);
 
@@ -89,7 +90,7 @@ function StartClock() {
 
 window.onload=function() {
   StartClock();
-}
+};
 
 function setToday(month,day){
    for(var i=0;i<7;i++){

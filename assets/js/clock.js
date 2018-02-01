@@ -95,7 +95,7 @@ function setToday(month,day){
    for(var i=0;i<7;i++){
        var dayGet = $('#day'+(i+1)).text();            
        var monthGet = $("#month").text();
-       if(day == dayGet && (numberToMonth(month) == monthGet || numberToMonth((month-1)%12) == monthGet)){
+       if(day == dayGet && (month == monthToNumber(monthGet) || month == (monthToNumber(monthGet)+1)%12)){
            $("#back" + (i+1)).css("background-color", "darkblue");
        } else {
            $("#back" + (i+1)).css("background-color", "rgb(27, 128, 205)");
@@ -103,49 +103,43 @@ function setToday(month,day){
    } 
 }
 
-function numberToMonth(number) {
-    var month;
+function monthToNumber(month){
+  try{
+    return new Date(month + " 1, 2012").getMonth()+1;
+  } catch(e) {
+    return monthToNumberB(month);
+  }
 
-    switch (number) {
-        case 1:
-            month = "January";
-            break;
-        case 2:
-            month = "February";
-            break;
-        case 3:
-            month = "March";
-            break;
-        case 4:
-            month = "April";
-            break;
-        case 5:
-            month = "May";
-            break;
-        case 6:
-            month = "June";
-            break;
-        case 7:
-            month = "July";
-            break;
-        case 8:
-            month = "August";
-            break;
-        case 9:
-            month = "September";
-            break;
-        case 10:
-            month = "October";
-            break;
-        case 11:
-            month = "November";
-            break;
-        case 12:
-            month = "December";
-            break;
-    }
+}
 
-    return month;
+function  monthToNumberB(month) {
+  switch (month){
+    case "January":
+      return 1;
+    case "February":
+      return 2;
+    case "March":
+      return 3;
+    case "April":
+      return 4;
+    case "May":
+      return 5;
+    case "June":
+      return 6;
+    case "July":
+      return 7;
+    case "August":
+      return 8;
+    case "September":
+      return 9;
+    case "October":
+      return 10;
+    case "November":
+      return 11;
+    case "December":
+      return 12;
+  }
+
 }
 
 function changeButton() {

@@ -269,7 +269,7 @@
         "books": ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
         "drops": ["Camie", "HatchanShop", "Pappagu"]
     },
-    "Soldatino": {
+    "ToySoldier": {
         "title": "Soldier-san's Training!",
         "large": "assets/images/fn/big/rebecca_and_kyros.png",
         "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",

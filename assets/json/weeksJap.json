@@ -578,7 +578,7 @@
             "program": [
                 {"raid": ["Doflamingo","SaboKai","Shanks"], "colo" : ["Pedro", "Franky","Ideo","Jozu","Hina","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket"]},
                 {"raid": ["Pica","SaboKai","Shanks"], "colo" : ["Gladius","Capone","Dellinger","Arlong","Beckman","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","AlvidaSpecial","UsoppSpecial","SanjiGroom"], "special" : ["RaySocket"]},
-                {"raid": ["Heracles","Usopp","SaboKai","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["CelestialDragons"]},
+                {"raid": ["Heracles","Usopp","SaboKai","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["none"]},
                 {"raid": ["SaboKai"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["CelestialDragons"]},
                 {"raid": ["SaboKai"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
                 {"raid": ["Boa", "SaboKai", "Whitebeard"], "colo" : ["none"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
@@ -593,7 +593,7 @@
                 {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Booster","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Booster","CelestialDragons","LvlUp"]},
                 {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Evolver","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Booster","CottonX3","LvlUp"]}
             ]

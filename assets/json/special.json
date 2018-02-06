@@ -169,6 +169,12 @@
         "drops": ["ElderRed","ElderBlue","ElderGreen","ElderYellow","ElderPurple","Socket1","Socket2","Socket3",
             "Socket4","Socket5","Socket6","Socket7","Socket8","Socket9","Socket10","Socket11","HP","ATK","RCV",
             "Lobster3","Lobster4","Cola"]
+    },
+    "CelestialDragons" : {
+        "title": "Celestial Dragons Island!",
+        "large": "assets/images/special/celestialDragonsBig.png",
+        "tiny": "assets/images/special/celestialDragons.png",
+        "drops": ["SaintCharlos", "SaintRoswald", "SaintShalria"]
     }
 
 }

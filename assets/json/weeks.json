@@ -564,32 +564,32 @@
             "program": [
                 {"raid": ["Sanji"], "colo" : ["none"], "fn": ["MadameSharley","NicoOlvia","DonquixotePirates","ToySoldier","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["MadameSharley","NicoOlvia","DonquixotePirates","ToySoldier","Sakazuki6","Lucci6","Sengoku6","Whitebeard6","Marco6"], "special" : ["LvlUpx3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40"]},
                 {"raid": ["none"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40"]},
-                {"raid": ["none"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40","FreePull"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40","FreePull"]},
-                {"raid": ["Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["Brook","ProposalNami","World"], "special" : ["FreePull"]}
+                {"raid": ["none"], "colo" : ["Apoo","Urouge","Kid","Capone","Hawkins"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40","FreePull"]},
+                {"raid": ["Akainu","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["Luffy30","Luffy40","FreePull"]},
+                {"raid": ["Kizaru","Mihawk"], "colo" : ["Sicilian", "Diamante", "Marco", "Kuro", "LuckyRoo"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["FreePull"]}
             ]
         },
         {
             "starting": 18,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook","ProposalNami","World"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Brook","ProposalNami","World"], "special" : ["FreePull"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["FreePull"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]}
             ]
         },
         {
             "starting": 25,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},

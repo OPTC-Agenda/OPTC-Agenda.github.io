@@ -1191,8 +1191,16 @@
     "PuddingBride" : {
       "id" : "1962",
       "missing" : "yes"
+    },
+    "SaintCharlos" : {
+      "id" : "963"
+    },
+    "SaintRoswald" : {
+      "id" : "964"
+    },
+    "SaintShalria" : {
+      "id" : "965"
     }
-
 }
 
 

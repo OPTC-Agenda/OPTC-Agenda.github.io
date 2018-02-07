@@ -1200,6 +1200,14 @@
     },
     "SaintShalria" : {
       "id" : "965"
+    },
+    "OarsQCK" : {
+      "id" : "",
+      "missing" : "yes"
+    },
+    "HogbackPSY" : {
+      "id" : "",
+      "missing" : "yes"
     }
 }
 

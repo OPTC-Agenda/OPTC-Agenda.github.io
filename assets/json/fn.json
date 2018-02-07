@@ -1264,5 +1264,13 @@
         "lastTimes": [],
         "books" : [],
         "drops": ["PuddingBride","HP","ATK","RCV","Lobster3","Lobster4","ElderPurple","MediumPurple"]
+    },
+    "OarsHogback": {
+        "title": "Oars and Hogback!",
+        "large": "",
+        "tiny": "assets/images/fn/tiny/oarsHogback.png",
+        "lastTimes": [],
+        "books" : ["Lucy6","SanjiTS","BartoQCK","AkainuDEX","Yonji","ZeoStory"],
+        "drops": ["OarsQCK","HogbackPSY"]
     }
 }

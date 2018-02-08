@@ -581,28 +581,28 @@
                 {"raid": ["Heracles","Usopp","SaboKai","Shanks"], "colo" : ["none"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["none"]},
                 {"raid": ["SaboKai"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","YoungNamiRobin",  "WandaCarrot", "Shirahoshi","SanjiGroom"], "special" : ["CelestialDragons"]},
                 {"raid": ["SaboKai"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["Boa", "SaboKai", "Whitebeard"], "colo" : ["none"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["Caesar", "SaboKai", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]}
+                {"raid": ["Boa", "SaboKai", "Whitebeard"], "colo" : ["none"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
+                {"raid": ["Caesar", "SaboKai", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]}
             ]
         },
         {
             "starting": 11,
             "month" : "February",
             "program": [
-                {"raid": ["Bartolomeo", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["CelestialDragons"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Booster","CelestialDragons","LvlUp"]},
-                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Evolver","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Booster","CottonX3","LvlUp"]}
+                {"raid": ["Bartolomeo", "Whitebeard"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
+                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Booster","CelestialDragons","LvlUp"]},
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Evolver","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Booster","CottonX3","LvlUp"]}
             ]
         },
         {
             "starting": 18,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","Evolver","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","CottonX3","Evolver","LvlUp"]},
                 {"raid": ["Fujitora", "Cavendish"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},
                 {"raid": ["Chopper", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},

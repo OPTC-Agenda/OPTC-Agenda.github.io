@@ -158,9 +158,7 @@
     },
     "AceTM": {
         "title": "Ace Treasure Map!",
-        "large": "assets/images/fn/big/ace_tm.png",
-        "tiny": "assets/images/fn/tiny/ace_tm.png",
-        "drops": ["AceTM"]
+        "tiny": "assets/images/special/ace_tm.png"
     },
     "BuggyTreasure": {
         "title": "Buggy Treasure Island!",
@@ -181,9 +179,7 @@
     },
     "SaboTM": {
       "title": "Sabo Valentine Treasure Map!",
-      "large": "assets/images/special/saboTMBig.png",
-      "tiny": "assets/images/special/saboTM.png",
-      "drops": ["SaboTM"]
+      "tiny": "assets/images/special/saboTM.png"
     }
 
 }

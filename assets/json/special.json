@@ -175,6 +175,15 @@
         "large": "assets/images/special/celestialDragonsBig.png",
         "tiny": "assets/images/special/celestialDragons.png",
         "drops": ["SaintCharlos", "SaintRoswald", "SaintShalria"]
+    },
+    "TreasureMap": {
+      "tiny": "assets/images/special/treasureMap.png"
+    },
+    "SaboTM": {
+      "title": "Sabo Valentine Treasure Map!",
+      "large": "assets/images/special/saboTMBig.png",
+      "tiny": "assets/images/special/saboTM.png",
+      "drops": ["SaboTM"]
     }
 
 }

@@ -593,16 +593,16 @@
                 {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["VanderDecken","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
                 {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ProposalNami", "RevolutionaryArmy", "Okama", "PuddingBride"], "special" : ["Sugofest","CelestialDragons"]},
-                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Booster","CelestialDragons","LvlUp"]},
-                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Evolver","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Booster","CottonX3","LvlUp"]}
+                {"raid": ["none"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["SaboTM","Sugofest","Booster","CelestialDragons","TreasureMap","LvlUp"]},
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Evolver","TreasureMap","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","Booster","CottonX3","TreasureMap","LvlUp"]}
             ]
         },
         {
             "starting": 18,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","CottonX3","Evolver","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Killer","Sicilian","BrownBeard","McGuy","MissValentine","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["Sugofest","CottonX3","Evolver","TreasureMap","LvlUp"]},
                 {"raid": ["Fujitora", "Cavendish"], "colo" : ["Hajrudin","Zephyr","Helmeppo","Blenheim","Garp"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},
                 {"raid": ["Chopper", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["OarsHogback","ShanksBuggy", "KujaPirates", "WanoSamurai", "PuddingBride","SanjiGroom"], "special" : ["CottonX3","BuggyTreasure"]},

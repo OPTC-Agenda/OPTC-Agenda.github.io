@@ -1174,21 +1174,42 @@
       "id": "15"
     },
     "SanjiGroom" : {
-      "id" : "1960",
-      "missing" : "yes"
+      "id" : "1960"
     },
     "VanderDecken" : {
-      "id" : "1946",
-      "missing" : "yes"
+      "id" : "1946"
     },
     "Wadatsumi" : {
-      "id" : "1948",
-      "missing" : "yes"
+      "id" : "1948"
     },
     "AceChild" : {
       "id" : "1522"
+    },
+    "PuddingBride" : {
+      "id" : "1962",
+      "missing" : "yes"
+    },
+    "SaintCharlos" : {
+      "id" : "963"
+    },
+    "SaintRoswald" : {
+      "id" : "964"
+    },
+    "SaintShalria" : {
+      "id" : "965"
+    },
+    "OarsQCK" : {
+      "id" : "1964",
+      "missing" : "yes"
+    },
+    "HogbackPSY" : {
+      "id" : "1966",
+      "missing" : "yes"
+    },
+    "SaboTM" : {
+      "id" : "1971",
+      "missing" : "yes"
     }
-
 }
 
 

@@ -269,7 +269,7 @@
         "books": ["Hatchi", "Apoo", "Rayleigh", "Hatchi", "GiantWarriorGreen", "MissMerryChristmas", "Namule", "Shura", "Pappagu"],
         "drops": ["Camie", "HatchanShop", "Pappagu"]
     },
-    "Soldatino": {
+    "ToySoldier": {
         "title": "Soldier-san's Training!",
         "large": "assets/images/fn/big/rebecca_and_kyros.png",
         "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
@@ -702,7 +702,7 @@
         "large": "assets/images/fn/big/6books.png",
         "tiny": "assets/images/fn/tiny/buggy6.png",
         "lastTimes": [],
-        "books" : ["Buggy6", "Hajrudin", "SmokerG5", "Shiryu", "Franky5+", "FrankyStraw", "LaboonLuffyDrawing", "BluenoStory", "KumadoriSixPowers", "PeronaGiant", "GarpSTR", "Unluckies"],
+        "books" : ["Buggy6", "Hajrudin", "SmokerG5", "Shiryu", "Franky5+", "FrankyStraw", "LaboonLuffyDrawing", "BluenoStory", "KumadoriSixPowers", "PeronaGiant", "GarpStory", "Unluckies"],
         "drops": []
     },    
     "Borsalino6": {
@@ -942,7 +942,7 @@
         "large": "assets/images/fn/big/dadan.png",
         "tiny": "assets/images/fn/tiny/dadan.png",
         "lastTimes": [],
-        "books" : ["ChopperHeavyPoint", "Bepo", "HogbackStory", "Sanji3D2Y", "Luffy3D2Y", "GarpSTR", "Sakazuki6", "FrankyTS", "NamiTS", "Chopper5+"],
+        "books" : ["ChopperHeavyPoint", "Bepo", "HogbackStory", "Sanji3D2Y", "Luffy3D2Y", "GarpStory", "Sakazuki6", "FrankyTS", "NamiTS", "Chopper5+"],
         "drops": ["Dadan", "Dogra", "AceChild"]
     },
     "MadameSharley": {
@@ -950,7 +950,7 @@
         "large": "assets/images/fn/big/madame_sharley.PNG",
         "tiny": "assets/images/fn/tiny/madame_sharley.png",
         "lastTimes": [],
-        "books" : ["Fujitora", "Namule", "Curiel", "Kyros", "RayleighStory", "PeronaAccomplice", "JinbeStory", "Macro", "Longarm"],
+        "books" : ["Fujitora", "Namule", "Curiel", "Kyros", "RayQCK", "PeronaAccomplice", "JinbeStory", "Macro", "Longarm"],
         "drops": ["MadameSharley", "CamieMadame", "PappaguMadame"]
     },
     "SecretSanji": {
@@ -1256,5 +1256,21 @@
       "lastTimes": [],
       "books" : ["LucciV2","FrankyTS","HodyQCK","LawLog","DiamanteQCK","CavendishDEX"],
       "drops": ["VanderDecken","Wadatsumi"]
+    },
+    "PuddingBride": {
+        "title": "Bride Pudding!",
+        "large": "assets/images/fn/big/sanjiPudding.png",
+        "tiny": "assets/images/fn/tiny/puddingBride.png",
+        "lastTimes": [],
+        "books" : [],
+        "drops": ["PuddingBride","HP","ATK","RCV","Lobster3","Lobster4","ElderPurple","MediumPurple"]
+    },
+    "OarsHogback": {
+        "title": "Oars and Hogback!",
+        "large": "",
+        "tiny": "assets/images/fn/tiny/oarsHogback.png",
+        "lastTimes": [],
+        "books" : ["Lucy6","SanjiTS","BartoQCK","AkainuDEX","Yonji","ZeoStory"],
+        "drops": ["OarsQCK","HogbackPSY"]
     }
 }

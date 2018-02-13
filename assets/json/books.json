@@ -438,7 +438,7 @@
         "id": "427"
     },        
     "DonSai" : {
-        "id": "1082"
+        "id": "1083"
     },    
     "FunkBrothers" : {
         "id" : "1029"
@@ -1402,6 +1402,24 @@
     },
     "CavendishDEX" : {
       "id" : "1800"
+    },
+    "GarpStory" : {
+        "id" : "1281"
+    },
+    "Lucy6" : {
+        "id" : "1794"
+    },
+    "BartoQCK" : {
+        "id" : "1802"
+    },
+    "AkainuDEX" : {
+        "id" : "1713"
+    },
+    "Yonji" : {
+        "id" : "1840"
+    },
+    "ZeoStory" : {
+        "id" : "1557"
     }
 
 }

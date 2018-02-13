@@ -158,9 +158,7 @@
     },
     "AceTM": {
         "title": "Ace Treasure Map!",
-        "large": "assets/images/fn/big/ace_tm.png",
-        "tiny": "assets/images/fn/tiny/ace_tm.png",
-        "drops": ["AceTM"]
+        "tiny": "assets/images/special/ace_tm.png"
     },
     "BuggyTreasure": {
         "title": "Buggy Treasure Island!",
@@ -169,6 +167,19 @@
         "drops": ["ElderRed","ElderBlue","ElderGreen","ElderYellow","ElderPurple","Socket1","Socket2","Socket3",
             "Socket4","Socket5","Socket6","Socket7","Socket8","Socket9","Socket10","Socket11","HP","ATK","RCV",
             "Lobster3","Lobster4","Cola"]
+    },
+    "CelestialDragons" : {
+        "title": "Celestial Dragons Island!",
+        "large": "assets/images/special/celestialDragonsBig.png",
+        "tiny": "assets/images/special/celestialDragons.png",
+        "drops": ["SaintCharlos", "SaintRoswald", "SaintShalria"]
+    },
+    "TreasureMap": {
+      "tiny": "assets/images/special/treasureMap.png"
+    },
+    "SaboTM": {
+      "title": "Sabo Valentine Treasure Map!",
+      "tiny": "assets/images/special/saboTM.png"
     }
 
 }

@@ -259,12 +259,18 @@ function showSpecial(flag) {
                                         $("#list" + (i+1) + " .special").append("<div class='inline' style='padding-top: 16px; height: 70px; width: 95px'><div style='background-image: url(" + tiny + "); width: 100px;' class='special-img inline'></div></div>");
                                     }
                                 } else {
+                                    classToAdd = 'skillup-x2'
+
+                                    if(character == 'LvlUpx3') {
+                                        classToAdd = 'skillup-x3'
+                                    }
+
                                     if (timezone) {
                                         $("#special" + (i)).addClass('special-img');
-                                        $("#special" + (i)).addClass('skillup-x2');
+                                        $("#special" + (i)).addClass(classToAdd);
                                     } else {
                                         $("#special" + (i + 1)).addClass('special-img');
-                                        $("#special" + (i + 1)).addClass('skillup-x2');
+                                        $("#special" + (i + 1)).addClass(classToAdd);
                                     }
                                 }
                             }

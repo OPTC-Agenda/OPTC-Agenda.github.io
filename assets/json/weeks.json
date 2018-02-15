@@ -578,10 +578,10 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["Sugofest","FreePull"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["KidPirates","Brook","ProposalNami","World"], "special" : ["Sugofest","FreePull"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest"]},
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]}
             ]
         },
         {
@@ -591,10 +591,10 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]}
             ]
         },
       {
@@ -604,10 +604,10 @@
           {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
           {"raid": ["none"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
           {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+          {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["none"], "special" : ["none"]},
           {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-          {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-          {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-          {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+          {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["none"], "special" : ["none"]},
+          {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["none"], "special" : ["none"]}
         ]
       }
     ]

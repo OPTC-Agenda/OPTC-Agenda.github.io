@@ -588,7 +588,7 @@
             "starting": 25,
             "month" : "February",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest","HimeSTR", "LvlUpx3"]},
+                {"raid": ["DoffyV2"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest","HimeSTR", "LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest","HimeDEX", "LvlUpx3"]},
                 {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["Sugofest","HimeQCK"]},
                 {"raid": ["Kizaru"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["HimePSY"]},

@@ -590,32 +590,71 @@
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest","HimeSTR", "LvlUpx3"]},
                 {"raid": ["none"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["KidPirates","HeartPirates","Tontatta1","LawMonet"], "special" : ["Sugofest","HimeDEX", "LvlUpx3"]},
-                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["Sugofest","HimeQCK"]},
-                {"raid": ["Kizaru"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["HimePSY"]},
-                {"raid": ["Sanji"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["HimeINT"]},
-                {"raid": ["Sabo"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Whitebeard"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
-                {"raid": ["Aokiji"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Whitebeard"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["CottonX3"]}
+                {"raid": ["Kuma"], "colo" : ["none"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["Sugofest","HimeQCK"]},
+                {"raid": ["Kizaru"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["HimePSY"]},
+                {"raid": ["Sanji"], "colo" : ["Gladius","Hajrudin","Vista","Beckman","Wyper"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["HimeINT"]},
+                {"raid": ["Sabo"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Whitebeard"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
+                {"raid": ["Aokiji"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Whitebeard"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["CottonX3"]}
             ]
         },
           {
             "starting": 4,
             "month" : "March",
             "program": [
-              {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
-              {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["Luffy30","Luffy40"]},
-              {"raid": ["Rayleigh"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
-              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Luffy30","Luffy40"]},
-              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Shanks"], "fn": ["none"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Shanks"], "fn": ["none"], "special" : ["CottonX3"]}
+              {"raid": ["Akainu"], "colo" : ["none"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["none"]},
+              {"raid": ["Fujitora"], "colo" : ["none"], "fn": ["Fukaboshi", "Lucci","WhitebeardCommanders3","Elizabello"], "special" : ["Luffy30","Luffy40"]},
+              {"raid": ["Rayleigh"], "colo" : ["none"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["Luffy30","Luffy40"]},
+              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["Luffy30","Luffy40"]},
+              {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["Luffy30","Luffy40"]},
+              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Shanks"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["Lucy","Kyros","Suleiman","DonChinjao","Rebecca","Shanks"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]}
             ]
           },
         {
             "starting": 11,
             "month" : "March",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 18,
+            "month" : "March",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 25,
+            "month" : "March",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 1,
+            "month" : "April",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

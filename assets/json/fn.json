@@ -1272,5 +1272,13 @@
         "lastTimes": [],
         "books" : ["Lucy6","SanjiTS","BartoQCK","AkainuDEX","Yonji","ZeoStory"],
         "drops": ["OarsQCK","HogbackPSY"]
+    },
+    "BonnieBege": {
+        "title": "Bonnie and Bege!",
+        "large": "assets/images/fn/big/bonnie_bege.png",
+        "tiny": "assets/images/fn/tiny/bonnie_bege.png",
+        "lastTimes": [],
+        "books" : ["Zoro6+", "Zoro6", "NamiTS", "BenBeckman", "Reiju", "Ichiji", "DragonPunkHazard"],
+        "drops": ["Bege", "Bonney"]
     }
 }

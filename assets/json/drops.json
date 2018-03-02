@@ -1186,8 +1186,7 @@
       "id" : "1522"
     },
     "PuddingBride" : {
-      "id" : "1962",
-      "missing" : "yes"
+      "id" : "1962"
     },
     "SaintCharlos" : {
       "id" : "963"
@@ -1199,16 +1198,19 @@
       "id" : "965"
     },
     "OarsQCK" : {
-      "id" : "1964",
-      "missing" : "yes"
+      "id" : "1964"
     },
     "HogbackPSY" : {
-      "id" : "1966",
-      "missing" : "yes"
+      "id" : "1966"
     },
     "SaboTM" : {
-      "id" : "1971",
-      "missing" : "yes"
+      "id" : "1971"
+    },
+    "Bege" : {
+      "id" : "1979"
+    },
+    "Bonney" : {
+      "id" : "1981"
     }
 }
 

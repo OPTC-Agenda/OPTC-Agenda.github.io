@@ -515,6 +515,9 @@
     "NewSWChopper" : {
         "id" : "1177"
     },
+    "BenBeckman" : {
+        "id" : "1770"
+    },
     "Tashigi" : {
         "id" : "68"
     },
@@ -1420,6 +1423,18 @@
     },
     "ZeoStory" : {
         "id" : "1557"
+    },
+    "Zoro6+" : {
+        "id" : "1921"
+    },
+    "Reiju" : {
+        "id" : "1834"
+    },
+    "Ichiji" : {
+        "id" : "1836"
+    },
+    "DragonPunkHazard" : {
+        "id" : "1633"
     }
 
 }

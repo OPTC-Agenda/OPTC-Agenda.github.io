@@ -633,29 +633,29 @@
                  {"raid": ["AokijiKai", "Heracles", "Usopp", "Whitebeard"], "colo" : ["none"], "fn": ["BonnieBege", "Perona", "Shambles", "Rumbar"], "special" : ["none"]},
                  {"raid": ["AokijiKai"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Perona", "Shambles", "Rumbar"], "special" : ["none"]},
                  {"raid": ["AokijiKai"], "colo" : ["Rayleigh", "Kinemon", "Coby", "Ace", "Kuro", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                 {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                 {"raid": ["Zephyr", "Cavendish"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]}
+                 {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
+                 {"raid": ["Zephyr", "Cavendish"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]}
              ]
         },
         {
             "starting": 11,
             "month" : "March",
             "program": [
-                {"raid": ["Blackbeard", "Cavendish"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Duval", "Cavendish"], "colo" : ["Rayleigh", "Kinemon", "Coby", "Ace", "Kuro", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Duck", "LawMonet", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
-                {"raid": ["Pica", "Shanks"], "colo" : ["none"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
-                {"raid": ["Doflamingo", "Shanks"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]}
+                {"raid": ["Blackbeard", "Cavendish"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
+                {"raid": ["Duval", "Cavendish"], "colo" : ["Rayleigh", "Kinemon", "Coby", "Ace", "Kuro", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
+                {"raid": ["Pica", "Shanks"], "colo" : ["none"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
+                {"raid": ["Doflamingo", "Shanks"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap"]}
             ]
         },
         {
             "starting": 18,
             "month" : "March",
             "program": [
-                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["RaySocket"]},
                 {"raid": ["Bartolomeo", "Shanks"], "colo" : ["none"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},

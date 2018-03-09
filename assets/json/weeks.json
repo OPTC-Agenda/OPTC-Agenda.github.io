@@ -616,24 +616,24 @@
             "program": [
                 {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Magellan"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
-                {"raid": ["Pica"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]}
+                {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
+                {"raid": ["SaboKai"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern"]},
+                {"raid": ["SaboKai"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
+                {"raid": ["Magellan"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
+                {"raid": ["Pica"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 18,
             "month" : "March",
             "program": [
-                {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["Boa"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["Eneru"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]}
+                {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
+                {"raid": ["Boa"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["Eneru"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]}
             ]
         },
         {
@@ -643,10 +643,10 @@
                 {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
-                {"raid": ["Bellamy"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]}
+                {"raid": ["Bellamy"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]}
             ]
         },
         {

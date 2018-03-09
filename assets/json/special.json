@@ -158,7 +158,7 @@
     },
     "AceTM": {
         "title": "Ace Treasure Map!",
-        "tiny": "assets/images/special/ace_tm.png"
+        "tiny": "assets/images/tm/tiny/ace.png"
     },
     "BuggyTreasure": {
         "title": "Buggy Treasure Island!",
@@ -175,11 +175,29 @@
         "drops": ["SaintCharlos", "SaintRoswald", "SaintShalria"]
     },
     "TreasureMap": {
-      "tiny": "assets/images/special/treasureMap.png"
+        "tiny": "assets/images/special/treasureMap.png"
     },
     "SaboTM": {
-      "title": "Sabo Valentine Treasure Map!",
-      "tiny": "assets/images/special/saboTM.png"
+        "title": "Sabo Valentine Treasure Map!",
+        "tiny": "assets/images/tm/tiny/sabo.png"
+    },
+    "SanjiZoroTM" : {
+        "title" : "Sanji & Zoro Treasure Map!",
+        "tiny" : "assets/images/tm/tiny/sanji_zoro.png",
+        "large" : "assets/images/tm/big/sanji_zoro.png",
+        "drops" : ["SanjiZoro"]
+    },
+    "SanjiTea" : {
+        "title" : "Sanji Tea!",
+        "tiny" : "assets/images/special/sanji_tea.png",
+        "large" : "assets/images/special/tea_island.png",
+        "drops" : ["SanjiTea", "ChefZeff", "Mr2", "AbsalomStory"]
+    },
+    "BrookTea" : {
+        "title" : "Brook Tea!",
+        "tiny" : "assets/images/special/brook_tea.png",
+        "large" : "assets/images/special/tea_island.png",
+        "drops" : ["BrookTea", "DugongStory", "Zambai", "JabraStory", "Gyaro"]
     }
 
 }

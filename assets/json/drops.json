@@ -76,7 +76,10 @@
     }, 
     "KungFuDugong" : {
         "id" : "798"
-    }, 
+    },
+    "DugongStory" : {
+        "id" : "379"
+    },
     "SeaLapahn" : {
         "id" : "799"
     }, 
@@ -115,6 +118,12 @@
     },
     "Minozebra" : {
         "id" : "1152"
+    },
+    "BrookTea" : {
+        "id" : "1515"
+    },
+    "SanjiTea" : {
+        "id" : "1507"
     },
     "Basilisk"  : {
         "id" : "540"
@@ -365,6 +374,9 @@
     },
     "LuffyHalloween" : {
         "id" : "761"
+    },
+    "Zambai": {
+      "id" : "614"
     },
     "UsoppHalloween" : {
         "id" : "762"
@@ -1044,6 +1056,9 @@
     "Nami" : {
         "id" : "9"
     },
+    "ChefZeff" : {
+      "id" : "52"
+    },
     "Usopp" : {
         "id" : "13"
     },
@@ -1061,6 +1076,9 @@
     },
     "BrookBase" : {
         "id" : "895"
+    },
+    "Gyaro" : {
+      "id" : "954"
     },
     "YoungArlong" : {
         "id" : "655"
@@ -1122,6 +1140,9 @@
     "Tank" : {
       "id": "1820"
     },
+    "Mr2" : {
+      "id": "207"
+    },
     "Scarlet" : {
       "id": "1819"
     },
@@ -1146,7 +1167,10 @@
     "MihawkFN" : {
       "id": "1892"
     },
-    "PeronaM" : {
+    "AbsalomStory" : {
+      "id" : "892"
+    },
+  "PeronaM" : {
       "id": "1890"
     },
     "Reiju" : {
@@ -1211,6 +1235,10 @@
     },
     "Bonney" : {
       "id" : "1981"
+    },
+    "SanjiZoro" : {
+      "id" : "2000",
+      "missing" : "yes"
     }
 }
 

@@ -618,7 +618,7 @@
                 {"raid": ["none"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
                 {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["SaboKai"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern"]},
-                {"raid": ["SaboKai"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
+                {"raid": ["Franky", "SaboKai"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
                 {"raid": ["Magellan"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
                 {"raid": ["Pica"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["LvlUp"]}
             ]

@@ -1280,5 +1280,13 @@
         "lastTimes": [],
         "books" : ["Zoro6+", "Zoro6", "NamiTS", "BenBeckman", "Reiju", "Ichiji", "DragonPunkHazard"],
         "drops": ["Bege", "Bonney"]
+    },
+    "MarcoVista": {
+        "title": "Marco and Vista!",
+        "large": "assets/images/fn/big/marco_vista.png",
+        "tiny": "assets/images/fn/tiny/marco_vista.png",
+        "lastTimes": [],
+        "books" : ["Judge", "Niji", "RobinTS", "LimitedJinbe", "BellamyPSY", "RockScotch"],
+        "drops": ["Marco", "Vista"]
     }
 }

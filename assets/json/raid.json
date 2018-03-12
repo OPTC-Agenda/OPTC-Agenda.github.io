@@ -27,7 +27,7 @@
         "large": "assets/images/raid/big/zephyr.png",
         "tiny": "assets/images/raid/tiny/zephyr.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/352"
+        "drops" : ["352", "354"]
     },
     "Ivankov": { 
         "name" : "Ivankov",

@@ -183,6 +183,8 @@ function showFN(flag) {
                         var tiny = fnList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
+                        console.log(character);
+
                         $("#list" + (i + 1) + " .fn").append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
 
                     }
@@ -233,8 +235,6 @@ function showSpecial(flag){
                         var character = special[j];
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
-                        console.log(character);
-                        console.log(tiny);
 
                         if (/^Cotton/.test(character) || /^Luffy/.test(character) || character == "AceTraining"
                             || character == "RaySocket" || /^Summer/.test(character) || character == "RebeccaJuice" || character == "SanjiLobster" || /^Hime/.test(character) || character == "BuggyTreasure" ||
@@ -391,7 +391,7 @@ function raidModal(character) {
     $("#raidDropsImg").empty();  
     $("#raidLast").empty();
         
-    if(character == "BusterCall"){        
+    if(character == "BusterCall" || character == "Zephyr"){        
         $("#raidDrops").css('display','block');     
         large = "<img src='" + charJs.large + "' class='img-responsive img-centered' alt=''>";        
         

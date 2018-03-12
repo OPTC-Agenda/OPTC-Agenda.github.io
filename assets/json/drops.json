@@ -1239,6 +1239,14 @@
     "SanjiZoro" : {
       "id" : "2000",
       "missing" : "yes"
+    },
+    "Marco" : {
+      "id" : "1994",
+      "missing" : "yes"
+    },
+    "Vista" : {
+      "id" : "1996",
+      "missing" : "yes"
     }
 }
 

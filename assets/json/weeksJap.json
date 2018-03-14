@@ -655,7 +655,7 @@
             "month" : "March",
             "program": [
                 {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["RaySocket"]},
+                {"raid": ["Lucci", "Shanks"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["RaySocket"]},
                 {"raid": ["Bartolomeo", "Shanks"], "colo" : ["none"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},

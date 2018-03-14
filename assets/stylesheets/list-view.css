@@ -212,6 +212,10 @@ div.inline {
         left: 0%;
         margin-left: 0;
     }
+
+    .nakama-div {
+        font-size: 15px;
+    }
 }
 
 @media (min-width: 769px){
@@ -343,4 +347,24 @@ form {
 
 .buttonBox{
     margin-top: 5px;
+}
+
+.nakama-div {
+    border-radius: 10px;
+    background-color: #183579!important;
+    font-size: 18px;
+    color: white;
+    width: 24%;
+    font-family: Roboto,Raleway,HelveticaNeue,'Helvetica Neue',Helvetica,Arial,sans-serif;
+    text-transform: capitalize;
+    margin: 2% 38%;
+
+}
+
+.nakama-div a{
+    color: white;
+}
+
+.modal-body button {
+    margin-top: 20px;
 }

@@ -183,8 +183,6 @@ function showFN(flag) {
                         var tiny = fnList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        console.log(character);
-
                         $("#list" + (i + 1) + " .fn").append("<a href='#viewFnModal' onclick='fnModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
 
                     }
@@ -425,6 +423,10 @@ function raidModal(character) {
     for (i = 0; i < last.length; i++) {
         $("#raidLast").append("<li>" + last[i] + "</li>");
     }
+
+    var id = charJs.linkDB.split("/");
+    var link = 'https://www.nakama.network/stages/' + '4' + nakamaID(id[6]) + '00/details/'
+    $(".nakama-div a").attr('href',  link);
 }
 
 function coloModal(character) {
@@ -454,6 +456,10 @@ function coloModal(character) {
     for (i = 0; i < last.length; i++) {
         $("#coloLast").append("<li>" + last[i] + "</li>");
     }
+
+    var id = charJs.linkDB.split("/");
+    var link = 'https://www.nakama.network/stages/' + '5' + nakamaID(id[6]) + '01/details/'
+    $(".nakama-div a").attr('href',  link);
 }
 
 function fnModal(character) {
@@ -580,6 +586,25 @@ function fnModal(character) {
     //     var url = "http://optc-db.github.io/characters/#/view/" + bookList[books[i]].id;
     //     $("#fnBooks").append("<a href='" + url + "' target='_blank'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
     // }
+
+    var optcdb_json = window.drops.Fortnight;
+    var jjj = false;
+
+    for(i=0;i<optcdb_json.length;i++){
+        if(optcdb_json[i].name == title){
+            var linkNakama = 'https://www.nakama.network/stages/' + optcdb_json[i].nakama +  '/details/'
+            $(".nakama-div a").attr('href',  linkNakama);
+            jjj = true;
+            break;
+        }
+    }
+
+
+    if(jjj){
+        $(".nakama-div").css('display', 'block');
+    } else {
+        $(".nakama-div").css('display', 'none');
+    }
 }
 
 function specialModal(character) {

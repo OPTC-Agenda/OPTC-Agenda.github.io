@@ -1,6 +1,6 @@
 {
     "CP9": {
-        "title": "Spy Assassins CP9",
+        "title": "Behind the Scenes Intelligency Agency: CP9",
         "large": "assets/images/fn/big/cp9.png",
         "tiny": "assets/images/fn/tiny/cp9.png",
         "condition" : "Only [STR], [QCK], [DEX], [INT], and [PSY] orbs appear",
@@ -8,12 +8,66 @@
         "books": ["Jinbe6", "Franky3D2Y", "Violet", "MoriaShadow", "Squard", "Hack", "DemolisherAxeman", "Baskerville", "RighteousJuror"],
         "drops": ["FukuroSecret", "JabraSecret", "BluenoSecret", "KumadoriSecret"]
     },
+    
+    "AokijiRanking": {
+        "title": "Blitz Battle! The three admirals! Aokiji!",
+        "large": "assets/images/fn/big/blitz_battle.png",
+        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
+        "tiny": "assets/images/fn/tiny/aokiji_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
+        "drops": ["MediumBlue", "ElderBlue"]
+    },
+    "AkainuRanking": {
+        "title": "Blitz Battle! The three admirals! Akainu!",
+        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
+        "tiny": "assets/images/fn/tiny/akainu_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
+        "drops": ["MediumRed", "ElderRed"]
+    },
+    "KizaruRanking": {
+        "title": "Blitz Battle! The three admirals! Kizaru!",
+        "large": "assets/images/fn/big/blitz_battle.png",
+        "tiny": "assets/images/fn/tiny/kizaru_ranking.png",
+        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
+        "drops": ["MediumYellow", "ElderYellow"]
+    },
+    "SanjiRanking": {
+        "title": "Blitz Battle! Straw Hats! Aokiji!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "tiny": "assets/images/fn/tiny/sanji_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumRed", "ElderRed"]
+    },
+    "ZoroRanking": {
+        "title": "Blitz Battle! Straw Hats! Akainu!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "tiny": "assets/images/fn/tiny/zoro_ranking.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumGreen", "ElderGreen"]
+    },
+    "LuffyRanking": {
+        "title": "Blitz Battle! Straw Hats! Kizaru!",
+        "large": "assets/images/fn/big/straw_hats_ranking.png",
+        "tiny": "assets/images/fn/tiny/luffy_ranking.png",
+        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
+        "drops": ["MediumBlue", "ElderBlue"]
+    },
     "Wapol": {
-        "title": "Wapol's Revenge!",
+        "title": "Wapol's Revenge",
         "large": "assets/images/fn/big/wapol.png",
         "tiny": "assets/images/fn/tiny/wapol.png",
         "condition" : "You can only bring Shooter and Driven units. (No Evo/Boosters)",
-        "lastTimes": [],
+        "lastimes": [],
         "global_books": ["Marco6", "SnowChopper", "JabraStrong", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
         "japan_books": ["Marco6", "SnowChopper", "Squard", "Curiel", "WapolStory", "Zambai", "ChopperHeavyPoint"],
         "drops": ["WapolFN", "Robson", "SnowChopper", "Kureha", "Dalton", "Chess", "Kuromarimo"]
@@ -27,7 +81,7 @@
         "drops": ["Tashigi", "SmokerFN"]
     },
     "Hannyabal": {
-        "title": "Hannyabal Great Ambition",
+        "title": "Hannyabal's Great Ambition",
         "condition" : "You can only bring STR units",
         "large": "assets/images/fn/big/hannyaball.png",
         "tiny": "assets/images/fn/tiny/hannyaball.png",
@@ -82,7 +136,7 @@
         "drops": ["Breed", "KungFuDugong", "SeaLapahn", "OctopusBoxer"]
     },
     "Kraken": {
-        "title": "Face the Deep-Sea Kraken!",
+        "title": "Deep Sea Kraken",
         "large": "assets/images/fn/big/kraken.png",
         "tiny": "assets/images/fn/tiny/kraken.png",
         "condition" : "You may only bring QCK units for 15 and 30 Stamina",
@@ -91,7 +145,7 @@
         "drops": ["MasterSea", "Gaimon", "Momoo", "Laboon", "NeptunianSquid", "Kraken"]
     },
     "Domino": {
-        "title": "Domino's Maximum Security",
+        "title": "Domino's Special Security",
         "large": "assets/images/fn/big/domino.png",
         "tiny": "assets/images/fn/tiny/domino.png",
         "condition" : "30: Non-Shooter, Evolver, or Booster class characters are weakend; 15: Fighter and Slasher class characters are weakened",
@@ -100,7 +154,7 @@
         "drops": ["Domino", "Minorhinoceros", "Basilisk"]
     },
     "Okama": {
-        "title": "Candy the Maiden-Hearted!",
+        "title": "Candy the Maiden-Hearted",
         "large": "assets/images/fn/big/okama.png",
         "tiny": "assets/images/fn/tiny/okama.png",
         "condition" : "Each non-Okama in your Team will take 60 Damage each turn",
@@ -118,7 +172,7 @@
         "drops": ["Bepo", "Sachi", "JeanBart"]
     },
     "Kalifa": {
-        "title": "Kalifa's secret character! Assignment",
+        "title": "Kalifa's Secret Assignment",
         "large": "assets/images/fn/big/kalifa.png",
         "tiny": "assets/images/fn/tiny/kalifa.png",
         "condition" : "You may only bring STR units into this island",
@@ -145,7 +199,7 @@
         "drops": ["Gairam", "Sebastian", "Nightin", "BoaSTR"]
     },
     "Crocodile": {
-        "title": "Crocodile - Life on the Inside",
+        "title": "Crocodile: Life on the Inside",
         "large": "assets/images/fn/big/crocodile.png",
         "tiny": "assets/images/fn/tiny/crocodile.png",
         "condition" : "<b>30</b>: Non-Striker, Evolver, or Booster class characters are weakend;<br><b>15</b>: Fighter and Shooter class characters are weakened <br>(Note: Multi-class characters such as Striker / Slasher are not affected)",
@@ -197,7 +251,7 @@
         "drops": ["Helmeppo", "Morgan"]
     },
     "WhitebeardCommanders": {
-        "title": "Encounter! Whitebeard pirates",
+        "title": "Encounter! Whitebeard Pirates",
         "large": "assets/images/fn/big/whitebeard_s_commanders.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders.png",
         "condition" : "You can only bring PSY units",
@@ -207,7 +261,7 @@
         "drops": ["RakuyoCommander", "FossaCommander", "CurielCommander", "ThatchCommander"]
     },
     "Franky": {
-        "title": "Cyborg Franky Pervert's Aesthetic",
+        "title": "Franky - Pervert's Aesthetic!",
         "large": "assets/images/fn/big/franky.png",
         "tiny": "assets/images/fn/tiny/franky.png",
         "condition" : "You may only bring INT units for 15 and 30 Stamina",
@@ -216,7 +270,7 @@
         "drops": ["Franky", "Kiwi", "Mozu"]
     },
     "Absalom": {
-      "title": "Perv-salom's Manly Adventure",
+      "title": "Perv-salom's Very Manly Adventure",
       "condition" : "You can only get QCK, DEX, PSY and Food Orbs",
       "large": "assets/images/fn/big/absalom.png",
       "tiny": "assets/images/fn/tiny/absalom.png",
@@ -225,7 +279,7 @@
       "drops": ["Absalom", "GeneralZombie", "Jigoro"]
     },
     "SoulKing": {
-      "title": "Soul King!",
+      "title": "Encourage the Soul!",
       "large": "assets/images/fn/big/soul_king.png",
       "tiny": "assets/images/fn/tiny/soul_king.png",
       "condition" : "Strawhat Pirates get ATK, HP, and RCV boosted by 1.5x and reduces cooldown of specials by 9 turns at the start of the fight",
@@ -234,7 +288,7 @@
       "drops": ["BrookSoulKing", "BrookManager"]
     },
     "LuffyHalloween": {
-        "title": "Twilight Party DEAD or TREAT!! ",
+        "title": "Twilight Party! DEAD or TREAT!!",
         "large": "assets/images/fn/big/halloween_strawhats.png",
         "tiny": "assets/images/fn/tiny/halloween_strawhats.png",
         "lastTimes": [],
@@ -243,7 +297,7 @@
         "drops": ["LuffyHalloween", "UsoppHalloween", "FrankyHalloween", "NamiHalloween", "ChopperHalloween"]
     },
     "ZoroHalloween": {
-        "title": "Midnight Party DEAD or TREAT!!",
+        "title": "Midnight Party! DEAD or TREAT!!",
         "large": "assets/images/fn/big/halloween_strawhats_2.png",
         "tiny": "assets/images/fn/tiny/halloween_strawhats_2.png",
         "lastTimes": [],
@@ -252,7 +306,7 @@
         "drops": ["UsoppHalloween", "ZoroHalloween", "RobinHalloween", "SanjiHalloween", "BrookHalloween"]
     },
     "RevolutionaryArmy": {
-        "title": "Revolutionary Armed Forces!",
+        "title": "Revealing the Truth!",
         "large": "assets/images/fn/big/revolutionary_army.png",
         "tiny": "assets/images/fn/tiny/revolutionary_army.png",
         "condition" : "Free Spirit Characters have their cooldowns reduced by 10 turns at the start of the fight",
@@ -261,7 +315,7 @@
         "drops": ["KoalaKarate", "HackKarate"]
     },
     "Camie": {
-        "title": "Camie & Hatchan's Musical Festival",
+        "title": "Camie and Hachi's Takoyaki Stand!",
         "large": "assets/images/fn/big/camie.png",
         "tiny": "assets/images/fn/tiny/camie.png",
         "condition" : "No Units above the cost of 49 is allowed",
@@ -270,7 +324,7 @@
         "drops": ["Camie", "HatchanShop", "Pappagu"]
     },
     "ToySoldier": {
-        "title": "Soldier-san's Training!",
+        "title": "Fight for your Happiness!",
         "large": "assets/images/fn/big/rebecca_and_kyros.png",
         "tiny": "assets/images/fn/tiny/rebecca_and_kyros.png",
         "lastTimes": [],
@@ -296,7 +350,7 @@
         "drops": ["SengokuFN", "Ronse", "Stainless"]
     },
     "Elizabello": {
-        "title": "Prodence kingdom",
+        "title": "Fight for your Friends!",
         "large": "assets/images/fn/big/elizabello.png",
         "tiny": "assets/images/fn/tiny/elizabello.png",
         "lastTimes": [],
@@ -321,7 +375,7 @@
         "drops": ["VioletDancing", "SanjiLove"]
     },
     "Shambles": {
-        "title": "Recover their bodies! Smokey and the Captain!",
+        "title": "Shambles! Tashigi and Smoker?!?",
         "large": "assets/images/fn/big/shambles.png",
         "tiny": "assets/images/fn/tiny/shambles.png",
         "condition" : "Your captain will be switched with your middle right character when you encounter Law",
@@ -330,7 +384,7 @@
         "drops": ["TashigiShambles", "SmokerShambles"]
     },
     "CalgaraNoland": {
-        "title": "Led by the Light of Shandora! Calgara & Noland!",
+        "title": "Calgara & Noland!",
         "large": "assets/images/fn/big/noland.png",
         "tiny": "assets/images/fn/tiny/noland.png",
         "condition" : "Bomb orbs appear",
@@ -367,7 +421,7 @@
         "drops": ["ThatchCommander", "IzoCommander", "BlamencoCommander", "NamuleCommander"]
     },
     "WhitebeardCommanders3": {
-        "title": "Gather! Whitebeard Alliance!",
+        "title": "Gather! Whitebeard Alliance",
         "large": "assets/images/fn/big/whitebeard_s_commanders_3.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_3.png",
         "condition" : "Driven Characters have their cooldowns reduced by 10 turns at the start of the fight",
@@ -386,7 +440,7 @@
         "drops": ["ViviYoung", "KozaYoung", "KingCobra"]
     },
     "YoungNamiRobin": {
-        "title": "Robin and Nami's secret character! Undercover Investigation ",
+        "title": "Robin and Nami's Secret Undercover Investigation",
         "large": "assets/images/fn/big/young_nami_robin.png",
         "tiny": "assets/images/fn/tiny/young_nami_robin.png",
         "condition" : "Boosts ATK of Cerebral and Free Spirit characters by 2x, other classes get .5x ATK. <br>Boosts HP of Striker and Shooter characters by 2x, other classes get .5x HP. (This STACKS for characters with multiple classes)",
@@ -404,7 +458,7 @@
         "drops": ["JinbeKimono", "Mr1Kimono", "BuggyKimono"]
     },
     "ProposalNami": {
-        "title": "Nami and Lola's Great Proposal Plan",
+        "title": "Operation: Proposal!",
         "large": "assets/images/fn/big/thriller_bark_wedding.png",
         "tiny": "assets/images/fn/tiny/thriller_bark_wedding.png",
         "condition" : "You can only bring Slasher and Cerebral units. (No Evolution/Booster)",
@@ -414,7 +468,7 @@
         "drops": ["ProposalNami", "Lola", "RiskyBrothers"]
     },
     "TomWorkers": {
-        "title": "Legendary Shipbuilding Company Tom's Workers",
+        "title": "Tom's Workers",
         "large": "assets/images/fn/big/tom_s_workers.png",
         "tiny": "assets/images/fn/tiny/tom_s_workers.png",
         "condition" : "You can only bring Impact and Free Spirit units. (No Evo/Boosters)",
@@ -424,7 +478,7 @@
         "drops": ["Tom", "FrankyTom", "IceburgTom"]
     },
     "Wanze": {
-        "title": "Explosive! Wanze's Ramen Kenpo!!",
+        "title": "Wanze's Ramen Kung Fu!!",
         "large": "assets/images/fn/big/wanze.png",
         "tiny": "assets/images/fn/tiny/wanze.png",
         "condition" : "You can only bring STR, QCK and DEX units",
@@ -434,7 +488,7 @@
         "drops": ["Nero", "Wanze"]
     },    
     "Shandia": {
-        "title": "Warriors of Shandia! Dreams of a Homeland!",
+        "title": "Shandia - Dreams of a Homeland!",
         "large": "assets/images/fn/big/skypea_warriors.png",
         "tiny": "assets/images/fn/tiny/skypea_warriors.png",
         "condition" : "All Units considered from the 'Sea' will lose 20% to all stats",
@@ -461,7 +515,7 @@
         "drops": ["Siam", "Butchie", "Django", "Kuro"]
     },
     "ArlongPirates": {
-        "title": " Shark Attack! Arlong Pirates ",
+        "title": "Shark Attack! Arlong Pirates",
         "condition": "You can only get STR, QCK, DEX, PSY and INT orbs",
         "large": "assets/images/fn/big/arlong.png",
         "tiny": "assets/images/fn/tiny/arlong_pirates.png",
@@ -479,7 +533,7 @@
         "drops": ["Choo", "Kuroobi", "Hatchan", "Arlong"]
     },
     "LawMonet": {
-        "title": "Law and Monet Fortnight!",
+        "title": "The Mysterious Warlord!",
         "large": "assets/images/fn/big/law_monet.PNG",
         "tiny": "assets/images/fn/tiny/law_monet.png",
         "lastTimes": [],
@@ -575,7 +629,7 @@
         "drops": []
     },
     "Shirahoshi": {
-        "title": "Fishman Island! The Royal Family!",
+        "title": "Targeted Mermaid Princess!",
         "large": "assets/images/fn/big/shirahoshi.png",
         "tiny": "assets/images/fn/tiny/shirahoshi.png",
         "lastTimes": [],
@@ -624,7 +678,7 @@
         "drops": []
     },
     "DonquixotePirates": {
-        "title": "Donquixote Family's Children!",
+        "title": "Young Donquixote Pirates - Baby 5 And Buffalo",
         "large": "assets/images/fn/big/donquixote_pirates.png",
         "tiny": "assets/images/fn/tiny/donquixote_pirates.png",
         "condition" : "Child-like characters get their ATK and HP boosted by 3.5x, RCV by 1.5x, <br>and cooldowns reduced by 7 turns at the start of the fight",
@@ -633,7 +687,7 @@
         "drops": ["YoungBaby5", "YoungLaw", "YoungBuffalo"]
     },
     "NicoOlvia": {
-        "title": "The One Who Seeks the Truth of History: Archaeologist Nico Olvia",
+        "title": "Archaeologist Nico Olvia",
         "condition" : "Only TND/RCV/INT orbs will appear",
         "large": "assets/images/fn/big/nico_olvia.png",
         "tiny": "assets/images/fn/tiny/nico_olvia.png",
@@ -722,7 +776,7 @@
         "drops": []
     },
     "CountButler": {
-        "title": "Rare Animal Island's Count Butler",
+        "title": "Butler and Strange Animal Island",
         "large": "assets/images/fn/big/count_butler.png",
         "tiny": "assets/images/fn/tiny/count_butler.png",
         "lastTimes": [],
@@ -731,7 +785,7 @@
         "drops": ["CountButler", "PresidentHeaby", "GeneralHotdog", "ChopperAnimalKing"]
     },
     "Gasparde": {
-        "title": "Pirate Ship Competition! \"Dead End\" Opens!",
+        "title": "Dead End Begins! Raging Blast!",
         "condition" : "STR/DEX/QCK units get their ATK boosted by 1.6x. INT/PSY units get their HP boosted by 2.0x",
         "large": "assets/images/fn/big/gasparde.png",
         "tiny": "assets/images/fn/tiny/gasparde.png",
@@ -748,7 +802,7 @@
         "drops": ["Baccarat", "Dice", "MrTanaka"]
     },
     "Indigo": {
-        "title": "Dr. Indigo & Scarlet!",
+        "title": "Golden Lion Pirates' Attack!",
         "condition" : "Boosts ATK of Driven characters by 2x and boosts HP for Powerhouse characters by 2x",
         "large": "assets/images/fn/big/indigo.png",
         "tiny": "assets/images/fn/tiny/indigo.png",
@@ -766,7 +820,7 @@
         "drops": ["Hogback", "Cindry"]
     },
     "SadieChan": {
-        "title": "Chief Jailer Sadie: Cruel and Unusual",
+        "title": "Chief Jailer Sadie",
         "condition" : "<b>30</b>: Non-Slasher, Evolver, or Booster class characters are weakend <br> <b>15</b>: Striker and Shooter class characters are weakened",
         "large": "assets/images/fn/big/sadie_chan.png",
         "tiny": "assets/images/fn/tiny/sadie_chan.png",
@@ -783,7 +837,7 @@
         "drops": ["Coby", "Helmeppo", "CobyTraining", "HelmeppoTraining"]
     },
     "BlackbeardPirates": {
-        "title": "Blackbeard Pirates!",        
+        "title": "The Dark Path of the Blackbeard Pirates!",
         "large": "assets/images/fn/big/blackbeard_pirates.png",
         "tiny": "assets/images/fn/tiny/blackbeard_pirates.png",
         "lastTimes": [],
@@ -791,7 +845,7 @@
         "drops": ["Lafitte", "VanAugur", "DocQ"]
     },
     "KujaPirates": {
-        "title": "Men are Forbidden!? The secret character! Flower Garden ",
+        "title": "The Secret Garden! Men are Forbidden!?",
         "condition" : "You can only bring DEX units",
         "large": "assets/images/fn/big/kuja_pirates.png",
         "tiny": "assets/images/fn/tiny/kuja_pirates.png",
@@ -801,7 +855,7 @@
         "drops": ["Marguerite", "Aphelandra", "Sweetpea"]
     },
     "IvankovWoman": {
-        "title": "Temptation!? The Queen of Kamabakka Queendom! ",
+        "title": "The Queen of Kamabakka Queendom!",
         "condition" : "Only DEX/RCV/TND orbs will appear",        
         "large": "assets/images/fn/big/ivankov.png",
         "tiny": "assets/images/fn/tiny/ivankov.png",
@@ -810,7 +864,7 @@
         "drops": ["Ivankov", "Inazuma"]
     },
     "Brook": {
-        "title": " Adrift!? Humming Brook", 
+        "title": "Adrift!? Humming Brook",
         "condition" : "You can only get STR, DEX, INT and PSY Orbs",
         "large": "assets/images/fn/big/brook.png",
         "tiny": "assets/images/fn/tiny/brook.png",
@@ -833,7 +887,7 @@
             ]
     },
     "Fishman": {
-        "title": "Fishman Island",
+        "title": "The Time of Revenge has Come! New Fishman Pirates!",
         "large": "assets/images/fn/big/fishman.PNG",
         "tiny": "assets/images/fn/tiny/fishman.png",
         "lastTimes": [],
@@ -841,7 +895,7 @@
         "drops": ["Daruma", "Hyouzou", "Dosun"]
     },
     "Tontatta1": {
-        "title": "Tontatta Kingdom Island Part 1: Leo",
+        "title": "Tontatta Tribe: Catch the Big Person!",
         "condition": "Slasher characters are Silenced for 99 turns and have their ATK reduced by a variable amount (75% on 30 stamina).",
         "large": "assets/images/fn/big/tontatta_kingdom.png",
         "tiny": "assets/images/fn/tiny/tontatta_kingdom.png",
@@ -850,7 +904,7 @@
         "drops": ["Leo", "Wicca", "Gancho"]
     },
     "BigMomPirates": {
-        "title": "Big Mom Pirates!",
+        "title": "Gather the Candy!",
         "large": "assets/images/fn/big/big_mom.png",
         "tiny": "assets/images/fn/tiny/big_mom.png",
         "lastTimes": [],
@@ -858,7 +912,7 @@
         "drops": ["Pekoms", "Tamago"]
     },
     "KimonoLuffy": {
-        "title": "Rising Sun, Rising Fortunes ",
+        "title": "Rising Sun, Rising Fortunes",
         "large": "assets/images/fn/big/kimono_luffy.png",
         "tiny": "assets/images/fn/tiny/kimono_luffy.png",
         "lastTimes": [],
@@ -874,7 +928,7 @@
         "drops": ["RobinKimono", "UsoppKimono", "ChopperKimono", "SanjiKimono", "Siam", "Butchie", "Gin", "MissMonday", "MerryChristmas", "Mr4", "Masira", "Shoujou", "Porche", "Capote"]
     },
     "Ganfor": {
-        "title": "Sky Night Ganfor ",
+        "title": "Sky Night Ganfor",
         "condition" : "<b>30</b>: Non-Free Spirit, Evolver, or Booster class characters are weakend<br/><b>15</b>: Striker and Shooter class characters are weakened",
         "large": "assets/images/fn/big/ganfor.png",
         "tiny": "assets/images/fn/tiny/ganfor.png",
@@ -884,7 +938,7 @@
         "drops": ["Ganfor", "Pierre", "Conis"]
     },
     "GiollaBrook": {
-        "title": "Giolla & Brook fortnight!",
+        "title": "Seeking The Best Art! Giolla and Brook!",
         "condition" : "They must be in the crew a unit for each color (DEX, STR, QCK, INT, PSY)",
         "large": "assets/images/fn/big/giolla_brook.PNG",
         "tiny": "assets/images/fn/tiny/giolla_brook.png",
@@ -893,7 +947,7 @@
         "drops": ["Giolla", "BrookGiolla"]
     },
     "ChinjaoFamily": {
-        "title": "Chinjao Family! The 13th Leader Appears!",
+        "title": "Chinjao Family!",
         "condition" : "You can only bring DEX units",
         "large": "assets/images/fn/big/chinjao.png",
         "tiny": "assets/images/fn/tiny/chinjao.png",
@@ -902,7 +956,7 @@
         "drops": ["DonSai", "Boo", "JeanAngo"]
     },
     "Whitebeard4": {
-        "title": "Exit! Whitebeard Pirates",
+        "title": "Departure! Whitebeard Pirates",
         "condition" : "You can only bring PSY units",
         "large": "assets/images/fn/big/whitebeard_s_commanders_4.png",
         "tiny": "assets/images/fn/tiny/whitebeard_s_commanders_4.png",
@@ -911,7 +965,7 @@
         "drops": ["Haruta", "SpeedJil", "Atmos", "Kingdew"]
     },
     "Tontatta2": {
-        "title": "Tontatta Kingdom Island Part 2: Mansherry",
+        "title": "Tontatta Tribe: Find the Beloved Prince?!",
         "condition": "Striker characters are Silenced for 99 turns and have their ATK reduced by a variable amount. (70% on 30 stamina).",
         "large": "assets/images/fn/big/mansherry.png",
         "tiny": "assets/images/fn/tiny/mansherry.png",
@@ -929,7 +983,7 @@
         "drops": ["Zeff", "PattyFN", "CarneFN"]
     },
     "Sentomaru": {
-        "title": "Gatekeeper of the New World! Stop the Rookies!",
+        "title": "Gatekeeper of the New World!",
         "condition": "You can only bring QCK units",
         "large": "assets/images/fn/big/sentomaru.png",
         "tiny": "assets/images/fn/tiny/sentomaru.png",
@@ -938,7 +992,7 @@
         "drops": ["SentomaruFN", "Lip", "Albion"]
     },
     "Dadan": {
-        "title": "Dadan Family! Encounter with the Mountain Bandits",
+        "title": "Bandits! Dadan Family!",
         "large": "assets/images/fn/big/dadan.png",
         "tiny": "assets/images/fn/tiny/dadan.png",
         "lastTimes": [],
@@ -946,7 +1000,7 @@
         "drops": ["Dadan", "Dogra", "AceChild"]
     },
     "MadameSharley": {
-        "title": "Madame Sharley Fortnight!",
+        "title": "Dead-On Prophecy?! Madam Sharley",
         "large": "assets/images/fn/big/madame_sharley.PNG",
         "tiny": "assets/images/fn/tiny/madame_sharley.png",
         "lastTimes": [],
@@ -1013,7 +1067,7 @@
         ]
     },
     "KidPirates": {
-        "title": "Kid Pirates Fortnight!",
+        "title": "Brutal Fiend! Eustass Kid",
         "condition" : "Only PSY and INT orbs will appear",
         "large": "assets/images/fn/big/kid_pirates.png",
         "tiny": "assets/images/fn/tiny/kid_pirates.png",
@@ -1062,7 +1116,7 @@
         "drops": ["SugarFN", "TrebolFN"]
     },
     "BlueGilly": {
-        "title": "Strawhat's Allies! Blue Gilly, Funk Brothers, Abdullah and Jeet!",
+        "title": "Battle Royale!",
         "large": "assets/images/fn/big/blue_gilly.png",
         "tiny": "assets/images/fn/tiny/blue_gilly.png",
         "lastTimes": [],
@@ -1109,71 +1163,19 @@
         "drops": ["Wanda", "Carrot"]
     },
     "RikuScarlet": {
-        "title": "Re Riku Royal Family!",
+        "title": "Crisis of the 800 Year Old Kingdom!",
         "large": "assets/images/fn/big/riku.png",
         "tiny": "assets/images/fn/tiny/riku.png",
         "lastTimes": [],
         "books" : ["Enel6", "SaintRoswald", "Squard", "NewSWBrook", "Sentomaru", "Raizo", "Carrot", "HodySTR", "Maynard"],
         "drops": ["Riku", "Scarlet", "Tank"]
     },
-    "AokijiRanking": {
-        "title": "Blitz Battle! The three admirals! Aokiji!",
-        "large": "assets/images/fn/big/blitz_battle.png",
-        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
-        "tiny": "assets/images/fn/tiny/aokiji_ranking.png",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
-        "drops": ["MediumBlue", "ElderBlue"]
-    },
-    "AkainuRanking": {
-        "title": "Blitz Battle! The three admirals! Akainu!",
-        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
-        "tiny": "assets/images/fn/tiny/akainu_ranking.png",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
-        "drops": ["MediumRed", "ElderRed"]
-    },
-    "KizaruRanking": {
-        "title": "Blitz Battle! The three admirals! Kizaru!",
-        "large": "assets/images/fn/big/blitz_battle.png",
-        "tiny": "assets/images/fn/tiny/kizaru_ranking.png",
-        "condition" : "It seems that this is not like the old ranking. It's possible find all the informations <a href='https://www.reddit.com/r/OnePieceTC/comments/7r6qga/jpnblitz_battle_returning_it_seems_and_version/dsumtwb/' target='_blank'>here</a>",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger"],
-        "drops": ["MediumYellow", "ElderYellow"]
-    },
-    "SanjiRanking": {
-        "title": "Blitz Battle! Straw Hats! Aokiji!",
-        "large": "assets/images/fn/big/straw_hats_ranking.png",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
-        "tiny": "assets/images/fn/tiny/sanji_ranking.png",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
-        "drops": ["MediumRed", "ElderRed"]
-    },
-    "ZoroRanking": {
-        "title": "Blitz Battle! Straw Hats! Akainu!",
-        "large": "assets/images/fn/big/straw_hats_ranking.png",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
-        "tiny": "assets/images/fn/tiny/zoro_ranking.png",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
-        "drops": ["MediumGreen", "ElderGreen"]
-    },
-    "LuffyRanking": {
-        "title": "Blitz Battle! Straw Hats! Kizaru!",
-        "large": "assets/images/fn/big/straw_hats_ranking.png",
-        "tiny": "assets/images/fn/tiny/luffy_ranking.png",
-        "condition" : "This island is linked to a ranking event. More times you clear the island, higher will be your positions in the ranking and the rewards will be better.<br/> More informations <a href=\"https://www.reddit.com/r/OnePieceTC/comments/7ogt08/eng_blitz_battle_straw_hat_pirates_megathread/\" target=\"_blank\"> on reddit</a>.",
-        "lastTimes": [],
-        "books" : ["UniversalSkillbook", "LogKid", "FisherTiger", "LimitedJinbe", "AokijiSecret"],
-        "drops": ["MediumBlue", "ElderBlue"]
-    },
     "Caribou": {
-        "title": "Caribou fortnight!",
+        "title": "Caribou Pirates!",
         "large": "assets/images/fn/big/caribou.png",
         "tiny": "assets/images/fn/tiny/caribou.png",
         "lastTimes": [],
+        "condition" : "STR orbs will not appear naturally",
         "books" : ["Blackbeard6", "Doma", "WhiteyBay", "TashigiG5", "Lafitte", "JimbeSecret", "Hannyabal", "CaribouStory", "Coribou"],
         "drops": ["Caribou", "Coribou"]
     },
@@ -1205,12 +1207,13 @@
         "title": "Perona's Strange Communal Life!",
         "large": "assets/images/fn/big/mihawk_perona.png",
         "tiny": "assets/images/fn/tiny/mihawk_perona.png",
+        "condition": "Take heavy damage at the start of the island",
         "lastTimes": [],
         "books" : ["Sakazuki6", "CobyStudent", "Momonga", "Sandersonia", "Marigold", "HyouzouS"],
         "drops": ["MihawkFN", "PeronaM"]
     },
     "ReijuSanji": {
-        "title": "Escape from Germa 66!",
+        "title": "Final Thoughts to my Brother Sanji!",
         "large": "assets/images/fn/big/reiju_sanji.png",
         "tiny": "assets/images/fn/tiny/reiju_sanji.png",
         "lastTimes": [],
@@ -1218,7 +1221,7 @@
         "drops": ["Reiju", "SanjiGermaKid"]
     },
     "BoaSisters": {
-        "title": "Gorgon Sisters Escape from Mariejois!",
+        "title": "Binding and Bonds!",
         "large": "assets/images/fn/big/boa_sister.png",
         "tiny": "assets/images/fn/tiny/boa_sister.png",
         "lastTimes": [],
@@ -1250,7 +1253,7 @@
         "drops": ["SanjiGroom","HP","ATK","RCV","Lobster3","Lobster4","ElderYellow","MediumYellow"]
     },
     "VanderDecken": {
-      "title": "Vander Decken & Wadatsumi!",
+      "title": "My Ideal Type!",
       "large": "assets/images/fn/big/vanderDecken.png",
       "tiny": "assets/images/fn/tiny/vanderDecken.png",
       "lastTimes": [],
@@ -1266,23 +1269,23 @@
         "drops": ["PuddingBride","HP","ATK","RCV","Lobster3","Lobster4","ElderPurple","MediumPurple"]
     },
     "OarsHogback": {
-        "title": "Oars and Hogback!",
-        "large": "",
+        "title": "Devil Oars, Day of the Second Coming",
+        "large": "assets/images/fn/big/oarsHogback.png",
         "tiny": "assets/images/fn/tiny/oarsHogback.png",
         "lastTimes": [],
         "books" : ["Lucy6","SanjiTS","BartoQCK","AkainuDEX","Yonji","ZeoStory"],
         "drops": ["OarsQCK","HogbackPSY"]
     },
     "BonnieBege": {
-        "title": "Bonnie and Bege!",
+        "title": "Supernova! Capone and Bonney!",
         "large": "assets/images/fn/big/bonnie_bege.png",
         "tiny": "assets/images/fn/tiny/bonnie_bege.png",
         "lastTimes": [],
         "books" : ["Zoro6+", "Zoro6", "NamiTS", "BenBeckman", "Reiju", "Ichiji", "DragonPunkHazard"],
         "drops": ["Bege", "Bonney"]
-    },
-    "MarcoVista": {
-        "title": "Marco and Vista!",
+    }, 
+    "MarcoVista" : {
+        "title": "Whitebeard Pirates Commanders! Marco and Vista!",
         "large": "assets/images/fn/big/marco_vista.png",
         "tiny": "assets/images/fn/tiny/marco_vista.png",
         "lastTimes": [],

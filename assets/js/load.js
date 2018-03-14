@@ -78,8 +78,6 @@ function showRaid(flag) {
 
             for (i = 0; i < 7; i++) {
                 var raid = json.weeks[cont].program[i].raid;
-                console.log(raid);
-                console.log(raidList);
                 if (raid[0] != "none") {
                     for (j = 0; j < raid.length; j++) {
                         var character = raid[j];
@@ -459,6 +457,10 @@ function raidModal(character) {
     for (i = 0; i < last.length; i++) {
         $("#raidLast").append("<li>" + last[i] + "</li>");
     }
+
+    var id = charJs.linkDB.split("/");
+    var link = 'https://www.nakama.network/stages/' + '4' + nakamaID(id[6]) + '00/details/'
+    $(".nakama-div a").attr('href',  link);
 }
 
 function coloModal(character) {
@@ -488,6 +490,10 @@ function coloModal(character) {
     for (i = 0; i < last.length; i++) {
         $("#coloLast").append("<li>" + last[i] + "</li>");
     }
+
+    var id = charJs.linkDB.split("/");
+    var link = 'https://www.nakama.network/stages/' + '5' + nakamaID(id[6]) + '01/details/'
+    $(".nakama-div a").attr('href',  link);
 }
 
 function fnModal(character) {
@@ -632,6 +638,30 @@ function fnModal(character) {
             }
         }
     }
+
+    var optcdb_json = window.drops.Fortnight;
+
+    var jjj = false;
+
+    for(i=0;i<optcdb_json.length;i++){
+        if(optcdb_json[i].name == title){
+            var linkNakama = 'https://www.nakama.network/stages/' + optcdb_json[i].nakama +  '/details/'
+            $(".nakama-div a").attr('href',  linkNakama);
+            jjj = true;
+            break;
+        }
+    }
+
+    if(jjj){
+        $(".nakama-div").attr('display', 'block');
+    } else {
+        $(".nakama-div").attr('display', 'none');
+    }
+
+    // console.log(optcdb_json);
+
+
+
 }
 
 function specialModal(character) {
@@ -888,6 +918,27 @@ function prevWeek(day, newMonth) {
             }
         }
     });
+}
+
+function nakamaID(id){
+    var conc;
+
+    switch (id.length) {
+        case 1:
+            conc = "000" + id;
+            break;
+        case 2:
+            conc = "00" + id;
+            break;
+        case 3:
+            conc = "0" + id;
+            break;
+        case 4:
+            conc = id;
+            break;
+    }
+
+    return conc;
 }
 
 function imageUrl(id) {

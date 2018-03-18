@@ -273,7 +273,7 @@ function showSpecial(flag) {
                                 }
                             }
                             if (character == "Booster" || character == "Evolver" || character == "Snail" || character == "Sugofest"
-                                || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull") {
+                                || character == "DoffyShip" || character == "Rayleigh" || character == "FreePull" || character == "TreasureMap") {
                                 $("#list" + (i + 1) + " .special").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
                             }
                             

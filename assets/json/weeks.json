@@ -618,22 +618,22 @@
                 {"raid": ["none"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Fukaboshi", "Shandia", "Whitebeard4", "Shirahoshi"], "special" : ["CottonX3"]},
                 {"raid": ["SaboKai"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["none"]},
                 {"raid": ["SaboKai"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern"]},
-                {"raid": ["Franky", "SaboKai"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
-                {"raid": ["Magellan"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp"]},
-                {"raid": ["Pica"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["LvlUp"]}
+                {"raid": ["Franky", "SaboKai"], "colo" : ["Orlumbus", "Franky", "Smoker", "BrownBeard"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["ColaCavern", "LvlUp","Sugofest"]},
+                {"raid": ["Magellan"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","Sentomaru","Dadan","LawMonet"], "special" : ["ColaCavern", "LvlUp","Sugofest"]},
+                {"raid": ["Pica"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","Sentomaru","Dadan","LawMonet"], "special" : ["LvlUp","Sugofest"]}
             ]
         },
         {
             "starting": 18,
             "month" : "March",
             "program": [
-                {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp"]},
-                {"raid": ["Boa"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["Eneru"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]}
+                {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["LvlUp","Sugofest"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["CottonX3", "LvlUp","Sugofest"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["Boa"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["Sugofest","TreasureMap"]},
+                {"raid": ["Eneru"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["Sugofest","TreasureMap"]}
             ]
         },
         {
@@ -641,10 +641,10 @@
             "month" : "March",
             "program": [
                 {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["CottonX3"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
                 {"raid": ["Bellamy"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing"], "special" : ["none"]}
             ]

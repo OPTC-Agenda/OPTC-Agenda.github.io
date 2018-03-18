@@ -654,34 +654,34 @@
             "starting": 18,
             "month" : "March",
             "program": [
-                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
+                {"raid": ["SenorPink","Shanks"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
                 {"raid": ["Lucci", "Shanks"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["RaySocket"]},
-                {"raid": ["Bartolomeo", "Shanks"], "colo" : ["none"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
+                {"raid": ["Bartolomeo", "Shanks"], "colo" : ["none"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["Evolver"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["Chopper", "Whitebeard"], "colo" : ["none"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["Kuma", "Whitebeard"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]}
+                {"raid": ["Kuma", "Whitebeard"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimeSTR","Sugofest"]}
             ]
         },
         {
             "starting": 25,
             "month" : "March",
             "program": [
-                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["NightmareLuffy", "Caesar", "Cavendish"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]}
+                {"raid": ["Fujitora", "Whitebeard"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimeDEX","Sugofest"]},
+                {"raid": ["Bellamy", "Whitebeard"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimeQCK","Sugofest"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimeINT"]},
+                {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimePSY","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida"], "fn": ["TBone", "SugarTrebol"], "special" : ["LvlUp"]},
+                {"raid": ["NightmareLuffy", "Caesar", "Cavendish"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["TBone", "SugarTrebol"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 1,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["TBone", "SugarTrebol"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["TBone", "SugarTrebol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

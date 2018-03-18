@@ -628,7 +628,7 @@
             "month" : "March",
             "program": [
                 {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["LvlUp","Sugofest"]},
-                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["CottonX3", "LvlUp","Sugofest"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["LvlUp","Sugofest"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
                 {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
                 {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},

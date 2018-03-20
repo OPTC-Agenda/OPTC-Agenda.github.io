@@ -34,6 +34,10 @@ $(document).ready(function () {
         showColo(true);
     });
 
+    $('#showTresureMap').click(function () {
+        showTreasureMap(true);
+    });
+
     $('#showFortnights').click(function () {
         showFN(true);
     });        
@@ -140,6 +144,59 @@ function showColo(flag) {
 
     }else {
         emptyColo();
+    }
+}
+
+function showTreasureMap(flag) {
+    if ($("#showTresureMap:checked").length > 0) {
+
+        var tmList = (function () {
+            $.ajax({
+                'async': false,
+                'global': false,
+                'url': "assets/json/tm.json",
+                'dataType': "json",
+                'success': function (data) {
+                    json = data;
+                }
+            });
+            return json;
+        })();
+        ;
+
+        var start = $("#day1").text();
+        var month = $("#month").text();
+
+        $.getJSON("assets/json/weeksJap.json", function (json) {
+            var weeks = json.weeks;
+            var prev = start;
+            var cont;
+
+            for (i = 0; i < weeks.length; i++) {
+                if (weeks[i].month == month && weeks[i].starting == start) {
+                    cont = i;
+                    break;
+                }
+            }
+
+            for (i = 0; i < 7; i++) {
+                if(json.weeks[cont].program[i].hasOwnProperty('tm')) {
+                    var tm = json.weeks[cont].program[i].tm;
+                    if (tm[0] != "none") {
+                        for (j = 0; j < tm.length; j++) {
+                            var character = tm[j];
+                            var tiny = tmList[character].tiny;
+                            var foo = 'coloModal(\'' + character + '\')';
+
+                            $("#list" + (i + 1) + " .tm").append("<a href='#viewColoModal' onclick='tmModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
+                        }
+                    }
+                }
+            }
+        });
+
+    } else {
+        emptyTm();
     }
 }
 
@@ -270,6 +327,7 @@ function emptyAll() {
     emptyRaid();
     emptyFn();
     emptyColo();
+    emptyTm();
     emptySpecial();
     emptyDays();
     emptySpecialLvlUp();
@@ -290,6 +348,12 @@ function emptyFn() {
 function emptyColo() {
     for (i = 0; i < 7; i++) {
         $("#list" + (i + 1) + " .colo").empty();
+    }
+}
+
+function emptyTm() {
+    for (i = 0; i < 7; i++) {
+        $("#list" + (i + 1) + " .tm").empty();
     }
 }
 
@@ -459,6 +523,34 @@ function coloModal(character) {
 
     var id = charJs.linkDB.split("/");
     var link = 'https://www.nakama.network/stages/' + '5' + nakamaID(id[6]) + '01/details/'
+    $(".nakama-div a").attr('href',  link);
+}
+
+function tmModal(character) {
+    // TM 8 nakama
+    var tmList = (function () {
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "assets/json/tm.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })();
+    ;
+
+    var charJs = tmList[character];
+    var url = "http://optc-db.github.io/characters/#/view/" + charJs.id;
+    var large = "<a href='" + url + "' target='_blank'><img src='" + charJs.large + "' class='img-responsive img-centered' alt=''></a>";
+
+    $("#coloBody h2").empty().append(character);
+    $("#coloImage").empty().append(large);
+    $("#coloLast").empty();
+
+    var link = 'https://www.nakama.network/stages/' + '8' + nakamaID(charJs.id) + '00/details/'
     $(".nakama-div a").attr('href',  link);
 }
 
@@ -776,6 +868,7 @@ function nextWeek(day, newMonth) {
         showFN(false);            
         showColo(false);
         showRaid(false);
+        showTreasureMap(false);
         showSpecial(false);    
 
         for (i = 0; i < 7; i++) {
@@ -847,6 +940,7 @@ function prevWeek(day, newMonth) {
         showFN(false);             
         showColo(false);
         showRaid(false);
+        showTreasureMap(false);
         showSpecial(false);   
 
         for (i = 0; i < 7; i++) {
@@ -939,7 +1033,8 @@ function firstLoad() {
 
         showFN(false);             
         showColo(false);
-        showRaid(false);               
+        showRaid(false);
+        showTreasureMap(false);
         showSpecial(false);   
 
         for (i = 0; i < 7; i++) {

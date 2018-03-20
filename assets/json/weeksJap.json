@@ -643,11 +643,11 @@
             "program": [
                 {"raid": ["Blackbeard", "Cavendish"], "colo" : ["Rayleigh", "Marco", "LittleOarsJr", "Hawkins", "Saga", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
                 {"raid": ["Duval", "Cavendish"], "colo" : ["Rayleigh", "Kinemon", "Coby", "Ace", "Kuro", "Garp"], "fn": ["BonnieBege", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "RaySocket"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MarcoVista", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
-                {"raid": ["Pica", "Shanks"], "colo" : ["none"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap", "LvlUp"]},
-                {"raid": ["Doflamingo", "Shanks"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "SanjiZoroTM", "TreasureMap"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["MarcoVista", "Duck", "LawMonet", "GiollaBrook"], "tm" : ["SanjiZoro"],  "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "TreasureMap", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "tm" : ["SanjiZoro"], "fn": ["MarcoVista", "Duck", "LawMonet", "GiollaBrook"], "special" : ["SanjiTea", "BrookTea", "Booster", "Evolver", "TreasureMap", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["Rayleigh", "Machvise", "Foxy", "Dorry", "Broggy", "Garp"], "tm" : ["SanjiZoro"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "TreasureMap", "LvlUp"]},
+                {"raid": ["Pica", "Shanks"], "colo" : ["none"], "tm" : ["SanjiZoro"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "TreasureMap", "LvlUp"]},
+                {"raid": ["Doflamingo", "Shanks"], "colo" : ["Rayleigh", "Nekomamushi", "Moria", "LaoG", "Wyper", "Garp"], "tm" : ["SanjiZoro"], "fn": ["MarcoVista", "Caribou", "BaroqueWorksPrison", "Fishman"], "special" : ["SanjiTea", "BrookTea", "RaySocket", "TreasureMap"]}
             ]
         },
         {

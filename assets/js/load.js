@@ -917,6 +917,7 @@ function nextWeek(day, newMonth) {
         showFN(false);
         showColo(false);
         showRaid(false);
+        showTreasureMap(false);
         showSpecial(false);
 
         if (timezone) {
@@ -995,6 +996,7 @@ function prevWeek(day, newMonth) {
         showFN(false);
         showColo();
         showRaid(false);
+        showTreasureMap(false);
         showSpecial(false);
 
         if (timezone) {

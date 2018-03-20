@@ -629,11 +629,11 @@
             "program": [
                 {"raid": ["Duval"], "colo" : ["none"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["LvlUp","Sugofest"]},
                 {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Kalifa", "Sengoku", "GiollaBrook","KidPirates","Fishman","MadameSharley"], "special" : ["LvlUp","Sugofest"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
-                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
-                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
-                {"raid": ["Boa"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["Sugofest","TreasureMap"]},
-                {"raid": ["Eneru"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["Sugofest","TreasureMap"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "tm" : ["Mihawk"], "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "tm" : ["Mihawk"],  "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "tm" : ["Mihawk"],  "special" : ["LvlUp","Sugofest","TreasureMap"]},
+                {"raid": ["Boa"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "tm" : ["Mihawk"],  "special" : ["Sugofest","TreasureMap"]},
+                {"raid": ["Eneru"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "tm" : ["Mihawk"],  "special" : ["Sugofest","TreasureMap"]}
             ]
         },
         {

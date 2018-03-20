@@ -1,0 +1,21 @@
+{
+  "Mihawk": {
+    "title": "Mihawk Treasure Map!",
+    "tiny":  "assets/images/tm/tiny/mihawk.png",
+    "large": "assets/images/tm/big/mihawk.png",
+    "id" :   "1808"
+  },
+  "Sabo": {
+    "title": "Sabo Valentine Treasure Map!",
+    "tiny": "assets/images/tm/tiny/sabo.png",
+    "large": "",
+    "id" :   "1972"
+  },
+  "SanjiZoro": {
+    "title": "Sanji & Zoro Treasure Map!",
+    "tiny": "assets/images/tm/tiny/sanji_zoro.png",
+    "large": "assets/images/tm/big/sanji_zoro.png",
+    "id" : "2000"
+  }
+
+}

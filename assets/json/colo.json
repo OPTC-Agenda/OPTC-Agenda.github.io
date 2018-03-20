@@ -494,5 +494,11 @@
         "tiny": "assets/images/colo/tiny/rayleigh.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/1977"
+    },
+    "DiamanteKai": {
+        "large": "assets/images/colo/big/neo_diamante.png",
+        "tiny": "assets/images/colo/tiny/neo_diamante.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/2016"
     }
 }

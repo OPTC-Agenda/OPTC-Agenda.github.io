@@ -979,6 +979,27 @@ function setMargin() {
     $('.justified').css('margin-left', '-' + (width / 2) + 'px');
 }
 
+function nakamaID(id){
+    var conc;
+
+    switch (id.length) {
+        case 1:
+            conc = "000" + id;
+            break;
+        case 2:
+            conc = "00" + id;
+            break;
+        case 3:
+            conc = "0" + id;
+            break;
+        case 4:
+            conc = id;
+            break;
+    }
+
+    return conc;
+}
+
 function firstLoad() {
     // Day from the agenda has to start
     var now = new Date();

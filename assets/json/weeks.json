@@ -641,20 +641,33 @@
             "month" : "March",
             "program": [
                 {"raid": ["Heracles", "Usopp"], "colo" : ["none"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["Bellamy"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]}
+                {"raid": ["BusterCall"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["Hogback", "BigMomPirates", "BlackbeardPirates"], "special" : ["none"]},
+                {"raid": ["Sabo"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["HimeINT", "CottonEgg", "LvlUp"]},
+                {"raid": ["Magellan"], "colo" : ["LaoG", "Garp", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["HimeSTR", "LvlUp"]},
+                {"raid": ["Kuma"], "colo" : ["Killer","Paulie","Byrnndi","McGuy","SadieChan"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["HimeDEX", "LvlUp"]},
+                {"raid": ["Bellamy"], "colo" : ["LaoG", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["HimeQCK", "LvlUp"]},
+                {"raid": ["Aokiji"], "colo" : ["LaoG", "Garp", "Dellinger", "Kinemon", "Broggy", "Dorry"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["HimePSY", "LvlUp"]}
             ]
         },
         {
             "starting": 1,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["CottonEgg", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["CottonEgg"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["LvlUp"]}
+            ]
+        },
+        {
+            "starting": 8,
+            "month" : "April",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["CottonEgg", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly"], "special" : ["CottonEgg", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

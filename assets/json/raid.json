@@ -138,7 +138,7 @@
         "large": "assets/images/raid/big/kizaru.png",
         "tiny": "assets/images/raid/tiny/kizaru.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/979"
+        "linkDB": "http://optc-db.github.io/characters/#/view/978"
     },
     "Sabo": {
         "name" : "Sabo",
@@ -166,7 +166,7 @@
         "large": "assets/images/raid/big/akainu.png",
         "tiny": "assets/images/raid/tiny/akainu.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/1299"
+        "linkDB": "http://optc-db.github.io/characters/#/view/1298"
     },
     "Magellan": { 
         "name" : "Magellan",
@@ -208,7 +208,7 @@
         "large": "assets/images/raid/big/fujitora.png",
         "tiny": "assets/images/raid/tiny/fujitora.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/1596"
+        "linkDB": "http://optc-db.github.io/characters/#/view/1595"
     },
     "FakeMugiwara": {
         "name" : "Impostor Straw Hat!",
@@ -344,7 +344,7 @@
         "large": "assets/images/raid/big/doffy_v2.png",
         "tiny": "assets/images/raid/tiny/doffy_v2.png",
         "lastTimes": [],
-        "linkDB": "http://optc-db.github.io/characters/#/view/2024"
+        "linkDB": "http://optc-db.github.io/characters/#/view/2201"
     },
     "Lucci": {
         "name" : "Lucci",

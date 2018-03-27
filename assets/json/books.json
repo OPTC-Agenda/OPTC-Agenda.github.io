@@ -518,6 +518,9 @@
     "BenBeckman" : {
         "id" : "1770"
     },
+    "KizaruSecret" : {
+        "id" : "1778"
+    },
     "Tashigi" : {
         "id" : "68"
     },
@@ -1358,6 +1361,9 @@
     "FisherTiger" : {
         "id" : "1632"
     },
+    "BrownbeardStory" : {
+        "id" : "1632"
+    },
     "LimitedJinbe" : {
         "id" : "1721"
     },
@@ -1447,6 +1453,12 @@
     },
     "RockScotch" : {
         "id" : "1634"
+    },
+    "KyrosSTR" : {
+        "id" : "1873"
+    },
+    "Rebecca" : {
+        "id" : "1877"
     }
 
 

@@ -1237,16 +1237,19 @@
       "id" : "1981"
     },
     "SanjiZoro" : {
-      "id" : "2000",
-      "missing" : "yes"
+      "id" : "2000"
     },
     "Marco" : {
-      "id" : "1994",
-      "missing" : "yes"
+      "id" : "1994"
     },
     "Vista" : {
-      "id" : "1996",
-      "missing" : "yes"
+      "id" : "1996"
+    },
+    "Makino" : {
+      "id" : "2020"
+    },
+    "Shanks" : {
+      "id" : "2018"
     }
 }
 

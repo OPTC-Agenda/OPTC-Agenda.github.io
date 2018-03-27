@@ -1291,5 +1291,16 @@
         "lastTimes": [],
         "books" : ["Judge", "Niji", "RobinTS", "LimitedJinbe", "BellamyPSY", "RockScotch"],
         "drops": ["Marco", "Vista"]
+    },
+    "MakinoShanks" : {
+      "title": "Makino's Bar! Shanks and Makino!",
+      "large": "assets/images/fn/big/makino_shanks.png",
+      "tiny": "assets/images/fn/tiny/makino_shanks.png",
+      "lastTimes": [],
+      "books" : ["LuffyTS", "G4", "BrookTS", "BrownbeardStory", "KizaruSecret", "KyrosSTR", "Rebecca"],
+      "drops": ["Shanks", "Makino"]
     }
+
+
+
 }

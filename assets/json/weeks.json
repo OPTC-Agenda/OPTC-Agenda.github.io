@@ -655,32 +655,32 @@
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["CottonX3", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["LvlUp"]}
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3"]},
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 8,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]}
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
+                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]}
             ]
         },
         {
             "starting": 15,
             "month" : "April",
             "program": [
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},

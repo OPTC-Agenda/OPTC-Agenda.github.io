@@ -700,7 +700,7 @@
               {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "Sentomaru"], "special" : ["none"]}
           ]
-        },  
+        },
       {
             "starting": 29,
             "month" : "April",

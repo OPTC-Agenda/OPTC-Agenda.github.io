@@ -673,7 +673,7 @@
                 {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo", "DiamanteKai"], "fn": ["MakinoShanks", "Kalifa", "DonquixotePirates", "MadameSharley"], "special" : ["HimePSY","LvlUp"]},
                 {"raid": ["none"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida", "DiamanteKai"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]},
                 {"raid": ["NightmareLuffy", "Caesar", "Cavendish"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]}
+                {"raid": ["Akainu", "Cavendish"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]}
             ]
         },
         {
@@ -681,12 +681,12 @@
             "month" : "April",
             "program": [
                 {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
+                {"raid": ["Aokiji", "Cavendish"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
+                {"raid": ["Sanji", "Cavendish"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]}
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
+                {"raid": ["Vergo", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]}
             ]
         },
         {
@@ -694,12 +694,38 @@
             "month" : "April",
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
+                {"raid": ["Zephyr", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
+                {"raid": ["Garp", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Ivankov", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Chopper", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 15,
+            "month" : "April",
+            "program": [
+                {"raid": ["Usopp", "Heracles", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 22,
+            "month" : "April",
+            "program": [
+                {"raid": ["Kuma", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Duval", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

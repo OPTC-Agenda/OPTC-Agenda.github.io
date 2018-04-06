@@ -683,49 +683,62 @@
                 {"raid": ["none"], "colo" : ["DonChinjao","Shiryu","Gedatsu","Marguerite","LuckyRoo"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["LvlUp"]},
                 {"raid": ["Aokiji", "Cavendish"], "colo" : ["Smoker","Byrnndi","Kyros","SadieChan","Alvida"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
                 {"raid": ["Sanji", "Cavendish"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
-                {"raid": ["BusterCall", "Cavendish"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["Vergo", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["MakinoShanks", "TBone", "SugarTrebol"], "special" : ["none"]},
+                {"raid": ["BusterCall", "Cavendish"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["MakinoShanks", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["none"]},
+                {"raid": ["Kizaru", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["ColaCavern"]},
+                {"raid": ["Vergo", "Shanks"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["MakinoShanks", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["ColaCavern"]}
             ]
         },
         {
             "starting": 8,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["Zephyr", "Shanks"], "colo" : ["none"], "fn": ["MakinoShanks"], "special" : ["none"]},
-                {"raid": ["Garp", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Ivankov", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Chopper", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["MakinoShanks", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["ColaCavern", "LvlUp"]},
+                {"raid": ["Zephyr", "Shanks"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["MakinoShanks", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["LvlUp"]},
+                {"raid": ["Garp", "Shanks"], "colo" : ["none"], "fn": ["ShanksPirates", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["ShanksPirates", "CountButler", "BoaSisters", "RikuScarlet", "AkainuVS", "AokijiVS"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi", "AkainuVS", "AokijiVS"], "special" : ["none"]},
+                {"raid": ["Ivankov", "Whitebeard"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
+                {"raid": ["Chopper", "Whitebeard"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]}
             ]
         },
         {
             "starting": 15,
             "month" : "April",
             "program": [
-                {"raid": ["Usopp", "Heracles", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["Usopp", "Heracles", "Whitebeard"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
+                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
+                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]}
             ]
         },
         {
             "starting": 22,
             "month" : "April",
             "program": [
-                {"raid": ["Kuma", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Duval", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["Kuma", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["Duval", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]}
+            ]
+        },
+        {
+            "starting": 29,
+            "month" : "April",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
             ]
         }
     ]

@@ -1268,6 +1268,18 @@
     },
     "LuffyTea" : {
       "id" : "1462"
+    },
+    "Yasopp" : {
+      "id" : "2038",
+      "missing" : "yes"
+    },
+    "LuckyRoux" : {
+      "id" : "2039",
+      "missing" : "yes"
+    },
+    "BenBeckman" : {
+      "id" : "2040",
+      "missing" : "yes"
     }
 }
 

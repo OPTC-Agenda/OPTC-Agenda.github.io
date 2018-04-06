@@ -500,5 +500,11 @@
         "tiny": "assets/images/colo/tiny/neo_diamante.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/2016"
+    },
+    "Burgess": {
+        "large": "assets/images/colo/big/burgess.png",
+        "tiny": "assets/images/colo/tiny/burgess.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/2036"
     }
 }

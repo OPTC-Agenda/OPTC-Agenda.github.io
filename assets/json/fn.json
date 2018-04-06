@@ -1299,6 +1299,30 @@
       "lastTimes": [],
       "books" : ["LuffyTS", "G4", "BrookTS", "BrownbeardStory", "KizaruSecret", "KyrosSTR", "Rebecca"],
       "drops": ["Shanks", "Makino"]
+    },
+    "ShanksPirates" : {
+        "title": "Red Hair Pirates!",
+        "large": "assets/images/fn/big/shanks_pirates.png",
+        "tiny": "assets/images/fn/tiny/shanks_pirates.png",
+        "lastTimes": [],
+        "books" : ["IsshoV2", "Hina", "UsoppTS", "Byrnndi", "VioletV2", "PinkV2"],
+        "drops": ["Yasopp", "LuckyRoux", "BenBeckman"]
+    },
+    "AkainuVS" : {
+        "title": "Aokiji VS Akainu: Akainu Side!",
+        "large": "assets/images/fn/big/aokiji_vs_akainu.png",
+        "tiny": "assets/images/fn/tiny/akainu.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "KuzanV2"],
+        "drops" : []
+    },
+    "AokijiVS" : {
+        "title": "Aokiji VS Akainu: Aokiji Side!",
+        "large": "assets/images/fn/big/aokiji_vs_akainu.png",
+        "tiny": "assets/images/fn/tiny/aokiji.png",
+        "lastTimes": [],
+        "books" : ["UniversalSkillbook", "SakazukiV2"],
+        "drops" : []
     }
 
 

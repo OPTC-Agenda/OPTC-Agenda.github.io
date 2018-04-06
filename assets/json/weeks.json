@@ -654,12 +654,12 @@
             "month" : "April",
             "program": [
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
+                {"raid": ["AkainuKai"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["BlueGilly", "TomWorkers", "SoulKing","CP9"], "special" : ["none"]},
                 {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
-                {"raid": ["AkainuKai", "Garp"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3"]},
-                {"raid": ["AkainuKai", "Fujitora"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["LvlUp"]}
+                {"raid": ["AkainuKai"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
+                {"raid": ["AkainuKai"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["none"]},
+                {"raid": ["AkainuKai", "Garp"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3"]},
+                {"raid": ["AkainuKai", "Fujitora"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["LvlUp"]}
             ]
         },
         {
@@ -667,12 +667,12 @@
             "month" : "April",
             "program": [
                 {"raid": ["AkainuKai", "Sabo"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["AkainuKai"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
+                {"raid": ["AkainuKai"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["DoffyV2"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["NightmareLuffy"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["DoffyV2"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
+                {"raid": ["NightmareLuffy"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]}
             ]
         },
         {
@@ -682,10 +682,10 @@
               {"raid": ["Akainu"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["Ivankov"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]}
+              {"raid": ["Ivankov"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
+              {"raid": ["Kizaru"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]}
             ]
         },
         {

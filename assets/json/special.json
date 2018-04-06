@@ -198,6 +198,18 @@
         "tiny" : "assets/images/special/brook_tea.png",
         "large" : "assets/images/special/tea_island.png",
         "drops" : ["BrookTea", "DugongStory", "Zambai", "JabraStory", "Gyaro"]
+    },
+    "LuffyTea" : {
+        "title" : "Luffy Tea!",
+        "tiny" : "assets/images/special/luffy_tea.png",
+        "large" : "assets/images/special/sweet_tea.png",
+        "drops" : ["LuffyTea", "Porche", "MargueriteStory"]
+    },
+    "ChopperTea" : {
+        "title" : "Chopper Tea!",
+        "tiny" : "assets/images/special/chopper_tea.png",
+        "large" : "assets/images/special/sweet_tea.png",
+        "drops" : ["ChopperTea", "Kureha", "Lapin", "KalifaStory", "Kikyo", "ArmyWolf"]
     }
 
 }

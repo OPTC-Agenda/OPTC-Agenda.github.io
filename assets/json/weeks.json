@@ -668,32 +668,32 @@
             "program": [
                 {"raid": ["AkainuKai", "Sabo"], "colo" : ["none"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
                 {"raid": ["AkainuKai"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["BlueGilly", "WanoSamurai", "Domino", "SadieChan", "KujaPirates"], "special" : ["CottonX3", "LvlUp"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["DoffyV2"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-                {"raid": ["NightmareLuffy"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]}
+                {"raid": ["MihawkKai"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "RaySocket"]},
+                {"raid": ["MihawkKai"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "RaySocket"]},
+                {"raid": ["AokijiKai"], "colo" : ["Sicilian", "Drake", "Coby", "Hajrudin", "Hina"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea"]},
+                {"raid": ["AokijiKai", "DoffyV2"], "colo" : ["Raizo", "Kanjuro", "Cavendish", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "LvlUp"]},
+                {"raid": ["DoffyINT", "NightmareLuffy"], "colo" : ["Raizo", "Kanjuro", "Cavendish", "Moria", "Mr7"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "LvlUp"]}
             ]
         },
         {
             "starting": 15,
             "month" : "April",
             "program": [
-              {"raid": ["Akainu"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["Ivankov"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["Kizaru"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]}
+              {"raid": ["DoffyINT", "Akainu"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "RaySocket", "LvlUp"]},
+              {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["WanoSamurai", "Crocodile", "ToySoldier", "Fishman"], "special" : ["LuffyTea", "RaySocket", "HimeSTR", "LvlUp"]},
+              {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeDEX"]},
+              {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeQCK"]},
+              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimePSY"]},
+              {"raid": ["Ivankov"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeINT"]},
+              {"raid": ["Kizaru"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea"]}
             ]
         },
         {
             "starting": 22,
             "month" : "April",
             "program": [
-              {"raid": ["Sanji"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["Cnone"]},
+              {"raid": ["Sanji"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea"]},
+              {"raid": ["none"], "colo" : ["none"], "fn": ["Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Tontatta2", "Sentomaru", "Fukaboshi"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Tontatta2", "Sentomaru", "Fukaboshi"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["BigMomPirates", "Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},

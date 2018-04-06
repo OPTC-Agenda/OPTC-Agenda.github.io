@@ -295,7 +295,7 @@ function showSpecial(flag) {
                         var tiny = specialList[character].tiny;
                         var foo = 'fnModal(\'' + character + '\')';
 
-                        if (/^Cotton/.test(character) || /^Hime/.test(character)
+                        if (/^Cotton/.test(character) || /^Hime/.test(character) || character == "LuffyTea" || character == "ChopperTea"
                             || character == "RaySocket" || character == "SugoIsland" || /^Summer/.test(character) || character == "SanjiLobster" || /^Luffy/.test(character) || character == "RebeccaJuice") {
                             if (timezone) {
                                 $("#list" + (i) + " .special").append("<a href='#viewSpecialModal' onclick='specialModal(\"" + character + "\")' data-toggle='modal'><div style='background-image: url(" + tiny + ")' class='image-div inline'></div></a>");
@@ -806,8 +806,12 @@ function specialModal(character) {
     for (i = 0; i < drops.length; i++) {
         var drop = drops[i];
         var toDrop = dropList[drops[i]];
+        console.log(toDrop);
         var tiny = toDrop.image//"https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);//toDrop.image;        
         //var url = "http://optc-db.github.io/characters/#/view/" + toDrop.id;
+        if(Number(tiny) != NaN){
+            tiny = "https://onepiece-treasurecruise.com/wp-content/uploads/" + imageUrl(toDrop.id);
+        }
         $("#specialDrops").append("<div style='background-image: url(" + tiny + ")' class='image-div inline'></div>");
     }
 }

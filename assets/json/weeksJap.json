@@ -707,19 +707,19 @@
             "month" : "April",
             "program": [
                 {"raid": ["Usopp", "Heracles", "Whitebeard"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
-                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
-                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
-                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
-                {"raid": ["Shiki", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]}
+                {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["LvlUp"]},
+                {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["RaySocket"]},
+                {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["RaySocket"]},
+                {"raid": ["Shiki", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["RaySocket"]}
             ]
         },
         {
             "starting": 22,
             "month" : "April",
             "program": [
-                {"raid": ["Kuma", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["Kuma", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol", "ReijuSanji", "Elizabello", "WhitebeardCommanders"], "special" : ["RaySocket"]},
                 {"raid": ["Duval", "Cavendish"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},

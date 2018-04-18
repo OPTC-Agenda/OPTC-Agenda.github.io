@@ -709,31 +709,31 @@
                 {"raid": ["Usopp", "Heracles", "Whitebeard"], "colo" : ["Burgess", "Zephyr", "Ain", "Binz", "TBone"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
                 {"raid": ["Tesoro", "Whitebeard"], "colo" : ["Burgess", "Drake", "Coby", "Hina", "Helmeppo"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["LvlUp"]},
                 {"raid": ["Magellan", "Whitebeard"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "BlueGilly", "RevolutionaryArmy", "Fukaboshi"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
                 {"raid": ["Boa", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
-                {"raid": ["Shiki", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]}
+                {"raid": ["Shiki", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]}
             ]
         },
         {
             "starting": 22,
             "month" : "April",
             "program": [
-                {"raid": ["Kuma", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
-                {"raid": ["Duval", "Cavendish"], "colo" : ["none"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
+                {"raid": ["Kuma", "Cavendish"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["RaySocket"]},
+                {"raid": ["Duval", "Cavendish"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["ShanksPirates", "HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
                 {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["Sabo", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]}
+                {"raid": ["Sabo", "Shanks"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]}
             ]
         },
         {
             "starting": 29,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

@@ -5,6 +5,12 @@
     "large": "assets/images/tm/big/mihawk.png",
     "id" :   "1808"
   },
+  "Whitebeard": {
+    "title": "Whitebeard Treasure Map!",
+    "tiny": "assets/images/special/treasureMap.png",
+    "large": "assets/images/tm/big/whitebeard.png",
+    "id" : "1853"
+  },
   "Sabo": {
     "title": "Sabo Valentine Treasure Map!",
     "tiny": "assets/images/tm/tiny/sabo.png",

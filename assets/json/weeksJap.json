@@ -724,18 +724,44 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["HeartPirates", "KidPirates", "Wapol"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["Sabo", "Shanks"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]}
+                {"raid": ["Lucci", "Shanks"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
+                {"raid": ["Sabo", "Shanks"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]}
             ]
         },
         {
             "starting": 29,
             "month" : "April",
             "program": [
-                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["HimeDEX", "Evolver", "LvlUp4"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["HimeSTR", "Booster", "LvlUp4"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["HimeINT", "Evolver"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["HimeQCK", "Booster"]}
+            ]
+        },
+        {
+            "starting": 6,
+            "month" : "May",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["HimePSY", "Evolver"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["BuggyTreasure"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["BuggyTreasure"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["BuggyTreasure"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["BuggyTreasure"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["BuggyTreasure", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["CelestialDragons", "LvlUp4"]}
+            ]
+        },
+        {
+            "starting": 13,
+            "month" : "May",
+            "program": [
+                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["CelestialDragons", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["CelestialDragons", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["none"], "fn": ["none"], "special" : ["LvlUp4"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

@@ -303,8 +303,12 @@ function showSpecial(flag){
                                     $("#special" + (i + 1)).addClass('special-img');
                                     if(character == "LvlUp"){                                        
                                         $("#special" + (i + 1)).addClass('skillup-x2');                                        
-                                    }else {                                        
-                                        $("#special" + (i + 1)).addClass('skillup-x3');
+                                    }else {
+                                        if(character == "LvlUp4") {
+                                            $("#special" + (i + 1)).addClass('skillup-x4');
+                                        } else {
+                                            $("#special" + (i + 1)).addClass('skillup-x3');
+                                        }
                                     }
                                 }
                             } 

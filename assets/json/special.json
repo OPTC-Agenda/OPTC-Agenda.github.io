@@ -98,7 +98,10 @@
     },
     "LvlUpx3" : {
         "tiny" : "assets/images/others/special_lvl_up_x3.png"
-    },    
+    },
+    "LvlUp4" : {
+        "tiny" : "assets/images/others/special_lvl_up_x4.png"
+    },
     "FreePull" : {
         "tiny" : "assets/images/special/free-pull.png"
     },

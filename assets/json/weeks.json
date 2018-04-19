@@ -684,8 +684,8 @@
               {"raid": ["KizaruKai"], "colo" : ["none"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeDEX"]},
               {"raid": ["none"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeQCK"], "tm" : ["Whitebeard"]},
               {"raid": ["none"], "colo" : ["TBone", "Nekomamushi", "Shiryu", "Jozu", "Ideo"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimePSY"], "tm" : ["Whitebeard"]},
-              {"raid": ["Ivankov"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeINT"], "tm" : ["Whitebeard"]},
-              {"raid": ["Kizaru"], "colo" : ["Raizo", "Kanjuro", "Moria", "Mr7"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "LvlUp"], "tm" : ["Whitebeard"]}
+              {"raid": ["Ivankov"], "colo" : ["Raizo", "Kanjuro", "Cavendish", "Moria", "Mr7"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "HimeINT"], "tm" : ["Whitebeard"]},
+              {"raid": ["Kizaru"], "colo" : ["Raizo", "Kanjuro", "Cavendish", "Moria", "Mr7"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "LvlUp"], "tm" : ["Whitebeard"]}
             ]
         },
         {
@@ -695,24 +695,37 @@
               {"raid": ["Sanji"], "colo" : ["none"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "LvlUp"], "tm" : ["Whitebeard"]},
               {"raid": ["none"], "colo" : ["TBone", "Nekomamushi", "Shiryu", "Jozu", "Ideo", "KinemonKai"], "fn": ["WandaCarrot", "Breed", "Wapol", "IvankovWoman"], "special" : ["ChopperTea", "LvlUp"]},
               {"raid": ["none"], "colo" : ["KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Fukaboshi"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Fukaboshi"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},
-              {"raid": ["Rayleigh"], "colo" : ["TBone", "Nekomamushi", "Shiryu", "Jozu", "Ideo", "KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},
-              {"raid": ["Kuma", "Fujitora"], "colo" : ["KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru"], "special" : ["none"]}
+              {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace", "KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Fukaboshi"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["TBone", "Nekomamushi", "Shiryu", "Jozu", "Ideo", "KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},
+              {"raid": ["Rayleigh"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace", "KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru", "Shambles"], "special" : ["none"]},
+              {"raid": ["Kuma", "Fujitora"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace", "KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru"], "special" : ["none"]}
           ]
         },
-      {
+        {
             "starting": 29,
             "month" : "April",
             "program": [
               {"raid": ["Fujitora"], "colo" : ["KinemonKai"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["WandaCarrot", "BigMomPirates", "Tontatta2", "Sentomaru"], "special" : ["Cnone"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]},
               {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-              {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+              {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]},
+              {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]}
             ]
-      }
+        },
+        {
+            "starting": 6,
+            "month" : "May",
+            "program": [
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Cnone"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["none"], "special" : ["none"]}
+            ]
+        }
     ]
 }

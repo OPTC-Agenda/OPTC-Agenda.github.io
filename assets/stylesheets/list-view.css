@@ -326,8 +326,14 @@ form {
 
 .skillup-x3 {
     background-image: url('../images/others/special_lvl_up_x3.png');
-    width: 81px;
+    width: 100px;
 }
+
+.skillup-x4 {
+    background-image: url('../images/others/special_lvl_up_x4.png');
+    width: 100px;
+}
+
 .little-view {
     display: table;
     margin: 0 auto;

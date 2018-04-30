@@ -1323,6 +1323,14 @@
         "lastTimes": [],
         "books" : ["UniversalSkillbook", "SakazukiV2"],
         "drops" : []
+    },
+    "GermaKids" : {
+      "title": "Germa's Lineage Factor!",
+      "large": "assets/images/fn/big/germa_kids.png",
+      "tiny": "assets/images/fn/tiny/germa_kids.png",
+      "lastTimes": [],
+      "books" : ["HodyJones6+", "HodyJones", "ChopperTS", "CaesarQck", "SugarV2", "TrebolV2"],
+      "drops" : ["Ichiji", "Niji", "Yonji"]
     }
 
 

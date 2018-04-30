@@ -352,5 +352,12 @@
         "tiny": "assets/images/raid/tiny/lucci.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/2014"
+    },
+    "TankMan" : {
+        "name": "TankMan",
+        "large": "assets/images/raid/big/tankman.png",
+        "tiny": "assets/images/raid/tiny/tankman.png",
+        "lastTimes": [],
+        "linkDB": "http://optc-db.github.io/characters/#/view/2033"
     }
 }

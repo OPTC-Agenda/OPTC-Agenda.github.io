@@ -1270,16 +1270,22 @@
       "id" : "1462"
     },
     "Yasopp" : {
-      "id" : "2038",
-      "missing" : "yes"
+      "id" : "2038"
     },
     "LuckyRoux" : {
-      "id" : "2039",
-      "missing" : "yes"
+      "id" : "2039"
     },
     "BenBeckman" : {
-      "id" : "2040",
-      "missing" : "yes"
+      "id" : "2040"
+    },
+    "Ichiji" : {
+      "id" : "2056"
+    },
+    "Niji" : {
+      "id" : "2057"
+    },
+    "Yonji" : {
+      "id" : "2058"
     }
 }
 

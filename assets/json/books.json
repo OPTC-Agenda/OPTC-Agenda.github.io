@@ -1301,6 +1301,9 @@
     "HodyJones" : {
         "id" : "1434"
     },
+    "HodyJones6+" : {
+        "id" : "1880"
+    },
     "Neptune" : {
         "id" : "1475"
     },
@@ -1480,5 +1483,17 @@
     },
     "SakazukiV2" : {
         "id" : "2023"
+    },
+    "CaesarQck" : {
+        "id" : "1637"
+    },
+    "SecretLeo" : {
+        "id" : "1859"
+    },
+    "SugarV2" : {
+        "id" : "1906"
+    },
+    "TrebolV2" : {
+        "id" : "1908"
     }
 }

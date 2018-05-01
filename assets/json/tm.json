@@ -22,6 +22,12 @@
     "tiny": "assets/images/tm/tiny/sanji_zoro.png",
     "large": "assets/images/tm/big/sanji_zoro.png",
     "id" : "2000"
+  },
+  "Kizaru": {
+    "title": "Kizaru Treasure Map!",
+    "tiny": "assets/images/tm/tiny/kizaru.png",
+    "large": "assets/images/tm/big/kizaru.png",
+    "id" : "2064"
   }
 
 }

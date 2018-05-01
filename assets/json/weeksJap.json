@@ -732,47 +732,47 @@
             "starting": 29,
             "month" : "April",
             "program": [
-                {"raid": ["SenorPink", "Shanks"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
-                {"raid": ["Eneru", "Shanks"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
-                {"raid": ["Bellamy", "Shanks"], "colo" : ["none"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["ColaCavern"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "special" : ["HimeDEX", "Evolver", "LvlUp4"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimeSTR", "Booster", "LvlUp4"]},
+                {"raid": ["SenorPink", "Shanks"], "colo" : ["Burgess", "Inuarashi", "Suleiman", "Ryuma", "Doma"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "tm" : ["Kizaru"], "special" : ["ColaCavern", "TreasureMap"]},
+                {"raid": ["Eneru", "Shanks"], "colo" : ["Burgess", "Lucy", "Raizo", "Vista", "Ganfoll"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "tm" : ["Kizaru"], "special" : ["ColaCavern", "TreasureMap"]},
+                {"raid": ["Bellamy", "Shanks"], "colo" : ["none"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "tm" : ["Kizaru"], "special" : ["ColaCavern", "TreasureMap"]},
+                {"raid": ["none"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["GermaKids", "BaroqueWorksPrison", "Apoo", "AfroLuffy"], "tm" : ["Kizaru"], "special" : ["HimeDEX", "Evolver", "TreasureMap", "LvlUp4"]},
+                {"raid": ["none"], "colo" : ["Sicilian", "Urouge", "Ideo", "Chopper"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "tm" : ["Kizaru"], "special" : ["HimeSTR", "Booster", "TreasureMap", "LvlUp4"]},
                 {"raid": ["Fujitora", "Whitebeard"], "colo" : ["none"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimeINT", "Evolver"]},
-                {"raid": ["TankMan", "Whitebeard"], "colo" : ["none"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimeQCK", "Booster"]}
+                {"raid": ["BoaKai", "TankMan", "Whitebeard"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimeQCK", "Booster"]}
             ]
         },
         {
             "starting": 6,
             "month" : "May",
             "program": [
-                {"raid": ["Caesar", "Whitebeard"], "colo" : ["none"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimePSY", "Evolver"]},
-                {"raid": ["Franky", "Whitebeard"], "colo" : ["none"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["BuggyTreasure"]},
-                {"raid": ["Magellan", "FakeMugiwara", "Cavendish"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["BuggyTreasure", "LvlUp4"]},
-                {"raid": ["Rayleigh", "Sanji", "Cavendish"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]}
+                {"raid": ["BoaKai", "Caesar", "Whitebeard"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["HimePSY", "Evolver"]},
+                {"raid": ["BoaKai", "Franky", "Whitebeard"], "colo" : ["Sicilian", "Urouge", "Ideo", "Chopper"], "fn": ["GermaKids", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
+                {"raid": ["BoaKai"], "colo" : ["none"], "fn": ["LuffyPizza", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
+                {"raid": ["BoaKai"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["LuffyPizza", "Tontatta2", "Shambles", "BlackbeardPirates"], "special" : ["BuggyTreasure"]},
+                {"raid": ["BoaKai"], "colo" : ["Sicilian", "Urouge", "Ideo", "Chopper"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["BuggyTreasure"]},
+                {"raid": ["BoaKai", "Magellan", "FakeMugiwara", "Cavendish"], "colo" : ["none"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["BuggyTreasure", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Sanji", "Cavendish"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]}
             ]
         },
         {
             "starting": 13,
             "month" : "May",
             "program": [
-                {"raid": ["Rayleigh", "Bartolomeo", "Cavendish"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]},
-                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]},
-                {"raid": ["Rayleigh", "Vergo", "Cavendish"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["LvlUp4"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["CP9", "WandaCarrot", "OarsHogback"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["Tesoro", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]}
+                {"raid": ["Rayleigh", "Bartolomeo", "Cavendish"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Cavendish"], "colo" : ["Sicilian", "Urouge", "Ideo", "Chopper"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]},
+                {"raid": ["Rayleigh", "Vergo", "Cavendish"], "colo" : ["none"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["LvlUp4"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyPizza", "GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyPizza", "GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["Tesoro", "Shanks"], "colo" : ["none"], "fn": ["LuffyPizza", "GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]}
             ]
         },
         {
             "starting": 20,
             "month" : "May",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
-                {"raid": ["Heracles", "Usopp", "Shanks"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["LuffyPizza", "GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
+                {"raid": ["Heracles", "Usopp", "Shanks"], "colo" : ["none"], "fn": ["LuffyPizza", "GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["GranTesoro", "LawMonet", "MadameSharley"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["WanoSamurai", "ReijuSanji", "MakinoShanks"], "special" : ["none"]},

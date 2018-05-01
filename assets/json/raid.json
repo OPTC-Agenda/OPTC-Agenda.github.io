@@ -359,5 +359,13 @@
         "tiny": "assets/images/raid/tiny/tankman.png",
         "lastTimes": [],
         "linkDB": "http://optc-db.github.io/characters/#/view/2033"
+    },
+    "BoaKai": {
+        "name" : "Akainu Kai",
+        "large": "assets/images/raid/big/boa_kai.png",
+        "tiny": "assets/images/raid/tiny/boa.png",
+        "lastTimes": [],
+        "conditions" : "Raid available only for <b>Slasher</b>, <b>Free Spirit</b> and <b>Celebral</b> teams.<br/> You can clear the content for each class only 30 minutes per day. No ambush is available after clearing the content.",
+        "linkDB": "http://optc-db.github.io/characters/#/view/2070"
     }
 }

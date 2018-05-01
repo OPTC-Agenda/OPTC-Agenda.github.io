@@ -1286,6 +1286,22 @@
     },
     "Yonji" : {
       "id" : "2058"
+    },
+    "PizzaLuffy" : {
+      "id" : "2087",
+      "missing": "yes"
+    },
+    "PizzaSanji" : {
+      "id" : "2088",
+      "missing": "yes"
+    },
+    "PizzaNami" : {
+      "id" : "2089",
+      "missing": "yes"
+    },
+    "PizzaFranky" : {
+      "id" : "2090",
+      "missing": "yes"
     }
 }
 

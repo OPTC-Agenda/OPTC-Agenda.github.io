@@ -1331,6 +1331,14 @@
       "lastTimes": [],
       "books" : ["HodyJones6+", "HodyJones", "ChopperTS", "CaesarQck", "SugarV2", "TrebolV2"],
       "drops" : ["Ichiji", "Niji", "Yonji"]
+    },
+    "LuffyPizza" : {
+        "title": "Luffy Pizza Party!",
+        "large": "assets/images/fn/big/luffy_pizza.png",
+        "tiny": "assets/images/fn/tiny/luffy_pizza.png",
+        "lastTimes": [],
+        "books" : ["DoffyV2", "Zeo", "Daruma", "UrougeLimited", "Pica", "MonetStory"],
+        "drops" : ["PizzaLuffy", "PizzaSanji", "PizzaNami", "PizzaFranky"]
     }
 
 

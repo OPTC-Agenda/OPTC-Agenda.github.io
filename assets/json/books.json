@@ -1495,5 +1495,17 @@
     },
     "TrebolV2" : {
         "id" : "1908"
+    },
+    "DoffyV2" : {
+      "id" : "1910"
+    },
+    "UrougeLimited" : {
+      "id" : "1895"
+    },
+    "Pica" : {
+      "id" : "1902"
+    },
+    "MonetStory" : {
+      "id" : "1714"
     }
 }

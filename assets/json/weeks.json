@@ -719,46 +719,46 @@
             "month" : "May",
             "program": [
                 {"raid": ["Eneru"], "colo" : ["none"], "fn": ["RikuScarlet", "Franky", "KimonoLuffy", "WhitebeardCommanders", "Shirahoshi"], "special" : ["BrookTea", "Rayleigh"]},
-                {"raid": ["none"], "colo" : ["Kanjuro", "Kinemon", "Kuro", "Raizo", "Suleiman"], "fn": ["RikuScarlet", "Franky", "KimonoLuffy", "WhitebeardCommanders"], "special" : ["BrookTea", "Rayleigh"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["Sabo"], "colo" : ["Kanjuro", "Kinemon", "Kuro", "Raizo", "Suleiman"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["Pica"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["Boa"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet"], "special" : ["none"]}
+                {"raid": ["KumaKai"], "colo" : ["Kanjuro", "Kinemon", "Kuro", "Raizo", "Suleiman"], "fn": ["RikuScarlet", "Franky", "KimonoLuffy", "WhitebeardCommanders"], "special" : ["BrookTea", "Rayleigh"]},
+                {"raid": ["KumaKai"], "colo" : ["none"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]},
+                {"raid": ["KumaKai"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Sabo"], "colo" : ["Kanjuro", "Kinemon", "Kuro", "Raizo", "Suleiman", "Shanks"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Pica"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]},
+                {"raid": ["KumaKai", "Boa"], "colo" : ["Arlong", "Inuarashi", "Blenheim", "Ace"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]}
             ]
         },
         {
             "starting": 13,
             "month" : "May",
             "program": [
-                {"raid": ["FakeMugiwara"], "colo" : ["none"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["Garp"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["BusterCall", "Magellan"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["KumaKai", "FakeMugiwara"], "colo" : ["none"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["RikuScarlet", "WhitebeardCommanders2", "ToySoldier", "Violet"], "tm": ["Cavendish"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "tm": ["Cavendish"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "tm": ["Cavendish"], "special" : ["LvlUp"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "tm": ["Cavendish"], "special" : ["LvlUp"]},
+                {"raid": ["Garp"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "tm": ["Cavendish"], "special" : ["LvlUp"]},
+                {"raid": ["BusterCall", "Magellan"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "special" : ["LvlUp"]}
             ]
         },
         {
             "starting": 20,
             "month" : "May",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "CalgaraNoland", "Absalom", "Hogback"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]}
             ]
         },
         {
             "starting": 27,
             "month" : "May",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},

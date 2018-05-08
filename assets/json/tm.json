@@ -11,6 +11,12 @@
     "large": "assets/images/tm/big/whitebeard.png",
     "id" : "1853"
   },
+  "Cavendish": {
+    "title": "Cavendish Treasure Map!",
+    "tiny": "assets/images/special/treasureMap.png",
+    "large": "assets/images/tm/big/cavendish.png",
+    "id" : "1889"
+  },
   "Sabo": {
     "title": "Sabo Valentine Treasure Map!",
     "tiny": "assets/images/tm/tiny/sabo.png",

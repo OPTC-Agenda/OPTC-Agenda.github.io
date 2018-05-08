@@ -755,7 +755,7 @@
             ]
         },
         {
-            "starting": 13, 
+            "starting": 13,
             "month" : "May",
             "program": [
                 {"raid": ["Rayleigh", "Bartolomeo", "Cavendish"], "colo" : ["Pedro", "Kanjuro", "Musshuru", "Rebecca"], "fn": ["LuffyPizza", "CP9", "WandaCarrot", "OarsHogback"], "special" : ["CelestialDragons", "LvlUp4"]},

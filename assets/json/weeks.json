@@ -761,19 +761,19 @@
                 {"raid": ["Sanji"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3","Hannyabal"], "special" : ["ColaCavern","Sugofest"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
                 {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","LvlUp"]},
-                {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]},
-                {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]}
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","Sugofest","LvlUp"]},
+                {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest","LvlUp"]},
+                {"raid": ["SenorPink"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest","LvlUp"]}
             ]
         },
         {
             "starting": 3,
             "month" : "June",
             "program": [
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
-                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Sugofest"]},
+                {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Sugofest"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}

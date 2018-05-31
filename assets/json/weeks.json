@@ -758,24 +758,63 @@
       "month" : "May",
       "program": [
         {"raid": ["Pica"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3","Hannyabal"], "special" : ["ColaCavern","Sugofest"]},
-        {"raid": ["Sanji"], "colo" : ["none"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3","Hannyabal"], "special" : ["ColaCavern","Sugofest"]},
+        {"raid": ["Sanji"], "colo" : ["Apoo", "Hawkins", "Capone", "Dorry", "Broggy"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3","Hannyabal"], "special" : ["ColaCavern","Sugofest"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
         {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","Sugofest","LvlUp"]},
-        {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest","LvlUp"]},
-        {"raid": ["SenorPink"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest","LvlUp"]}
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","LvlUp"]},
+        {"raid": ["Blackbeard"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]},
+        {"raid": ["SenorPink"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]}
       ]
     },
     {
       "starting": 3,
       "month" : "June",
       "program": [
+        {"raid": ["Franky"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Sugofest"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["Sugofest"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
+        {"raid": ["none"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
+        {"raid": ["Magellan"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
+        {"raid": ["Bartolomeo"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]}
+      ]
+    },
+    {
+      "starting": 10,
+      "month" : "June",
+      "program": [
+        {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "LvlUpx3"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["LvlUpx3"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeSTR"]},
+        {"raid": ["none"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeDEX"]},
+        {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeQCK"]},
+        {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimePSY"]},
+        {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeINT"]}
+      ]
+    },
+    {
+      "starting": 17,
+      "month" : "June",
+      "program": [
+        {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["RaySocket", "LvlUpx3"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["RaySocket", "LvlUpx3"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["Garp"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["Zephyr"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
+      ]
+    },
+    {
+      "starting": 24,
+      "month" : "June",
+      "program": [
+        {"raid": ["Tesoro"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["Boa"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
+        {"raid": ["Shiki"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["none"], "special" : ["none"]}
       ]
     }

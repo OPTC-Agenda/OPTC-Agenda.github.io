@@ -1291,16 +1291,28 @@
       "id" : "2087"
     },
     "PizzaSanji" : {
-      "id" : "2088",
-      "missing" : "yes"
+      "id" : "2088"
     },
     "PizzaNami" : {
-      "id" : "2089",
-      "missing" : "yes"  
+      "id" : "2089"
     },
     "PizzaFranky" : {
-      "id" : "2090",
-      "missing" : "yes"  
+      "id" : "2090"
+    },
+    "PizzaUsopp" : {
+      "id" : "2091"
+    },
+    "PizzaZoro" : {
+      "id" : "2092"
+    },
+    "PizzaChopper" : {
+      "id" : "2093"
+    },
+    "PizzaBrook" : {
+      "id" : "2094"
+    },
+    "PizzaRobin" : {
+      "id" : "2095"
     }
 }
 

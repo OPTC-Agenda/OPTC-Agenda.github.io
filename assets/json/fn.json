@@ -1332,13 +1332,21 @@
       "books" : ["HodyJones6+", "HodyJones", "ChopperTS", "CaesarQck", "SugarV2", "TrebolV2"],
       "drops" : ["Ichiji", "Niji", "Yonji"]
     },
-    "LuffyPizza" : {
-        "title": "Luffy Pizza Party!",
+    "LuffyPizzaLunch" : {
+        "title": "Strawhat Pirates Pizza Party!! Lunch",
         "large": "assets/images/fn/big/luffy_pizza.png",
         "tiny": "assets/images/fn/tiny/luffy_pizza.png",
         "lastTimes": [],
         "books" : ["DoffyV2", "Zeo", "Daruma", "UrougeLimited", "Pica", "MonetStory"],
-        "drops" : ["PizzaLuffy", "PizzaSanji", "PizzaNami", "PizzaFranky"]
+        "drops" : ["PizzaLuffy", "PizzaSanji", "PizzaNami", "PizzaFranky", "PizzaUsopp"]
+    },
+    "StrawhatPizzaDinner" : {
+        "title": "Strawhat Pirates Pizza Party!! Dinner",
+        "large": "assets/images/fn/big/zoro_pizza.png",
+        "tiny": "assets/images/fn/tiny/zoro_pizza.png",
+        "lastTimes": [],
+        "books" : ["Franky6", "Hyouzou", "Ikaros", "VergoG5", "CobyCaptain", "NamiValentine"],
+        "drops" : ["PizzaZoro", "PizzaChopper", "PizzaBrook", "PizzaRobin"]
     }
 
 

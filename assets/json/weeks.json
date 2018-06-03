@@ -761,9 +761,9 @@
         {"raid": ["Sanji"], "colo" : ["Apoo", "Hawkins", "Capone", "Dorry", "Broggy"], "fn": ["Caribou", "Shirahoshi", "WhitebeardCommanders3","Hannyabal"], "special" : ["ColaCavern","Sugofest"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
         {"raid": ["none"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","LvlUp"]},
-        {"raid": ["Blackbeard"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]},
-        {"raid": ["SenorPink"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp"]}
+        {"raid": ["Sanji"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["ColaCavern","LvlUp","Sugofest"]},
+        {"raid": ["Blackbeard"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp","Sugofest"]},
+        {"raid": ["SenorPink"], "colo" : ["Rebecca","Gladius","Foxy","DonChinjao","Garp"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["LvlUp","Sugofest"]}
       ]
     },
     {

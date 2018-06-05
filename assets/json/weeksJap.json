@@ -844,7 +844,7 @@
                 {"raid": ["none"], "colo" : ["none"], "fn": ["YoungNamiRobin", "DonquixotePirates", "BigMomPirates"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["YoungNamiRobin", "DonquixotePirates", "BigMomPirates"], "special" : ["none"]}
             ]
-        }
+        },
         {
             "starting": 1,
             "month" : "July",

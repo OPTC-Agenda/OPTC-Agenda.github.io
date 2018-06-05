@@ -772,19 +772,19 @@
       "program": [
         {"raid": ["Franky"], "colo" : ["none"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
         {"raid": ["none"], "colo" : ["Apoo", "Hawkins", "Capone", "Dorry", "Broggy"], "fn": ["Apoo","Shambles","CrocodileKimono","BaroqueWorksPrison"], "special" : ["Sugofest"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
-        {"raid": ["none"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
-        {"raid": ["none"], "colo" : ["Apoo", "Hawkins", "Capone", "Dorry", "Broggy"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
-        {"raid": ["Magellan"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
-        {"raid": ["Bartolomeo"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]}
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
+        {"raid": ["none"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "Sugofest"]},
+        {"raid": ["none"], "colo" : ["Apoo", "Hawkins", "Capone", "Dorry", "Broggy"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
+        {"raid": ["Magellan"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]},
+        {"raid": ["Bartolomeo"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket"]}
       ]
     },
     {
       "starting": 10,
       "month" : "June",
       "program": [
-        {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "LvlUpx3"]},
-        {"raid": ["none"], "colo" : ["none"], "fn": ["Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["LvlUpx3"]},
+        {"raid": ["Kizaru"], "colo" : ["none"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "LvlUpx3"]},
+        {"raid": ["none"], "colo" : ["none"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["LvlUpx3"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeSTR"]},
         {"raid": ["none"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeDEX"]},
         {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeQCK"]},

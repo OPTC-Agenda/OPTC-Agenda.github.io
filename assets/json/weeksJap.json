@@ -797,8 +797,8 @@
             "starting": 3,
             "month" : "June",
             "program": [
-                {"raid": ["Bartolomeo", "Cavendish"], "colo" : ["KidTS", "Hajrudin", "Franky", "Rayleigh", "Jozu"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
-                {"raid": ["Eneru", "Cavendish"], "colo" : ["KidTS", "Machvise", "Kyros", "Arlong", "Lulu"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
+                {"raid": ["Bartolomeo", "Cavendish"], "colo" : ["KidTS", "Hajrudin", "Franky", "Rayleigh", "Jozu","Garp"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
+                {"raid": ["Eneru", "Cavendish"], "colo" : ["KidTS", "Machvise", "Kyros", "Arlong", "Lulu","Garp"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
                 {"raid": ["Caesar", "Cavendish"], "colo" : ["none"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["StrawhatPizzaDinner", "KujaPirates", "Fishman", "PeronaMihawk"], "special" : ["none"]},
                 {"raid": ["none"], "colo" : ["none"], "fn": ["StrawhatPizzaDinner", "SoulKing", "Shirahoshi", "VanderDecken"], "special" : ["none"]},

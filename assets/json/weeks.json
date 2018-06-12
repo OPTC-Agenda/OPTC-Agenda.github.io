@@ -784,7 +784,7 @@
       "month" : "June",
       "program": [
         {"raid": ["EneruKai", "Kizaru"], "colo" : ["none"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["RaySocket", "LvlUpx3"]},
-        {"raid": ["EneruKai"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "Gasparde", "Indigo"], "special" : ["LvlUpx3"]},
+        {"raid": ["EneruKai"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["Apoo","Tontatta1", "Tontatta2", "SugarTrebol", "YoungNamiRobin", "GranTesoro"], "special" : ["LvlUpx3"]},
         {"raid": ["EneruKai"], "colo" : ["none"], "fn": ["UrougeHawkins", "YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeSTR"]},
         {"raid": ["EneruKai"], "colo" : ["Enel", "Gedatsu", "Zephyr", "Ain", "Binz"], "fn": ["UrougeHawkins", "YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeDEX"]},
         {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["UrougeHawkins", "YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["HimeQCK"]},
@@ -797,7 +797,7 @@
       "month" : "June",
       "program": [
         {"raid": ["Shiki", "Zephyr", "Tesoro"], "colo" : ["none"], "fn": ["UrougeHawkins", "YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["RaySocket", "LvlUpx3"]},
-        {"raid": ["none"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["UrougeHawkins", "YoungNamiRobin", "GranTesoro", "Violet", "BlueGilly", "SoulKing"], "special" : ["RaySocket", "LvlUpx3"]},
+        {"raid": ["none"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["UrougeHawkins", "Violet", "BlueGilly", "SoulKing"], "special" : ["RaySocket", "LvlUpx3"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["UrougeHawkins"], "special" : ["none"]},
         {"raid": ["none"], "colo" : ["none"], "fn": ["UrougeHawkins"], "special" : ["none"]},
         {"raid": ["none"], "colo" : ["Saga", "LaoG", "Enel", "Zephyr", "Musshuru"], "fn": ["UrougeHawkins"], "special" : ["none"]},

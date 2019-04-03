@@ -5,514 +5,537 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 -->
 <html prefix="og: http://ogp.me/ns#">
-    <head>
-        <title>JAP OPTC Agenda</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="A brand new agenda for OPTC community! A weekly calendar where you can organize you farming time!">
+<head>
+    <title>JAP OPTC Agenda</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description"
+          content="A brand new agenda for OPTC community! A weekly calendar where you can organize you farming time!">
 
-        <meta property="og:title" content="OPTC Agenda" />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="http://optc-agenda.github.io/jap.html" />
-        <meta property="og:image" content="http://optc-agenda.github.io/og_image.png" />
+    <meta property="og:title" content="OPTC Agenda"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:url" content="http://optc-agenda.github.io/jap.html"/>
+    <meta property="og:image" content="http://optc-agenda.github.io/og_image.png"/>
 
-        <!-- Bootstrap Core CSS -->
-        <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">    
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
-        <!-- Font awesome -->
-        <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Font awesome -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet">
 
-        <!-- Include main.css -->
-        <link rel="stylesheet" href="assets/stylesheets/list-view.css">
+    <!-- Include main.css -->
+    <link rel="stylesheet" href="assets/stylesheets/list-view.css">
 
-        <!-- Cookie consent -->
-        <link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" />
+    <!-- Cookie consent -->
+    <link rel="stylesheet" type="text/css"
+          href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css"/>
 
-    </head>
+</head>
 
-    <body>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
-        <script>
-            window.addEventListener("load", function(){
-                window.cookieconsent.initialise({
-                    "palette": {
-                        "popup": {
-                            "background": "#383b75"
-                        },
-                        "button": {
-                            "background": "#f1d600"
-                        }
+<body style="background-color: #ff006a; color: white">
+
+<style>
+    @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+    .centered {
+        display: flex;
+        width: 100vw;
+        height: 100vh;
+        justify-content: center;
+        align-items: center;
+        font-family: 'Century Gothic', 'Futura', 'Didact Gothic', san-serif;
+        font-size: 80px;
+        font-weight: bold;
+    }
+</style>
+
+<div class="centered">
+    #READY
+</div>
+
+<!--
+    <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <script>
+        window.addEventListener("load", function(){
+            window.cookieconsent.initialise({
+                "palette": {
+                    "popup": {
+                        "background": "#383b75"
                     },
-                    "content": {
-                        "href": "https://optc-agenda.github.io/cookie_policy.html"
+                    "button": {
+                        "background": "#f1d600"
                     }
-                })});
-        </script>
+                },
+                "content": {
+                    "href": "https://optc-agenda.github.io/cookie_policy.html"
+                }
+            })});
+    </script>
 
-        <script>
-            (function (i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function () {
-                    (i[r].q = i[r].q || []).push(arguments)
-                };
-                i[r].l = 1 * new Date();
-                a = s.createElement(o);
-                m = s.getElementsByTagName(o)[0];
-                a.async = true;
-                a.src = g;
-                m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-        </script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r;
+            i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            };
+            i[r].l = 1 * new Date();
+            a = s.createElement(o);
+            m = s.getElementsByTagName(o)[0];
+            a.async = true;
+            a.src = g;
+            m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+    </script>
 
-        <header>                    
+    <header>
+        <div class="container">
+            <div class="row">
+                <h1 class="text-uppercase text-center">JAP OPTC Agenda</h1>
+            </div>
+        </div>
+    </header>
+
+    &lt;!&ndash; In this nav the user can choose:
+         - to switch between the global and the jap version
+         - to move to the next or the previous month
+         - to switch between the listed or the calendar view
+    &ndash;&gt;
+    <nav class="navbar navbar-default">
+        <div class="container-fluid text-center">
+            &lt;!&ndash; Brand and toggle get grouped for better mobile display &ndash;&gt;
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            &lt;!&ndash; Collect the nav links, forms, and other content for toggling &ndash;&gt;
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav justified">
+                    <li class="littleSee prev"><a href="#">Previous week <span class="sr-only">(current)</span></a></li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Communities<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.reddit.com/r/OnePieceTC/" target="_blank">Reddit OPTC</a></li>
+                            <li><a href="https://www.facebook.com/groups/OPTCAcademy/">JAP - OPTC Academy</a></li>
+                            <li><a href="http://optci-team.forumfree.it/" target="_blank">OPTC IT Forum</a></li>
+                            <li><a href="https://www.facebook.com/groups/274290406317485/">IT FB Group - Road To Raftel</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Utilities<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="http://optc-db.github.io" target="_blank">OPTC-DB</a></li>
+                            <li><a href="https://optctm.github.io/">Treasure Map Calculator</a></li>
+                            <li><a href="https://nakama.network">Nakama Network</a></li>
+                            <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/index" target="_blank">Reddit Wikia</a></li>
+                            <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/guides/reroll" target="_blank">Reroll guide</a></li>
+                            &lt;!&ndash;<li><a></a></li>&ndash;&gt;
+                        </ul>
+                    </li>
+
+                    <li class="littleSee">
+                        <b><a href="index.html">Switch to Global!</a></b>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us!<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://discord.gg/7NJQ6zx">Discord</a></li>
+                            <li><a href="https://t.me/joinchat/DNmGCFDYkGx-2RdbDmUF7g">Telegram</a></li>
+                        </ul>
+                    </li>
+
+                    <li>
+                        <a href="index.html" style="padding: 0 15px" class="bigSee"><img class="change-img" src="assets/images/others/global.png"></a>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Settings<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <form action="#">
+                                <li><input type="checkbox" id="showRaid" name="showRaid" value="showRaid" checked> Show Raids<br></li>
+                                <li><input type="checkbox" id="showColiseum" name="showColiseum" value="showColiseum" checked> Show Coliseums<br></li>
+                                <li><input type="checkbox" id="showFortnights" name="showFortnights" value="showFortnights" checked> Show Fortnights<br></li>
+                                <li><input type="checkbox" id="showTresureMap" name="showTresureMap" value="showTresureMap" checked> Show Treasure Map</li>
+                                <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials<br></li>
+                            </form>
+                            <li><a href="global_gmt.html">Go to Global GMT Time Zone</a></li>
+                            <li><a href="index.html">Go to Global PST Time Zone</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Youtubers<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.youtube.com/user/Zeen09"                      target="_blank">Zeenigami</a></li>
+                            <li><a href="https://www.youtube.com/channel/UC47Srx41PDdJALwfglLQUfw" target="_blank">OryonTM</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCjzTdyI3njpGVHfqqfiS3sw" target="_blank">The Cula</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCAKEntsC0G_aA-xoM0YRPqg" target="_blank">OPTC Tavern</a></li>
+                            <li><a href="https://www.youtube.com/channel/UCZVk6QSgFb-wuzBHTrU-7Ag" target="_blank">Ludus Channel</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Streamers<span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="https://www.twitch.tv/zeenigami" target="_blank">Zeenigami</a></li>
+                            <li><a href="https://www.twitch.tv/brodri4" target="_blank">Boris</a></li>
+                            <li><a href="https://www.twitch.tv/sekapoko" target="_blank">Sekapoco</a></li>
+                            <li><a href="https://www.twitch.tv/sleftyy" target="_blank">Sleftyy</a></li>
+                            <li><a href="https://www.twitch.tv/asianguystream" target="_blank">Asian Guys Stream</a></li>
+                            <li><a href="https://www.twitch.tv/maniakk1" target="_blank">Maniakk1</a></li>
+                            <li><a href="https://www.twitch.tv/ittoryu_style" target="_blank">Ittoryu_style</a></li>
+                            <li><a href="https://www.twitch.tv/hellawolf" target="_blank">Hellawolf</a></li>
+                            <li><a href="https://www.twitch.tv/kouteikaizer" target="_blank">Kouteikaizer</a></li>
+                            <li><a href="https://www.twitch.tv/lanadsl" target="_blank">Lanadsl</a></li>
+                        </ul>
+                    </li>
+                    <li class="littleSee"><a class="next" href="#" onclick="nextWeek()">Next week</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <aside>
+        <div class="container">
+            <div class="row text-center">
+                <a class="prev bigSee" href="#">
+                    <div class="arrow-left"></div>
+                </a>
+                <div class="center-arrow text-center"> &lt;!&ndash; col-lg-8 col-md-8 col-sm-8 &ndash;&gt;
+                    <h1 id="month" class="text-uppercase"></h1>
+                    <h3 class="fuso"><span id="clock"></span></h3>
+                </div>
+                <div class="row text-center">
+                  <input type="button" id="changeTimeZone" class="btn-primary rounded" onclick="changeButton()">
+                  <input type="checkbox" id="hourFormat">24h
+                </div>
+                <a class="next bigSee" href="#" onclick="empty()">
+                    <div class="arrow-right"></div>
+                </a>
+            </div>
+        </div>
+    </aside>
+    <section>
+        <div class="container section-div">
+            <a class="prev bigSee" href="#" onclick="empty()">
+                <div class="row arrow-top">
+                </div>
+            </a>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back1">
+                    <div id="day1" ></div>
+                    <div id="special1"></div>
+                </div>
+                <div id="list1" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back2">
+                    <div id="day2" ></div>
+                    <div id="special2"></div>
+                </div>
+                <div id="list2" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back3">
+                    <div id="day3" ></div>
+                    <div id="special3"></div>
+                </div>
+                <div id="list3" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back4">
+                    <div id="day4" ></div>
+                    <div id="special4"></div>
+                </div>
+                <div id="list4" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back5">
+                    <div id="day5" ></div>
+                    <div id="special5"></div>
+                </div>
+                <div id="list5" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back6">
+                    <div id="day6" ></div>
+                    <div id="special6"></div>
+                </div>
+                <div id="list6" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+
+            <a class="next bigSee" href="#" onclick="empty()">
+                <div class="arrow-bottom"></div>
+            </a>
+
+            <div class="row day-row">
+                <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back7">
+                    <div id="day7" ></div>
+                    <div id="special7"></div>
+                </div>
+                <div id="list7" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
+                    <div class="fn"></div>
+                    <div class="colo"></div>
+                    <div class="raid"></div>
+                    <div class="tm"></div>
+                    <div class="special"></div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <div class="little-view">
+        <a class="next littleSee" href="#" onclick="empty()">
+            <div class="row arrow-bottom"></div>
+        </a>
+        <a class="prev littleSee" href="#" onclick="empty()">
+            <div class="row arrow-top"></div>
+        </a>
+    </div>
+
+    <footer class="text-center">
+        <a href="https://www.facebook.com/OptcAgenda/"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>
+        <a href="https://twitter.com/OptcAgenda"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
+
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick">
+            <input type="hidden" name="hosted_button_id" value="7EK9EX5PSG334">
+            <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+            <img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
+        </form>
+
+
+        <p>Made by Ibbus © 2017 - <a href="mailto:ibbus93@gmail.com">Contact the webmaster</a></p>
+        <p>A special thanks to <a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC Italia</a> to provide the images to the website and to <a href="https://www.twitch.tv/maniakk1">Maniakk1</a>, _CannotDoThat_ and Nicolas Le Coz to help with the jap contents </p>
+        <p>I want to thank OnePieceTavern to be Optc Agenda beta testers, particularly Bob Bartoclub to find some bugs.</p>
+        &lt;!&ndash;            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>&ndash;&gt;
+        &lt;!&ndash;            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>&ndash;&gt;
+        <p>Optc Agenda doesn't own any of the content showed in the website. Every content is owned by Eiichiro Oda/Shueisha, Toei Animation and Bandai Namco.</p>
+        <br/>
+        <p><a href="cookie_policy.html">Cookie Policy</a></p>
+    </footer>
+
+    <div class="raid-modal modal fade" id="viewRaidModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
             <div class="container">
                 <div class="row">
-                    <h1 class="text-uppercase text-center">JAP OPTC Agenda</h1>            
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="raidBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="raidImage"></div>
+
+                            <div id="raidDrops">
+                                <h3>Drops:</h3>
+                                <p id="raidDropsImg"></p>
+                            </div>
+
+                            <div id="raidConditions">
+                                <h3>Conditions: </h3>
+                                <p></p>
+                            </div>
+                            &lt;!&ndash;                            <h3>Past events:</h3>
+                                                        <ul id="raidLast" class="list-inline">
+                                                            <li>01/02/2017</li>
+                                                            <li>17/03/2017</li>
+                                                        </ul>&ndash;&gt;
+                            <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
                 </div>
             </div>
-        </header>
+        </div>
+    </div>
 
-        <!-- In this nav the user can choose:  
-             - to switch between the global and the jap version
-             - to move to the next or the previous month
-             - to switch between the listed or the calendar view    
-        -->
-        <nav class="navbar navbar-default">
-            <div class="container-fluid text-center">
-                <!-- Brand and toggle get grouped for better mobile display -->
-                <div class="navbar-header">
-                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                        <span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                    </button>                
-                </div>
-
-                <!-- Collect the nav links, forms, and other content for toggling -->
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                    <ul class="nav navbar-nav justified">
-                        <li class="littleSee prev"><a href="#">Previous week <span class="sr-only">(current)</span></a></li>                                    
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Communities<span class="caret"></span></a>
-                            <ul class="dropdown-menu">                            
-                                <li><a href="https://www.reddit.com/r/OnePieceTC/" target="_blank">Reddit OPTC</a></li>                           
-                                <li><a href="https://www.facebook.com/groups/OPTCAcademy/">JAP - OPTC Academy</a></li>
-                                <li><a href="http://optci-team.forumfree.it/" target="_blank">OPTC IT Forum</a></li>
-                                <li><a href="https://www.facebook.com/groups/274290406317485/">IT FB Group - Road To Raftel</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Utilities<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="http://optc-db.github.io" target="_blank">OPTC-DB</a></li>
-                                <li><a href="https://optctm.github.io/">Treasure Map Calculator</a></li>
-                                <li><a href="https://nakama.network">Nakama Network</a></li>
-                                <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/index" target="_blank">Reddit Wikia</a></li>
-                                <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/guides/reroll" target="_blank">Reroll guide</a></li>
-                                <!--<li><a></a></li>-->
-                            </ul>
-                        </li>
-
-                        <li class="littleSee">
-                            <b><a href="index.html">Switch to Global!</a></b>
-                        </li>                    
-
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Join us!<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="https://discord.gg/7NJQ6zx">Discord</a></li>
-                                <li><a href="https://t.me/joinchat/DNmGCFDYkGx-2RdbDmUF7g">Telegram</a></li>
-                            </ul>
-                        </li>
-                        
-                        <li>
-                            <a href="index.html" style="padding: 0 15px" class="bigSee"><img class="change-img" src="assets/images/others/global.png"></a>
-                        </li>
-
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Settings<span class="caret"></span></a>                        
-                            <ul class="dropdown-menu">
-                                <form action="#">
-                                    <li><input type="checkbox" id="showRaid" name="showRaid" value="showRaid" checked> Show Raids<br></li>
-                                    <li><input type="checkbox" id="showColiseum" name="showColiseum" value="showColiseum" checked> Show Coliseums<br></li>      
-                                    <li><input type="checkbox" id="showFortnights" name="showFortnights" value="showFortnights" checked> Show Fortnights<br></li>
-                                    <li><input type="checkbox" id="showTresureMap" name="showTresureMap" value="showTresureMap" checked> Show Treasure Map</li>
-                                    <li><input type="checkbox" id="showSpecials" name="showSpecials" value="showSpecials" checked> Show Specials<br></li>
-                                </form>
-                                <li><a href="global_gmt.html">Go to Global GMT Time Zone</a></li>
-                                <li><a href="index.html">Go to Global PST Time Zone</a></li> 
-                            </ul>
-                        </li>                    
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Youtubers<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="https://www.youtube.com/user/Zeen09"                      target="_blank">Zeenigami</a></li>
-                                <li><a href="https://www.youtube.com/channel/UC47Srx41PDdJALwfglLQUfw" target="_blank">OryonTM</a></li>
-                                <li><a href="https://www.youtube.com/channel/UCjzTdyI3njpGVHfqqfiS3sw" target="_blank">The Cula</a></li>
-                                <li><a href="https://www.youtube.com/channel/UCAKEntsC0G_aA-xoM0YRPqg" target="_blank">OPTC Tavern</a></li>
-                                <li><a href="https://www.youtube.com/channel/UCZVk6QSgFb-wuzBHTrU-7Ag" target="_blank">Ludus Channel</a></li>
-                            </ul>
-                        </li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Streamers<span class="caret"></span></a>
-                            <ul class="dropdown-menu">
-                                <li><a href="https://www.twitch.tv/zeenigami" target="_blank">Zeenigami</a></li>
-                                <li><a href="https://www.twitch.tv/brodri4" target="_blank">Boris</a></li>
-                                <li><a href="https://www.twitch.tv/sekapoko" target="_blank">Sekapoco</a></li>
-                                <li><a href="https://www.twitch.tv/sleftyy" target="_blank">Sleftyy</a></li>
-                                <li><a href="https://www.twitch.tv/asianguystream" target="_blank">Asian Guys Stream</a></li>
-                                <li><a href="https://www.twitch.tv/maniakk1" target="_blank">Maniakk1</a></li>
-                                <li><a href="https://www.twitch.tv/ittoryu_style" target="_blank">Ittoryu_style</a></li>
-                                <li><a href="https://www.twitch.tv/hellawolf" target="_blank">Hellawolf</a></li>
-                                <li><a href="https://www.twitch.tv/kouteikaizer" target="_blank">Kouteikaizer</a></li>
-                                <li><a href="https://www.twitch.tv/lanadsl" target="_blank">Lanadsl</a></li>
-                            </ul>
-                        </li>                    
-                        <li class="littleSee"><a class="next" href="#" onclick="nextWeek()">Next week</a></li>    
-                    </ul>
+    <div class="raid-modal modal fade" id="viewColoModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
                 </div>
             </div>
-        </nav>
-
-        <aside>
             <div class="container">
-                <div class="row text-center">
-                    <a class="prev bigSee" href="#">
-                        <div class="arrow-left"></div>
-                    </a>                
-                    <div class="center-arrow text-center"> <!-- col-lg-8 col-md-8 col-sm-8 -->
-                        <h1 id="month" class="text-uppercase"></h1>                       
-                        <h3 class="fuso"><span id="clock"></span></h3>
-                    </div>
-                    <div class="row text-center">
-                      <input type="button" id="changeTimeZone" class="btn-primary rounded" onclick="changeButton()">
-                      <input type="checkbox" id="hourFormat">24h
-                    </div>
-                    <a class="next bigSee" href="#" onclick="empty()">
-                        <div class="arrow-right"></div>
-                    </a>
-                </div>
-            </div>
-        </aside>     
-        <section>               
-            <div class="container section-div">
-                <a class="prev bigSee" href="#" onclick="empty()">
-                    <div class="row arrow-top">                                        
-                    </div>
-                </a>
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back1">                        
-                        <div id="day1" ></div>
-                        <div id="special1"></div>
-                    </div>
-                    <div id="list1" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back2">
-                        <div id="day2" ></div>
-                        <div id="special2"></div>                        
-                    </div>
-                    <div id="list2" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back3">
-                        <div id="day3" ></div>
-                        <div id="special3"></div>                         
-                    </div>
-                    <div id="list3" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back4">
-                        <div id="day4" ></div>
-                        <div id="special4"></div>                         
-                    </div>
-                    <div id="list4" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>            
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back5">
-                        <div id="day5" ></div>
-                        <div id="special5"></div>                         
-                    </div>
-                    <div id="list5" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>           
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back6">
-                        <div id="day6" ></div>
-                        <div id="special6"></div>                         
-                    </div>
-                    <div id="list6" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>    
-
-                <a class="next bigSee" href="#" onclick="empty()">
-                    <div class="arrow-bottom"></div>
-                </a>                          
-                
-                <div class="row day-row">
-                    <div class="text-center col-xl-1 col-lg-1 col-md-1 col-sm-1 col-xs-12 offset-lg-2 offset-md-2 day" id="back7">
-                        <div id="day7" ></div>
-                        <div id="special7"></div>                         
-                    </div>
-                    <div id="list7" class="col-xl-11 col-lg-11 col-md-11 col-sm-11 col-xs-12 img-list">
-                        <div class="fn"></div>
-                        <div class="colo"></div>
-                        <div class="raid"></div>
-                        <div class="tm"></div>
-                        <div class="special"></div>                             
-                    </div>                 
-                </div>  
-
-            </div>            
-        </section>
-
-        <div class="little-view">
-            <a class="next littleSee" href="#" onclick="empty()">
-                <div class="row arrow-bottom"></div>
-            </a>
-            <a class="prev littleSee" href="#" onclick="empty()">
-                <div class="row arrow-top"></div>
-            </a>            
-        </div>    
-
-        <footer class="text-center">
-            <a href="https://www.facebook.com/OptcAgenda/"><i class="fa fa-facebook fa-3x" aria-hidden="true"></i></a>       
-            <a href="https://twitter.com/OptcAgenda"><i class="fa fa-twitter fa-3x" aria-hidden="true"></i></a>
-
-            <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-                <input type="hidden" name="cmd" value="_s-xclick">
-                <input type="hidden" name="hosted_button_id" value="7EK9EX5PSG334">
-                <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-                <img alt="" border="0" src="https://www.paypalobjects.com/it_IT/i/scr/pixel.gif" width="1" height="1">
-            </form>
-
-
-            <p>Made by Ibbus © 2017 - <a href="mailto:ibbus93@gmail.com">Contact the webmaster</a></p>
-            <p>A special thanks to <a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC Italia</a> to provide the images to the website and to <a href="https://www.twitch.tv/maniakk1">Maniakk1</a>, _CannotDoThat_ and Nicolas Le Coz to help with the jap contents </p>
-            <p>I want to thank OnePieceTavern to be Optc Agenda beta testers, particularly Bob Bartoclub to find some bugs.</p>
-            <!--            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>-->
-            <!--            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>-->
-            <p>Optc Agenda doesn't own any of the content showed in the website. Every content is owned by Eiichiro Oda/Shueisha, Toei Animation and Bandai Namco.</p>
-            <br/>
-            <p><a href="cookie_policy.html">Cookie Policy</a></p>
-        </footer>
-
-        <div class="raid-modal modal fade" id="viewRaidModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body" id="raidBody">
-                                <h2></h2>
-                                <hr>
-                                <div id="raidImage"></div>
-
-                                <div id="raidDrops">
-                                    <h3>Drops:</h3>
-                                    <p id="raidDropsImg"></p>
-                                </div>
-
-                                <div id="raidConditions">
-                                    <h3>Conditions: </h3>
-                                    <p></p>
-                                </div>
-                                <!--                            <h3>Past events:</h3>
-                                                            <ul id="raidLast" class="list-inline">
-                                                                <li>01/02/2017</li>
-                                                                <li>17/03/2017</li>
-                                                            </ul>-->
-                                <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
-                                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                            </div>
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="coloBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="coloImage"></div>
+                            &lt;!&ndash;                            <h3>Past events:</h3>
+                                                        <ul id="coloLast" class="list-inline">
+                                                            <li>01/02/2017</li>
+                                                            <li>17/03/2017</li>
+                                                        </ul>&ndash;&gt;
+                            <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
+                            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <div class="raid-modal modal fade" id="viewColoModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body" id="coloBody">
-                                <h2></h2>
-                                <hr>
-                                <div id="coloImage"></div>                                                                               
-                                <!--                            <h3>Past events:</h3>
-                                                            <ul id="coloLast" class="list-inline">
-                                                                <li>01/02/2017</li>
-                                                                <li>17/03/2017</li>
-                                                            </ul>-->
-                                <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
-                                <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
+    <div class="raid-modal modal fade" id="viewFnModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
                     </div>
                 </div>
             </div>
-        </div>      
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="fnBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="fnImage"></div>
 
-        <div class="raid-modal modal fade" id="viewFnModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body" id="fnBody">
-                                <h2></h2>
-                                <hr>
-                                <div id="fnImage"></div>
-                                
-                                <div id="conditions">
-                                    <h3>Conditions:</h3>
-                                    <p id="fnCondition"></p>
-                                </div>
-                                
-                                <h3>Drops available:</h3>
-                                <div id="fnDrops"></div>
-
-                                <h3 id="fnBooksTitle">Books available:</h3>
-                                <div id="fnBooks"></div>
-
-                                <!--                            <h3>Past events:</h3>
-                                                            <ul id="fnLast" class="list-inline">
-                                                                <li>01/02/2017</li>
-                                                                <li>17/03/2017</li>
-                                                            </ul>-->
-                                <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
-                                <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
+                            <div id="conditions">
+                                <h3>Conditions:</h3>
+                                <p id="fnCondition"></p>
                             </div>
-                        </div>
-                    </div>          
-                </div>
-            </div>
-        </div>
 
-        <div class="raid-modal modal fade" id="viewSpecialModal" tabindex="-1" role="dialog" aria-hidden="true">
-            <div class="modal-content">
-                <div class="close-modal" data-dismiss="modal">
-                    <div class="lr">
-                        <div class="rl">
-                        </div>
-                    </div>
-                </div>
-                <div class="container">
-                    <div class="row">
-                        <div class="col-lg-8 col-lg-offset-2">
-                            <div class="modal-body" id="specialBody">
-                                <h2></h2>
-                                <hr>
-                                <div id="specialImage"></div>
+                            <h3>Drops available:</h3>
+                            <div id="fnDrops"></div>
 
-                                <h3>Drops available :</h3>
-                                <div id="specialDrops"></div>                        
-                                <!--                            <h3>Past events:</h3>
-                                                            <ul id="fnLast" class="list-inline">
-                                                                <li>01/02/2017</li>
-                                                                <li>17/03/2017</li>
-                                                            </ul>-->
-                                <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
-                            </div>
-                        </div>
-                    </div>          
-                </div>
-            </div>
-        </div>    
+                            <h3 id="fnBooksTitle">Books available:</h3>
+                            <div id="fnBooks"></div>
 
-        <div class="modal fade" id="errorModal" role="dialog">
-            <div class="modal-dialog" role="document">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <button type="button" class="close" data-dismiss="modal">&times;</button>
-                        <h4 id="titleError"></h4>
-                    </div>
-                    <div class="modal-body">
-                        <div id="dataError"></div> 
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                            &lt;!&ndash;                            <h3>Past events:</h3>
+                                                        <ul id="fnLast" class="list-inline">
+                                                            <li>01/02/2017</li>
+                                                            <li>17/03/2017</li>
+                                                        </ul>&ndash;&gt;
+                            <div class="nakama-div"><a href="" target="_blank">Nakama Network Teams</a></div>
+                            <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-        <!-- jQuery -->
-        <script src="vendor/jquery/jquery.min.js"></script>
+    <div class="raid-modal modal fade" id="viewSpecialModal" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body" id="specialBody">
+                            <h2></h2>
+                            <hr>
+                            <div id="specialImage"></div>
 
-        <!-- Bootstrap Core JavaScript -->
-        <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+                            <h3>Drops available :</h3>
+                            <div id="specialDrops"></div>
+                            &lt;!&ndash;                            <h3>Past events:</h3>
+                                                        <ul id="fnLast" class="list-inline">
+                                                            <li>01/02/2017</li>
+                                                            <li>17/03/2017</li>
+                                                        </ul>&ndash;&gt;
+                            <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        <!-- Plugin JavaScript -->
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
+    <div class="modal fade" id="errorModal" role="dialog">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 id="titleError"></h4>
+                </div>
+                <div class="modal-body">
+                    <div id="dataError"></div>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
-        <script type="text/javascript">
-            var timezone = false;
-            var japSet = true;
+    &lt;!&ndash; jQuery &ndash;&gt;
+    <script src="vendor/jquery/jquery.min.js"></script>
 
-            var timezoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
-            document.getElementById("changeTimeZone").value = "Switch to " + timezoneName + " time zone ";
+    &lt;!&ndash; Bootstrap Core JavaScript &ndash;&gt;
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-        </script>
-        
-        <script src="assets/js/loadJap.js"></script>
-        <script src="assets/js/clock.js"></script>
+    &lt;!&ndash; Plugin JavaScript &ndash;&gt;
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
-        <script src="https://rawgit.com/optc-db/optc-db.github.io/master/common/data/drops.js"></script>
+    <script type="text/javascript">
+        var timezone = false;
+        var japSet = true;
 
-    </body>
+        var timezoneName = Intl.DateTimeFormat().resolvedOptions().timeZone;
+        document.getElementById("changeTimeZone").value = "Switch to " + timezoneName + " time zone ";
+
+    </script>
+
+    <script src="assets/js/loadJap.js"></script>
+    <script src="assets/js/clock.js"></script>
+
+    <script src="https://rawgit.com/optc-db/optc-db.github.io/master/common/data/drops.js"></script>
+-->
+</body>
 
 </html>
 

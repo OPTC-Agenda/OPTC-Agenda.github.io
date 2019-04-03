@@ -30,8 +30,26 @@ and open the template in the editor.
 
     </head>
 
-    <body>
-        <script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
+    <body style="background-color: #ff006a; color: white">
+
+    <style>
+        @import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+        .centered {
+            display: flex;
+            width: 100vw;
+            height: 100vh;
+            justify-content: center;
+            align-items: center;
+            font-family:'Century Gothic','Futura','Didact Gothic',san-serif;
+            font-size: 80px;
+            font-weight: bold;
+        }
+    </style>
+
+    <div class="centered">
+        #READY
+    </div>
+        <!--<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js"></script>
         <script>
             window.addEventListener("load", function(){
                 window.cookieconsent.initialise({
@@ -71,14 +89,14 @@ and open the template in the editor.
             </div>
         </header>
 
-        <!-- In this nav the user can choose:  
+        &lt;!&ndash; In this nav the user can choose:
              - to switch between the global and the jap version
              - to move to the next or the previous month
              - to switch between the listed or the calendar view    
-        -->
+        &ndash;&gt;
         <nav class="navbar navbar-default">
             <div class="container-fluid text-center">
-                <!-- Brand and toggle get grouped for better mobile display -->
+                &lt;!&ndash; Brand and toggle get grouped for better mobile display &ndash;&gt;
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                         <span class="sr-only">Toggle navigation</span>
@@ -88,7 +106,7 @@ and open the template in the editor.
                     </button>                
                 </div>
 
-                <!-- Collect the nav links, forms, and other content for toggling -->
+                &lt;!&ndash; Collect the nav links, forms, and other content for toggling &ndash;&gt;
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                     <ul class="nav navbar-nav justified">
                         <li class="littleSee prev"><a href="#">Previous week <span class="sr-only">(current)</span></a></li>                                    
@@ -107,7 +125,7 @@ and open the template in the editor.
                                 <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/index" target="_blank">Reddit Wikia</a></li>
                                 <li><a href="https://www.reddit.com/r/OnePieceTC/wiki/guides/reroll" target="_blank">Reroll guide</a></li>
                                 <li><a href="http://it.optc-road-to-raftel.wikia.com/wiki/OPTC_-_Road_To_Raftel_Wiki" target="_blank">IT Wikia</a></li>
-                                <!--<li><a></a></li>-->
+                                &lt;!&ndash;<li><a></a></li>&ndash;&gt;
                             </ul>
                         </li>
 
@@ -165,7 +183,7 @@ and open the template in the editor.
         <aside>
             <div class="container">
                 <div class="row text-center">                 
-                    <div class="center-arrow text-center"> <!-- col-lg-8 col-md-8 col-sm-8 -->
+                    <div class="center-arrow text-center"> &lt;!&ndash; col-lg-8 col-md-8 col-sm-8 &ndash;&gt;
                         <h1 id="month" class="text-uppercase"></h1>
                       <h3 class="fuso"><span id="clock"></span><span id="fuso"></span></h3>
                     </div>
@@ -177,9 +195,9 @@ and open the template in the editor.
             </div>
         </aside>
 
-        <!--        <a class="prev bigSee" href="#" onclick="empty()">
+        &lt;!&ndash;        <a class="prev bigSee" href="#" onclick="empty()">
                     <div class="arrow-top"></div>
-                </a>    -->
+                </a>    &ndash;&gt;
 
         <section>               
             <div class="container section-div">
@@ -303,8 +321,8 @@ and open the template in the editor.
             <p>Made by Ibbus © 2017 - <a href="mailto:ibbus93@gmail.com">Contact the webmaster</a></p>
             <p>A special thanks to <a href="http://www.one-piece-treasure-cruise-italia.forumfree.it/" target="_blank">OPTC Italia</a> to provide the images to the website and to <a href="https://www.twitch.tv/maniakk1">Maniakk1</a>, _CannotDoThat_ and Nicolas Le Coz to help with the jap contents </p>
             <p>I want to thank OnePieceTavern to be Optc Agenda beta testers, particularly Bob Bartoclub to find some bugs.</p>
-            <!--            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>-->
-            <!--            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>-->
+            &lt;!&ndash;            <script type="text/javascript" src="https://counter1.fcs.ovh/private/counter.js?c=uz253dawx9febleklr738e962hl6sasf"></script>&ndash;&gt;
+            &lt;!&ndash;            <noscript class="counter"><a href="https://www.freecounterstat.com" title="free website hit counter"><img src="https://counter1.fcs.ovh/private/freecounterstat.php?c=uz253dawx9febleklr738e962hl6sasf" border="0" title="free website hit counter" alt="free website hit counter"></a></noscript>&ndash;&gt;
             <p>Optc Agenda doesn't own any of the content showed in the website. Every content is owned by Eiichiro Oda/Shueisha, Toei Animation and Bandai Namco.</p>
             <br/>
             <p><a href="cookie_policy.html">Cookie Policy</a></p>
@@ -330,11 +348,11 @@ and open the template in the editor.
                                     <h3>Drops:</h3>
                                     <p id="raidDropsImg"></p>
                                 </div>                                
-                                <!--                            <h3>Past events:</h3>
+                                &lt;!&ndash;                            <h3>Past events:</h3>
                                                             <ul id="raidLast" class="list-inline">
                                                                 <li>01/02/2017</li>
                                                                 <li>17/03/2017</li>
-                                                            </ul>-->
+                                                            </ul>&ndash;&gt;
                                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
                         </div>
@@ -358,11 +376,11 @@ and open the template in the editor.
                                 <h2></h2>
                                 <hr>
                                 <div id="coloImage"></div>                                                                               
-                                <!--                            <h3>Past events:</h3>
+                                &lt;!&ndash;                            <h3>Past events:</h3>
                                                             <ul id="coloLast" class="list-inline">
                                                                 <li>01/02/2017</li>
                                                                 <li>17/03/2017</li>
-                                                            </ul>-->
+                                                            </ul>&ndash;&gt;
                                 <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
                             </div>
                         </div>
@@ -406,11 +424,11 @@ and open the template in the editor.
                                 </div>
                                 <div id="fnBooks"></div>
 
-                                <!--                            <h3>Past events:</h3>
+                                &lt;!&ndash;                            <h3>Past events:</h3>
                                                             <ul id="fnLast" class="list-inline">
                                                                 <li>01/02/2017</li>
                                                                 <li>17/03/2017</li>
-                                                            </ul>-->
+                                                            </ul>&ndash;&gt;
                                 <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
                             </div>
                         </div>
@@ -437,11 +455,11 @@ and open the template in the editor.
 
                                 <h3>Drops available :</h3>
                                 <div id="specialDrops"></div>                        
-                                <!--                            <h3>Past events:</h3>
+                                &lt;!&ndash;                            <h3>Past events:</h3>
                                                             <ul id="fnLast" class="list-inline">
                                                                 <li>01/02/2017</li>
                                                                 <li>17/03/2017</li>
-                                                            </ul>-->
+                                                            </ul>&ndash;&gt;
                                 <button type="button" class="btn btn-default" data-dismiss="modal" style="margin-top: 5%"><i class="fa fa-times"></i> Close</button>
                             </div>
                         </div>
@@ -467,13 +485,13 @@ and open the template in the editor.
             </div>
         </div>
 
-        <!-- jQuery -->
+        &lt;!&ndash; jQuery &ndash;&gt;
         <script src="vendor/jquery/jquery.min.js"></script>
 
-        <!-- Bootstrap Core JavaScript -->
+        &lt;!&ndash; Bootstrap Core JavaScript &ndash;&gt;
         <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
 
-        <!-- Plugin JavaScript -->
+        &lt;!&ndash; Plugin JavaScript &ndash;&gt;
         <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
 
         <script type="text/javascript">
@@ -481,7 +499,7 @@ and open the template in the editor.
         </script>
                         
         <script src="assets/js/load.js"></script>
-        <script src="assets/js/clock.js"></script>
+        <script src="assets/js/clock.js"></script>-->
     </body>
 
 </html>
